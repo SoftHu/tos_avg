@@ -1,7 +1,7 @@
 ```mermaid
 graph LR
-A[Hard edge] -->B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
+A[千秋耻，终当雪] -->B(中兴业，须人杰)
+B --> C{便一成三户，壮怀难折}
+C -->|桃李春风一杯酒| D[多难殷忧新国运]
+C -->|江湖夜雨十年灯| E[动心忍性希前哲]
 ```
