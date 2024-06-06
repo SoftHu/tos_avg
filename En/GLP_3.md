@@ -14,7 +14,7 @@ How dare you speak like that!
 That's the queen!
 You dare to say you're not interested in her...
 Er...
-(Softly) But then again, being interested in her
+&#40;Softly&#41; But then again, being interested in her
 would be the biggest insult! I won't allow it...]
 1719160430499873 -->|Just solving puzzles for fun.|1719161275267111[<b>Speaker 👉 Unconfigured:</b>
 

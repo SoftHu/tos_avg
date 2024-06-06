@@ -2,7 +2,7 @@
 graph LR
 Start -->1752003658702198[<b>Speaker 👉 Seabert:</b>
 
-Welcome, &lbrace;playername&rbrace;! (*｀∀´*)ノ
+Welcome, &lbrace;playername&rbrace;! &#40;*｀∀´*&#41;ノ
 The town is really lively today.
 Want to check out the festival souvenirs?]
 1752003658702198 -->1752003676609911[End]
@@ -28,7 +28,7 @@ If I sell the wrong item, my uncle will scold me.]
 1752003882228098 -->1752003882228099[End]
 Start -->1752003908547973[<b>Speaker 👉 Seabert:</b>
 
-(⊙o⊙) If you've taken the wrong one,
+&#40;⊙o⊙&#41; If you've taken the wrong one,
 just put it back.]
 1752003908547973 -->1752003908548998[End]
 Start -->1752003944876424[<b>Speaker 👉 Seabert:</b>

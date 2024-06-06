@@ -5,13 +5,13 @@ Start -->1719149895073827[<b>Speaker 👉 Unconfigured:</b>
 Eh...?
 Ah!! You... you... you... you... you... you can see me?
 Can it be... can this be reasonable?
-(quietly) Although I set up this scene as instructed by the queen,
+&#40;quietly&#41; Although I set up this scene as instructed by the queen,
 I never thought someone would actually get it!
 Hey! Who are you? Identify yourself!]
 1719149895073827 -->1719149895073830{ }
 1719149895073830 -->|It's not important…|1719149977353257[<b>Speaker 👉 Unconfigured:</b>
 
-(quietly) Eek... why do you sound like that guy?
+&#40;quietly&#41; Eek... why do you sound like that guy?
 It's really annoying...
 I'm Prince Gulu Bobo! How can you treat me like this?
 Well... never mind.

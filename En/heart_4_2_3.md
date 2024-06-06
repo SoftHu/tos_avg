@@ -91,14 +91,14 @@ Tell us what it is!]
 1752153888458120 -->1752153915281801{ }
 1752153915281801 -->|I had a fight with a Tanuki!|1752153949910412[<b>Speaker 👉 Kon:</b>
 
-Eh? (Shocked)]
+Eh? &#40;Shocked&#41;]
 1752153949910412 -->1752153997110669[<b>Speaker 👉 Musashi:</b>
 
 There are Tanuki in Seikyu?!
 That's truly unheard of.
 Why would Tanuki come to Seikyu?
 Could it be...
-(I handled everything flawlessly before, it's not possible...)]
+&#40;I handled everything flawlessly before, it's not possible...&#41;]
 1752153997110669 -->1752154116159886{ }
 1752154116159886 -->|You're acting suspicious!|1752154285366675[<b>Speaker 👉 Musashi:</b>
 

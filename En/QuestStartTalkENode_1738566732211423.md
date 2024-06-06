@@ -37,7 +37,7 @@ If your sister reports this again,
 I'll take away your transformation.]
 1751471591685440 -->1751471518734655[<b>Speaker 👉 Kon:</b>
 
-(softly) That's for calling me that.]
+&#40;softly&#41; That's for calling me that.]
 1751471518734655 -->1751471654534465[<b>Speaker 👉 Shrine:</b>
 
 Well, that's that.

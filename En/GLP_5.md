@@ -19,14 +19,14 @@ This liquor is strong…]
 Wuu wuu wuu...
 You youngsters are too strict.
 I'm still the king of Gulu Bobo...
-(Softly) Although my wife's in charge.
+&#40;Softly&#41; Although my wife's in charge.
 Okay, okay... Where's the promised reward?]
 1719172130450492 -->|Hand over the reward already!|1719172709664833[<b>Speaker 👉 Unconfigured:</b>
 
 Wuu wuu wuu...
 You youngsters are too strict.
 I'm still the king of Gulu Bobo...
-(Softly) Although my wife's in charge.
+&#40;Softly&#41; Although my wife's in charge.
 Okay, okay... Where's the promised reward?]
 Start -->1724023987473463[<b>Speaker 👉 Unconfigured:</b>
 

@@ -23,7 +23,7 @@ feel free to use various transformation arts.]
 
 Use destructive power to till soil
 and use the water element to water it.
-(Hold [Z] to view transformation powers)
+&#40;Hold [Z] to view transformation powers&#41;
 By the way,
 I'm planning to hold a welcome ceremony for you tonight at 6 PM,
 at my &lbrace;location.9&rbrace;.

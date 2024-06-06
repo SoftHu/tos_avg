@@ -16,10 +16,10 @@ Yui is playing favourites!]
 1754287230031284 -->1754287312966070{ }
 1754287312966070 -->|Because she likes me more.|1754287295587765[<b>Speaker 👉 Yui Oda:</b>
 
-... (blushes) ... Try it quickly!]
+... &#40;blushes&#41; ... Try it quickly!]
 1754287312966070 -->|Maybe because you eat less.|1754287295587765[<b>Speaker 👉 Yui Oda:</b>
 
-... (blushes) ... Try it quickly!]
+... &#40;blushes&#41; ... Try it quickly!]
 1754287295587765 -->1754287444895165[End]
 Start -->1754287450993086[<b>Speaker 👉 Kon:</b>
 
@@ -71,12 +71,12 @@ Thank you.]
 1754287843310038 -->1754287881656791{ }
 1754287881656791 -->|It wasn't from me.|1754287903146460[<b>Speaker 👉 Miss Ama:</b>
 
-(kicks you and winks at you)
+&#40;kicks you and winks at you&#41;
 Why are you embarrassed?
 Wasn't it you who told me to give this matcha to Yui last time?]
 1754287881656791 -->|I don't have any matcha.|1754287903146460[<b>Speaker 👉 Miss Ama:</b>
 
-(kicks you and winks at you)
+&#40;kicks you and winks at you&#41;
 Why are you embarrassed?
 Wasn't it you who told me to give this matcha to Yui last time?]
 1754287903146460 -->1754288180745693[<b>Speaker 👉 Yui Oda:</b>

@@ -40,7 +40,7 @@ then open the backpack [B] to craft it.]
 
 Rest if you're tired.
 We can continue working on it tomorrow.
-(So sleepy... can't keep my eyes open...)]
+&#40;So sleepy... can't keep my eyes open...&#41;]
 1738388750465166 -->1738387476879485[End]
 1738388341011589 -->1738388426918022[<b>Speaker 👉 Kon:</b>
 

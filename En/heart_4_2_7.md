@@ -16,11 +16,11 @@ Start -->1755521662356546[<b>Speaker 👉 Seabert:</b>
 
 This photo was taken in the rainforests near the equator.
 If you don't look closely, you'll miss the chameleon
-camouflaged as a leaf. Nature is truly amazing (〃'▽'〃)
+camouflaged as a leaf. Nature is truly amazing &#40;〃'▽'〃&#41;
 And this one!
 Mum said that Shikoku was hosting a grand celebration.
 The parade was so long, you couldn't see the end of it...
-I really want to take part in lively events like that too... (*❦ω❦)
+I really want to take part in lively events like that too... &#40;*❦ω❦&#41;
 Speaking of which, all of the photos are great.
 I love them all!
 Which one would you like, &lbrace;playername&rbrace;?]
@@ -51,7 +51,7 @@ It looks like everyone's been waiting eagerly in front of their TVs.
 We have limited stock this time, are you all ready?]
 1753828657344000 -->1753828792850945[<b>Speaker 👉 Seabert:</b>
 
-Wow, it's starting and it's bustling! (๑•̀ㅂ•́) ✧]
+Wow, it's starting and it's bustling! &#40;๑•̀ㅂ•́&#41; ✧]
 1753828792850945 -->1753828823648770[<b>Speaker 👉 TV:</b>
 
 Today, the show brings you the Koni M1900,
@@ -63,11 +63,11 @@ the super seller at all major department stores!]
 1753828936586755 -->|Wow… it looks good.|1753829849641482[<b>Speaker 👉 Seabert:</b>
 
 I'm so excited, I wonder if the pocket money
-I've saved up will be enough... (✧◡✧)]
+I've saved up will be enough... &#40;✧◡✧&#41;]
 1753828936586755 -->|It must be pricey!|1753829849641482[<b>Speaker 👉 Seabert:</b>
 
 I'm so excited, I wonder if the pocket money
-I've saved up will be enough... (✧◡✧)]
+I've saved up will be enough... &#40;✧◡✧&#41;]
 1753829849641482 -->1753830956435979[<b>Speaker 👉 TV:</b>
 
 Today, the team has three popular colours for you to choose from:
@@ -91,9 +91,9 @@ All right, I'll go with that!]
 To meet the different needs of our audience,
 we are now launching three package options!
 These are…
-The Official Standard Package (1999),
-the Lens Upgrade Package (2899)
-and the Extended Warranty Package (2999).
+The Official Standard Package &#40;1999&#41;,
+the Lens Upgrade Package &#40;2899&#41;
+and the Extended Warranty Package &#40;2999&#41;.
 Which one does the audience prefer?]
 1753831568567829 -->1753831705353750[<b>Speaker 👉 Seabert:</b>
 
@@ -121,7 +121,7 @@ I was shaking when I finally got through to make the payment!]
 1753833398751780 -->|Yeah, I almost thought I wouldn't make it.|1753833492055596[<b>Speaker 👉 Seabert:</b>
 
 Now I just have to for the delivery to arrive.
-I'm so excited! (✧◡✧)
+I'm so excited! &#40;✧◡✧&#41;
 Today, thanks to &lbrace;playername&rbrace;,
 otherwise if I kept hesitating, 
 I definitely wouldn't have gotten it.
@@ -129,7 +129,7 @@ When the camera arrives, I'll take a portrait photo for &lbrace;playername&rbrac
 1753833398751780 -->|I was lucky to nab the last one.|1753833492055596[<b>Speaker 👉 Seabert:</b>
 
 Now I just have to for the delivery to arrive.
-I'm so excited! (✧◡✧)
+I'm so excited! &#40;✧◡✧&#41;
 Today, thanks to &lbrace;playername&rbrace;,
 otherwise if I kept hesitating, 
 I definitely wouldn't have gotten it.
@@ -139,14 +139,14 @@ Start -->1753761807695329[<b>Speaker 👉 Seabert:</b>
 
 Actually, my cousin and I came to live in Seikyu
 because my parents, as photographers, often have to travel far and
-we rarely see them throughout the year... o(╥﹏╥)o
+we rarely see them throughout the year... o&#40;╥﹏╥&#41;o
 I want to grow up fast
 and become an excellent photographer like them!
-Then I can travel with them too (๑•̀ㅂ•́)و✧]
+Then I can travel with them too &#40;๑•̀ㅂ•́&#41;و✧]
 1753761807695329 -->1753763603997154{ }
 1753763603997154 -->|Seabert will definitely make it!|1753828101462519[<b>Speaker 👉 Seabert:</b>
 
-Hehe! ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄
+Hehe! ⁄&#40;⁄ ⁄•⁄ω⁄•⁄ ⁄&#41;⁄
 Actually, I haven't told anyone else about this, 
 so you must keep it a secret!
 But then again,
@@ -155,7 +155,7 @@ But I don't have one yet...
 Do you know where I can buy a camera in Seikyu, &lbrace;playername&rbrace;?]
 1753763603997154 -->|I'll support you!|1753828101462519[<b>Speaker 👉 Seabert:</b>
 
-Hehe! ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄
+Hehe! ⁄&#40;⁄ ⁄•⁄ω⁄•⁄ ⁄&#41;⁄
 Actually, I haven't told anyone else about this, 
 so you must keep it a secret!
 But then again,
@@ -166,11 +166,11 @@ Do you know where I can buy a camera in Seikyu, &lbrace;playername&rbrace;?]
 1753828460430840 -->|Check the TV shopping channel.|1753828567186941[<b>Speaker 👉 Seabert:</b>
 
 That's a good point. I hadn't thought of that before!
-Thank you, &lbrace;playername&rbrace;, I'll keep an eye out. (๑•̀ㅂ•́)و✧]
+Thank you, &lbrace;playername&rbrace;, I'll keep an eye out. &#40;๑•̀ㅂ•́&#41;و✧]
 1753828460430840 -->|Ask Master Musashi.|1753828567186941[<b>Speaker 👉 Seabert:</b>
 
 That's a good point. I hadn't thought of that before!
-Thank you, &lbrace;playername&rbrace;, I'll keep an eye out. (๑•̀ㅂ•́)و✧]
+Thank you, &lbrace;playername&rbrace;, I'll keep an eye out. &#40;๑•̀ㅂ•́&#41;و✧]
 1753828567186941 -->1753828593057278[End]
 
  ```

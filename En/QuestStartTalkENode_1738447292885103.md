@@ -23,7 +23,7 @@ correct?]
 1738453130622056 -->|How do I get to &lbrace;location.1&rbrace;?|1738453157967982[<b>Speaker 👉 Seabert:</b>
 
 I've marked the location of &lbrace;location.1&rbrace; on your map
-(press M to open the map).
+&#40;press M to open the map&#41;.
 Just follow the path, and try to get there before it gets dark!
 If you get hungry,
 you can check out &lbrace;location.4&rbrace; to the left of the dock.
@@ -37,7 +37,7 @@ I hope you have a relaxing and enjoyable time in &lbrace;location.13&rbrace;.]
 1738453130622056 -->|Yes.|1738453157967982[<b>Speaker 👉 Seabert:</b>
 
 I've marked the location of &lbrace;location.1&rbrace; on your map
-(press M to open the map).
+&#40;press M to open the map&#41;.
 Just follow the path, and try to get there before it gets dark!
 If you get hungry,
 you can check out &lbrace;location.4&rbrace; to the left of the dock.
