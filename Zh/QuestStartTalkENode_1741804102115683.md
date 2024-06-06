@@ -1,0 +1,12 @@
+```mermaid
+graph
+Start -->1741804137167206[<b>Speaker 👉 狐穗:</b>
+
+很漂亮的&lbrace;highlight.start&rbrace;茅草床&lbrace;highlight.end&rbrace;！
+&lt;speed=2&gt;抓……抓……抓……
+在道具栏中切换后，
+按&lbrace;highlight.start&rbrace;R&lbrace;highlight.end&rbrace;就可以在房间里放置床了。
+&lt;speed=0.8&gt;终于可以好好休息了……]
+1741804137167206 -->1741804234604903[End]
+
+ ```
