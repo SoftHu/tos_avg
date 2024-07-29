@@ -2,9 +2,8 @@
 graph
 Start -->1741807087283645[<b>Speaker 👉 Player:</b>
 
-Time to head to &lbrace;npc.4203&rbrace;'s place.
-Can't keep everyone waiting too long.]
+Should head to &lbrace;location.20&rbrace;, don’t want to keep everyone waiting.]
 1741807087283645 -->1741807109361086{ }
-1741807109361086 -->|Visit the vendor's home.|1741807120502209[End]
+1741807109361086 -->|Head to &lbrace;location.20&rbrace;.|1741807120502209[End]
 
  ```

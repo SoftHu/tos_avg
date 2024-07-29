@@ -8,7 +8,7 @@ Master Muramasa once told me
 that Seikyu's iron ore contains a lot of carbon,
 making it perfect for crafting blades.]
 1750843311597832 -->1750843489202441{ }
-1750843489202441 -->|Master Muramasa?|1750843511057678[<b>Speaker 👉 Hephaestus:</b>
+1750843489202441 -->|What's that?|1750843511057678[<b>Speaker 👉 Hephaestus:</b>
 
 Master Muramasa is a renowned bladesmith and the teacher
 who taught me how to select and forge materials.

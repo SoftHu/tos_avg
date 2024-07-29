@@ -6,6 +6,6 @@ Thank you.
 Goodbye.]
 Start -->1756336692089353[<b>Speaker 👉 Unconfigured:</b>
 
-I18N Missing]
+Not enough yet~]
 
  ```

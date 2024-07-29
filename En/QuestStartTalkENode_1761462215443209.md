@@ -1,0 +1,56 @@
+```mermaid
+graph
+Start -->1761701241683240[<b>Speaker 👉 Iwasuke:</b>
+
+I18N Missing]
+1761701241683240 -->1761701284527401{ }
+1761701284527401 -->|I18N Missing|1761704555641134[<b>Speaker 👉 Iwasuke:</b>
+
+I18N Missing]
+1761701284527401 -->|I18N Missing|1761704555641134[<b>Speaker 👉 Iwasuke:</b>
+
+I18N Missing]
+1761704555641134 -->1761704620713263{ }
+1761704620713263 -->|What are you doing here?|1761704649089332[<b>Speaker 👉 Iwasuke:</b>
+
+I18N Missing
+I18N Missing
+I18N Missing]
+1761704620713263 -->|I18N Missing|1761704661288245[<b>Speaker 👉 Iwasuke:</b>
+
+I18N Missing]
+1761704649089332 -->1761704805271862{ }
+1761704805271862 -->|I18N Missing|1761705096379707[<b>Speaker 👉 Iwasuke:</b>
+
+I18N Missing
+I18N Missing
+I18N Missing
+I18N Missing]
+1761704805271862 -->|I18N Missing|1761710933418319[<b>Speaker 👉 Iwasuke:</b>
+
+I18N Missing
+I18N Missing]
+1761705096379707 -->1761705557383484{ }
+1761705557383484 -->|I18N Missing|1761705710196033[<b>Speaker 👉 Iwasuke:</b>
+
+I18N Missing
+I18N Missing
+I18N Missing]
+1761705557383484 -->|I18N Missing|1761705710196033[<b>Speaker 👉 Iwasuke:</b>
+
+I18N Missing
+I18N Missing
+I18N Missing]
+1761705710196033 -->1761706718893378{ }
+1761706718893378 -->|I18N Missing|1761707005660485[<b>Speaker 👉 Iwasuke:</b>
+
+I18N Missing]
+1761707005660485 -->1761707112633670[End]
+1761710933418319 -->1761705557383484{ }
+1761704661288245 -->1761704649089332[<b>Speaker 👉 Iwasuke:</b>
+
+I18N Missing
+I18N Missing
+I18N Missing]
+
+ ```

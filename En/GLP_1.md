@@ -9,7 +9,7 @@ Can it be... can this be reasonable?
 I never thought someone would actually get it!
 Hey! Who are you? Identify yourself!]
 1719149895073827 -->1719149895073830{ }
-1719149895073830 -->|It's not important…|1719149977353257[<b>Speaker 👉 Unconfigured:</b>
+1719149895073830 -->|It's not important...|1719149977353257[<b>Speaker 👉 Unconfigured:</b>
 
 &#40;quietly&#41; Eek... why do you sound like that guy?
 It's really annoying...
@@ -17,7 +17,7 @@ I'm Prince Gulu Bobo! How can you treat me like this?
 Well... never mind.
 After all, you're not a royal, so it's natural that you don't know the etiquette.
 Let's call you Hero! That's what they call you in the game...]
-1719149895073830 -->|You can call me the 'Hero'.|1719152199926806[<b>Speaker 👉 Unconfigured:</b>
+1719149895073830 -->|You can call me the 'Hero'|1719152199926806[<b>Speaker 👉 Unconfigured:</b>
 
 Hmm... Hero, huh?
 Nice title!

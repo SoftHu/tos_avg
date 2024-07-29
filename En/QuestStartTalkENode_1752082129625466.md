@@ -36,8 +36,7 @@ but I managed to get some...ahem...
 through official channels, of course.
 I must remind you: you should only use it on crops.
 Don't use it to duplicate anything else!
-After all, this technology isn't mature yet
-and I can't guarantee what might happen.]
+After all, this technology isn't mature yet, and I can't guarantee what might happen.]
 1752085185083786 -->|Nothing special.|1752146947163539[<b>Speaker 👉 Musashi:</b>
 
 You don't know...
@@ -48,8 +47,7 @@ but I managed to get some...ahem...
 through official channels, of course.
 I must remind you: you should only use it on crops.
 Don't use it to duplicate anything else!
-After all, this technology isn't mature yet
-and I can't guarantee what might happen.]
+After all, this technology isn't mature yet, and I can't guarantee what might happen.]
 1752146947163539 -->1752149730667924{ }
 1752149730667924 -->|Am I a guinea pig?|1752149986771355[<b>Speaker 👉 Musashi:</b>
 

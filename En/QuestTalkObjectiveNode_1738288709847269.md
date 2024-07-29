@@ -43,11 +43,10 @@ Thank you,
 you're the first person to believe in me like this.]
 1738290662682717 -->1738290829012063[<b>Speaker 👉 Yoni:</b>
 
-So, are you ready?
-I hope you'll be my first audience in &lbrace;location.13&rbrace;.
-Thank you, &lbrace;playername&rbrace;.]
+I18N Missing
+I18N Missing]
 1738290829012063 -->1738290981140576{ }
-1738290981140576 -->|Let's start!|1738290998103141[End]
+1738290981140576 -->|I18N Missing|1738290998103141[End]
 1738290981140576 -->|Good luck!|1738290998103141[End]
 1738290723810398 -->1738290662682717[<b>Speaker 👉 Yoni:</b>
 

@@ -99,9 +99,9 @@ Don't forget to participate in the activities at Uncle &lbrace;npc.4206&rbrace;'
 Wonder if I can win first place this year!]
 Start -->1758253420255841[<b>Speaker 👉 Ritsuryo:</b>
 
-I18N Missing]
+Boss, I knew you'd come to the summer festival! How about the atmosphere in &lbrace;location.13&rbrace;? It's better than anywhere else, right?]
 Start -->1758254460936803[<b>Speaker 👉 Ritsuryo:</b>
 
-I18N Missing]
+Alright, if you find something fun, don't forget to call me.]
 
  ```

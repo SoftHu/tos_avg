@@ -19,9 +19,9 @@ Start -->1738550145333510[<b>Speaker 👉 神龛:</b>
 我便告诉你如何协助&lbrace;npc.4101&rbrace;学会人形幻化。]
 1738550565798151 -->|我都答应你。|1738550822708499[<b>Speaker 👉 神龛:</b>
 
-在&lbrace;location.13&rbrace;有一处狐仙遗迹，
+在&lbrace;location.13&rbrace;有一处&lbrace;location.10&rbrace;，
 曾经是狐狸们供奉稻荷神的秘境。
-狐仙遗迹中保留着各种妖怪幻化密卷，
+&lbrace;location.10&rbrace;中保留着各种妖怪幻化密卷，
 其中就包含人形幻化密卷。
 只有作为狐狸的你们才被允许进入这个遗迹，
 小心遗迹的守护者咕噜波...
@@ -33,9 +33,9 @@ Start -->1738550145333510[<b>Speaker 👉 神龛:</b>
 我将你和&lbrace;npc.4101&rbrace;都视为自己的小孩。]
 1738550730254605 -->|我答应你。|1738550822708499[<b>Speaker 👉 神龛:</b>
 
-在&lbrace;location.13&rbrace;有一处狐仙遗迹，
+在&lbrace;location.13&rbrace;有一处&lbrace;location.10&rbrace;，
 曾经是狐狸们供奉稻荷神的秘境。
-狐仙遗迹中保留着各种妖怪幻化密卷，
+&lbrace;location.10&rbrace;中保留着各种妖怪幻化密卷，
 其中就包含人形幻化密卷。
 只有作为狐狸的你们才被允许进入这个遗迹，
 小心遗迹的守护者咕噜波...
@@ -43,9 +43,9 @@ Start -->1738550145333510[<b>Speaker 👉 神龛:</b>
 1738550764796178 -->1738550844145941{ }
 1738550844145941 -->|我答应你。|1738550822708499[<b>Speaker 👉 神龛:</b>
 
-在&lbrace;location.13&rbrace;有一处狐仙遗迹，
+在&lbrace;location.13&rbrace;有一处&lbrace;location.10&rbrace;，
 曾经是狐狸们供奉稻荷神的秘境。
-狐仙遗迹中保留着各种妖怪幻化密卷，
+&lbrace;location.10&rbrace;中保留着各种妖怪幻化密卷，
 其中就包含人形幻化密卷。
 只有作为狐狸的你们才被允许进入这个遗迹，
 小心遗迹的守护者咕噜波...

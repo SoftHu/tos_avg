@@ -68,9 +68,9 @@ Start -->1753123647969693[<b>Speaker 👉 Yoni:</b>
 See you later. Have fun!]
 Start -->1758258534413873[<b>Speaker 👉 Yoni:</b>
 
-I18N Missing]
+Ah... such a romantic summer night. I really want to sing a song... Sorry, that was a weird thing to say, haha.]
 Start -->1758258686936627[<b>Speaker 👉 Yoni:</b>
 
-I18N Missing]
+Goodbye... Have a pleasant evening.]
 
  ```

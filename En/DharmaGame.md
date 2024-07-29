@@ -50,7 +50,7 @@ Wait, if I leave now, I'll get to keep your money, right?]
 
 Hey, why so angry? Just kidding.
 Come back next time!]
-1739174629775576 -->|No big deal.|1739174718294239[<b>Speaker 👉 Ritsuryo:</b>
+1739174629775576 -->|No big deal|1739174718294239[<b>Speaker 👉 Ritsuryo:</b>
 
 Hehe, money is so easy to earn...]
 Start -->1739511529487604[<b>Speaker 👉 Ritsuryo:</b>

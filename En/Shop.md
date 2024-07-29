@@ -109,5 +109,55 @@ Start -->1753749642379703[<b>Speaker 👉 Hephaestus:</b>
 
 Ah, it's already sold out...
 Sorry, come back and check again soon.]
+Start -->1760740275081861[<b>Speaker 👉 Musashi:</b>
+
+Take a look around!]
+Start -->1760740275082887[<b>Speaker 👉 Musashi:</b>
+
+&lt;color=#11cdbe&gt;&lbrace;0&rbrace;&lt;/color&gt;, huh?
+How many do you want?]
+Start -->1760740275082889[<b>Speaker 👉 Musashi:</b>
+
+Sorry, today's &lbrace;0&rbrace; is sold out.]
+Start -->1760740275083915[<b>Speaker 👉 Musashi:</b>
+
+You want &lbrace;1&rbrace;, huh? &lbrace;0&rbrace; of them?
+That comes to &lbrace;2&rbrace;.]
+Start -->1760740275084941[<b>Speaker 👉 Musashi:</b>
+
+Thank you for your patronage!
+Anything else you need?]
+Start -->1760740275085967[<b>Speaker 👉 Musashi:</b>
+
+Sorry, you don't seem to have enough money...
+The store doesn't offer credit!]
+Start -->1762957098140370[<b>Speaker 👉 Player:</b>
+
+I18N Missing]
+1762957098140370 -->1762957098140371[End]
+Start -->1762957098141397[<b>Speaker 👉 Player:</b>
+
+I18N Missing]
+1762957098141397 -->1762957098141398[End]
+Start -->1762957098142424[<b>Speaker 👉 Player:</b>
+
+I18N Missing]
+1762957098142424 -->1762957098142425[End]
+Start -->1762957098143451[<b>Speaker 👉 Player:</b>
+
+I18N Missing]
+1762957098143451 -->1762957098143452[End]
+Start -->1762957098144478[<b>Speaker 👉 Player:</b>
+
+I18N Missing]
+1762957098144478 -->1762957098144479[End]
+Start -->1762957098145505[<b>Speaker 👉 Player:</b>
+
+I18N Missing]
+1762957098145505 -->1762957098145506[End]
+Start -->1762957098146532[<b>Speaker 👉 Player:</b>
+
+I18N Missing]
+1762957098146532 -->1762957098146533[End]
 
  ```

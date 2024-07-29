@@ -26,7 +26,7 @@ Start -->1738369447807100[<b>Speaker 👉 武藏:</b>
 1738369604865156 -->|哪些东西能卖呢？|1738369892088971[<b>Speaker 👉 武藏:</b>
 
 各种&lbrace;highlight.start&rbrace;农作物&lbrace;highlight.end&rbrace;和&lbrace;highlight.start&rbrace;采集物&lbrace;highlight.end&rbrace;都可以丢里面，
-田舍里应该有留着一些作物的&lbrace;highlight.start&rbrace;种子&lbrace;highlight.end&rbrace;。]
+&lbrace;location.1&rbrace;里应该有留着一些作物的&lbrace;highlight.start&rbrace;种子&lbrace;highlight.end&rbrace;。]
 1738369604865156 -->|明白了。|1741542909956340[<b>Speaker 👉 武藏:</b>
 
 对了，这是我给你们的见面礼。]
@@ -36,12 +36,12 @@ Start -->1738369447807100[<b>Speaker 👉 武藏:</b>
 对了，这是我给你们的见面礼。]
 1741542909956340 -->1738369888274570[<b>Speaker 👉 武藏:</b>
 
-如果需要其他&lbrace;highlight.start&rbrace;家具&lbrace;highlight.endt&rbrace;的话&lt;pause=0.125&gt;可以去小镇上的&lbrace;highlight.start&rbrace;家具店&lbrace;highlight.end&rbrace;逛逛。
-好了，你们小两口&lt;pause=0.0625&gt;就开始享受在&lbrace;location.13&rbrace;的甜蜜生活吧！]
+如果需要其他&lbrace;highlight.start&rbrace;家具&lbrace;highlight.endt&rbrace;的话&lt;pause=0.125&gt;可以去&lbrace;location.20&rbrace;上的&lbrace;highlight.start&rbrace;家具店&lbrace;highlight.end&rbrace;逛逛。
+好了，你们小两口&lt;pause=0.0625&gt;就开始享受&lbrace;location.13&rbrace;的甜蜜生活吧！]
 1741542909956340 -->1738369888274570[<b>Speaker 👉 武藏:</b>
 
-如果需要其他&lbrace;highlight.start&rbrace;家具&lbrace;highlight.endt&rbrace;的话&lt;pause=0.125&gt;可以去小镇上的&lbrace;highlight.start&rbrace;家具店&lbrace;highlight.end&rbrace;逛逛。
-好了，你们小两口&lt;pause=0.0625&gt;就开始享受在&lbrace;location.13&rbrace;的甜蜜生活吧！]
+如果需要其他&lbrace;highlight.start&rbrace;家具&lbrace;highlight.endt&rbrace;的话&lt;pause=0.125&gt;可以去&lbrace;location.20&rbrace;上的&lbrace;highlight.start&rbrace;家具店&lbrace;highlight.end&rbrace;逛逛。
+好了，你们小两口&lt;pause=0.0625&gt;就开始享受&lbrace;location.13&rbrace;的甜蜜生活吧！]
 1738369888274570 -->1738369982437519{ }
 1738369982437519 -->|我们并不是你想的那样|1738388857535646[<b>Speaker 👉 狐穗:</b>
 
@@ -57,7 +57,7 @@ Start -->1738369447807100[<b>Speaker 👉 武藏:</b>
 偷偷告诉你们，
 我以前还喜欢过一只天狗。
 那我先走了，
-有事来小镇的&lbrace;location.14&rbrace;找我啊！]
+有事来&lbrace;location.20&rbrace;的&lbrace;location.14&rbrace;找我啊！]
 1738370006176916 -->1738370113018005[End]
 1738388885747871 -->1738370006176916[<b>Speaker 👉 武藏:</b>
 
@@ -66,7 +66,7 @@ Start -->1738369447807100[<b>Speaker 👉 武藏:</b>
 偷偷告诉你们，
 我以前还喜欢过一只天狗。
 那我先走了，
-有事来小镇的&lbrace;location.14&rbrace;找我啊！]
+有事来&lbrace;location.20&rbrace;的&lbrace;location.14&rbrace;找我啊！]
 1738369637289097 -->1742696668586266[<b>Speaker 👉 武藏:</b>
 
 其实这个&lbrace;location.13&rbrace;只要好好打理打理还是不错的。

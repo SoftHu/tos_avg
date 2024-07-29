@@ -9,7 +9,7 @@ Start -->1727291147076726[<b>Speaker 👉 Musashi:</b>
 Hello! How may I assist you today?]
 Start -->1727291147077752[<b>Speaker 👉 Musashi:</b>
 
-I18N Missing]
+None]
 Start -->1727291147077754[<b>Speaker 👉 Musashi:</b>
 
 Boss, you're here!
@@ -47,7 +47,7 @@ I did something unnecessary...
 I'm feeling distant from &lbrace;npc.4203&rbrace; now!]
 Start -->1727291716105364[<b>Speaker 👉 Musashi:</b>
 
-I18N Missing]
+None]
 Start -->1753033796998940[<b>Speaker 👉 Musashi:</b>
 
 
@@ -60,56 +60,56 @@ Don't forget to sign up for the Carp Festival activities with &lbrace;npc.4206&r
 Have fun, &lbrace;playername&rbrace;!]
 Start -->1756938432158782[<b>Speaker 👉 Musashi:</b>
 
-I18N Missing
-I18N Missing]
+Not everyone has the chance to escape the past and start a new life. In a way, we're quite similar.
+If it weren't for Aoba accepting us, we might still be wandering somewhere. Don't get me wrong, I mean you're lucky.]
 Start -->1756941066785862[<b>Speaker 👉 Musashi:</b>
 
-I18N Missing
-I18N Missing]
+Don't you think Mayor Oda is not as simple as she seems? Of course, I'm just gossiping. No malice intended...
+After all, no one can be perfect. If she appears flawless, she must be hiding some secret.]
 Start -->1756941191416905[<b>Speaker 👉 Musashi:</b>
 
-I18N Missing
-I18N Missing]
+I'll tell you a secret, actually, my business in Aoba is all at friendship prices. I don't make any profit... At most, I break even.
+Everyone trusts me so much, how could I make money off them? Of course, I have other sources of income. Don't worry about my life.]
 Start -->1756949268805708[<b>Speaker 👉 Musashi:</b>
 
-I18N Missing
-I18N Missing]
+Good morning! You should be getting used to life in Aoba by now. Although it's not as bustling as Shikoku and Kyushu...
+But it offers a rare leisure and freedom. No need to worry about deceit and scheming, or not being able to pay next month's rent.]
 Start -->1756950644137039[<b>Speaker 👉 Musashi:</b>
 
-I18N Missing
-I18N Missing]
+I lived in Kyoto for a while, and the local customs left a deep impression on me. But what impressed me most was the traditional afternoon tea.
+Even now, I often ask friends in Kyoto to bring me local wagashi. Every time I eat them, it feels like I'm back in Kyoto.]
 Start -->1757013227238482[<b>Speaker 👉 Musashi:</b>
 
-I18N Missing
-I18N Missing]
+Fine wine and gambling are great for passing the time, especially on lonely long nights... But I advise you not to indulge too much.
+I've seen people who get deeply involved. Those two things are like an abyss. If you think you can resist temptation, you're gravely mistaken.]
 Start -->1757013464181844[<b>Speaker 👉 Musashi:</b>
 
-I18N Missing]
+Another annoying sunny day... I really hate being exposed to the sunlight. It feels like being burned by sharp gazes.]
 Start -->1757013626560600[<b>Speaker 👉 Musashi:</b>
 
-I18N Missing]
+I quite enjoy walking alone in the rain. The atmosphere is great. It feels like I've become a lone warrior.]
 Start -->1757738132271703[<b>Speaker 👉 Musashi:</b>
 
-I18N Missing
-I18N Missing]
+It's very fortunate to be able to drink Miss Shuten's sake... Sounds exaggerated, right? But it's true!
+I bet even the god Inari would say the same thing if they came here for a drink.]
 Start -->1758070072263213[<b>Speaker 👉 Musashi:</b>
 
-I18N Missing]
+Don't hang around here... Why not have a few drinks?]
 Start -->1758070108711471[<b>Speaker 👉 Musashi:</b>
 
-I18N Missing]
+Friends from outside the island are also interested in Miss Shuten's creations... I've been trying to facilitate cooperation between them, but Miss Shuten has no interest.]
 Start -->1758089051778653[<b>Speaker 👉 Musashi:</b>
 
-I18N Missing
-I18N Missing]
+Oh? Are you here to try your luck too? To be honest, this place seems to have a magic that makes people reluctant to leave...
+Be careful not to be consumed by greed.]
 Start -->1758090103277151[<b>Speaker 👉 Musashi:</b>
 
-I18N Missing]
+Don't you think it's strange for a casino of this scale to appear in Aoba? Have you ever thought... maybe the true owner's identity is special?]
 Start -->1758178510372433[<b>Speaker 👉 Musashi:</b>
 
-I18N Missing]
+I've attended many summer festivals in various places. Each region has its own characteristics and atmosphere, but I still like Aoba's summer festival the most.]
 Start -->1758178871818835[<b>Speaker 👉 Musashi:</b>
 
-I18N Missing]
+Wish you a wonderful night.]
 
  ```

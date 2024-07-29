@@ -5,7 +5,7 @@ Start -->1727383481015419[<b>Speaker 👉 Shuten:</b>
 Welcome... Burp...]
 Start -->1727383481015421[<b>Speaker 👉 Shuten:</b>
 
-I18N Missing]
+None]
 Start -->1727383481016453[<b>Speaker 👉 Shuten:</b>
 
 Minors are not allowed drink, okay?
@@ -94,34 +94,34 @@ Start -->1753046656492346[<b>Speaker 👉 Shuten:</b>
 Make sure to enjoy yourself!]
 Start -->1757099370372258[<b>Speaker 👉 Shuten:</b>
 
-I18N Missing]
+Little one, is there something on your mind? You can talk to me. I'm very good at soothing your soul~]
 Start -->1757102886965417[<b>Speaker 👉 Shuten:</b>
 
-I18N Missing]
+The weather is nice today. Ritsuryo and Kinntarou, those two little guys, went out to play early... Youth is so wonderful, don't you think?]
 Start -->1757103024217260[<b>Speaker 👉 Shuten:</b>
 
-I18N Missing]
+Even though it's a rainy day, I have a feeling business will be good. In this kind of weather, people's moods tend to be melancholic, and having a drink or two becomes a natural choice.]
 Start -->1757999745494602[<b>Speaker 👉 Shuten:</b>
 
-I18N Missing
-I18N Missing]
+I heard that in the past, the Kitsune tribe would drink &quot;Kitsune Sake&quot; at festivals. It was a special wine brewed from unique ingredients, usually stored in deep underground cellars.
+Although the Kitsune tribe has disappeared, I always feel that Kitsune Sake is still hidden somewhere underground...]
 Start -->1758001805515340[<b>Speaker 👉 Shuten:</b>
 
-I18N Missing]
+Customers with poor drinking manners are not welcome here. I'll charge them double for their drinks. The bill will sober them up immediately.]
 Start -->1758002576105038[<b>Speaker 👉 Shuten:</b>
 
-I18N Missing]
+Although the customers don't have any particular opinions, I've been thinking of diversifying the drink menu lately. Sake, sparkling wine, sherry, whisky... we shouldn't miss any.]
 Start -->1758164032445041[<b>Speaker 👉 Shuten:</b>
 
-I18N Missing]
+The last time I came here, I lost everything I could pawn... Thinking about it still scares me a bit.]
 Start -->1758164106621555[<b>Speaker 👉 Shuten:</b>
 
-I18N Missing]
+Running the shop every day builds up a lot of stress. It's rare to have some free time, so I might as well play a few rounds...]
 Start -->1758255376616042[<b>Speaker 👉 Shuten:</b>
 
-I18N Missing]
+How can a joyful festival be without good wine? Want to have a drink or two with me?]
 Start -->1758256348074604[<b>Speaker 👉 Shuten:</b>
 
-I18N Missing]
+Bye-bye...]
 
  ```

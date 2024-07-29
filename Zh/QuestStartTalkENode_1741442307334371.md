@@ -1,6 +1,6 @@
 ```mermaid
 graph
-Start -->1741442449087714[<b>Speaker 👉 金太郎:</b>
+Start -->1741442449087714[<b>Speaker 👉 &lbrace;npc.4103&rbrace;:</b>
 
 咦~？？？
 不是这个地方呢

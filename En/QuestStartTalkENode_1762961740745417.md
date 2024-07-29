@@ -1,0 +1,35 @@
+```mermaid
+graph
+Start -->1762964737821388[<b>Speaker 👉 Yoni:</b>
+
+I18N Missing]
+1762964737821388 -->1762964810631885{ }
+1762964810631885 -->|I18N Missing|1762965129398997[<b>Speaker 👉 Yoni:</b>
+
+I18N Missing
+I18N Missing]
+1762964810631885 -->|I18N Missing|1762964880279252[<b>Speaker 👉 Yoni:</b>
+
+I18N Missing]
+1762965129398997 -->1762965181730519{ }
+1762965181730519 -->|I18N Missing|1762965159805654[<b>Speaker 👉 Yoni:</b>
+
+I18N Missing
+I18N Missing
+I18N Missing]
+1762965181730519 -->|I18N Missing|1762965159805654[<b>Speaker 👉 Yoni:</b>
+
+I18N Missing
+I18N Missing
+I18N Missing]
+1762965159805654 -->1762965372077789{ }
+1762965372077789 -->|I18N Missing|1762965391964898[<b>Speaker 👉 Yoni:</b>
+
+I18N Missing]
+1762965372077789 -->|I18N Missing|1762965391964898[<b>Speaker 👉 Yoni:</b>
+
+I18N Missing]
+1762965391964898 -->1762965405605603[End]
+1762964880279252 -->1762965181730519{ }
+
+ ```

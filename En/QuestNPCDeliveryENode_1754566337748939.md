@@ -11,7 +11,7 @@ I haven't forgotten our agreement.
 Remember to come and have a drink with me when you're free.]
 Start -->1756425626679821[<b>Speaker 👉 Shuten:</b>
 
-I18N Missing]
+You don’t seem ready yet, haven’t received enough sake to settle the bill~]
 1754567477753818 -->1754567473346521[End]
 1756425626679821 -->1754567473346521[End]
 

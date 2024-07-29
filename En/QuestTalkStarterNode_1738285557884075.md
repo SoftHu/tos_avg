@@ -26,14 +26,12 @@ Seriously, thank you so much!
 1738287216834759 -->1738287721382109{ }
 1738287721382109 -->1738288124658912[End]
 1738287283890381 -->1738287315975374{ }
-1738287315975374 -->|I'll help you just by listening.|1738287339132115[<b>Speaker 👉 Yoni:</b>
+1738287315975374 -->|I18N Missing|1738287339132115[<b>Speaker 👉 Yoni:</b>
 
-If you can help me gather &lbrace;item.2517&rbrace;,
-I will sing my new song for you.]
-1738287315975374 -->|If it's too embarrassing, don't worry.|1738287339132115[<b>Speaker 👉 Yoni:</b>
+I18N Missing]
+1738287315975374 -->|I18N Missing|1738287339132115[<b>Speaker 👉 Yoni:</b>
 
-If you can help me gather &lbrace;item.2517&rbrace;,
-I will sing my new song for you.]
+I18N Missing]
 1738287339132115 -->1738287369583828{ }
 1738287369583828 -->|Deal!|1738287491991770[<b>Speaker 👉 Yoni:</b>
 

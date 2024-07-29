@@ -8,7 +8,7 @@ The queen is interested in you.
 This was just a minor test.
 Congratulations, you've passed this challenge.]
 1719159014612000 -->1719160430499873{ }
-1719160430499873 -->|Not interested in the queen…|1719161269123110[<b>Speaker 👉 Unconfigured:</b>
+1719160430499873 -->|Not interested in the queen...|1719161269123110[<b>Speaker 👉 Unconfigured:</b>
 
 How dare you speak like that!
 That's the queen!

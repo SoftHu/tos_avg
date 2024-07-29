@@ -20,7 +20,7 @@ Luckily, you're here...
 Oops, I've talked too much today, not something a lady should do.
 This is a token of thanks...
 See you around.]
-1719157783831577 -->|You're exaggerating a bit…|1719158112470046[<b>Speaker 👉 Unconfigured:</b>
+1719157783831577 -->|You're exaggerating a bit...|1719158112470046[<b>Speaker 👉 Unconfigured:</b>
 
 Alas... Hero, you might not know,
 but ever since the Gulu Bobo moved to Seikyu,

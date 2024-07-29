@@ -63,9 +63,9 @@ All right, no more time to chat.
 Happy Carp Festival!]
 Start -->1758172556012100[<b>Speaker 👉 Iwasuke:</b>
 
-I18N Missing]
+The mask stall is a must-visit, they have many new designs this year. I'm thinking about picking one to wear.]
 Start -->1758175820284486[<b>Speaker 👉 Iwasuke:</b>
 
-I18N Missing]
+It's a rare opportunity, so relax and have fun. Enjoy the summer festival!]
 
  ```

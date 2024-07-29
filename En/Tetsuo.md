@@ -57,9 +57,9 @@ Start -->1753055480212294[<b>Speaker 👉 Tetsuo:</b>
 It's a rare festival day, have fun!]
 Start -->1758257068134002[<b>Speaker 👉 Tetsuo:</b>
 
-I18N Missing]
+None]
 Start -->1758257158766196[<b>Speaker 👉 Tetsuo:</b>
 
-I18N Missing]
+None]
 
  ```

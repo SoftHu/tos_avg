@@ -5,16 +5,16 @@ Start -->1727665835304063[<b>Speaker 👉 Nyotengu:</b>
 See you…]
 Start -->1727666100083841[<b>Speaker 👉 Nyotengu:</b>
 
-I18N Missing]
+Oh, it’s you... What do you want? Don’t waste the precious morning hours chitchatting with me. Do something worthwhile.]
 Start -->1727666100084867[<b>Speaker 👉 Nyotengu:</b>
 
-I18N Missing
-I18N Missing]
+Trouble finding you, little fox? As long as you’re one of us from &lbrace;location.13&rbrace;, I'm bound to protect you.
+It’s an old pact between the Tengu clan and the fox spirits. Even though the foxes mysteriously disappeared, a Tengu's promise is gold.]
 Start -->1727666206999689[<b>Speaker 👉 Nyotengu:</b>
 
-I18N Missing
-I18N Missing
-I18N Missing]
+Are you the type that naturally attracts trouble? I have a feeling you and I are cut from the same cloth.
+For little yokai seeking refuge, &lbrace;location.13&rbrace; is undoubtedly a paradise. There’s nothing wrong with liking peace.
+But peace means boredom, means everything’s the same. I’m nearly suffocating from the boredom here.]
 Start -->1727666207000717[<b>Speaker 👉 Nyotengu:</b>
 
 Shuten... she's a big mouth.
@@ -24,15 +24,6 @@ don't go drinking with that guy!
 Once you're drunk, secrets spill out.
 Once Shuten knows,
 your secrets won't be secrets anymore.]
-Start -->1727666521751695[<b>Speaker 👉 Nyotengu:</b>
-
-In such a short time together,
-I've grown accustomed to your presence...
-Living in the land of the Tengu,
-I never really felt like I belonged there.
-But now, I want to return to the inn every day.
-Whether it's sharing meals or enjoying wine and baths, it all feels right.
-All thanks to you.]
 Start -->1727667152884881[<b>Speaker 👉 Nyotengu:</b>
 
 Oh! How thoughtful...
@@ -70,51 +61,51 @@ Start -->1753045597110070[<b>Speaker 👉 Nyotengu:</b>
 Be extra careful, and don't relax too much.]
 Start -->1757105373438130[<b>Speaker 👉 Nyotengu:</b>
 
-I18N Missing]
+The Tengu clan has delicate relationships with many other races. We don’t choose our friends based on their power.]
 Start -->1757105585625269[<b>Speaker 👉 Nyotengu:</b>
 
-I18N Missing
-I18N Missing]
+The strong are always drawn to danger, only by getting close to it can they understand their own place.
+The Tengu clan never fears gazing into the abyss. We’re companions to the abyss... maybe we are the abyss itself.]
 Start -->1757105882885305[<b>Speaker 👉 Nyotengu:</b>
 
-I18N Missing
-I18N Missing
-I18N Missing]
+Mayor &lbrace;npc.4209.last_name&rbrace; is always humble and respectful. Don’t get me wrong, I’m not complimenting her. I can't stand all the formalities.
+Spending time on all that polite talk? Better to get straight to the point.
+But seeing how cute she looks when she smiles, I'll forgive her anyway.]
 Start -->1757106032150716[<b>Speaker 👉 Nyotengu:</b>
 
-I18N Missing
-I18N Missing
-I18N Missing]
+Even though I patrol the mountains daily, I might miss something.
+Better not roam around too late, or you might accidentally get taken out by me.
+If I accidentally take you down as a suspicious person, that wouldn’t be good.]
 Start -->1757106180782271[<b>Speaker 👉 Nyotengu:</b>
 
-I18N Missing]
+The UV rays are really bad for the skin in this weather. I always have to slather on tons of sunscreen before I feel safe going out. Especially once I start flying, it’s even easier to get sunburned.]
 Start -->1757106398857410[<b>Speaker 👉 Nyotengu:</b>
 
-I18N Missing]
+Flying in the rain really tests your skills, what with lightning interference and reduced visibility. But for a Tengu, it’s all part of the training.]
 Start -->1757988214146609[<b>Speaker 👉 Nyotengu:</b>
 
-I18N Missing]
+Surprised to see me here? Is it strange that even a guardian of &lbrace;location.13&rbrace; needs some fun?]
 Start -->1757988520720947[<b>Speaker 👉 Nyotengu:</b>
 
-I18N Missing
-I18N Missing]
+That guy &lbrace;npc.4208&rbrace;, no sense of professionalism at all... My good sake in the shop is disappearing at an alarming rate.
+He’s sneaking drinks of my stash! Asked him and he flat out denies it. If it weren't for our long friendship, I’d definitely teach him a lesson.]
 Start -->1757989263913525[<b>Speaker 👉 Nyotengu:</b>
 
-I18N Missing
-I18N Missing]
+Our Tengu doctrines explicitly state, &quot;Do not indulge in drink, do not indulge in pleasures.&quot; But how do you define indulging?
+As long as you don’t get drunk, right?]
 Start -->1758090784538209[<b>Speaker 👉 Nyotengu:</b>
 
-I18N Missing
-I18N Missing]
+&quot;All in&quot; is a do-or-die attitude! If you believe deep inside that this time you can turn it around, you can do it.
+This is a gambling tip passed down from an elder in the Tengu tribe. Mind you, this elder often ends up broke because of it. So, it’s not very reliable.]
 Start -->1758091192677987[<b>Speaker 👉 Nyotengu:</b>
 
-I18N Missing
-I18N Missing]
+Our Tengu clan has a unique skill. Just one look and I know your fortune.
+I see you’re not having good luck today. Maybe don’t put too much money on the table, huh?]
 Start -->1758185326111317[<b>Speaker 👉 Nyotengu:</b>
 
-I18N Missing]
+The mayor gave me the day off today, said even if the sky falls, she doesn’t need my help. Guess I’m playing tourist then.]
 Start -->1758248674655831[<b>Speaker 👉 Nyotengu:</b>
 
-I18N Missing]
+Enjoy it... little fox.]
 
  ```
