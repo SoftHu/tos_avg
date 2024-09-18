@@ -2,7 +2,7 @@
 graph LR
 Start -->1727665835304063[<b>Speaker 👉 Player:</b>
 
-See you…]
+See you...]
 Start -->1727666100083841[<b>Speaker 👉 Player:</b>
 
 Oh, it's you... What do you want? Don't waste the precious morning hours chitchatting with me. Do something worthwhile.]

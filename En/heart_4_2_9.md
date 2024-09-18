@@ -11,7 +11,7 @@ I got the strawberries fresh from the vendor this morning.]
 
 Oh,
 but why does &lbrace;playername&rbrace; have 3 strawberries?
-I only have 2!!…
+I only have 2!!...
 Yui is playing favorites!]
 1754287230031284 -->1754287312966070{ }
 1754287312966070 -->|Because she likes me more.|1754287295587765[<b>Speaker 👉 Yui:</b>

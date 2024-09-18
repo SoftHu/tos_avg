@@ -23,11 +23,11 @@ Would you like me to serve you today?
 You'll need to pay extra.]
 Start -->1727384006804621[<b>Speaker 👉 Player:</b>
 
-Be sure to come again…]
+Be sure to come again...]
 Start -->1727384181215375[<b>Speaker 👉 Player:</b>
 
 Sake is great, but other liquors are worth tasting too.
-It's like love, sticking to only one kind is a bit…
+It's like love, sticking to only one kind is a bit...
 Wanna hear more? There's a price for it.]
 Start -->1727384181216401[<b>Speaker 👉 Player:</b>
 

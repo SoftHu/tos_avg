@@ -1,5 +1,5 @@
 ```mermaid
-graph
+graph LR
 Start -->1766666176024857[<b>Speaker 👉 安姬:</b>
 
 &lbrace;playername&rbrace;, 
@@ -19,11 +19,8 @@ This talisman will let you pass through the barrier.
 I shouldn't be giving this to you, foxy, but…
 I just…
 ….]
-1766666297190683 -->1766666320771356[End]
-Start -->1766672127542558[ ]
-1766672127542558 -->|Kiss back|1766672175409444[ ]
-1766672127542558 -->|Pull away|1766672175409444[ ]
-1766672175409444 -->1766672157337891[<b>Speaker 👉 安姬:</b>
+1766666297190683 -->1768080357891162[End]
+Start -->1766672157337891[<b>Speaker 👉 安姬:</b>
 
 Let that answer your questions for now.
 I'm sorry I've caused you so much trouble.]
@@ -53,5 +50,8 @@ Long enough hehe.]
 
 Long enough hehe.]
 1766681464737083 -->1766681281528113[End]
+Start -->1766672127542558[ ]
+1766672127542558 -->|Kiss back|1766666320771356[End]
+1766672127542558 -->|Pull away|1766666320771356[End]
 
  ```

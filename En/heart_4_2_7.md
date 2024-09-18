@@ -59,7 +59,7 @@ This is Koni's flagship model of the year,
 a retro design with powerful performance,
 the super seller at all major department stores!]
 1753828823648770 -->1753828936586755{ }
-1753828936586755 -->|Wow… it looks good.|1753829849641482[<b>Speaker 👉 Seabert:</b>
+1753828936586755 -->|Wow... it looks good.|1753829849641482[<b>Speaker 👉 Seabert:</b>
 
 I'm so excited, I wonder if the pocket money
 I've saved up will be enough... &#40;✧◡✧&#41;]
@@ -74,7 +74,7 @@ Classic Black, Fresh Green and Dazzling Laser.
 Which one does the audience at home like most?]
 1753830956435979 -->1753831336459788[<b>Speaker 👉 Seabert:</b>
 
-Ah, it's such a tough decision, &lbrace;playername&rbrace;. Please help me choose…]
+Ah, it's such a tough decision, &lbrace;playername&rbrace;. Please help me choose...]
 1753831336459788 -->1753831355424269{ }
 1753831355424269 -->|Black|1753831454680596[<b>Speaker 👉 Seabert:</b>
 
@@ -89,7 +89,7 @@ All right, I'll go with that!]
 
 To meet the different needs of our audience,
 we are now launching three package options!
-They are as follows…
+They are as follows...
 The Official Standard Package at &#40;1999&#41;,
 the Lens Upgrade Package at &#40;2899&#41;
 and the Extended Warranty Package at &#40;2999&#41;.
@@ -114,7 +114,7 @@ You've thought it through, &lbrace;playername&rbrace;, I'll listen to you!
 I'll call to order right away!]
 1753832875953697 -->1753832916612643[<b>Speaker 👉 Seabert:</b>
 
-Phew… the order hotline was so busy!
+Phew... the order hotline was so busy!
 I was shaking when I finally got through to make the order!]
 1753832916612643 -->1753833398751780{ }
 1753833398751780 -->|Yeah, I almost thought I wouldn't make it.|1753833492055596[<b>Speaker 👉 Seabert:</b>

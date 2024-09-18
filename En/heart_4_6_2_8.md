@@ -1,22 +1,22 @@
 ```mermaid
 graph
 Start -->1766672127542558[ ]
-1766672127542558 -->|I've never been back here…|1766672157337891[<b>Speaker 👉 Anji:</b>
+1766672127542558 -->|I've never been back here...|1766672157337891[<b>Speaker 👉 Anji:</b>
 
 I have to show you something.
-We can talk after or you can leave…
+We can talk after or you can leave...
 But I have to show you first. Okay?]
 1766672127542558 -->1766672157337891[<b>Speaker 👉 Anji:</b>
 
 I have to show you something.
-We can talk after or you can leave…
+We can talk after or you can leave...
 But I have to show you first. Okay?]
 1766672157337891 -->1766683556349284{ }
-1766683556349284 -->|Okay…|1766681055228200[End]
+1766683556349284 -->|Okay...|1766681055228200[End]
 Start -->1766681208037674[<b>Speaker 👉 Anji:</b>
 
-This… This is the real me.]
-1766681208037674 -->1766683664729456[<b>Speaker 👉 小灯泡:</b>
+This... This is the real me.]
+1766681208037674 -->1766683664729456[<b>Speaker 👉 LightBulb:</b>
 
 Well say something!]
 1766683664729456 -->1766681246553387{ }
@@ -25,11 +25,11 @@ Well say something!]
  I'm sorry, &lbrace;playername&rbrace;, can you forgive me?]
 1766681246553387 -->|I had a feeling you and Anna were linked.|1766683755688306[<b>Speaker 👉 Anji:</b>
 
-But… aren't you… mad?
+But... aren't you... mad?
 I'm a Tanuki and I've been lying to you!]
 1766681246553387 -->|You're beautiful.|1766683755688306[<b>Speaker 👉 Anji:</b>
 
-But… aren't you… mad?
+But... aren't you... mad?
 I'm a Tanuki and I've been lying to you!]
 1766683755688306 -->1766685254600060{ }
 1766685254600060 -->1766685693769091[<b>Speaker 👉 Anji:</b>
@@ -75,9 +75,9 @@ Bye, foxy.]
 1766683789556083 -->1766684164810100{ }
 1766684164810100 -->|No, I can't. Tanuki dog!|1766685169377657[<b>Speaker 👉 Anji:</b>
 
-ok… well…
+ok... well...
 I'm leaving Seikyu soon anyway.
-So…
+So...
 I guess this is goodbye.
 ...
 Bye, &lbrace;playername&rbrace;]

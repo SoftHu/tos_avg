@@ -12,7 +12,7 @@ You lack mature charm like me...
 But time will fix that.
 When you're my age, you'll be charming too.
 Burp—
-This liquor is strong…]
+This liquor is strong...]
 1719171618303034 -->1719172130450492{ }
 1719172130450492 -->|Such a strong smell of alcohol...|1719172709664833[<b>Speaker 👉 Unconfigured:</b>
 

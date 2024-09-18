@@ -54,7 +54,7 @@ He's my &lbrace;sex.sibling&rbrace;.]
 &lt;shiver&gt;&lt;speed=0.8&gt;This is just too much, I'm his sister...! &lt;/shiver&gt;]
 1738388857535646 -->1738370006176916[<b>Speaker 👉 Musashi:</b>
 
-Haha, this is &lbrace;location.13&rbrace;… &lt;pause=0.25&gt;
+Haha, this is &lbrace;location.13&rbrace;... &lt;pause=0.25&gt;
 I see... you are lucky to have your sister as a companion.
 I'll be going now.
 If you need anything, come to the town's 
@@ -62,7 +62,7 @@ If you need anything, come to the town's
 1738370006176916 -->1738370113018005[End]
 1738388885747871 -->1738370006176916[<b>Speaker 👉 Musashi:</b>
 
-Haha, this is &lbrace;location.13&rbrace;… &lt;pause=0.25&gt;
+Haha, this is &lbrace;location.13&rbrace;... &lt;pause=0.25&gt;
 I see... you are lucky to have your sister as a companion.
 I'll be going now.
 If you need anything, come to the town's 

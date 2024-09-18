@@ -110,7 +110,7 @@ None]
 Start -->1767459544918891[<b>Speaker 👉 Kon:</b>
 
 Such a nice Seikyu breeze...
-I miss Mom…
+I miss Mom...
 She used to comb my hair just like this, so gently.]
 Start -->1767459616873324[<b>Speaker 👉 Kon:</b>
 

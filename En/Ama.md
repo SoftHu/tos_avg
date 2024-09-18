@@ -11,7 +11,7 @@ the traditional with the modern,
 offering you a unique shopping experience!]
 Start -->1727301450029176[<b>Speaker 👉 Player:</b>
 
-See you…]
+See you...]
 Start -->1727302348198010[<b>Speaker 👉 Player:</b>
 
 Everyone's curious about my past...
@@ -60,7 +60,7 @@ checkered past, but the majority of us find peace here.]
 Start -->1740295246364888[<b>Speaker 👉 Player:</b>
 
 I heard Inari Okami possesses otherworldly beauty.
-Wonder if my designs will be able to match that…
+Wonder if my designs will be able to match that...
 She probably prefers elegant and traditional kimonos
 rather than trendy and fashionable clothing, right?
 Maybe blending the classic and the trendy

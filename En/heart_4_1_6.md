@@ -13,7 +13,7 @@ making it perfect for crafting blades.]
 Master Muramasa is a renowned bladesmith and the teacher
 who taught me how to select and forge materials.
 I spent my entire youth under his guidance.]
-1750843489202441 -->|Sounds familiar…|1750843511057678[<b>Speaker 👉 Hephaestus:</b>
+1750843489202441 -->|Sounds familiar...|1750843511057678[<b>Speaker 👉 Hephaestus:</b>
 
 Master Muramasa is a renowned bladesmith and the teacher
 who taught me how to select and forge materials.
@@ -36,7 +36,7 @@ Yes, when I used to go out mining,
 it was Master Muramasa who taught me how to identify ores,
 so it feels a bit lonely mining here in Seikyu without him.]
 1750843556242708 -->1750843610641685{ }
-1750843610641685 -->|If you feel lonely…|1750843645790490[<b>Speaker 👉 Hephaestus:</b>
+1750843610641685 -->|If you feel lonely...|1750843645790490[<b>Speaker 👉 Hephaestus:</b>
 
 Thank you for your comfort.
 I will always keep my master in my heart.]
@@ -68,7 +68,7 @@ A 'Muramasa's inscription' is no longer of any use to you, no?]
 This is the treasure every warrior dreams of,
 and the craftsman in front of you is the rightful heir,
 even though he always rejects my requests.]
-1751366336661868 -->|What's this…?|1751366551144817[<b>Speaker 👉 Torleone:</b>
+1751366336661868 -->|What's this...?|1751366551144817[<b>Speaker 👉 Torleone:</b>
 
 This is the treasure every warrior dreams of,
 and the craftsman in front of you is the rightful heir,
@@ -100,7 +100,7 @@ of course,
 but I'll wait until he's in a better mood.
 Don't forget to rehydrate.
 Let's train together again next time!]
-1751367217642873 -->|You ignored his feelings…|1751367543267712[<b>Speaker 👉 Hephaestus:</b>
+1751367217642873 -->|You ignored his feelings...|1751367543267712[<b>Speaker 👉 Hephaestus:</b>
 
 I'll have a good chat with him about this,
 of course,

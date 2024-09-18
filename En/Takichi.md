@@ -8,7 +8,7 @@ Start -->1727647787373683[<b>Speaker 👉 Player:</b>
 What do you want? I'm busy!]
 Start -->1727647926576245[<b>Speaker 👉 Player:</b>
 
-I'm working multiple jobs to save some money…
+I'm working multiple jobs to save some money...
 If only I could open a shop in town,
 get a little business going.
 My childhood sweetheart is still waiting for me!

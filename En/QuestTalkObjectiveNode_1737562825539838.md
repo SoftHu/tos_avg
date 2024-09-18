@@ -14,7 +14,7 @@ fell in love with him at first sight, and sat on him.]
 1737563860176154 -->|No, let's talk later.|1737647350349891[End]
 1737563366322442 -->1740654812464383[<b>Speaker 👉 Player:</b>
 
-Didn't she just mistake you for a bench…]
+Didn't she just mistake you for a bench...]
 1740654812464383 -->1737563366322444[<b>Speaker 👉 Mr.Croaks:</b>
 
 Not at all!

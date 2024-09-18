@@ -28,7 +28,7 @@ feel free to use various transformation arts.]
 
 Use destructive power to till soil
 and use the water element to water it.
-&#40;Hold [Z] to view transformation powers&#41;
+&#40;Hold 【Z】 to view transformation powers&#41;
 By the way, &lbrace;npc.4209&rbrace; wants to introduce you to the other residents of the town, there's a welcome ceremony at 2 PM in &lbrace;location.20&rbrace;.
 You better be there! 2 PM, don't be late~]
 1741805123273116 -->1741805387044261[End]

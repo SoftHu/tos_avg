@@ -19,7 +19,7 @@ Welcome to Heaven's Kitchen, I am your beloved chef Lucifer! Let's see what ingr
 1757657246957178 -->1758962459651775[End]
 Start -->1758891824335472[<b>Speaker 👉 Kinntarou:</b>
 
-Xiao Long Bao… Udon… Tempura… I want them all!
+Xiao Long Bao... Udon... Tempura... I want them all!
 Huh... it's you? Where's my tempura? It was just here a moment ago!]
 1758891824335472 -->1758891824335475{ }
 1758891824335475 -->|I didn't eat your food.|1758892125002396[End]

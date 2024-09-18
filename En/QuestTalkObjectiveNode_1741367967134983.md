@@ -3,7 +3,7 @@ graph
 Start -->1741368580010250[<b>Speaker 👉 Sasaki:</b>
 
 Hello...
-You're [playername], right?
+You're 【playername】, right?
 If you want something,
 feel free to look around....]
 1741368580010250 -->1741368656357643{ }

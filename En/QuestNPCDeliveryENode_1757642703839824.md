@@ -8,7 +8,7 @@ Start -->1758965346551393[<b>Speaker 👉 Ivan:</b>
 Well, guess it's not that easy to find.
 That's okay, I can wait a little longer.]
 1757644112100949 -->1758965493632610{ }
-1758965493632610 -->|Wait a little longer…|1758965664639592[End]
+1758965493632610 -->|Wait a little longer...|1758965664639592[End]
 1758965493632610 -->|Delivering the King of Thousands|1761712739136848[<b>Speaker 👉 Ivan:</b>
 
 Alas, I certainly know that gambling is not a good habit

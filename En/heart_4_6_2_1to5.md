@@ -3,7 +3,7 @@ graph LR
 Start -->1766404728717123[<b>Speaker 👉 Anji:</b>
 
 Hi &lbrace;playername&rbrace;, 
-been a while…
+been a while...
 
 I was worried I might have imagined you. 
 ]
@@ -12,14 +12,14 @@ I was worried I might have imagined you.
 
 You foxes, so serious and boring. 
 
-I just came to see if you found anything…
-Soft moss, shiny rocks, transformation scrolls…]
+I just came to see if you found anything...
+Soft moss, shiny rocks, transformation scrolls...]
 1766404837524292 -->|No, our fight was real. And you really lost.  |1766405006141257[<b>Speaker 👉 Anji:</b>
 
 You foxes, so serious and boring. 
 
-I just came to see if you found anything…
-Soft moss, shiny rocks, transformation scrolls…]
+I just came to see if you found anything...
+Soft moss, shiny rocks, transformation scrolls...]
 1766405006141257 -->1766405035471690{ }
 1766405035471690 -->|So you're hunting Inari's scroll. |1766406367476233[<b>Speaker 👉 Anji:</b>
 
@@ -30,7 +30,7 @@ Hm, disappointing.
 Maybe we overestimated you.]
 1766405035471690 -->|What if I have? |1766405113682770[<b>Speaker 👉 Anji:</b>
 
-…
+...
 Hahaha. We'd know if you actually found something.]
 1766405113682770 -->1766406669061643{ }
 1766406669061643 -->|We? There are more Tanuki here?|1766407339135514[<b>Speaker 👉 Anji:</b>
@@ -45,10 +45,10 @@ Our little secret. K?]
 1766407849773596 -->1766407866238493{ }
 1766407866238493 -->|Whatever's in these ruins belongs to my ancestors.|1766407883205154[<b>Speaker 👉 Anji:</b>
 
-I'm not sure we agree with you there…]
+I'm not sure we agree with you there...]
 1766407866238493 -->|How many of you are there?|1766407896734243[<b>Speaker 👉 Anji:</b>
 
-Enough…]
+Enough...]
 1766407883205154 -->1766408606056206[<b>Speaker 👉 Anji:</b>
 
 ...better explore quickly.
@@ -60,7 +60,7 @@ Bye Foxy. I won't lose to you again.]
 Bye Foxy. I won't lose to you again.]
 Start -->1766408648096529[<b>Speaker 👉 Anji:</b>
 
-I thought I could take him. We just have to avoid Nior next time…
+I thought I could take him. We just have to avoid Nior next time...
 ...
 Of course, we're going back in. We have to.]
 1766408648096529 -->1766409063280408[End]
@@ -83,18 +83,18 @@ No, just me.]
 Please don't tell anyone I was here.]
 1766410044267299 -->|Here. Eat this.|1766411263069995[<b>Speaker 👉 Anji:</b>
 
-oh-um- thank you. That's… That's very kind.]
+oh-um- thank you. That's... That's very kind.]
 1766410737948455 -->1766411314649901{ }
 1766411314649901 -->|I won't. Are you sure you're ok?|1766411332554546[<b>Speaker 👉 Anji:</b>
 
 I'll be alright. But I have to go.
 Please don't tell.
-And… um… Thank you.]
+And... um... Thank you.]
 1766411314649901 -->|You shouldn't be out here alone.|1766411332554546[<b>Speaker 👉 Anji:</b>
 
 I'll be alright. But I have to go.
 Please don't tell.
-And… um… Thank you.]
+And... um... Thank you.]
 1766411332554546 -->1766411702442806[End]
 1766411263069995 -->1766410923748136{ }
 1766410923748136 -->|You're Anna, from the casino, right?|1766410737948455[<b>Speaker 👉 Anji:</b>
@@ -102,14 +102,14 @@ And… um… Thank you.]
 Please don't tell anyone I was here.]
 Start -->1766411456643892[<b>Speaker 👉 Kon:</b>
 
-She's a little strange…]
+She's a little strange...]
 1766411456643892 -->1766411479348021[End]
 Start -->1766411752902457[<b>Speaker 👉 Anji:</b>
 
 What would they say if they saw me? The real me.
 .............
 Hmm, you think?
-A house with a yard for games and neighbors to chat with…
+A house with a yard for games and neighbors to chat with...
 sounds nice, doesn't it?
 ........
 No! We can't.
@@ -157,7 +157,7 @@ You don't know anything, fox.]
 
 We can play Cuju. 
 You could help us beat Hephestus's team! ]
-1766412181949269 -->|Sounds like you want a friend…|1766412200866650[<b>Speaker 👉 Kon:</b>
+1766412181949269 -->|Sounds like you want a friend...|1766412200866650[<b>Speaker 👉 Kon:</b>
 
 We can play Cuju. 
 You could help us beat Hephestus's team! ]
@@ -170,7 +170,7 @@ Spy on me again and I'll kill you, foxy.]
 1766412529967963 -->1766412628209500[End]
 Start -->1766412678188894[<b>Speaker 👉 Kon:</b>
 
-Was she… blushing?]
+Was she... blushing?]
 1766412678188894 -->1766412689397599{ }
 1766412689397599 -->|I wonder if she'll come over.|1766412711107428[<b>Speaker 👉 Kon:</b>
 
@@ -196,38 +196,38 @@ RAH RAH RARARAH]
 1766414331054954 -->|Here, let me buy you a new drink.|1766414428776310[End]
 Start -->1766414441635703[<b>Speaker 👉 Townie:</b>
 
-Thank you…for that.
-You're always helping me…
+Thank you...for that.
+You're always helping me...
 even when you don't have to.]
 1766414441635703 -->1766414543745912{ }
 1766414543745912 -->|Is everything alright?|1766414839939966[<b>Speaker 👉 Anji:</b>
 
-I just get… distracted.
-I heard there are Tanuki hanging around the ruins…
+I just get... distracted.
+I heard there are Tanuki hanging around the ruins...
 You haven't told anyone I was there, right?]
 1766414543745912 -->|What happened?|1766414839939966[<b>Speaker 👉 Anji:</b>
 
-I just get… distracted.
-I heard there are Tanuki hanging around the ruins…
+I just get... distracted.
+I heard there are Tanuki hanging around the ruins...
 You haven't told anyone I was there, right?]
 1766414839939966 -->1766414888459135{ }
 1766414888459135 -->|No.|1766414904479618[<b>Speaker 👉 Anji:</b>
 
 Thank you.
 Guess I'm lucky you came along and not one of them.
-…
-You must really hate them… the Tanuki.]
+...
+You must really hate them... the Tanuki.]
 1766414904479618 -->1766416139429763{ }
 1766416139429763 -->|Actually, I think they're quite cute.|1766416198068105[<b>Speaker 👉 Anji:</b>
 
 What?!...
-But…
+But...
 They're dangerous!
 Fox and Tanuki have been at war for hundreds of years!]
 1766416139429763 -->| I think I'm becoming friends with one.|1766416198068105[<b>Speaker 👉 Anji:</b>
 
 What?!...
-But…
+But...
 They're dangerous!
 Fox and Tanuki have been at war for hundreds of years!]
 1766416198068105 -->1766416284315536[<b>Speaker 👉 Anji:</b>
@@ -239,10 +239,10 @@ You're crazy! I can't even talk to you.]
 1766416284315536 -->1766416375938967{ }
 1766416375938967 -->|I haven't paid for my drink.|1766416356667282[<b>Speaker 👉 Anji:</b>
 
-It's on the house… crazy!]
+It's on the house ... crazy!]
 1766416375938967 -->|Thanks for the drink.|1766416356667282[<b>Speaker 👉 Anji:</b>
 
-It's on the house… crazy!]
+It's on the house ... crazy!]
 1766416356667282 -->1766416299578257[End]
 Start -->1766416533600153[<b>Speaker 👉 Anji:</b>
 
@@ -261,25 +261,25 @@ But I heard you defeated Fujiki.
 Impressive, for a fox.]
 1766416570632095 -->1766416715858853[<b>Speaker 👉 Anji:</b>
 
-I wanted to ask you…
+I wanted to ask you...
 Actually, nevermind.]
 1766416570632095 -->1766416715858853[<b>Speaker 👉 Anji:</b>
 
-I wanted to ask you…
+I wanted to ask you...
 Actually, nevermind.]
 1766416715858853 -->1766416734616490{ }
 1766416734616490 -->|You can ask me anything.|1766421931335595[<b>Speaker 👉 Anji:</b>
 
-I was going to ask you…
+I was going to ask you...
 Can I stay here tonight?
  I've had some trouble and I need a place to sleep.]
 1766416734616490 -->|Is the tanuki warrior afraid of a fox?|1766421931335595[<b>Speaker 👉 Anji:</b>
 
-I was going to ask you…
+I was going to ask you...
 Can I stay here tonight?
  I've had some trouble and I need a place to sleep.]
 1766421931335595 -->1766421965540268{ }
-1766421965540268 -->|Ummm…|1766421990025137[<b>Speaker 👉 Kon:</b>
+1766421965540268 -->|Ummm...|1766421990025137[<b>Speaker 👉 Kon:</b>
 
 Oh please can she stay!?
  I've never had a friend stay overnight!]
@@ -296,10 +296,10 @@ YAY, sleepover!
 ]
 1766422101467062 -->1766662995003311[End]
 Start -->1766663039163314[ ]
-1766663039163314 -->|Kon likes you… |1766663067756469[<b>Speaker 👉 Anji:</b>
+1766663039163314 -->|Kon likes you... |1766663067756469[<b>Speaker 👉 Anji:</b>
 
 That's the problem.
-I fought with my master today…
+I fought with my master today...
 He was angry that I talked to you.]
 1766663067756469 -->1766663103090614{ }
 1766663103090614 -->|Why?|1766663121777595[<b>Speaker 👉 Anji:</b>
@@ -323,7 +323,7 @@ This was once a Fox city but now you're all alone.]
 
  I'm not sure we can be friends, &lbrace;playername&rbrace;.
 Yeah, guess I'm lucky.
-It's foolish to feel this way… weak.
+It's foolish to feel this way... weak.
 I need some air.]
 1766663175486396 -->|I'm not alone. You're here.|1766663232176066[<b>Speaker 👉 Anji:</b>
 
@@ -337,7 +337,7 @@ I need some air.]
  I'm not sure we can be friends, &lbrace;playername&rbrace;.]
 1766663366469571 -->1766663465074637[<b>Speaker 👉 Anji:</b>
 
-I'd like that…]
+I'd like that...]
 1766663465074637 -->1766663478585296{ }
 1766663478585296 -->|Me too.|1766663488850897[End]
 1766663437074377 -->1766663488850897[End]
