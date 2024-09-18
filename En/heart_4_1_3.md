@@ -10,83 +10,104 @@ What do you think, &lbrace;playername&rbrace;?]
 Really? Is it that intense? But indeed, not everyone can handle spiciness well. Maybe I should reduce the amount of chili.]
 1757656312290930 -->|I think it can be spicier...|1757656589291128[<b>Speaker 👉 Kinntarou:</b>
 
-You're right, we should offer a unique taste! A spiciness that explodes like fireworks, leaving a lasting impression.]
+You're right, we should offer a unique experience! Spice that explodes like fireworks, leaving a lasting impression.]
 1757656448902775 -->1758962451920574[End]
 1757656589291128 -->1758962451920574[End]
 Start -->1757657246957178[<b>Speaker 👉 TV:</b>
 
-Welcome to Heaven's Kitchen, I am your beloved chef Lucifer! Let's see what ingredients we have today to transform into a perfect feast...]
+Welcome to Heaven's Kitchen, I am your beloved chef Lucifer! Let's see what ingredients we have today to create a devilish feast...]
 1757657246957178 -->1758962459651775[End]
 Start -->1758891824335472[<b>Speaker 👉 Kinntarou:</b>
 
 Xiao Long Bao… Udon… Tempura… I want them all!
 Huh... it's you? Where's my tempura? It was just here a moment ago!]
 1758891824335472 -->1758891824335475{ }
-1758891824335475 -->|I didn't eat your food|1758892125002396[End]
+1758891824335475 -->|I didn't eat your food.|1758892125002396[End]
 1758891824335475 -->|You must be dreaming?|1758892125002396[End]
 Start -->1758891824336501[<b>Speaker 👉 Kinntarou:</b>
 
 What a pity, I almost got to eat it. By the way, what brings you here?]
 1758891824336501 -->1758891824336504{ }
-1758891824336504 -->|Just passing by|1758891824336505[<b>Speaker 👉 Kinntarou:</b>
+1758891824336504 -->|I was just passing by.|1758891824336505[<b>Speaker 👉 Kinntarou:</b>
 
 Oh... that's a relief. I thought you were sent by &lbrace;npc.4102&rbrace; to supervise my work.]
-1758891824336504 -->|Fate brought us together|1758891824338563[<b>Speaker 👉 Kinntarou:</b>
+1758891824336504 -->|Fate brought us together.|1758891824338563[<b>Speaker 👉 Kinntarou:</b>
 
-I still hope to have a deeper connection with delicious food...]
+I'd rather have a deeper connection
+with delicious food...]
 1758891824336505 -->1758891824337530[<b>Speaker 👉 Kinntarou:</b>
 
-Mom's tavern is about to open, so I have to help her hand out flyers for promotion. But it's so boring, I fell asleep here.]
+Mom's tavern is about to open, so I was helping her hand out flyers. It was so boring, I fell asleep here.]
 1758891824337530 -->1758891824337533{ }
 1758891824337533 -->|Slacking off...|1758891824337534[<b>Speaker 👉 Kinntarou:</b>
 
-It's because I want to help mom in other ways! Mom wants to hire a chef, but I think I could handle it myself!
-&lbrace;playername&rbrace;, I need to prove to mom that I can be a good chef. Can you help me gather some ingredients? I need 2 &lbrace;item.42002&rbrace; and 3 &lbrace;item.2602&rbrace;, please.]
+It's because I want to help Mom in other ways!
+Mom wants to hire a chef, when I can do it myself!
+&lbrace;playername&rbrace;, I need to prove I'm a good cook.
+Can you help me gather some ingredients?
+I need 2 &lbrace;item.42002&rbrace;s and 3 &lbrace;item.2602&rbrace;es, please.]
 1758891824337533 -->|This is not good!|1758891824337534[<b>Speaker 👉 Kinntarou:</b>
 
-It's because I want to help mom in other ways! Mom wants to hire a chef, but I think I could handle it myself!
-&lbrace;playername&rbrace;, I need to prove to mom that I can be a good chef. Can you help me gather some ingredients? I need 2 &lbrace;item.42002&rbrace; and 3 &lbrace;item.2602&rbrace;, please.]
+It's because I want to help Mom in other ways!
+Mom wants to hire a chef, when I can do it myself!
+&lbrace;playername&rbrace;, I need to prove I'm a good cook.
+Can you help me gather some ingredients?
+I need 2 &lbrace;item.42002&rbrace;s and 3 &lbrace;item.2602&rbrace;es, please.]
 1758891824337534 -->1758891824337537{ }
 1758891824337537 -->|Alright...|1758891824338562[End]
 1758891824337537 -->|Leave it to me!|1758891824338562[End]
 1758891824338563 -->1758891824337530[<b>Speaker 👉 Kinntarou:</b>
 
-Mom's tavern is about to open, so I have to help her hand out flyers for promotion. But it's so boring, I fell asleep here.]
+Mom's tavern is about to open, so I was helping her hand out flyers. It was so boring, I fell asleep here.]
 Start -->1757657625870971[<b>Speaker 👉 Kinntarou:</b>
 
-Heaven's Kitchen is on air! You know this show, right, &lbrace;playername&rbrace;? It's very popular in the culinary world!]
+Heaven's Kitchen is on!
+You know this show, right, &lbrace;playername&rbrace;?
+It's very popular in the culinary world!]
 1757657625870971 -->1757657648455292{ }
-1757657648455292 -->|Never heard of it|1757657831917185[<b>Speaker 👉 Player:</b>
+1757657648455292 -->|Never heard of it.|1757657831917185[<b>Speaker 👉 Kinntarou:</b>
 
-What? &lbrace;playername&rbrace;, you seem out of the loop~ This show is really interesting!]
-1757657648455292 -->|I know Heaven's Kitchen|1757657837139586[<b>Speaker 👉 Kinntarou:</b>
+What? &lbrace;playername&rbrace;, you're missing out!
+It's so much fun to watch!]
+1757657648455292 -->|I've heard of Heaven's Kitchen.|1757657837139586[<b>Speaker 👉 Kinntarou:</b>
 
-Right, right!
-Chef Lucifer is my idol! I heard he's looking for apprentices, and selected chefs can learn from him on the show.
-I envy those chefs who get selected!]
+I know, right?
+Chef Lucifer is my hero!
+I heard he's looking for apprentices.
+If you get in, you can learn from him on the show.
+Boy, do I envy the chefs who got selected!]
 1757657831917185 -->1757658192190083{ }
-1757658192190083 -->|Do you want to go too?|1757658446446216[<b>Speaker 👉 Kinntarou:</b>
+1757658192190083 -->|Do you want to tag along?|1757658446446216[<b>Speaker 👉 Kinntarou:</b>
 
-Of course, I'd love to join, but... Heaven's Kitchen doesn't take open applications. I heard they scout for potential newcomers.
-I hope to be selected someday.]
-1757658192190083 -->|How can one get selected?|1757658446446216[<b>Speaker 👉 Kinntarou:</b>
+Of course, I'd love to be on the show, but...
+Heaven's Kitchen doesn't take open applications.
+I heard they have scouts looking for promising chefs.
+I wish I could make it there someday.]
+1757658192190083 -->|How do I get selected?|1757658446446216[<b>Speaker 👉 Kinntarou:</b>
 
-Of course, I'd love to join, but... Heaven's Kitchen doesn't take open applications. I heard they scout for potential newcomers.
-I hope to be selected someday.]
+Of course, I'd love to be on the show, but...
+Heaven's Kitchen doesn't take open applications.
+I heard they have scouts looking for promising chefs.
+I wish I could make it there someday.]
 1757658446446216 -->1757658685963913{ }
 1757658685963913 -->|Good luck!|1757658708194958[<b>Speaker 👉 Kinntarou:</b>
 
-Yes, let's work hard together!]
+Yes, let's work together!]
 1757658685963913 -->|Definitely!|1757658708194958[<b>Speaker 👉 Kinntarou:</b>
 
-Yes, let's work hard together!]
+Yes, let's work together!]
 1757658708194958 -->1758962481221313[End]
 1757657837139586 -->1757658192190083{ }
 Start -->1758894263585440[<b>Speaker 👉 Lucifer.:</b>
 
-The answer is revealed... Today, Heaven's Kitchen features the most prized Wagyu beef from the Kyoto region as the main ingredient. Let's thank the Kujou Group for their generous sponsorship!
-Ah, when it comes to Wagyu beef, people often think, &quot;High-quality ingredients need the simplest cooking methods.&quot; But today, we will break that rule.
-Next, let's start today's luxurious culinary journey...]
+Alrighty... Today, Heaven's Kitchen will feature prized 
+Wagyu beef from the Kyoto region as the main ingredient.
+Many thanks to the Kujou Group for their sponsorship!
+When it comes to Wagyu beef, you might think,
+&quot;premium ingredients should be cooked in simple ways.&quot;
+Well, today is the day we break that rule.
+Without further ado, let's embark on today's
+grand culinary journey...]
 1758894263585440 -->1758962464800448[End]
 
  ```

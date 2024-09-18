@@ -5,8 +5,8 @@ Start -->1734730740230258[<b>Speaker 👉 Nini:</b>
 Hi, hello! Thanks for coming.]
 Start -->1734730744063091[<b>Speaker 👉 Nini:</b>
 
-Hey, the weather is really strange, isn't it?
-This place looks very unfamiliar,
+Hey, the weather is really odd, isn't it?
+This place looks very strange,
 but at least with you by my side, we can face this challenge together.]
 Start -->1734730747935860[<b>Speaker 👉 Nini:</b>
 
@@ -50,8 +50,8 @@ I still appreciate your effort and friendship.
 It means a lot that you're there for me.]
 Start -->1734733236163709[<b>Speaker 👉 Nini:</b>
 
-I don't like heavy rain,
-it makes me all wet.]
+I hate rain, 
+I always get soaked through.]
 Start -->1734733242721406[<b>Speaker 👉 Player:</b>
 
 A casual chat with you every day

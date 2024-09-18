@@ -1,10 +1,10 @@
 ```mermaid
 graph
-Start -->1741757429204290[<b>Speaker 👉 Yui Oda:</b>
+Start -->1741757429204290[<b>Speaker 👉 Yui:</b>
 
-This is &lbrace;location.5&rbrace;.
-&lbrace;location.14&rbrace;, &lbrace;location.12&rbrace; and &lbrace;location.15&rbrace; are all here.
-I'm preparing Shuten's &lbrace;location.16&rbrace; in Seikyu.
+This is the &lbrace;location.5&rbrace;.
+The &lbrace;location.14&rbrace;, &lbrace;location.12&rbrace; and &lbrace;location.15&rbrace; are all here.
+I'm working on Shuten's &lbrace;location.16&rbrace;.
 I might ask for your help when the time comes.
 Now, go greet everyone yourself.
 I live near the central fountain.

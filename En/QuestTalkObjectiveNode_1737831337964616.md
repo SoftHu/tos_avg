@@ -2,9 +2,9 @@
 graph
 Start -->1737835416866891[<b>Speaker 👉 Kinntarou:</b>
 
-Whew – someone finally heard my call for help.
+Whew – someone finally heard my calls for help.
 I am &lbrace;npc.4103&rbrace;. Today, I sneaked out without my brother 
-knowing to pick strawberries.
+to pick strawberries.
 Then, I got knocked over by Mr Wild Boar passing by.
 Although I don't believe it was intentional,
 it seems I was hurt quite badly.

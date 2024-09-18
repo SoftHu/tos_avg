@@ -8,12 +8,12 @@ Hey, you... yes, you, come over here... come over here.]
 
 Our boss wants to go fishing with you.
 I hope you can come to the fish shop tomorrow. 
-Don't be ungrateful!]
+Don't you know a good thing when you see it?]
 1756252982107357 -->|What do you want?|1756253006232805[<b>Speaker 👉 Uozumi:</b>
 
 Our boss wants to go fishing with you.
 I hope you can come to the fish shop tomorrow. 
-Don't be ungrateful!]
+Don't you know a good thing when you see it?]
 1756253006232805 -->1756253036977382{ }
 1756253036977382 -->|Boss?|1756253051721963[<b>Speaker 👉 Prince:</b>
 
@@ -25,18 +25,18 @@ Seikyu's fish shop is run by our boss, &lbrace;npc.4206&rbrace;.]
 1756253126823150 -->|I'll go.|1756253146034419[<b>Speaker 👉 Uozumi:</b>
 
 Quite obedient.
-I thought I'd have to spread my wings today.
+I thought I'd have to flap my wings!
 That's settled then, bye.]
 1756253126823150 -->|I don't want to go.|1756253182380276[<b>Speaker 👉 Uozumi:</b>
 
-Huh?! The boss gives you a chance to go, and you don't.
+Huh?! The boss extends and invitation, and you refuse.
 Don't blame me if I have to take action.]
 1756253146034419 -->1756253275416827[End]
 1756253182380276 -->1756253203301621{ }
 1756253203301621 -->|I'll go, okay.|1756253146034419[<b>Speaker 👉 Uozumi:</b>
 
 Quite obedient.
-I thought I'd have to spread my wings today.
+I thought I'd have to flap my wings!
 That's settled then, bye.]
 1756253203301621 -->|Let's have a contest.|1756253236786426[<b>Speaker 👉 Uozumi:</b>
 

@@ -4,7 +4,7 @@ Start -->1719156857777177[<b>Speaker 👉 Unconfigured:</b>
 
 Hmm? Such a cute guy...
 Just my type.
-I heard the Prince's riddle was solved by 'Hero'.
+I heard the Prince's riddle was solved by a brave adventurer.
 That must be you, right?
 You're quite famous among us Gulu Bobo people...]
 1719156857777177 -->1719157783831577{ }
@@ -20,7 +20,7 @@ Luckily, you're here...
 Oops, I've talked too much today, not something a lady should do.
 This is a token of thanks...
 See you around.]
-1719157783831577 -->|You're exaggerating a bit...|1719158112470046[<b>Speaker 👉 Unconfigured:</b>
+1719157783831577 -->|You're exaggerating...|1719158112470046[<b>Speaker 👉 Unconfigured:</b>
 
 Alas... Hero, you might not know,
 but ever since the Gulu Bobo moved to Seikyu,
@@ -35,6 +35,6 @@ See you around.]
 Start -->1724023032485937[<b>Speaker 👉 Unconfigured:</b>
 
 It's too hot here... My makeup is going to smudge.
-So inelegant!]
+So unbecoming!]
 
  ```

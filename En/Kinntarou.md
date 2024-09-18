@@ -1,90 +1,269 @@
 ```mermaid
 graph LR
-Start -->1740393851675861[<b>Speaker 👉 Kinntarou:</b>
+Start -->1757731991162451[<b>Speaker 👉 Player:</b>
 
-The comic book mentions a distant country in the East. It's famous for various delicacies like xiaolongbao, spicy hot pot, candied haws, and spring rolls...]
-Start -->1740394561721559[<b>Speaker 👉 Kinntarou:</b>
+Have a seat!
+Get yourself something to drink...
+Come find me if you're hungry.
+I know people come here to drink,
+but you don't wanna starve, right?]
+Start -->1758010836575838[<b>Speaker 👉 Player:</b>
 
-Just thinking about it makes my mouth water! I have to see it for myself someday...
-I always feel Ritsuryo's up to something... Maybe like those dungeon adventures in comic books? Or perhaps he's found some delicious food and hasn't told me?]
-Start -->1740395659485401[<b>Speaker 👉 Kinntarou:</b>
+I'm a kid but I live like an office worker already...
+People will be amazed at my work experience
+when I apply for jobs in the future...]
+Start -->1758010932068960[<b>Speaker 👉 Player:</b>
 
-I'm feeling closer to &lbrace;npc.4103&rbrace;... We're getting along well!]
-Start -->1740401072152795[<b>Speaker 👉 Kinntarou:</b>
+I'm getting used to being a night owl even though
+it's not the healthiest lifestyle for a kid.
+At my age, I should be in bed by nine!]
+Start -->1758084967348788[<b>Speaker 👉 Player:</b>
 
-Oh! How thoughtful...
-Can I really accept something so nice?]
-Start -->1740401072153821[<b>Speaker 👉 Kinntarou:</b>
+Minors aren't allowed to play these games...
+Don't worry, I'm just here to look for tasty treats.]
+Start -->1758088092584535[<b>Speaker 👉 Player:</b>
 
-Thank you!
-I really love the gift you gave me...]
-Start -->1740401072153823[<b>Speaker 👉 Kinntarou:</b>
+I have no idea why they let me in though...
+But since I'm here,
+I might as well look around!]
+Start -->1758176305005128[<b>Speaker 👉 Player:</b>
 
-Thank you...
-We don't need to be so formal with each other.]
-Start -->1740401072153825[<b>Speaker 👉 Kinntarou:</b>
+They've got delicious takoyaki today...
+Do you know what makes takoyaki so tasty?
+I'll let you in on a secret - it's the bonito flakes.]
+Start -->1758177250843210[<b>Speaker 👉 Player:</b>
 
-Although I appreciate the gift, receiving it
-makes me a bit uneasy...]
-Start -->1740401072154851[<b>Speaker 👉 Kinntarou:</b>
+Catch you later!
+Have fun...]
+Start -->1766932627177405[<b>Speaker 👉 Kinntarou:</b>
 
-Are you intentionally trying to embarrass me?]
-Start -->1740401072154853[<b>Speaker 👉 Player:</b>
+None]
+Start -->1766932627178431[<b>Speaker 👉 Kinntarou:</b>
 
-I did something unnecessary... I'm feeling distant from &lbrace;npc.4103&rbrace; now!]
-Start -->1740401072154855[<b>Speaker 👉 Player:</b>
+None]
+Start -->1766932627179457[<b>Speaker 👉 Kinntarou:</b>
 
-Alright, goodbye! Remember to share some tasty food with me next time!]
-Start -->1740401882859753[<b>Speaker 👉 Kinntarou:</b>
+None]
+Start -->1766932627179459[<b>Speaker 👉 Kinntarou:</b>
 
-Mum says the Carp Festival is for boys to grow healthy. I'm more interested in the festival snacks though.]
-Start -->1753043153997612[<b>Speaker 👉 Kinntarou:</b>
+None]
+Start -->1766932627180485[<b>Speaker 👉 Kinntarou:</b>
 
-Happy Carp Festival! I should go and find something to eat too.]
-Start -->1753043602719533[<b>Speaker 👉 Kinntarou:</b>
+None]
+Start -->1766932627181511[<b>Speaker 👉 Kinntarou:</b>
 
-Although Ritsuryo and I know that Shuten is not our real mom, she never asks us to call her mom. But what else should we call her?]
-Start -->1757546431502871[<b>Speaker 👉 Kinntarou:</b>
+None]
+Start -->1766932627181513[<b>Speaker 👉 Kinntarou:</b>
 
-Do you know what the greatest profession in the world is? It's being a chef! This answer might shock you, but it's the truth.]
-Start -->1757546569728537[<b>Speaker 👉 Kinntarou:</b>
+None]
+Start -->1766932627182539[<b>Speaker 👉 Kinntarou:</b>
 
-Ah... I'm so sleepy, I stayed up too late watching TV last night. I'll take a nap after lunch.]
-Start -->1757547255693851[<b>Speaker 👉 Kinntarou:</b>
+None]
+Start -->1766932627183565[<b>Speaker 👉 Kinntarou:</b>
 
-Brother Musashi once invited me to his house for afternoon tea. The tea was nothing special, but the wagashi was delicious!]
-Start -->1757547400011293[<b>Speaker 👉 Kinntarou:</b>
+None]
+Start -->1766932627183567[<b>Speaker 👉 Kinntarou:</b>
 
-It's the busiest time again... Let's get ready and stay energized.]
-Start -->1757547553408543[<b>Speaker 👉 Kinntarou:</b>
+None]
+Start -->1766932627184593[<b>Speaker 👉 Kinntarou:</b>
 
-The weather is really nice today, no wonder Ritsuryo disappeared early in the morning. He must have sneaked out to play again.]
-Start -->1757547891338785[<b>Speaker 👉 Kinntarou:</b>
+None]
+Start -->1766932627185619[<b>Speaker 👉 Kinntarou:</b>
 
-I'm so bored... In this weather, I just want to stay home and sleep. You feel the same way, right?]
-Start -->1757548035372579[<b>Speaker 👉 Kinntarou:</b>
+None]
+Start -->1766932627185621[<b>Speaker 👉 Kinntarou:</b>
 
-Have a seat! Get yourself something to drink first...]
-Start -->1757731991162451[<b>Speaker 👉 Kinntarou:</b>
+None]
+Start -->1766944966991725[<b>Speaker 👉 Kinntarou:</b>
 
-If you're hungry, just come to me. Although everyone comes here to drink, you can't be hungry, right?
-So young and already living the life of an office worker... When I apply for jobs in the future, people will be amazed by my work experience...]
-Start -->1758010836575838[<b>Speaker 👉 Kinntarou:</b>
+None]
+Start -->1766944966992751[<b>Speaker 👉 Kinntarou:</b>
 
-I should get used to this reversed day and night routine... Although nightlife is not healthy for kids, someone my age should be in bed by nine!]
-Start -->1758010932068960[<b>Speaker 👉 Kinntarou:</b>
+None]
+Start -->1766944966993777[<b>Speaker 👉 Kinntarou:</b>
 
-Minors are not allowed to play these games... Don't worry, I'm just here to see if there's any good food.]
-Start -->1758084967348788[<b>Speaker 👉 Kinntarou:</b>
+None]
+Start -->1766944966993779[<b>Speaker 👉 Kinntarou:</b>
 
-I don't know why they let me in... But since I'm here, I might as well look around!]
-Start -->1758088092584535[<b>Speaker 👉 Kinntarou:</b>
+None]
+Start -->1766944966994805[<b>Speaker 👉 Kinntarou:</b>
 
-There are delicious takoyaki today... Do you know the soul of takoyaki? I'll tell you secretly, it's the bonito flakes.]
-Start -->1758176305005128[<b>Speaker 👉 Kinntarou:</b>
+None]
+Start -->1766944966995831[<b>Speaker 👉 Kinntarou:</b>
 
-See you later! Have fun...]
-Start -->1758177250843210[<b>Speaker 👉 Kinntarou:</b>
+None]
+Start -->1766944966995833[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944966996859[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944966997885[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944966997887[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944966998913[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944966999939[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944966999941[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967000967[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967001993[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967001995[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967003021[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967004047[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967005073[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967005075[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967006101[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967007127[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967008153[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967008155[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967009181[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967010207[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967010209[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967011235[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967012261[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967012263[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1767290355134316[<b>Speaker 👉 Kinntarou:</b>
+
+The comic book mentions a distant country in the East,
+where delicious dishes are plentiful.
+Xiaolongbao, hot pot, tanghulu, and spring rolls...
+Just thinking about them makes my mouth water!
+I've got to see for myself someday...]
+Start -->1767290418211693[<b>Speaker 👉 Kinntarou:</b>
+
+You know what the greatest job is?
+A chef!
+Surprising, but it's the truth.]
+Start -->1767290464454510[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1767290493168495[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1767290553923440[<b>Speaker 👉 Kinntarou:</b>
+
+I always feel like Ritsuryo's up to something...
+Maybe like those dungeon adventures in comic books?
+Or perhaps he found a tasty snack and hasn't told me?]
+Start -->1767290591127409[<b>Speaker 👉 Kinntarou:</b>
+
+Got anything tasty to share with me?
+I'm getting tired of these snacks!]
+Start -->1767290644160370[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967018423[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967019449[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944967019451[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944985124797[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944985125823[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944985126849[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944985126851[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944985127877[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944985128903[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944985129929[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944985131979[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944985131981[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944985133007[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944985133009[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944985134035[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944985135061[<b>Speaker 👉 Kinntarou:</b>
+
+Mom says the Carp Festival is a festival for boys.
+She hopes &lbrace;npc.4102&rbrace; and I grow up nice and healthy.
+I'm more interested in the festival snacks though.]
+Start -->1766944985135063[<b>Speaker 👉 Kinntarou:</b>
+
+Happy Carp Festival!
+Time to go grab a bite.]
+Start -->1766944985136089[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944985137115[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944985137117[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944985138143[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944985139169[<b>Speaker 👉 Kinntarou:</b>
+
+None]
+Start -->1766944985139171[<b>Speaker 👉 Kinntarou:</b>
 
 None]
 

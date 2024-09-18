@@ -3,7 +3,7 @@ graph
 Start -->1754546165802936[<b>Speaker 👉 Uozumi:</b>
 
 Boss &lbrace;npc.4206&rbrace; pays better than a tanuki...
-Ahem, I mean significantly more than ideal.
+Ahem, I mean significantly more than expected.
 If you're interested, drop by the shop and say &lbrace;npc.4216&rbrace; sent you.]
 1754546165802936 -->1754546389367737{ }
 1754546389367737 -->|Thank you.|1754548441282496[<b>Speaker 👉 Uozumi:</b>
@@ -32,7 +32,7 @@ it looks like you've been through a lot.]
 1754550460743622 -->1754550945276872[<b>Speaker 👉 Uozumi:</b>
 
 But don't worry, Seikyu is a great place.
-Once here, things will go smoothly,
+Things will go smoothly,
 that's my experience anyway!
 And hey, stay away from the underground ruins...]
 1754550945276872 -->1754552329160649{ }
@@ -56,7 +56,7 @@ All right, Uncle's got to get back to work. See you!]
 1754550466679751 -->1754550945276872[<b>Speaker 👉 Uozumi:</b>
 
 But don't worry, Seikyu is a great place.
-Once here, things will go smoothly,
+Things will go smoothly,
 that's my experience anyway!
 And hey, stay away from the underground ruins...]
 

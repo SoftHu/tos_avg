@@ -25,9 +25,9 @@ Maybe we can fish together.]
 1738536738350211 -->|Let's do it together.|1738536759971976[<b>Speaker 👉 Kon:</b>
 
 Yeah!
-I'm looking forward to the farming and watering,
-and the day of the harvest!]
-1738536738350211 -->|Better stay at home.|1738536768908425[<b>Speaker 👉 Kon:</b>
+I'm looking forward to farming!
+Can't wait for harvest day too!]
+1738536738350211 -->|You'd better stay home.|1738536768908425[<b>Speaker 👉 Kon:</b>
 
 Ah... you always leave me behind.
 I'm going to tell the fox spirits right now.]
@@ -38,14 +38,14 @@ I'm going to tell the fox spirits right now.]
 Haha, let's go!]
 1751470531146036 -->1738536081685624[End]
 1738537311769740 -->1738537301613707{ }
-1738537301613707 -->|Better stay at home.|1738536768908425[<b>Speaker 👉 Kon:</b>
+1738537301613707 -->|You'd better stay home.|1738536768908425[<b>Speaker 👉 Kon:</b>
 
 Ah... you always leave me behind.
 I'm going to tell the fox spirits right now.]
 1738537301613707 -->|Let's do it together.|1738537387244689[<b>Speaker 👉 Kon:</b>
 
 Fox Squad, ready for adventure!
-Let's start our journey!]
+Our journey awaits!]
 1738537387244689 -->1738536081685624[End]
 
  ```

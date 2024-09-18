@@ -9,16 +9,16 @@ Start -->1738285999573172[<b>Speaker 👉 Yoni:</b>
 
 Ah... how can I get to the mountain to obtain &lbrace;item.2517&rbrace;?
 Hey, &lbrace;playername&rbrace;!
-You're the new owner of &lbrace;location.1&rbrace;, right?
+You're the new owner of the &lbrace;location.1&rbrace;, right?
 My name is &lbrace;npc.4105&rbrace; and I've also just arrived in Seikyu.]
 1738287908723935 -->1738287181983936{ }
-1738287181983936 -->|Hope you find a way soon.|1738287216834759[<b>Speaker 👉 Player:</b>
+1738287181983936 -->|Hope you find a solution soon.|1738287216834759[<b>Speaker 👉 Player:</b>
 
 Thank you, and may your adventures be safe.]
 1738287181983936 -->|Can you show me first?|1738287283890381[<b>Speaker 👉 Yoni:</b>
 
 Here?
-This is so sudden... it's a bit embarrassing...]
+This is all a bit sudden... it's a bit embarrassing...]
 1738287181983936 -->|I can try to help you.|1738287397582039[<b>Speaker 👉 Yoni:</b>
 
 Seriously, thank you so much!
@@ -26,12 +26,14 @@ Seriously, thank you so much!
 1738287216834759 -->1738287721382109{ }
 1738287721382109 -->1738288124658912[End]
 1738287283890381 -->1738287315975374{ }
-1738287315975374 -->|I18N Missing|1738287339132115[<b>Speaker 👉 Yoni:</b>
+1738287315975374 -->|You can sing it next time.|1738287339132115[<b>Speaker 👉 Yoni:</b>
 
-I18N Missing]
-1738287315975374 -->|I18N Missing|1738287339132115[<b>Speaker 👉 Yoni:</b>
+But if you can capture &lbrace;item.2517&rbrace; for me.
+I'll trade you a gift in exchange!]
+1738287315975374 -->|If you're sorry, forget it.|1738287339132115[<b>Speaker 👉 Yoni:</b>
 
-I18N Missing]
+But if you can capture &lbrace;item.2517&rbrace; for me.
+I'll trade you a gift in exchange!]
 1738287339132115 -->1738287369583828{ }
 1738287369583828 -->|Deal!|1738287491991770[<b>Speaker 👉 Yoni:</b>
 
@@ -40,7 +42,7 @@ Thank you so much!
 1738287369583828 -->|Sorry, I don't have the time.|1738287685928156[<b>Speaker 👉 Yoni:</b>
 
 No worries!
-I'll find a way to solve this!
+I'll find a way to fix this!
 Nice to meet you.]
 1738287491991770 -->1738287669031131[End]
 1738287685928156 -->1738287721382109{ }
@@ -59,7 +61,7 @@ Ah...
 But this body of mine... 
 it's too hard for me to get up the mountain.]
 1738286345339066 -->1738287256420556{ }
-1738287256420556 -->|Facing any troubles?|1738286492721339[<b>Speaker 👉 Yoni:</b>
+1738287256420556 -->|Is there something troubling you?|1738286492721339[<b>Speaker 👉 Yoni:</b>
 
 &lbrace;npc.4205&rbrace; wants me to collect &lbrace;item.2517&rbrace; from the mountaintop
 so she can make the dress I need for singing!

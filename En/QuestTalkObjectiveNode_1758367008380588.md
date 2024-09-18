@@ -2,7 +2,7 @@
 graph
 Start -->1758367218922159[<b>Speaker 👉 Ritsuryo:</b>
 
-Boss! Did Lady Tengu agree? I can tell from your expression.]
+Boss! Lady Tengu agreed...? I can tell from your expression.]
 1758367218922159 -->1758367237911216{ }
 1758367237911216 -->|Convey Lady Tengu's requirements.|1758367257281203[<b>Speaker 👉 Ritsuryo:</b>
 

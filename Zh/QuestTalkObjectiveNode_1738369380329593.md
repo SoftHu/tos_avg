@@ -15,8 +15,8 @@ Start -->1738369447807100[<b>Speaker 👉 武藏:</b>
 攒够了钱计划定居在&lbrace;location.13&rbrace;。]
 1738369514544259 -->1742696668586266[<b>Speaker 👉 武藏:</b>
 
-其实这个&lbrace;location.13&rbrace;只要好好打理打理还是不错的。
-如果你们想继续经营这个&lbrace;location.13&rbrace;，
+其实这个&lbrace;location.1&rbrace;只要好好打理打理还是不错的。
+如果你们想继续经营这个&lbrace;location.1&rbrace;，
 我可以帮你们把货物卖到镇上。
 把能卖的东西放在这个&lbrace;highlight.start&rbrace;寄售箱&lbrace;highlight.end&rbrace;里边，
 我每天早上都会来取。
@@ -52,25 +52,19 @@ Start -->1738369447807100[<b>Speaker 👉 武藏:</b>
 &lt;shiver&gt;&lt;speed=0.8&gt;太变态了你，我是他妹妹……&lt;/shiver&gt;]
 1738388857535646 -->1738370006176916[<b>Speaker 👉 武藏:</b>
 
-哈哈，这里是&lbrace;location.13&rbrace;……&lt;pause=0.25&gt;
-大家都是妖怪嘛，有什么稀奇的。
-偷偷告诉你们，
-我以前还喜欢过一只天狗。
+哈哈，你很幸运有你的妹妹陪伴…&lt;pause=0.25&gt;
 那我先走了，
 有事来&lbrace;location.20&rbrace;的&lbrace;location.14&rbrace;找我啊！]
 1738370006176916 -->1738370113018005[End]
 1738388885747871 -->1738370006176916[<b>Speaker 👉 武藏:</b>
 
-哈哈，这里是&lbrace;location.13&rbrace;……&lt;pause=0.25&gt;
-大家都是妖怪嘛，有什么稀奇的。
-偷偷告诉你们，
-我以前还喜欢过一只天狗。
+哈哈，你很幸运有你的妹妹陪伴…&lt;pause=0.25&gt;
 那我先走了，
 有事来&lbrace;location.20&rbrace;的&lbrace;location.14&rbrace;找我啊！]
 1738369637289097 -->1742696668586266[<b>Speaker 👉 武藏:</b>
 
-其实这个&lbrace;location.13&rbrace;只要好好打理打理还是不错的。
-如果你们想继续经营这个&lbrace;location.13&rbrace;，
+其实这个&lbrace;location.1&rbrace;只要好好打理打理还是不错的。
+如果你们想继续经营这个&lbrace;location.1&rbrace;，
 我可以帮你们把货物卖到镇上。
 把能卖的东西放在这个&lbrace;highlight.start&rbrace;寄售箱&lbrace;highlight.end&rbrace;里边，
 我每天早上都会来取。

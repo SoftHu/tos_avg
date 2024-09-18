@@ -18,7 +18,8 @@ Start -->1736575274041470[<b>Speaker 👉 Unconfigured:</b>
 Campfire, the warm campfire... makes you sleepy.]
 Start -->1736575296315520[<b>Speaker 👉 Unconfigured:</b>
 
-Scattered weapons made of wood. They look well-made and have a lot of scratches, like they've been used frequently.]
+Scattered weapons made of wood. They look well-made and are covered with marks,
+like they're well used.]
 Start -->1736575338122370[<b>Speaker 👉 Unconfigured:</b>
 
 A water tank, filled with water. Nothing special…]

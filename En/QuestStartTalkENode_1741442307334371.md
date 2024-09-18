@@ -1,6 +1,6 @@
 ```mermaid
 graph
-Start -->1741442449087714[<b>Speaker 👉 I18N Missing:</b>
+Start -->1741442449087714[<b>Speaker 👉 &lbrace;npc.4103&rbrace;:</b>
 
 Huh???
 This is not the place.

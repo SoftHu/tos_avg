@@ -6,11 +6,11 @@ It's late and I'm feeling tired.
 Let's head back to the inn. Kon will be worried.]
 Start -->1732283576011879[<b>Speaker 👉 Player:</b>
 
-I'm exhausted
-and I feel like I'm about to pass out...]
+I'm exhausted.
+I feel like I'm about to pass out...]
 Start -->1740923208445142[<b>Speaker 👉 Player:</b>
 
 It's late and I'm tired.
-Better get an early night tonight.]
+Better hit the sack.]
 
  ```

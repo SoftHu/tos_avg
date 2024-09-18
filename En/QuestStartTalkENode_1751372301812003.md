@@ -44,21 +44,21 @@ Hmm, that makes sense.
 A quiet environment will allow me to focus on my work...]
 1751443330296399 -->1751443519333969[<b>Speaker 👉 Hephaestus:</b>
 
-Next up is business direction. Although my strength is in forging blades,
+Next up, business direction. Although my strength is in forging blades,
 it seems the town doesn't really need them.
-So besides forging weapons, I'm thinking of preparing some regular goods. What do you think I should sell?]
+So besides forging weapons, I'm thinking of preparing some everyday goods. What do you think I should sell?]
 1751443519333969 -->1751443624437330{ }
 1751443624437330 -->|Exquisite crafts|1751444020978263[<b>Speaker 👉 Hephaestus:</b>
 
 That's a good choice. I'll seriously consider your suggestion.
 The last issue is also my biggest dilemma:
-Should my sign say Muramasa or my own name, Hephaestus? 
+Should my sign bear Muramasa's name or my own? 
 Master Muramasa's name is well-known, nobody knows Hephaestus...]
 1751443624437330 -->|Practical tools|1751444020978263[<b>Speaker 👉 Hephaestus:</b>
 
 That's a good choice. I'll seriously consider your suggestion.
 The last issue is also my biggest dilemma:
-Should my sign say Muramasa or my own name, Hephaestus? 
+Should my sign bear Muramasa's name or my own? 
 Master Muramasa's name is well-known, nobody knows Hephaestus...]
 1751444020978263 -->1751444236070488{ }
 1751444236070488 -->|Let everyone know about &lbrace;npc.4106.first_name&rbrace;.|1751444367376992[<b>Speaker 👉 Hephaestus:</b>
@@ -80,8 +80,8 @@ Now I'll go back and start preparing for the workshop!
 I hope it won't be long before I can invite you to the opening ceremony.]
 1751443333373520 -->1751443519333969[<b>Speaker 👉 Hephaestus:</b>
 
-Next up is business direction. Although my strength is in forging blades,
+Next up, business direction. Although my strength is in forging blades,
 it seems the town doesn't really need them.
-So besides forging weapons, I'm thinking of preparing some regular goods. What do you think I should sell?]
+So besides forging weapons, I'm thinking of preparing some everyday goods. What do you think I should sell?]
 
  ```

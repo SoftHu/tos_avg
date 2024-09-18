@@ -9,7 +9,7 @@ What kind of a fox is that?]
 1738545351207154 -->|Comfort her.|1738545380698359[<b>Speaker 👉 Kon:</b>
 
 &#40;Kon burst into tears... I can't seem to conform her.&#41;]
-1738545351207154 -->|We'll find a new way.|1738545380698359[<b>Speaker 👉 Kon:</b>
+1738545351207154 -->|We'll find another way.|1738545380698359[<b>Speaker 👉 Kon:</b>
 
 &#40;Kon burst into tears... I can't seem to conform her.&#41;]
 1738545380698359 -->1738542826258647[End]

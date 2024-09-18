@@ -16,12 +16,12 @@ I have a gift for you too.]
 
 I raised it myself,
 I hope you take good care of it.
-I hope my performance goes well!]
+I hope my performance goes without a hitch!]
 1741644780826881 -->1741644967451907[<b>Speaker 👉 Yoni:</b>
 
 I raised it myself,
 I hope you take good care of it.
-I hope my performance goes well!]
+I hope my performance goes without a hitch!]
 1741644967451907 -->1741645063795972[End]
 
  ```

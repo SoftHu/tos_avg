@@ -4,12 +4,12 @@ Start -->1739241015167200[<b>Speaker 👉 Kinntarou:</b>
 
 Bobo Soda... Bobo Soda...
 I've been dreaming of Bobo Soda...
-Oh dear, it looks like you didn't bring me &lbrace;item.26300&rbrace;.]
+Oh dear, it looks like you didn't bring me any &lbrace;item.26300&rbrace;.]
 Start -->1739241015168226[<b>Speaker 👉 Kinntarou:</b>
 
 Bobo Soda... Bobo Soda...
 I've been dreaming of Bobo Soda...
-Ah, are you here to bring me &lbrace;item.26300&rbrace;?]
+Ah, are you here to bring me some &lbrace;item.26300&rbrace;?]
 1739241015167200 -->1739241015167201[End]
 1739241015168226 -->1739241015168229{ }
 1739241015168229 -->|Let's talk another time...|1739241015169258[<b>Speaker 👉 Kinntarou:</b>

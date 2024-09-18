@@ -22,25 +22,25 @@ You decide!]
 1739174318036170 -->1739419408500975{ }
 Start -->1739174397209804[<b>Speaker 👉 Ritsuryo:</b>
 
-Hey! Did you get it wrong?
-I asked you to beat up this Daruma, not blow it up!]
+Hey! What are you doing?
+I asked you to beat the Daruma, not destroy it!]
 1739174397209804 -->1739174442891471{ }
-1739174442891471 -->|The grand prize is mine!|1739174468325588[<b>Speaker 👉 Ritsuryo:</b>
+1739174442891471 -->|I got the Grand Prize!|1739174468325588[<b>Speaker 👉 Ritsuryo:</b>
 
-Wait, wait, wait, that's my utensil...
+Wait, wait, wait, that's for eating...
 To buy this Daruma,
 I borrowed 1500 gold coins and used up all my savings.
 Even the top prize won't cover your debt.
 You still owe me 500 gold coins. 
-Your friend here stay with me until you cough up!]
+Your friend here stays with me until you cough it up!]
 1739174442891471 -->|Yay!|1739174468325588[<b>Speaker 👉 Ritsuryo:</b>
 
-Wait, wait, wait, that's my utensil...
+Wait, wait, wait, that's for eating...
 To buy this Daruma,
 I borrowed 1500 gold coins and used up all my savings.
 Even the top prize won't cover your debt.
 You still owe me 500 gold coins. 
-Your friend here stay with me until you cough up!]
+Your friend here stays with me until you cough it up!]
 1739174468325588 -->1739419408500975{ }
 Start -->1739174569058519[<b>Speaker 👉 Ritsuryo:</b>
 
@@ -50,7 +50,7 @@ Wait, if I leave now, I'll get to keep your money, right?]
 
 Hey, why so angry? Just kidding.
 Come back next time!]
-1739174629775576 -->|No big deal|1739174718294239[<b>Speaker 👉 Ritsuryo:</b>
+1739174629775576 -->|No big deal.|1739174718294239[<b>Speaker 👉 Ritsuryo:</b>
 
 Hehe, money is so easy to earn...]
 Start -->1739511529487604[<b>Speaker 👉 Ritsuryo:</b>

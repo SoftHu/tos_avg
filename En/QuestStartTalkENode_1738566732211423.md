@@ -5,7 +5,7 @@ Start -->1738567855327459[ ]
 
 Hello, &lbrace;playername&rbrace; and &lbrace;npc.4101&rbrace;!
 I heard you were planning to settle in &lbrace;location.13&rbrace;.
-I'm glad you found a stable and happy home.
+I'm glad you found a stable, happy place to call home.
 When you worship at these shrines,
 the gods will protect you
 and grant you the power of teleportation.

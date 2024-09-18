@@ -6,16 +6,16 @@ This is my favourite dessert. Hope you like it!
 Speaking of tasty treats, have you heard of 'Ninja Bubbles'?
 It's a super-popular new Bobo Soda!]
 1739077808213210 -->1739077808214237{ }
-1739077808214237 -->|More than just heard of it, I've even tasted it.|1739077808214238[<b>Speaker 👉 Kinntarou:</b>
+1739077808214237 -->|I've more than just heard of it, I've tasted it.|1739077808214238[<b>Speaker 👉 Kinntarou:</b>
 
 Wow, I envy you... I've never tried it.]
 1739077808214237 -->|Not yet...|1739077808214239[<b>Speaker 👉 Kinntarou:</b>
 
 Ninja Bubbles are even in comic books!
 It's the protagonists' favourite...
-I heard it's stocked in the town's vending machines.
+I heard they're stocked in the town's vending machines.
 I'd really like to try &lbrace;item.26300&rbrace;!
-Just thinking about it makes my mouth water.
+Just thinking about it makes me salivate!
 Too bad Ritsuryo said it's not safe to go out...
 Could you bring me a bottle of &lbrace;item.26300&rbrace;?
 I'll trade you something very valuable for it!]
@@ -23,9 +23,9 @@ I'll trade you something very valuable for it!]
 
 Ninja Bubbles are even in comic books!
 It's the protagonists' favourite...
-I heard it's stocked in the town's vending machines.
+I heard they're stocked in the town's vending machines.
 I'd really like to try &lbrace;item.26300&rbrace;!
-Just thinking about it makes my mouth water.
+Just thinking about it makes me salivate!
 Too bad Ritsuryo said it's not safe to go out...
 Could you bring me a bottle of &lbrace;item.26300&rbrace;?
 I'll trade you something very valuable for it!]

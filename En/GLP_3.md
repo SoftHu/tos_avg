@@ -2,35 +2,36 @@
 graph
 Start -->1719159014612000[<b>Speaker 👉 Unconfigured:</b>
 
-I finally get to meet you, Hero.
-I'm a Gulu Bobo royal guard, ordered by the queen to wait here for you.
-The queen is interested in you.
-This was just a minor test.
-Congratulations, you've passed this challenge.]
+It's about time we met, hero.
+I'm a Gulu Bobo royal guard, ordered by the Queen
+to wait here for you.
+Her Majesty has taken quite an interest in you.
+This was merely a test.
+And congratulations, you've passed.]
 1719159014612000 -->1719160430499873{ }
-1719160430499873 -->|Not interested in the queen...|1719161269123110[<b>Speaker 👉 Unconfigured:</b>
+1719160430499873 -->|I'm not interested in Her Majesty...|1719161269123110[<b>Speaker 👉 Unconfigured:</b>
 
-How dare you speak like that!
-That's the queen!
-You dare to say you're not interested in her...
-Er...
-&#40;Softly&#41; But then again, being interested in her
-would be the biggest insult! I won't allow it...]
+Such insolence!
+It's the Queen we're talking about!
+How dare you say you're not interested...
+Um... &#40;Softly&#41; Then again,
+if you were interested in her, that would be
+disrespect of the highest order! I wouldn't allow it...]
 1719160430499873 -->|Just solving puzzles for fun.|1719161275267111[<b>Speaker 👉 Unconfigured:</b>
 
 Hero, don't be so narrow-minded!
-Being noticed by the queen is an honour.
-But no weird thoughts about her allowed!]
+Being recognized by Her Majesty is a huge honor.
+But I'm telling you now, don't get any funny ideas.]
 1719161269123110 -->1719163380421672[<b>Speaker 👉 Unconfigured:</b>
 
-Anyway, here's the queen's reward...
-Be grateful, brat.]
+Anyway, here's the reward from Her Majesty...
+Be grateful, you insolent brat.]
 1719161275267111 -->1719163380421672[<b>Speaker 👉 Unconfigured:</b>
 
-Anyway, here's the queen's reward...
-Be grateful, brat.]
+Anyway, here's the reward from Her Majesty...
+Be grateful, you insolent brat.]
 Start -->1724023392865331[<b>Speaker 👉 Unconfigured:</b>
 
-Don't you have anything else to do?]
+Have you nothing better to do?]
 
  ```

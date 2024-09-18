@@ -19,11 +19,11 @@ Start -->1727398269267067[<b>Speaker 👉 Sasaki:</b>
 
 Sorry...
 If there's nothing important...
-please move on.]
+please leave me be.]
 Start -->1727398269267069[<b>Speaker 👉 Sasaki:</b>
 
 Apologies...
-I'm not very good at chatting...]
+I'm not much of a conversationalist...]
 Start -->1727398269268095[<b>Speaker 👉 Sasaki:</b>
 
 ...
@@ -35,13 +35,13 @@ Thank you for supporting my business.
 I'm not sure how to express my gratitude...]
 Start -->1727398269268099[<b>Speaker 👉 Sasaki:</b>
 
-I'm not good at chatting…]
+I'm not the best person the chat with…]
 Start -->1727398269269125[<b>Speaker 👉 Sasaki:</b>
 
 Please... don't make this hard for me…]
 Start -->1727398879386759[<b>Speaker 👉 Sasaki:</b>
 
-Such a nice thing, can I really accept it?]
+It's so nice, can I really have it?]
 Start -->1727398879386761[<b>Speaker 👉 Sasaki:</b>
 
 Thank you...
@@ -52,8 +52,8 @@ Thank you...
 You're very generous.]
 Start -->1727398879387789[<b>Speaker 👉 Sasaki:</b>
 
-Although I appreciate the gift, receiving it
-makes me a bit uneasy...]
+Although I appreciate the gift, accepting it
+would make me uncomfortable...]
 Start -->1727398879387791[<b>Speaker 👉 Sasaki:</b>
 
 ...Are you making fun of me?]
@@ -63,7 +63,7 @@ I'm feeling closer to &lbrace;npc.4210&rbrace;...
 We're getting along well!]
 Start -->1727398879388819[<b>Speaker 👉 Player:</b>
 
-I did something unnecessary...
+I did something I shouldn't have...
 I'm feeling distant from &lbrace;npc.4210&rbrace; now!]
 Start -->1749600078779689[<b>Speaker 👉 Sasaki:</b>
 
@@ -80,7 +80,7 @@ Oh.]
 
 That's too much!
 Even so, you're just an NPC.
-Such crazy responses just to make players remember you ruins your character.
+Stop being so meta! What a cheap attempt to stand out!.
 I will call the police, I really will.]
 Start -->1753051243282237[<b>Speaker 👉 Sasaki:</b>
 
@@ -88,6 +88,6 @@ Everyone is celebrating the Carp Festival,
 so I'm closing the shop for the day to join in.]
 Start -->1753053061347134[<b>Speaker 👉 Sasaki:</b>
 
-Happy Carp Festival! Time to find some fun.]
+Happy Carp Festival! Time to have some fun.]
 
  ```

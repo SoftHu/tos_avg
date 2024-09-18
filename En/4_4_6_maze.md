@@ -6,7 +6,7 @@ WO HO HO! My dear little yokai,
 I am Gulu Bobo the Dancer, guardian of love and peace.
 Congratulations on finding my boudoir.
 Whether you can become my beloved prince
-and earn a grand reward depends on your performance.
+and earn a grand reward hinges on your performance.
 Are you ready?
 Coming up is my 'Glamorous Transformation Challenge'!]
 1751193153645843 -->1751196668154133{ }
@@ -16,9 +16,9 @@ Start -->1751196687749401[<b>Speaker 👉 Gulu Bobo Dancer:</b>
 Take a guess! Which barrel did I transform into?
 Don't try to sniff out my scent!]
 1751196687749401 -->1751196735400218{ }
-1751196735400218 -->|Left|1751196830360868[ ]
-1751196735400218 -->|Right|1751196830360868[ ]
-1751196735400218 -->|Middle|1751196853955877[End]
+1751196735400218 -->|Left.|1751196830360868[ ]
+1751196735400218 -->|Right.|1751196830360868[ ]
+1751196735400218 -->|Middle.|1751196853955877[End]
 1751196830360868 -->1751196853955877[End]
 Start -->1751196864808231[<b>Speaker 👉 Gulu Bobo Dancer:</b>
 

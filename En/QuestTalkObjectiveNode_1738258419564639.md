@@ -4,7 +4,7 @@ Start -->1738258947659874[<b>Speaker 👉 Kinntarou:</b>
 
 Ah... you're back!
 I'd really like to try &lbrace;item.26300&rbrace;!
-Just thinking about it makes my mouth water.
+Just thinking about it makes me salivate!
 Too bad Ritsuryo said it's not safe to go out...
 Could you bring me a bottle of &lbrace;item.26300&rbrace;?
 I'll trade you something very valuable for it!]
