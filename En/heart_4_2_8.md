@@ -141,14 +141,14 @@ You better become a regular at the tavern.
 I'll give &lbrace;playername&rbrace; special treatment!]
 1754553000530537 -->1754553083090541[<b>Speaker 👉 Kinntarou:</b>
 
-Miss Ama...
+Miss Ama…
 when can I cook?
 I wanna help out at the tavern too.
-Ritsuryo has someone teaching him...]
+Ritsuryo has someone teaching him…]
 1754553083090541 -->1754553386020462[<b>Speaker 👉 Shuten:</b>
 
-Well...
-I don't know how to cook either...]
+Well…
+I don't know how to cook either…]
 1754553386020462 -->1754555144559215{ }
 1754555144559215 -->|I can teach Kinntarou.|1754555186528885[ ]
 1754555144559215 -->|Would you like to learn from me?|1754555186528885[ ]
@@ -214,16 +214,16 @@ so I'd like to purchase more from you.]
 1754556971967180 -->1754557163075277{ }
 1754557163075277 -->|How much beer?|1754557185048274[<b>Speaker 👉 Shuten:</b>
 
-Actually...
+Actually…
 a large part of the tavern's income is used to
 pay off the debt I owe Kababa.
-So I might not have enough money to pay you...]
+So I might not have enough money to pay you…]
 1754557163075277 -->|How much sake?|1754557185048274[<b>Speaker 👉 Shuten:</b>
 
-Actually...
+Actually…
 a large part of the tavern's income is used to
 pay off the debt I owe Kababa.
-So I might not have enough money to pay you...]
+So I might not have enough money to pay you…]
 1754557185048274 -->1754557221632723{ }
 1754557221632723 -->|You want to pay on credit?|1754557253421784[<b>Speaker 👉 Shuten:</b>
 
@@ -267,40 +267,40 @@ Bottoms up!]
 1754558107545320 -->1754558016016100[End]
 Start -->1754562196723434[<b>Speaker 👉 Shuten:</b>
 
-Hey, do you have any clue...
+Hey, do you have any clue…
 how hard it is to raise two kids?]
 1754562196723434 -->1754562216991467{ }
-1754562216991467 -->|...Kids... little?|1754562243246832[<b>Speaker 👉 Shuten:</b>
+1754562216991467 -->|…Kids… little?|1754562243246832[<b>Speaker 👉 Shuten:</b>
 
-You... dreenk tew mooch.
+You… dreenk tew mooch.
 You cain't even shpeak claarly.
 Hahaha,
-&lbrace;playername&rbrace;, you really are... the cutest and the
+&lbrace;playername&rbrace;, you really are… the cutest and the
 kindest yokai I ever met. Well, apart from her...]
 1754562243246832 -->1754562399231729{ }
 1754562399231729 -->|Her?|1754562426443510[<b>Speaker 👉 Shuten:</b>
 
-I still, uh... have feelings for her,
+I still, uh… have feelings for her,
 but she just walked away from the kids.
 Aargh!
 The thought of her gives me a headache!
 What she was thinking is simply beyond me.]
 1754562399231729 -->|Who?|1754562426443510[<b>Speaker 👉 Shuten:</b>
 
-I still, uh... have feelings for her,
+I still, uh… have feelings for her,
 but she just walked away from the kids.
 Aargh!
 The thought of her gives me a headache!
 What she was thinking is simply beyond me.]
 1754562426443510 -->1754562472589047{ }
-1754562472589047 -->|Maybe... it's... time to start a new life?|1754562500335356[<b>Speaker 👉 Shuten:</b>
+1754562472589047 -->|Maybe… it's… time to start a new life?|1754562500335356[<b>Speaker 👉 Shuten:</b>
 
 That's just... I mean... you know!
 You're so adorable, &lbrace;playername&rbrace;.
 Who needs her if I have you!]
-1754562472589047 -->|Did she have her... reasons?|1754562504491773[<b>Speaker 👉 Shuten:</b>
+1754562472589047 -->|Did she have her… reasons?|1754562504491773[<b>Speaker 👉 Shuten:</b>
 
-...Ah... maybe.]
+…Ah… maybe.]
 1754562500335356 -->1754562551441150[<b>Speaker 👉 Shuten:</b>
 
 It's getting late.

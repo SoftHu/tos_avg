@@ -2,79 +2,80 @@
 graph
 Start -->1738369447807100[<b>Speaker 👉 Musashi:</b>
 
-You two are the ones who purchased this &lbrace;location.1&rbrace;.
-I've been waiting for you for a long time.
-What took you so long?]
+Well, well. Nice to meet you too, stranger.
+That's no way to treat a neighbor.]
 1738369447807100 -->1738369487068285{ }
-1738369487068285 -->|Could you make the &lbrace;location.1&rbrace; any cheaper?|1738369514544259[<b>Speaker 👉 Musashi:</b>
+1738369487068285 -->|Sorry, I thought you were a cat.|1738369514544259[<b>Speaker 👉 Musashi:</b>
 
-I'm already giving you the lowest price, being wanderers and all.]
-1738369487068285 -->|A lot has happened.|1738369637289097[<b>Speaker 👉 Musashi:</b>
+This place is full of surprises.
+Things are rarely as they seem.]
+1738369487068285 -->|Oh…|1738369637289097[<b>Speaker 👉 Musashi:</b>
 
-I heard you've been wandering,
-saving up money to settle in &lbrace;location.13&rbrace;.]
+What, cat got your tongue?]
 1738369514544259 -->1742696668586266[<b>Speaker 👉 Musashi:</b>
 
-Actually, this &lbrace;location.1&rbrace; just needs a bit of TLC.
-If you want to continue running this &lbrace;location.1&rbrace;,
-I can help you sell the goods in town.
-Put sellable items in this &lbrace;highlight.start&rbrace;consignment box&lbrace;highlight.end&rbrace;.
-I'll pick them up every morning.
-I'll definitely give you a fair price,
-you can count on that.]
+You must be the new resident of Seikyu.
+I’m Musashi.
+I run the general store in town. 
+If you need anything, just let me know.
+I’m sure you’ll want a few things for the old farmhouse. 
+I can also buy anything you make here.
+
+Just leave it in that consignment box over there and I’ll pick it up in the mornings. 
+If you can find it, I can sell it. 
+Can’t have you running out of money.
+
+But you look like you know how to hustle some coins together…]
 1742696668586266 -->1738369604865156{ }
-1738369604865156 -->|What will I sell?|1738369892088971[<b>Speaker 👉 Musashi:</b>
+1738369604865156 -->|Our hustling days are over.|1738369892088971[<b>Speaker 👉 Musashi:</b>
 
-All sorts of &lbrace;highlight.start&rbrace;crops&lbrace;highlight.end&rbrace; and &lbrace;highlight.start&rbrace;items you've gathered&lbrace;highlight.end&rbrace; can go in there.
-There should be some &lbrace;highlight.start&rbrace;seeds&lbrace;highlight.end&rbrace; left in the farmhouse.]
-1738369604865156 -->|Understood.|1741542909956340[<b>Speaker 👉 Musashi:</b>
+I know the feeling.
+I think we're going to get along, …]
+1738369604865156 -->|We've worked hard to afford this place.|1738369892088971[<b>Speaker 👉 Musashi:</b>
 
-Here's a welcome gift for you.]
+I know the feeling.
+I think we're going to get along, …]
 1738369892088971 -->1738369962747020{ }
-1738369962747020 -->|Understood.|1741542909956340[<b>Speaker 👉 Musashi:</b>
+1738369962747020 -->|&lbrace;playername&rbrace;.|1741542909956340[<b>Speaker 👉 Musashi:</b>
 
-Here's a welcome gift for you.]
-1741542909956340 -->1738369888274570[<b>Speaker 👉 Musashi:</b>
+&lbrace;playername&rbrace;…
+And who is this?
+]
+1741542909956340 -->1738369888274570[<b>Speaker 👉 Kon:</b>
 
-If you need any other &lbrace;highlight.start&rbrace;furniture&lbrace;highlight.end&rbrace;, you can visit the &lbrace;highlight.start&rbrace;furniture shop&lbrace;highlight.end&rbrace; in town.
-All right, you two sweethearts &lt;pause=0.0625&gt;
-I hope you have a wonderful life here in &lbrace;location.13&rbrace;!]
-1741542909956340 -->1738369888274570[<b>Speaker 👉 Musashi:</b>
+I'm Kon!]
+1738369888274570 -->1768545209125798[<b>Speaker 👉 Musashi:</b>
 
-If you need any other &lbrace;highlight.start&rbrace;furniture&lbrace;highlight.end&rbrace;, you can visit the &lbrace;highlight.start&rbrace;furniture shop&lbrace;highlight.end&rbrace; in town.
-All right, you two sweethearts &lt;pause=0.0625&gt;
-I hope you have a wonderful life here in &lbrace;location.13&rbrace;!]
-1738369888274570 -->1738369982437519{ }
-1738369982437519 -->|We're not what you think.|1738388857535646[<b>Speaker 👉 Kon:</b>
+Pleasure to meet you both. 
+You two are…
+]
+1768545209125798 -->1768545232629671[<b>Speaker 👉 Kon:</b>
 
-&lt;shiver&gt;&lt;speed=0.8&gt;We're not husband and wife... &lt;/shiver&gt; 
-He's my &lbrace;sex.sibling&rbrace;.]
-1738369982437519 -->|We will have a cozy life here.|1738388885747871[<b>Speaker 👉 Kon:</b>
+SIBLINGS!]
+1768545232629671 -->1768545250768808[<b>Speaker 👉 Musashi:</b>
 
-&lt;shiver&gt;&lt;speed=0.8&gt;This is just too much, I'm his sister...! &lt;/shiver&gt;]
-1738388857535646 -->1738370006176916[<b>Speaker 👉 Musashi:</b>
+Of course, I can see the family resemblance.
+I wanted to be the first to lay eyes on our new neighbors. 
 
-Haha, this is &lbrace;location.13&rbrace;... &lt;pause=0.25&gt;
-I see... you are lucky to have your sister as a companion.
-I'll be going now.
-If you need anything, come to the town's 
-&lbrace;location.14&rbrace; to find me!]
-1738370006176916 -->1738370113018005[End]
-1738388885747871 -->1738370006176916[<b>Speaker 👉 Musashi:</b>
+I should be getting back to the shop. 
+Come find me if you ever want to go fishing.
 
-Haha, this is &lbrace;location.13&rbrace;... &lt;pause=0.25&gt;
-I see... you are lucky to have your sister as a companion.
-I'll be going now.
-If you need anything, come to the town's 
-&lbrace;location.14&rbrace; to find me!]
+See you soon, 
+&lbrace;playername&rbrace;.]
+1768545250768808 -->1738370113018005[End]
 1738369637289097 -->1742696668586266[<b>Speaker 👉 Musashi:</b>
 
-Actually, this &lbrace;location.1&rbrace; just needs a bit of TLC.
-If you want to continue running this &lbrace;location.1&rbrace;,
-I can help you sell the goods in town.
-Put sellable items in this &lbrace;highlight.start&rbrace;consignment box&lbrace;highlight.end&rbrace;.
-I'll pick them up every morning.
-I'll definitely give you a fair price,
-you can count on that.]
+You must be the new resident of Seikyu.
+I’m Musashi.
+I run the general store in town. 
+If you need anything, just let me know.
+I’m sure you’ll want a few things for the old farmhouse. 
+I can also buy anything you make here.
+
+Just leave it in that consignment box over there and I’ll pick it up in the mornings. 
+If you can find it, I can sell it. 
+Can’t have you running out of money.
+
+But you look like you know how to hustle some coins together…]
 
  ```

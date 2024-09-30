@@ -9,7 +9,7 @@ How dare you sit on Croaks without permission?
 Are you trying to squish him?
 It's lucky he got out of your way!]
 1737561216085206 -->1737561216085209{ }
-1737561216085209 -->|I thought you were a bench...|1737561216085210[<b>Speaker 👉 Mr.Croaks:</b>
+1737561216085209 -->|I thought you were a bench…|1737561216085210[<b>Speaker 👉 Mr.Croaks:</b>
 
 You make a fair point...
 But Croaks still strongly condemns you!
@@ -24,7 +24,7 @@ to reminisce about his lost love, UNDISTURBED!]
 1737561216085210 -->1737561216086237{ }
 1737561216086237 -->|Well, I'll get going then...|1737561216086238[<b>Speaker 👉 Mr.Croaks:</b>
 
-Croaks really wanted to share his story with you...
+Croaks really wanted to share his story with you…
 What a pity, come back and find him when you want to listen.]
 1737561216086237 -->|Tell me your story.|1737561216086240[<b>Speaker 👉 Mr.Croaks:</b>
 
@@ -34,7 +34,7 @@ fell in love with him at first sight, and sat on him.]
 1737561216086238 -->1737561216086239[End]
 1737561216086240 -->1737561216087265[<b>Speaker 👉 Player:</b>
 
-Didn't she just mistake you for a bench...]
+Didn't she just mistake you for a bench…]
 1737561216087265 -->1737561216087266[<b>Speaker 👉 Mr.Croaks:</b>
 
 Not at all!

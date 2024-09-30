@@ -35,10 +35,10 @@ Thank you for supporting my business.
 I'm not sure how to express my gratitude...]
 Start -->1727398269268099[<b>Speaker 👉 Sasaki:</b>
 
-I'm not the best person the chat with...]
+I'm not the best person the chat with…]
 Start -->1727398269269125[<b>Speaker 👉 Sasaki:</b>
 
-Please... don't make this hard for me...]
+Please... don't make this hard for me…]
 Start -->1727398879386759[<b>Speaker 👉 Sasaki:</b>
 
 It's so nice, can I really have it?]

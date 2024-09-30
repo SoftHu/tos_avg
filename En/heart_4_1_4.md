@@ -67,24 +67,24 @@ Let me see your skills.]
 1760225163283744 -->|Focus on strength.|1760225377338661[End]
 Start -->1760142135096959[<b>Speaker 👉 Nyotengu:</b>
 
-Hiss...]
+Hiss…]
 1760142135096959 -->1760142179004038[<b>Speaker 👉 Nyotengu:</b>
 
-Let's call it a day... Can you help me to the side to sit for a while, little fox?]
+Let's call it a day… Can you help me to the side to sit for a while, little fox?]
 1760142135096959 -->1760142179004038[<b>Speaker 👉 Nyotengu:</b>
 
-Let's call it a day... Can you help me to the side to sit for a while, little fox?]
+Let's call it a day… Can you help me to the side to sit for a while, little fox?]
 1760142179004038 -->1760142197570183[End]
 Start -->1760142220680841[<b>Speaker 👉 Nyotengu:</b>
 
-Actually, I don't have much time left...]
+Actually, I don't have much time left…]
 1760142220680841 -->1760142231927434{ }
 1760142231927434 -->|What do you mean?|1760142256587407[<b>Speaker 👉 Nyotengu:</b>
 
 Although I can control the Muramasa blade, it is still a cursed object.
 This might be your last lesson, sorry I can't keep the promise I made to Oda.
 I need to find my purpose in life.
-Take care of yourself, little fox...]
+Take care of yourself, little fox…]
 1760142231927434 -->|Are you dying?|1760142273960592[<b>Speaker 👉 Nyotengu:</b>
 
 That was a harsh thing to say. Don't worry, I won't leave before you.]
@@ -94,7 +94,7 @@ That was a harsh thing to say. Don't worry, I won't leave before you.]
 Although I can control the Muramasa blade, it is still a cursed object.
 This might be your last lesson, sorry I can't keep the promise I made to Oda.
 I need to find my purpose in life.
-Take care of yourself, little fox...]
+Take care of yourself, little fox…]
 Start -->1760225461618994[<b>Speaker 👉 Nyotengu:</b>
 
 When you overuse your strength, you lose focus and speed.

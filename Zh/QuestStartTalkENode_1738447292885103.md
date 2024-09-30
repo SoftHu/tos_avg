@@ -2,51 +2,128 @@
 graph
 Start -->1738447575181418[<b>Speaker 👉 海宝:</b>
 
-你好！
-欢迎来到青岚！欢迎！
-我是&lbrace;npc.4207&rbrace;！
-这里是青岚码头海关登记处！
-我将会负责协助小镇一些事务的办理！
-先来进行青岚居民入住的准备工作吧，
-麻烦请先告诉我你的名字。]
-1738447575181418 -->1738448731861105[<b>Speaker 👉 海宝:</b>
+Ok, Seabert... you got this... you know 
+the words... you know what to say…
 
-&lbrace;playername&rbrace;....
-嗯...&lbrace;playername&rbrace;...
-找到了，
-&lbrace;playername&rbrace;，
-欢迎！欢迎！
-是两人啊！&lbrace;playername&rbrace;和&lbrace;npc.4101&rbrace;。
-在北方的山脚下，购买了一个&lbrace;location.1&rbrace;对吗？]
+It doesn't matter that you are nervous... 
+you're really good at your job 
+and they will be so impressed!
+They will think &quot;wow, that guy is 
+amazing at doing paperwork and he sure 
+looks handsome in that uniform&quot;]
+1738447575181418 -->1768524084245382[<b>Speaker 👉 海宝:</b>
+
+... I bet they won't even mention that 
+it's too big for you... or that you're 
+too short to look over the desk...
+
+... or that your voice is... 
+is small... 
+Because you're gonna be confident! 
+Fearless!...]
+1738447575181418 -->1768528440716181[<b>Speaker 👉 海宝:</b>
+
+GAAAAAHHHH
+Oh NO! 
+How long have you been standing there waiting!? 
+Please ignore everything you heard and let me start again!
+H-hi! Welcome to stranger!
+What can I do for you, Seikyu?
+Ah... no... I m-meant welcome to Seikyu... 
+you're the stranger...
+S-s-sorry about that! 
+Let me start a-again… again!
+Welcome to Seikyu! 
+I'm Seabert! This is the Seikyu Customs Registration Office 
+and I am the town's Offical Administrative Assistant! 
+So, before you run off I will need to get your residential paperwork done.
+Let's start with your name, s-stranger!]
+1768524084245382 -->1768524134747020{ }
+1768524134747020 -->|*stay quiet*|1768524129524615[<b>Speaker 👉 海宝:</b>
+
+... and then they will go and tell 
+everyone how good of a job you did! 
+... you can do this...
+... I can do this…
+
+…
+Oh no, what if I can't do this!?]
+1768524134747020 -->|Hello?|1768528440716181[<b>Speaker 👉 海宝:</b>
+
+GAAAAAHHHH
+Oh NO! 
+How long have you been standing there waiting!? 
+Please ignore everything you heard and let me start again!
+H-hi! Welcome to stranger!
+What can I do for you, Seikyu?
+Ah... no... I m-meant welcome to Seikyu... 
+you're the stranger...
+S-s-sorry about that! 
+Let me start a-again… again!
+Welcome to Seikyu! 
+I'm Seabert! This is the Seikyu Customs Registration Office 
+and I am the town's Offical Administrative Assistant! 
+So, before you run off I will need to get your residential paperwork done.
+Let's start with your name, s-stranger!]
+1768524129524615 -->1768524189845389[<b>Speaker 👉 狐穗:</b>
+
+I cannot listen to this guy talk to himself anymore.
+UM HI! WE CAN HEAR YOU!]
+1768524189845389 -->1768528440716181[<b>Speaker 👉 海宝:</b>
+
+GAAAAAHHHH
+Oh NO! 
+How long have you been standing there waiting!? 
+Please ignore everything you heard and let me start again!
+H-hi! Welcome to stranger!
+What can I do for you, Seikyu?
+Ah... no... I m-meant welcome to Seikyu... 
+you're the stranger...
+S-s-sorry about that! 
+Let me start a-again… again!
+Welcome to Seikyu! 
+I'm Seabert! This is the Seikyu Customs Registration Office 
+and I am the town's Offical Administrative Assistant! 
+So, before you run off I will need to get your residential paperwork done.
+Let's start with your name, s-stranger!]
+1768528440716181 -->1738448731861105[<b>Speaker 👉 海宝:</b>
+
+&lbrace;playername&rbrace; uh-huh... &lbrace;playername&rbrace;...
+Ah! There you are!
+&lbrace;playername&rbrace;!
+Welcome! Welcome!
+So it's the two of you, &lbrace;playername&rbrace; and Kon.
+You bought the farmhouse at the foot of the northern mountain range, right?]
 1738448731861105 -->1738453130622056{ }
-1738453130622056 -->|请问&lbrace;location.1&rbrace;怎么走？|1738453157967982[<b>Speaker 👉 海宝:</b>
+1738453130622056 -->|Yes, I did!|1738453157967982[<b>Speaker 👉 海宝:</b>
 
-我帮你在地图上标出了&lbrace;location.1&rbrace;的位置（按M打开地图），
-只要一直跟着走就行，
-要趁着天黑之前赶到嗯！
-如果肚子饿了，
-你可以去码头左边的&lbrace;location.4&rbrace;看看。
-那是我舅舅开的店！
-告诉舅舅，
-是&lbrace;npc.4207&rbrace;推荐你来的，
-他会给你一些帮助的！
-从现在开始你就是&lbrace;location.13&rbrace;的一员，
-今后还请多多关照！
-希望你在&lbrace;location.13&rbrace;过上休闲轻松的日子。]
-1738453130622056 -->|是的。|1738453157967982[<b>Speaker 👉 海宝:</b>
+Oh my gosh! 
+I-I'm so excited for you!
+That house has always looked really nice... 
+I'm so happy someone's finally filling it!
+]
+1738453130622056 -->|Yeah, do you know how to get there? |1768529659287446[<b>Speaker 👉 海宝:</b>
 
-我帮你在地图上标出了&lbrace;location.1&rbrace;的位置（按M打开地图），
-只要一直跟着走就行，
-要趁着天黑之前赶到嗯！
-如果肚子饿了，
-你可以去码头左边的&lbrace;location.4&rbrace;看看。
-那是我舅舅开的店！
-告诉舅舅，
-是&lbrace;npc.4207&rbrace;推荐你来的，
-他会给你一些帮助的！
-从现在开始你就是&lbrace;location.13&rbrace;的一员，
-今后还请多多关照！
-希望你在&lbrace;location.13&rbrace;过上休闲轻松的日子。]
-1738453157967982 -->1738448411946096[End]
+I've marked the location on your map &#40;press M to view map&#41;.
+Just follow the path and try to get there before it's dark! 
+Be careful... i-it can get scary at night…
+If you get hungry, 
+feel free to check out the Fisherman's Shop to the left of the dock.
+T-that's my uncle's shop!
+Tell him that I said HI! ... and that you're new here he he...
+He'll give you some guidance on what to do!
+N-now go a-and have fun, &lbrace;playername&rbrace;!]
+1738453157967982 -->1768529659287446[<b>Speaker 👉 海宝:</b>
+
+I've marked the location on your map &#40;press M to view map&#41;.
+Just follow the path and try to get there before it's dark! 
+Be careful... i-it can get scary at night…
+If you get hungry, 
+feel free to check out the Fisherman's Shop to the left of the dock.
+T-that's my uncle's shop!
+Tell him that I said HI! ... and that you're new here he he...
+He'll give you some guidance on what to do!
+N-now go a-and have fun, &lbrace;playername&rbrace;!]
+1768529659287446 -->1738448411946096[End]
 
  ```

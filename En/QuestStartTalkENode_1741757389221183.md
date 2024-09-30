@@ -2,13 +2,13 @@
 graph
 Start -->1741757429204290[<b>Speaker 👉 Yui:</b>
 
-This is the &lbrace;location.5&rbrace;.
-The &lbrace;location.14&rbrace;, &lbrace;location.12&rbrace; and &lbrace;location.15&rbrace; are all here.
-I'm working on Shuten's &lbrace;location.16&rbrace;.
-I might ask for your help when the time comes.
-Now, go greet everyone yourself.
-I live near the central fountain.
-Welcome to &lbrace;location.13&rbrace;.]
+Here we have the main shopping street. 
+You’ll be able to find anything you want in one of these stores. 
+But most of them are shut right now. 
+You can explore them later.
+For now, you could introduce yourself to some of the locals.
+Then we’ll head to your new house! 
+I will wait you by the fountain.]
 1741757429204290 -->1741757508892995[End]
 
  ```

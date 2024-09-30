@@ -32,7 +32,9 @@ It is now your duty to stop yokai's doomed fate.]
 1761904364511909 -->1761904590170794{ }
 1761904590170794 -->|Open the scroll.|1761904609494703[<b>Speaker 👉 Tales of Glorious Days - Slime Scroll:</b>
 
-None]
+Water nourishes all beings in this land.
+They play in its embrace warm and kind.
+In transparent light an emerald dream they find.]
 1761904609494703 -->1761905058233008[End]
 
  ```

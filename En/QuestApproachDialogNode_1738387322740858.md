@@ -3,7 +3,7 @@ graph
 Start -->1738387958398078[<b>Speaker 👉 Kon:</b>
 
 Finally, a home to call our own, it's like a dream come true!
-I want to give it a name...
+I want to give it a name…
 How about calling it, Foxcloud &lbrace;location.1&rbrace;?]
 1738387958398078 -->1738388211854463{ }
 1738388211854463 -->|Doesn't sound great.|1738388286156932[<b>Speaker 👉 Kon:</b>
@@ -16,7 +16,7 @@ That's great!
 I thought you might not like it.]
 1738388286156932 -->1738995967017127[<b>Speaker 👉 Kon:</b>
 
-&lbrace;farmname&rbrace;... sounds good!
+&lbrace;farmname&rbrace;… sounds good!
 We can take our time sprucing it up until it becomes our 
 dream home.
 Plant some crops and flowers in the field,

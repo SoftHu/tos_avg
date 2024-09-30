@@ -31,7 +31,7 @@ Could you bring me a bottle of &lbrace;item.26300&rbrace;?
 I'll trade you something very valuable for it!]
 1739077808214239 -->1739077808215266{ }
 1739077808215266 -->|Deal!|1739077808215267[End]
-1739077808215266 -->|Can't do it now...|1739077808215268[<b>Speaker 👉 Kinntarou:</b>
+1739077808215266 -->|Can't do it now…|1739077808215268[<b>Speaker 👉 Kinntarou:</b>
 
 Okay, but remember to come and find me when you're free!]
 1739077808215268 -->1739077808215269[End]

@@ -42,9 +42,9 @@ of the world's beings.]
 1761912114398485 -->1761912114399511{ }
 1761912114399511 -->|Open the scroll.|1761912374859033[<b>Speaker 👉 Tales of Glorious Days - Karasutengu Scroll:</b>
 
-The black wings of the sky, the solitary traveler in the firmament.
-Heart like a blazing fire, righteousness in the clouds and the sky.
-The winds and the thunder move in a majestic dance.]
+A sole traveler flaps its inky wings,
+Heart ablaze, righteous as kings.
+Lo and behold, the wind dances and the thunder sings.]
 1761912374859033 -->1761912379004186[End]
 
  ```

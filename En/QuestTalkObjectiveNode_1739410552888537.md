@@ -11,7 +11,7 @@ Honestly, I don't really want you to, you're too good...
 I think I might lose money.]
 1739504933044474 -->1739410623404265[End]
 1739410623403237 -->1739410623404264{ }
-1739410623404264 -->|Let's give it a try!|1739410623404266[ ]
+1739410623404264 -->|Since he sent you, I’ll give you a little welcome gift.|1739410623404266[ ]
 1739410623404264 -->|Maybe next time...|1739505152025853[<b>Speaker 👉 Ritsuryo:</b>
 
 Remember to come and play again next time!]

@@ -61,7 +61,7 @@ The last issue is also my biggest dilemma:
 Should my sign bear Muramasa's name or my own? 
 Master Muramasa's name is well-known, nobody knows Hephaestus...]
 1751444020978263 -->1751444236070488{ }
-1751444236070488 -->|Let everyone know about &lbrace;npc.4106.first_name&rbrace;.|1751444367376992[<b>Speaker 👉 Hephaestus:</b>
+1751444236070488 -->|With it you can fully enjoy the pleasure of fishing.|1751444367376992[<b>Speaker 👉 Hephaestus:</b>
 
 &lbrace;playername&rbrace;, saying that really inspires me!
 This is very important to me.]

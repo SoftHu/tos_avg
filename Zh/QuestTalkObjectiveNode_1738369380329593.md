@@ -2,73 +2,72 @@
 graph
 Start -->1738369447807100[<b>Speaker 👉 武藏:</b>
 
-你俩就是&lbrace;location.1&rbrace;的买家吧，等你们好长时间了。
-怎么现在才来？]
+Well, well. Nice to meet you too, stranger.
+That's no way to treat a neighbor.]
 1738369447807100 -->1738369487068285{ }
-1738369487068285 -->|&lbrace;location.1&rbrace;可以便宜一些吗？|1738369514544259[<b>Speaker 👉 武藏:</b>
+1738369487068285 -->|Sorry, I thought you were a cat.|1738369514544259[<b>Speaker 👉 武藏:</b>
 
-听说你们一直在流浪，
-所以给你们的已经是最低价了。]
-1738369487068285 -->|中间发生了很多事情。|1738369637289097[<b>Speaker 👉 武藏:</b>
+This place is full of surprises.
+Things are rarely as they seem.]
+1738369487068285 -->|Oh…|1738369637289097[<b>Speaker 👉 武藏:</b>
 
-听说你们一直在流浪，
-攒够了钱计划定居在&lbrace;location.13&rbrace;。]
+What, cat got your tongue?]
 1738369514544259 -->1742696668586266[<b>Speaker 👉 武藏:</b>
 
-其实这个&lbrace;location.1&rbrace;只要好好打理打理还是不错的。
-如果你们想继续经营这个&lbrace;location.1&rbrace;，
-我可以帮你们把货物卖到镇上。
-把能卖的东西放在这个&lbrace;highlight.start&rbrace;寄售箱&lbrace;highlight.end&rbrace;里边，
-我每天早上都会来取。
-价钱的话肯定会给你们算清楚的，
-这我能保证。]
+You must be the new resident of Seikyu.
+I’m Musashi.
+I run the general store in town. 
+If you need anything, just let me know.
+I’m sure you’ll want a few things for the old farmhouse. 
+I can also buy anything you make here.
+Just leave it in that consignment box over there and I’ll pick it up in the mornings. 
+If you can find it, I can sell it. 
+Can’t have you running out of money.
+But you look like you know how to hustle some coins together…]
 1742696668586266 -->1738369604865156{ }
-1738369604865156 -->|哪些东西能卖呢？|1738369892088971[<b>Speaker 👉 武藏:</b>
+1738369604865156 -->|Our hustling days are over.|1738369892088971[<b>Speaker 👉 武藏:</b>
 
-各种&lbrace;highlight.start&rbrace;农作物&lbrace;highlight.end&rbrace;和&lbrace;highlight.start&rbrace;采集物&lbrace;highlight.end&rbrace;都可以丢里面，
-&lbrace;location.1&rbrace;里应该有留着一些作物的&lbrace;highlight.start&rbrace;种子&lbrace;highlight.end&rbrace;。]
-1738369604865156 -->|明白了。|1741542909956340[<b>Speaker 👉 武藏:</b>
+I know the feeling.
+I think we're going to get along, …]
+1738369604865156 -->|We've worked hard to afford this place.|1738369892088971[<b>Speaker 👉 武藏:</b>
 
-对了，这是我给你们的见面礼。]
+I know the feeling.
+I think we're going to get along, …]
 1738369892088971 -->1738369962747020{ }
-1738369962747020 -->|明白了|1741542909956340[<b>Speaker 👉 武藏:</b>
+1738369962747020 -->|&lbrace;playername&rbrace;.|1741542909956340[<b>Speaker 👉 武藏:</b>
 
-对了，这是我给你们的见面礼。]
-1741542909956340 -->1738369888274570[<b>Speaker 👉 武藏:</b>
+&lbrace;playername&rbrace;…
+And who is this?]
+1741542909956340 -->1738369888274570[<b>Speaker 👉 狐穗:</b>
 
-如果需要其他&lbrace;highlight.start&rbrace;家具&lbrace;highlight.endt&rbrace;的话&lt;pause=0.125&gt;可以去&lbrace;location.20&rbrace;上的&lbrace;highlight.start&rbrace;家具店&lbrace;highlight.end&rbrace;逛逛。
-好了，你们小两口&lt;pause=0.0625&gt;就开始享受&lbrace;location.13&rbrace;的甜蜜生活吧！]
-1741542909956340 -->1738369888274570[<b>Speaker 👉 武藏:</b>
+I'm Kon!]
+1738369888274570 -->1768545209125798[<b>Speaker 👉 武藏:</b>
 
-如果需要其他&lbrace;highlight.start&rbrace;家具&lbrace;highlight.endt&rbrace;的话&lt;pause=0.125&gt;可以去&lbrace;location.20&rbrace;上的&lbrace;highlight.start&rbrace;家具店&lbrace;highlight.end&rbrace;逛逛。
-好了，你们小两口&lt;pause=0.0625&gt;就开始享受&lbrace;location.13&rbrace;的甜蜜生活吧！]
-1738369888274570 -->1738369982437519{ }
-1738369982437519 -->|我们并不是你想的那样|1738388857535646[<b>Speaker 👉 狐穗:</b>
+Pleasure to meet you both. 
+You two are…]
+1768545209125798 -->1768545232629671[<b>Speaker 👉 狐穗:</b>
 
-&lt;shiver&gt;&lt;speed=0.8&gt;我们才不是夫妻啊……&lt;/shiver&gt;
-他是我的&lbrace;sex.sibling&rbrace;]
-1738369982437519 -->|会很甜蜜的|1738388885747871[<b>Speaker 👉 狐穗:</b>
+SIBLINGS!]
+1768545232629671 -->1768545250768808[<b>Speaker 👉 武藏:</b>
 
-&lt;shiver&gt;&lt;speed=0.8&gt;太变态了你，我是他妹妹……&lt;/shiver&gt;]
-1738388857535646 -->1738370006176916[<b>Speaker 👉 武藏:</b>
-
-哈哈，你很幸运有你的妹妹陪伴…&lt;pause=0.25&gt;
-那我先走了，
-有事来&lbrace;location.20&rbrace;的&lbrace;location.14&rbrace;找我啊！]
-1738370006176916 -->1738370113018005[End]
-1738388885747871 -->1738370006176916[<b>Speaker 👉 武藏:</b>
-
-哈哈，你很幸运有你的妹妹陪伴…&lt;pause=0.25&gt;
-那我先走了，
-有事来&lbrace;location.20&rbrace;的&lbrace;location.14&rbrace;找我啊！]
+Of course, I can see the family resemblance.
+I wanted to be the first to lay eyes on our new neighbors. 
+I should be getting back to the shop. 
+Come find me if you ever want to go fishing.
+See you soon, 
+&lbrace;playername&rbrace;.]
+1768545250768808 -->1738370113018005[End]
 1738369637289097 -->1742696668586266[<b>Speaker 👉 武藏:</b>
 
-其实这个&lbrace;location.1&rbrace;只要好好打理打理还是不错的。
-如果你们想继续经营这个&lbrace;location.1&rbrace;，
-我可以帮你们把货物卖到镇上。
-把能卖的东西放在这个&lbrace;highlight.start&rbrace;寄售箱&lbrace;highlight.end&rbrace;里边，
-我每天早上都会来取。
-价钱的话肯定会给你们算清楚的，
-这我能保证。]
+You must be the new resident of Seikyu.
+I’m Musashi.
+I run the general store in town. 
+If you need anything, just let me know.
+I’m sure you’ll want a few things for the old farmhouse. 
+I can also buy anything you make here.
+Just leave it in that consignment box over there and I’ll pick it up in the mornings. 
+If you can find it, I can sell it. 
+Can’t have you running out of money.
+But you look like you know how to hustle some coins together…]
 
  ```

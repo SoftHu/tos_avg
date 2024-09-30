@@ -22,7 +22,7 @@ Scattered weapons made of wood. They look well-made and are covered with marks,
 like they're well used.]
 Start -->1736575338122370[<b>Speaker 👉 Unconfigured:</b>
 
-A water tank, filled with water. Nothing special...]
+A water tank, filled with water. Nothing special…]
 Start -->1736575358526596[<b>Speaker 👉 Unconfigured:</b>
 
 A bed with messy bedding piled on it. Who lives here?]

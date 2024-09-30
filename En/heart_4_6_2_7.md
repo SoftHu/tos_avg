@@ -36,8 +36,7 @@ That Tanuki almost broke into your house! ]
 1766681208037674 -->1766681246553387{ }
 1766681246553387 -->|No, she's not-|1766681252663598[<b>Speaker 👉 Nyotengu:</b>
 
-Don't worry, I'll chase her off.
-That Tanuki almost broke into your house! ]
+Don't worry, I'll chase her off.]
 1766681252663598 -->1766681271604527[End]
 Start -->1766681352883506[<b>Speaker 👉 Kon:</b>
 

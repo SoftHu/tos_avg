@@ -10,7 +10,7 @@ Start -->1739499550318804[<b>Speaker 👉 Player:</b>
 Better bring &lbrace;npc.4107&rbrace; along...
 If she finds out I went on an adventure without her, she'd definitely be upset...]
 1739079569553663 -->1739083976976643{ }
-1739083976976643 -->|Let's give it a try!|1739143822959942[ ]
+1739083976976643 -->|Since he sent you, I’ll give you a little welcome gift.|1739143822959942[ ]
 1739083976976643 -->|Maybe next time...|1739505055256827[<b>Speaker 👉 Ritsuryo:</b>
 
 Remember to come and play again next time!]

@@ -1,232 +1,91 @@
 ```mermaid
 graph LR
-Start -->1727663191523427[<b>Speaker 👉 Player:</b>
+Start -->1727663169865819[<b>Speaker 👉 Ritsuryo:</b>
+
+Leaving? Remember to come and play with me again, boss.]
+Start -->1727663191522397[<b>Speaker 👉 Ritsuryo:</b>
+
+Oh! Boss!]
+Start -->1727663191522399[<b>Speaker 👉 Ritsuryo:</b>
+
+What are we doing today!]
+Start -->1727663191522401[<b>Speaker 👉 Ritsuryo:</b>
+
+I'm waiting for you, boss! So where are we going?]
+Start -->1727663191523427[<b>Speaker 👉 Ritsuryo:</b>
 
 Hehe... you're here!]
-Start -->1758253420255841[<b>Speaker 👉 Player:</b>
+Start -->1727663570583653[<b>Speaker 👉 Ritsuryo:</b>
 
-Boss, I knew you'd come to the summer festival! How about the atmosphere in &lbrace;location.13&rbrace;? It's better than anywhere else, right?]
-Start -->1758254460936803[<b>Speaker 👉 Player:</b>
-
-Alright, if you find something fun, don't forget to call me.]
-Start -->1763659098444536[<b>Speaker 👉 Ritsuryo:</b>
-
-Wow, you know me so well, &lbrace;playername&rbrace;!
-Thanks for the gift, I'll remember your kindness.]
-Start -->1763659098444538[<b>Speaker 👉 Ritsuryo:</b>
-
-I didn't expect you to take such good care of me as a little brother, I'm weirdly embarrassed.
-I swear to follow you for the rest of my life!]
-Start -->1763659098445564[<b>Speaker 👉 Ritsuryo:</b>
-
-You brought me a present?
-Thanks a lot.]
-Start -->1763659098445566[<b>Speaker 👉 Ritsuryo:</b>
-
-I appreciate you remembering me, though.
-But this gift ......
-It's a bit confusing.]
-Start -->1763659098445568[<b>Speaker 👉 Ritsuryo:</b>
-
-No way!
-You don't think I'm a trash can, do you? ......]
-Start -->1763659098446594[<b>Speaker 👉 Ritsuryo:</b>
-
-I get a lot of gifts on my birthday.
-But you know me best!
-Thanks a lot! I love your birthday gift!]
-Start -->1763659098446596[<b>Speaker 👉 Ritsuryo:</b>
-
-Birthday present?
-I'm so lucky to know such a generous and nice person like you!
-Hahaha, I'm really so happy today.]
-Start -->1763659098447622[<b>Speaker 👉 Ritsuryo:</b>
-
-I'm going to treasure the gift you gave me ......
-I didn't expect you to remember my birthday, I really didn't follow the wrong person.]
-Start -->1763659098447624[<b>Speaker 👉 Ritsuryo:</b>
-
-This birthday present ......
-Uh ......
-You can't be serious.]
-Start -->1763659098448650[<b>Speaker 👉 Ritsuryo:</b>
-
-I didn't expect to get such an outrageous gift on my birthday ......
-Even if it's from you, I'm still a little annoyed!]
-Start -->1763659098448652[<b>Speaker 👉 Ritsuryo:</b>
-
-I'll see you later. It's been fun talking to you!]
-Start -->1763659098449678[<b>Speaker 👉 Ritsuryo:</b>
-
-Well, maybe I should get busy with something else, too.]
-Start -->1763659098450704[<b>Speaker 👉 Ritsuryo:</b>
-
-See you then. &lbrace;playername&rbrace;]
-Start -->1766656897158114[<b>Speaker 👉 Ritsuryo:</b>
-
-None
-None
+Boss, have you read 'Dungeon Hero Lola'?
+The comic is hugely popular,
+but the author's identity remains a mystery.
+It's about Lora, a hero born and stuck in a dungeon,
+determined to defeat the evil deity keeping her there, so that she can finally escape.
 I wish I could be a hero too...
 Defeat the evil monster, carve my name on its heart...
 How cool would that be!]
-Start -->1766659639340003[<b>Speaker 👉 Ritsuryo:</b>
-
-None
-None]
-Start -->1766661654142568[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766666097372778[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383616371[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766664573314665[<b>Speaker 👉 Ritsuryo:</b>
+Start -->1727663570584679[<b>Speaker 👉 Ritsuryo:</b>
 
 Kinntarou can communicate with animals...
 Though I don't know how he does it!
 I'm just hopeless.
 No matter how hard I try to understand them, I can only hear miaows and barks.
 I envy Kinntarou!]
-Start -->1766655383617399[<b>Speaker 👉 Ritsuryo:</b>
+Start -->1727663570584681[<b>Speaker 👉 Ritsuryo:</b>
 
-None]
-Start -->1766655383617401[<b>Speaker 👉 Ritsuryo:</b>
+I've never met my mum and dad.
+I don't even know what they look like
+or who they really are.
+Why don't they come see me and Kinntarou...?
+Have we really been abandoned?]
+Start -->1727663570585707[<b>Speaker 👉 Ritsuryo:</b>
 
-None]
-Start -->1766655383618427[<b>Speaker 👉 Ritsuryo:</b>
+Boss, I heard you lost your memories of the past?
+Are you from another world?
+You're not a comic book hero, are you?
+Heroes in comics always have companions.
+Can I be yours?]
+Start -->1727663570585709[<b>Speaker 👉 Ritsuryo:</b>
 
-None]
-Start -->1766655383618429[<b>Speaker 👉 Ritsuryo:</b>
+Miss Ama designed some new children's clothes
+and asked me to model them for her.
+She posted the photos on her studio's official website.
+Everyone says the model looks handsome and cute...
+Maybe I should consider a career as a professional model?]
+Start -->1727663570585711[<b>Speaker 👉 Ritsuryo:</b>
 
-None]
-Start -->1766655383619455[<b>Speaker 👉 Ritsuryo:</b>
+Lately, it feels like someone's watching me.
+Not sure if it's just my imagination.
+A shadowy figure, sneaking around... Scary stuff!]
+Start -->1727664540707953[<b>Speaker 👉 Ritsuryo:</b>
 
-None]
-Start -->1766655383619457[<b>Speaker 👉 Ritsuryo:</b>
+Oh! How thoughtful...
+But I'm not so sure I can accept something so nice.]
+Start -->1727664540707955[<b>Speaker 👉 Ritsuryo:</b>
 
-None]
-Start -->1766655383620483[<b>Speaker 👉 Ritsuryo:</b>
+Thank you!
+I love it...]
+Start -->1727664540708981[<b>Speaker 👉 Ritsuryo:</b>
 
-None]
-Start -->1766655383620485[<b>Speaker 👉 Ritsuryo:</b>
+Thank you...
+We don't need to be so formal with each other.]
+Start -->1727664540708983[<b>Speaker 👉 Ritsuryo:</b>
 
-None]
-Start -->1766655383621511[<b>Speaker 👉 Ritsuryo:</b>
+Although I appreciate the gift, accepting it
+would make me uncomfortable...]
+Start -->1727664540708985[<b>Speaker 👉 Ritsuryo:</b>
 
-None]
-Start -->1766655383621513[<b>Speaker 👉 Ritsuryo:</b>
+Are you deliberately trying to humiliate me?
+You're making me angry!]
+Start -->1727664540710011[<b>Speaker 👉 Player:</b>
 
-None]
-Start -->1766655383622539[<b>Speaker 👉 Ritsuryo:</b>
+I'm feeling closer to &lbrace;npc.4102&rbrace;...
+We're getting along well!]
+Start -->1727664540710013[<b>Speaker 👉 Player:</b>
 
-None]
-Start -->1766655383622541[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383622543[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383623569[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383623571[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383624597[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383625623[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383625625[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383625627[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383626653[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383626655[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383627681[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383627683[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383628709[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383628711[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383629737[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383629739[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383630765[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383630767[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383631793[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383631795[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383631797[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383632823[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655383632825[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655407854523[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655407855549[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655407855551[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655407855553[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655407857603[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655407857605[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655407857607[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655407857609[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655407858635[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655407858637[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655407859663[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655407859665[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
+I did something I shouldn't have...
+I'm feeling distant from &lbrace;npc.4102&rbrace; now!]
 Start -->1753123996238240[<b>Speaker 👉 Ritsuryo:</b>
 
 Boss, are you here for the Carp Festival too?
@@ -237,23 +96,11 @@ Start -->1753124773238177[<b>Speaker 👉 Ritsuryo:</b>
 All right, that's enough chat for now.
 Don't forget to participate in the activities at Uncle &lbrace;npc.4206&rbrace;'s.
 Wonder if I can win first place this year!]
-Start -->1766655407860695[<b>Speaker 👉 Ritsuryo:</b>
+Start -->1758253420255841[<b>Speaker 👉 Ritsuryo:</b>
 
-None]
-Start -->1766655407861721[<b>Speaker 👉 Ritsuryo:</b>
+Boss, I knew you'd come to the summer festival! How about the atmosphere in &lbrace;location.13&rbrace;? It's better than anywhere else, right?]
+Start -->1758254460936803[<b>Speaker 👉 Ritsuryo:</b>
 
-None]
-Start -->1766655407861723[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655407862749[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655407862751[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
-Start -->1766655407862753[<b>Speaker 👉 Ritsuryo:</b>
-
-None]
+Alright, if you find something fun, don't forget to call me.]
 
  ```

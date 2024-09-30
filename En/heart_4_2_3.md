@@ -24,7 +24,7 @@ I used to go fishing with Uncle Torleone.
 He cared more about the size and weight of the catch,
 so fishing with him always felt weirdly competitive...]
 1752150972573138 -->1752151238919635{ }
-1752151238919635 -->|I don't really care about the outcome...|1752151483876826[<b>Speaker 👉 Musashi:</b>
+1752151238919635 -->|I don't really care about the outcome…|1752151483876826[<b>Speaker 👉 Musashi:</b>
 
 Seems we're on the same page when it comes to fishing.]
 1752151238919635 -->|Actually, I do care about the catch.|1752151514554843[<b>Speaker 👉 Musashi:</b>
