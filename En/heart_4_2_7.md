@@ -25,15 +25,15 @@ Speaking of which, all of the photos are great.
 I love them all!
 Which one would you like, &lbrace;playername&rbrace;?]
 1755521662356546 -->1755521662357575{ }
-1755521662357575 -->|Humanities|1755521662357576[<b>Speaker 👉 Seabert:</b>
+1755521662357575 -->|Humanities.|1755521662357576[<b>Speaker 👉 Seabert:</b>
 
 All right, then I'll wrap it up for you!
 Mum and Dad would be so happy to know you like their work!]
-1755521662357575 -->|Natural beauty|1755521662357576[<b>Speaker 👉 Seabert:</b>
+1755521662357575 -->|Natural beauty.|1755521662357576[<b>Speaker 👉 Seabert:</b>
 
 All right, then I'll wrap it up for you!
 Mum and Dad would be so happy to know you like their work!]
-1755521662357575 -->|Majestic architecture|1755521662357576[<b>Speaker 👉 Seabert:</b>
+1755521662357575 -->|Majestic architecture.|1755521662357576[<b>Speaker 👉 Seabert:</b>
 
 All right, then I'll wrap it up for you!
 Mum and Dad would be so happy to know you like their work!]

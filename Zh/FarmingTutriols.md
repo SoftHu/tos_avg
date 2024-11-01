@@ -2,7 +2,7 @@
 graph LR
 Start -->1768884574776325[<b>Speaker 👉 Unconfigured:</b>
 
-Too bad it’s not gonna sprout no matter how much you water it.]
+Too bad it's not gonna sprout no matter how much you water it.]
 1768884574776325 -->1768884429265923[End]
 Start -->1768884774476813[<b>Speaker 👉 Unconfigured:</b>
 

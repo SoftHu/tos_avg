@@ -4,13 +4,13 @@ Start -->1738540623759549[<b>Speaker 👉 Kon:</b>
 
 &lbrace;playername&rbrace;,
 how's it going?
-Did you gather enough carnivorous plant leaves?]
+Did you gather enough man-eating plant leaves?]
 1738540623759549 -->1738540722460865{ }
 1738540722460865 -->|Not yet.|1738541281747142[<b>Speaker 👉 Kon:</b>
 
 I'm still practicing.
 I'll get it right this time for sure!]
-1738540722460865 -->|Hand over.|1738552948907153[ ]
+1738540722460865 -->|*Hand over*|1738552948907153[ ]
 1738541281747142 -->1738541321536711[End]
 1738552948907153 -->1738540706198720[<b>Speaker 👉 Kon:</b>
 

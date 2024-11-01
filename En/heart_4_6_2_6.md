@@ -42,7 +42,7 @@ Start -->1766665141690508[<b>Speaker 👉 Anji:</b>
 ...
 ...........]
 1766665141690508 -->1766665207066769{ }
-1766665207066769 -->|um-|1766665226513556[<b>Speaker 👉 Anji:</b>
+1766665207066769 -->|Uh...|1766665226513556[<b>Speaker 👉 Anji:</b>
 
 Shh...
 ......
@@ -66,7 +66,7 @@ Yes! You did it! Your third eye is open!
 &lbrace;playername&rbrace; meet Lightbulb.
 This is my– ahem– best friend.
 And yes, he's real. He's from the spirit realm.]
-1766665374808225 -->1766665430230178[<b>Speaker 👉 LightBulb:</b>
+1766665374808225 -->1766665430230178[<b>Speaker 👉 Lil' Bulb:</b>
 
 Heloo!]
 1766665430230178 -->1766665455797411[<b>Speaker 👉 Anji:</b>
@@ -75,12 +75,12 @@ People think I'm crazy when I talk to him...
 because he's invisible.
 But now you see him too!]
 1766665455797411 -->1766665486134436{ }
-1766665486134436 -->|He's adorable.|1766665662496937[<b>Speaker 👉 LightBulb:</b>
+1766665486134436 -->|He's adorable.|1766665662496937[<b>Speaker 👉 Lil' Bulb:</b>
 
  Nice to meet you too! 
 I'm surprised that worked.
 You must be very special to Anna.]
-1766665486134436 -->|He's freaky.|1766665662496937[<b>Speaker 👉 LightBulb:</b>
+1766665486134436 -->|He's freaky.|1766665662496937[<b>Speaker 👉 Lil' Bulb:</b>
 
  Nice to meet you too! 
 I'm surprised that worked.
@@ -88,20 +88,20 @@ You must be very special to Anna.]
 1766665662496937 -->1766665719617706[<b>Speaker 👉 Anji:</b>
 
 Haha, ok, Lightbulb.]
-1766665719617706 -->1766665728314539[<b>Speaker 👉 LightBulb:</b>
+1766665719617706 -->1766665728314539[<b>Speaker 👉 Lil' Bulb:</b>
 
 She talks about you a lot–
 You must be very special to Anna.]
 1766665728314539 -->1766665742296236[<b>Speaker 👉 Anji:</b>
 
 He likes to exaggerate.]
-1766665742296236 -->1766665754926253[<b>Speaker 👉 LightBulb:</b>
+1766665742296236 -->1766665754926253[<b>Speaker 👉 Lil' Bulb:</b>
 
 Like all the time. ALLLL the time-
 You must be very special to Anna.]
 1766665754926253 -->1766665766256814[End]
 Start -->1766665778801842[ ]
-1766665778801842 -->|...um.|1766665796155573[<b>Speaker 👉 Anji:</b>
+1766665778801842 -->|Uh...|1766665796155573[<b>Speaker 👉 Anji:</b>
 
 Haha... He's fine.
 But you did it! 

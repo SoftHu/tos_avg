@@ -2,15 +2,15 @@
 graph
 Start -->1767454272514941[<b>Speaker 👉 温泉主人:</b>
 
-这位客人，进入温泉请先去前台购票！
-这里并非无人管理的野温泉
-您这样做会很让人为难的……]
+Dear guest, please buy a ticket at the front desk before entering 
+the hot spring! This is not some unmanned establishment. 
+Your actions put us in a difficult position...]
 Start -->1767454272515966[<b>Speaker 👉 温泉主人:</b>
 
-喂！你鬼鬼祟祟地在那里做什么？
-啊……我知道了，你是想不付钱泡温泉对吧！
-说起来，上次好像也是你！
-要是大家都像你一样当小偷，我们都要饿死了！
-好啦，乖乖去前台买票吧。]
+Hey! What are you sneaking around for?
+Ah... I get it, you're trying to enjoy the hot spring without paying, aren't you?
+Come to think of it, I believe it was you last time as well!
+If everyone snuck their way in like you did, we'd all starve!
+Now, be good and buy a ticket at the front desk.]
 
  ```

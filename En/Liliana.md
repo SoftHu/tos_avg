@@ -2,47 +2,47 @@
 graph LR
 Start -->1763122475101619[<b>Speaker 👉 Lilliana:</b>
 
-Your gifts are always so snowy!
-It's a big help, just what I needed.
-How can I ever thank you enough, &lbrace;playername&rbrace; always takes such good care of me.]
+Your gifts always arrive in the nick of time!
+Such a big help. Just what I needed.
+How can I ever thank you? &lbrace;playername&rbrace;'s always looking out for me.]
 Start -->1763122475102645[<b>Speaker 👉 Lilliana:</b>
 
-Receiving your gift, I suddenly felt ...... warm, like bathing in the sunset.
-It may be a bit strange to say so, but this is the true feeling of my heart just now.]
+Your gift made me feel...
+A warmth all of a sudden, like bathing in the sunset.
+It may be strange to say out loud, but that's how I felt just now.]
 Start -->1763122475102647[<b>Speaker 👉 Lilliana:</b>
 
-Actually you don't have to break the bank so much ......
+Actually you don't have to do this...
 Even without these gifts, we're still friends.]
 Start -->1763122475102649[<b>Speaker 👉 Lilliana:</b>
 
-It might be a bit rude to say that ......
-Actually, I'm usually more concerned with creativity, and I don't have a lot of extra materialistic desires.
-These gifts, even though they're out of goodwill, would bother me a bit.]
+It might be a bit rude to say this but...
+I'm usually more focused on work than other things.
+These gifts, though out of goodwill, do confuse me.]
 Start -->1763122475103675[<b>Speaker 👉 Lilliana:</b>
 
 What's this?
 Are you a child?
-I can't believe you're making such a boring joke ......]
+I can't believe you find something like that funny...]
 Start -->1763122475103677[<b>Speaker 👉 Lilliana:</b>
 
 Today is really my lucky day!
-I'm really happy to receive such a heartwarming birthday gift.
-Maybe I should record this moment with a painting.
-]
+I'm overjoyed to receive such a heart-warming birthday gift.
+Maybe I should capture this moment with a painting.]
 Start -->1763122475104703[<b>Speaker 👉 Lilliana:</b>
 
-&lbrace;playername&rbrace; for my birthday gift ......
+A birthday gift from &lbrace;playername&rbrace;...
 I'll have to take good care of it then.
-Let's just put it next to the gift from Yhoji!]
+I'll put it next to the gift from Yoji!]
 Start -->1763122475104705[<b>Speaker 👉 Lilliana:</b>
 
-Birthday present?
+A birthday present?!
 Thank you, &lbrace;playername&rbrace;.]
 Start -->1763122475105731[<b>Speaker 👉 Lilliana:</b>
 
 What? Is this a birthday present?
-Uh ...... Thank you.
-Actually, I forget about birthdays all the time.]
+Uh... Thanks?
+Actually, I forget my birthday all the time.]
 Start -->1763122475105733[<b>Speaker 👉 Lilliana:</b>
 
 Is this your &quot;birthday surprise&quot; for me?
@@ -55,6 +55,12 @@ Start -->1763122475106761[<b>Speaker 👉 Lilliana:</b>
 Goodbye ......]
 Start -->1763122475106763[<b>Speaker 👉 Lilliana:</b>
 
-So, that's all we're going to talk about today.]
+Alrighty, that's enough chat for today.]
+Start -->1770474474127394[<b>Speaker 👉 Lilliana:</b>
+
+Ah... Hello.]
+Start -->1770474474128420[<b>Speaker 👉 Lilliana:</b>
+
+It's you! How can I assist you?]
 
  ```

@@ -13,7 +13,7 @@ only to discover it was you, cutie, who was brewing it.]
 Let me formally introduce myself, I am Shuten.
 Haha,
 now that we're here, you're not gonna invite me for a tipple?]
-1754563737564946 -->|You are?|1754563748030231[<b>Speaker 👉 Shuten:</b>
+1754563737564946 -->|And you are...?|1754563748030231[<b>Speaker 👉 Shuten:</b>
 
 &lbrace;npc.4209.first_name&rbrace;-chan has told me a lot about you.
 Let me formally introduce myself, I am Shuten.

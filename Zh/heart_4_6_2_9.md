@@ -2,88 +2,88 @@
 graph
 Start -->1766672157337891[<b>Speaker 👉 小灯泡:</b>
 
-Hey… HEY! &lbrace;playername&rbrace;, wake up!]
+嘿......嘿！&lbrace;playername&rbrace;,醒醒！]
 1766672157337891 -->1766681055228200[End]
 Start -->1766681208037674[<b>Speaker 👉 小灯泡:</b>
 
-Have you forgotten your promise!?
-Anji is leaving tonight! 
-She's waiting for you at the frog statue...
-Go now, before she's gone!!]
+你忘了你的诺言吗！？
+安姬今晚要走了！
+她在青蛙雕像前等你......
+现在就去,一定要赶在她走之前！！]
 1766681208037674 -->1766685341910398[End]
 Start -->1766681352883506[<b>Speaker 👉 安姬:</b>
 
 &lbrace;playername&rbrace;!
-I'm… I'm glad you came.
-I wanted to see you one last time before I left.
-Your friendship has meant so much to me.]
+我......看到你来了我很高兴。
+我想在我离开之前最后一次见你。
+这段友谊对我来说意义重大。]
 1766681352883506 -->1766686399488482[<b>Speaker 👉 安姬:</b>
 
-I have to. 
-I want to live open and honestly.
-I want friends and a house and… love.
-I can't have that here.]
+我不想再戴着面具生活了,所以我必须要离开了。
+我想要朋友和房子,还有......爱。
+在这里,这些都不会有。]
 1766681352883506 -->1766686399488482[<b>Speaker 👉 安姬:</b>
 
-I have to. 
-I want to live open and honestly.
-I want friends and a house and… love.
-I can't have that here.]
+我不想再戴着面具生活了,所以我必须要离开了。
+我想要朋友和房子,还有......爱。
+在这里,这些都不会有。]
 1766686399488482 -->1766686528492008[<b>Speaker 👉 安姬:</b>
 
-Are you crazy? They would cast me out!]
+你疯了吗？他们一定会把我赶出去！]
 1766686399488482 -->1766686528492008[<b>Speaker 👉 安姬:</b>
 
-Are you crazy? They would cast me out!]
+你疯了吗？他们一定会把我赶出去！]
 1766686528492008 -->1766686621164014[<b>Speaker 👉 安姬:</b>
 
-You really think…?
-But my Master and my family…
-I'm a warrior. I have a duty to my clan.]
+你真的这么想？
+但是我的师父和我的家人...
+更何况我是一名战士,我对我的族群有责任。]
 1766686621164014 -->1766686682965492[<b>Speaker 👉 安姬:</b>
 
-I don't know, &lbrace;playername&rbrace;...]
+我不知道,&lbrace;playername&rbrace;......]
 1766686621164014 -->1766686682965492[<b>Speaker 👉 安姬:</b>
 
-I don't know, &lbrace;playername&rbrace;...]
+我不知道,&lbrace;playername&rbrace;......]
 1766686682965492 -->1766686720384506{ }
 1766686682965492 -->1766686745538043[<b>Speaker 👉 安姬:</b>
 
-Oh, &lbrace;playername&rbrace;.
-Ok, I won't leave yet. But… I'm not sure I can do it.]
+哦,&lbrace;playername&rbrace;。
+好的,我暂时不会走。但……我不确定未来会怎样。]
 1766686745538043 -->1766686774106624{ }
-1766686774106624 -->|With good friends you can do anything. Please don't leave.|1766686821873154[<b>Speaker 👉 安姬:</b>
+1766686774106624 -->|和好朋友在一起,你可以做任何事情。请不要离开。|1766686821873154[<b>Speaker 👉 安姬:</b>
 
-AGH, this is awful! You're too nice!
-Fine, I'll stay!
-I have to back and unpack before my master wakes up.
-Whatever happens…. Thank you.]
+啊,太讨厌了！你太好了,我都没办法拒绝。
+好吧,我会留下来的！
+我得在师父醒来之前把行李收拾出来。
+不管将来发生什么......谢谢你。]
 1766686774106624 -->1766686821873154[<b>Speaker 👉 安姬:</b>
 
-AGH, this is awful! You're too nice!
-Fine, I'll stay!
-I have to back and unpack before my master wakes up.
-Whatever happens…. Thank you.]
+啊,太讨厌了！你太好了,我都没办法拒绝。
+好吧,我会留下来的！
+我得在师父醒来之前把行李收拾出来。
+不管将来发生什么......谢谢你。]
 1766686821873154 -->1766686858170883[End]
 Start -->1766686900719109[<b>Speaker 👉 安姬:</b>
 
-You're the only person I can be myself around.
-Our sleepover with Kon was the best night of my life.]
+只有在你面前,我才可以做自己。
+那天和你们一起过夜是我一生中最美好的夜晚。]
 1766686900719109 -->1766686927494666{ }
-1766686927494666 -->|Mine too.|1766686953551371[<b>Speaker 👉 安姬:</b>
+1766686927494666 -->|我也是这么觉得的。|1766686953551371[<b>Speaker 👉 安姬:</b>
 
-I can't leave now! After… that.
-Ugh, now I have to go unpack everything before my master wakes up.
-Wish I could stay here forever, but I have to go! See you soon, Foxy.]
+我现在不能走！至少在那之前……
+呃,现在我得在师父醒来之前把行李整理好。
+我希望我能永远留在这里,但我必须得走了！
+再见,狐狸。]
 1766686927494666 -->1766686953551371[<b>Speaker 👉 安姬:</b>
 
-I can't leave now! After… that.
-Ugh, now I have to go unpack everything before my master wakes up.
-Wish I could stay here forever, but I have to go! See you soon, Foxy.]
+我现在不能走！至少在那之前……
+呃,现在我得在师父醒来之前把行李整理好。
+我希望我能永远留在这里,但我必须得走了！
+再见,狐狸。]
 1766686953551371 -->1766686979208720{ }
-1766686979208720 -->|See you soon, Anji.|1766687001349649[<b>Speaker 👉 安姬:</b>
+1766686979208720 -->|回见,安姬。|1766687001349649[<b>Speaker 👉 安姬:</b>
 
-I can't believe I'm dating a Fox!]
+我真不敢相信我正在和一只狐狸约会！]
 1766687001349649 -->1766687019647507[End]
 
  ```

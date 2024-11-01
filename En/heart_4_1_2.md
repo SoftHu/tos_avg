@@ -4,38 +4,51 @@ Start -->1758605767331398[<b>Speaker 👉 Nyotengu:</b>
 
 How about it? Are you here to drink with me... If not, don't bother me.]
 1758605767331398 -->1758605786517063{ }
-1758605786517063 -->|Take a sip.|1758605814728268[<b>Speaker 👉 Nyotengu:</b>
+1758605786517063 -->|*Take a sip*|1758605814728268[<b>Speaker 👉 Nyotengu:</b>
 
 If that's all you've got, I'm not listening to you...]
-1758605786517063 -->|Bottoms up!|1758606699736658[<b>Speaker 👉 Nyotengu:</b>
+1758605786517063 -->|*Down in one*|1758606699736658[<b>Speaker 👉 Nyotengu:</b>
 
-That's more like it, I knew you had something to say. Could it be about wanting to become my apprentice?
-Shuten doesn't want her precious kids to lead a dangerous life. So, even though Ritsuryo has a talent for fighting, I can't drag him into that dangerous world.]
+That's more like it, I knew you had something to say. 
+Could it be about wanting to become my apprentice?
+Shuten doesn't want her precious kids to lead a dangerous life. 
+So, even though Ritsuryo has a talent for fighting, 
+I can't drag him into that dangerous world.]
 1758605814728268 -->1758605834924621{ }
-1758605834924621 -->|Bottoms up!|1758606699736658[<b>Speaker 👉 Nyotengu:</b>
+1758605834924621 -->|*Down in one*|1758606699736658[<b>Speaker 👉 Nyotengu:</b>
 
-That's more like it, I knew you had something to say. Could it be about wanting to become my apprentice?
-Shuten doesn't want her precious kids to lead a dangerous life. So, even though Ritsuryo has a talent for fighting, I can't drag him into that dangerous world.]
+That's more like it, I knew you had something to say. 
+Could it be about wanting to become my apprentice?
+Shuten doesn't want her precious kids to lead a dangerous life. 
+So, even though Ritsuryo has a talent for fighting, 
+I can't drag him into that dangerous world.]
 1758605834924621 -->|Only a bottoms up will do...|1758606699736658[<b>Speaker 👉 Nyotengu:</b>
 
-That's more like it, I knew you had something to say. Could it be about wanting to become my apprentice?
-Shuten doesn't want her precious kids to lead a dangerous life. So, even though Ritsuryo has a talent for fighting, I can't drag him into that dangerous world.]
+That's more like it, I knew you had something to say. 
+Could it be about wanting to become my apprentice?
+Shuten doesn't want her precious kids to lead a dangerous life. 
+So, even though Ritsuryo has a talent for fighting, 
+I can't drag him into that dangerous world.]
 1758606699736658 -->1758606754374227{ }
 1758606754374227 -->|It's only dangerous if you can't protect yourself.|1758607314763352[<b>Speaker 👉 Nyotengu:</b>
 
-You as well... That kid said something similar. Surprising, how mature kids are these days.]
+You as well... That kid said something similar. 
+Surprising, how mature kids are these days.]
 1758606754374227 -->|Ritsuryo can take care of himself.|1758607314763352[<b>Speaker 👉 Nyotengu:</b>
 
-You as well... That kid said something similar. Surprising, how mature kids are these days.]
+You as well... That kid said something similar. 
+Surprising, how mature kids are these days.]
 1758607314763352 -->1758607391512153{ }
 1758607391512153 -->|Please...|1758607472497246[<b>Speaker 👉 Nyotengu:</b>
 
-Alright, since you put it that way and for the sake of that drink, I'll reluctantly accept.
+Alright, since you put it that way and for the sake of that drink, 
+I'll reluctantly accept.
 But I have one condition... This must have Shuten's approval!
 So, as long as Ritsuryo gets himself a proper weapon, I can teach him combat skills.]
 1758607391512153 -->|Give him a chance.|1758607472497246[<b>Speaker 👉 Nyotengu:</b>
 
-Alright, since you put it that way and for the sake of that drink, I'll reluctantly accept.
+Alright, since you put it that way and for the sake of that drink, 
+I'll reluctantly accept.
 But I have one condition... This must have Shuten's approval!
 So, as long as Ritsuryo gets himself a proper weapon, I can teach him combat skills.]
 Start -->1761905278021897[<b>Speaker 👉 Ritsuryo:</b>

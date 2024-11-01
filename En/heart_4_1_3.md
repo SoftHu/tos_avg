@@ -2,20 +2,24 @@
 graph LR
 Start -->1757655458919025[<b>Speaker 👉 Kinntarou:</b>
 
-The first dish is spicy seafood pasta~ I personally think the spiciness is just right, but I'm worried that the guests might not find it impactful enough...
+The first dish is spicy seafood pasta~ I personally think the spiciness is just right, 
+but I'm worried that the guests might not find it impactful enough...
 What do you think, &lbrace;playername&rbrace;?]
 1757655458919025 -->1757656312290930{ }
 1757656312290930 -->|This is too spicy! &#40;breathing fire&#41;|1757656448902775[<b>Speaker 👉 Kinntarou:</b>
 
-Really? Is it that intense? But indeed, not everyone can handle spiciness well. Maybe I should reduce the amount of chili.]
+Really? Is it that intense? But indeed, not everyone can handle spiciness well. 
+Maybe I should reduce the amount of chili.]
 1757656312290930 -->|I think it can be spicier...|1757656589291128[<b>Speaker 👉 Kinntarou:</b>
 
-You're right, we should offer a unique experience! Spice that explodes like fireworks, leaving a lasting impression.]
+You're right, we should offer a unique experience! 
+Spice that explodes like fireworks, leaving a lasting impression.]
 1757656448902775 -->1758962451920574[End]
 1757656589291128 -->1758962451920574[End]
 Start -->1757657246957178[<b>Speaker 👉 TV:</b>
 
-Welcome to Heaven's Kitchen, I am your beloved chef Lucifer! Let's see what ingredients we have today to create a devilish feast...]
+Welcome to Heaven's Kitchen, I am your beloved chef Lucifer! 
+Let's see what ingredients we have today to create a devilish feast...]
 1757657246957178 -->1758962459651775[End]
 Start -->1758891824335472[<b>Speaker 👉 Kinntarou:</b>
 
@@ -37,7 +41,8 @@ I'd rather have a deeper connection
 with delicious food...]
 1758891824336505 -->1758891824337530[<b>Speaker 👉 Kinntarou:</b>
 
-Mom's tavern is about to open, so I was helping her hand out flyers. It was so boring, I fell asleep here.]
+Mom's tavern is about to open, so I was helping her hand out flyers. 
+It was so boring, I fell asleep here.]
 1758891824337530 -->1758891824337533{ }
 1758891824337533 -->|Slacking off...|1758891824337534[<b>Speaker 👉 Kinntarou:</b>
 
@@ -58,7 +63,8 @@ I need 2 &lbrace;item.42002&rbrace;s and 3 &lbrace;item.2602&rbrace;es, please.]
 1758891824337537 -->|Leave it to me!|1758891824338562[End]
 1758891824338563 -->1758891824337530[<b>Speaker 👉 Kinntarou:</b>
 
-Mom's tavern is about to open, so I was helping her hand out flyers. It was so boring, I fell asleep here.]
+Mom's tavern is about to open, so I was helping her hand out flyers. 
+It was so boring, I fell asleep here.]
 Start -->1757657625870971[<b>Speaker 👉 Kinntarou:</b>
 
 Heaven's Kitchen is on!

@@ -8,24 +8,69 @@ Start -->1750843311597832[<b>Speaker 👉 赫菲:</b>
 青岚的铁矿含有大量的碳，
 这种铁矿非常适合用来锻造刀具。]
 1750843311597832 -->1750843489202441{ }
-1750843489202441 -->|村正师父？|1750843511057678[<b>Speaker 👉 赫菲:</b>
+1750843489202441 -->|Muramasa? |1750844368454949[End]
+1750843489202441 -->|What kind of special blade? |1750844368454949[End]
+Start -->1750843511057678[<b>Speaker 👉 赫菲:</b>
 
-村正师父是业内闻名的刀匠，
-也是教会我选材和锻造的老师，
-我的整个少年时期都是在他的陪伴下度过的。
+Master Muramasa is a world-renowned craftsman. His blades are legendary. 
+I spent my youth as his apprentice, devoting my life to blacksmithing. 
+
+
+It's my dream to become a master smith and create blades of his caliber. ]
+1750843511057678 -->1771622740652228{ }
+1771622740652228 -->|Aren't you already a master smith?|1771622794595529[<b>Speaker 👉 赫菲:</b>
+
+ Haha you flatter me! But no, not yet. 
 ]
-1750843489202441 -->|听起来好像很耳熟……|1750843511057678[<b>Speaker 👉 赫菲:</b>
+1771622740652228 -->|I'm sure you'll get there.|1771622814731466[<b>Speaker 👉 赫菲:</b>
 
-村正师父是业内闻名的刀匠，
-也是教会我选材和锻造的老师，
-我的整个少年时期都是在他的陪伴下度过的。
+It takes years to become a true master. 
+And there are many tests I must overcome. 
+
+Some are within my control… 
+And some are in the hands of fate. 
+
+What is your dream, &lbrace;Player name?&rbrace;
 ]
-1750843511057678 -->1750844368454949[End]
-Start -->1750844326438180[<b>Speaker 👉 赫菲:</b>
+1771622794595529 -->1771622814731466[<b>Speaker 👉 赫菲:</b>
 
-他对我的意义远不止如此，
-即便是我已经出师多年，
-还是会时不时想起他。]
+It takes years to become a true master. 
+And there are many tests I must overcome. 
+
+Some are within my control… 
+And some are in the hands of fate. 
+
+What is your dream, &lbrace;Player name?&rbrace;
+]
+1771622814731466 -->1771622886264011{ }
+1771622886264011 -->|To find my heart's companion. |1771622940282067[<b>Speaker 👉 赫菲:</b>
+
+Hmm, that's an honorable goal. 
+
+Based on the way you swing a pickaxe,
+I'm sure nothing will stand in your way!
+
+Speaking of, how about we get back to our competition with the earth, eh!? 
+]
+1771622886264011 -->|To find a peaceful life Seikyu. |1771622940282067[<b>Speaker 👉 赫菲:</b>
+
+Hmm, that's an honorable goal. 
+
+Based on the way you swing a pickaxe,
+I'm sure nothing will stand in your way!
+
+Speaking of, how about we get back to our competition with the earth, eh!? 
+]
+1771622886264011 -->|To unlock the secrets of the Fox Clan.  |1771622940282067[<b>Speaker 👉 赫菲:</b>
+
+Hmm, that's an honorable goal. 
+
+Based on the way you swing a pickaxe,
+I'm sure nothing will stand in your way!
+
+Speaking of, how about we get back to our competition with the earth, eh!? 
+]
+1771622940282067 -->1771623004033236[End]
 1750844326438180 -->1750843531953423{ }
 1750843531953423 -->|看来他对你很重要|1750843556242708[<b>Speaker 👉 赫菲:</b>
 
@@ -47,8 +92,6 @@ Start -->1750844326438180[<b>Speaker 👉 赫菲:</b>
 真的吗？那我们可就约好啰，
 以后你想采矿的时候，
 都可以来找我，我会等着你的。]
-1750843645790490 -->1750844148976931[End]
-1750843651490075 -->1750844148976931[End]
 Start -->1751366028817745[<b>Speaker 👉 赫菲:</b>
 
 出汗的感觉真痛快啊……  
@@ -66,14 +109,22 @@ Start -->1751366028817745[<b>Speaker 👉 赫菲:</b>
 1751366272377195 -->1751366336661868{ }
 1751366336661868 -->|村正铭刻？|1751366551144817[<b>Speaker 👉 獭里昂:</b>
 
-这可是所有武者梦寐以求的宝物
-你眼前的这位工匠恰好就是正统的传人，
-虽然他总是拒绝我的请求。]
+It is a treasure that all warriors dream of!
+Hephaestus carries knowledge from Master Muramasa himself.
+A magic inscription that grants a weapon unmatched power!
+
+Those who wield a Muramasa blade are nearly unstoppable. 
+But Hephaestus refuses to make one for me!
+]
 1751366336661868 -->|这是什么……|1751366551144817[<b>Speaker 👉 獭里昂:</b>
 
-这可是所有武者梦寐以求的宝物
-你眼前的这位工匠恰好就是正统的传人，
-虽然他总是拒绝我的请求。]
+It is a treasure that all warriors dream of!
+Hephaestus carries knowledge from Master Muramasa himself.
+A magic inscription that grants a weapon unmatched power!
+
+Those who wield a Muramasa blade are nearly unstoppable. 
+But Hephaestus refuses to make one for me!
+]
 1751366551144817 -->1751366797251954[<b>Speaker 👉 赫菲:</b>
 
 村正铭刻对于普通人来说是个灾难
@@ -96,18 +147,37 @@ Start -->1751367195766136[<b>Speaker 👉 赫菲:</b>
 1751367195766136 -->1751367217642873{ }
 1751367217642873 -->|哪有朋友不吵架的……|1751367543267712[<b>Speaker 👉 赫菲:</b>
 
-我会找他好好聊聊这件事的，
-当然，
-得等他心情好点的时候。
-出汗后别忘了补充水分，
-下次我们再一起锻炼吧！]
+The Muramasa inscription is not something to be taken lightly. 
+Its power should only fall to one truly deserving.
+I hope to find a worthy swordsman one day. 
+
+I'll talk to Tor when he's cooled off.
+
+Now! Don't forget to hydrate after sweating so much. 
+Let's try to keep our new club alive, eh? 
+]
 1751367217642873 -->|你忽略了他的感受……|1751367543267712[<b>Speaker 👉 赫菲:</b>
 
-我会找他好好聊聊这件事的，
-当然，
-得等他心情好点的时候。
-出汗后别忘了补充水分，
-下次我们再一起锻炼吧！]
+The Muramasa inscription is not something to be taken lightly. 
+Its power should only fall to one truly deserving.
+I hope to find a worthy swordsman one day. 
+
+I'll talk to Tor when he's cooled off.
+
+Now! Don't forget to hydrate after sweating so much. 
+Let's try to keep our new club alive, eh? 
+]
+1751367217642873 -->|You should just make him the weapon.  |1751367543267712[<b>Speaker 👉 赫菲:</b>
+
+The Muramasa inscription is not something to be taken lightly. 
+Its power should only fall to one truly deserving.
+I hope to find a worthy swordsman one day. 
+
+I'll talk to Tor when he's cooled off.
+
+Now! Don't forget to hydrate after sweating so much. 
+Let's try to keep our new club alive, eh? 
+]
 1751367543267712 -->1751367628238209[End]
 
  ```

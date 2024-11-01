@@ -30,17 +30,17 @@ I asked you to beat the Daruma, not destroy it!]
 Wait, wait, wait, that's for eating...
 To buy this Daruma,
 I borrowed 1500 gold coins and used up all my savings.
-Even the top prize won't cover your debt.
-You still owe me 500 gold coins. 
-Your friend here stays with me until you cough it up!]
+The grand prize isn't enough to cover your debt. You still owe me 500 gold coins. 
+Since you're new around here, I'll put it on your tab. 
+But if you don't pay up, I'll have to tell Mayor Yui!]
 1739174442891471 -->|Yay!|1739174468325588[<b>Speaker 👉 Ritsuryo:</b>
 
 Wait, wait, wait, that's for eating...
 To buy this Daruma,
 I borrowed 1500 gold coins and used up all my savings.
-Even the top prize won't cover your debt.
-You still owe me 500 gold coins. 
-Your friend here stays with me until you cough it up!]
+The grand prize isn't enough to cover your debt. You still owe me 500 gold coins. 
+Since you're new around here, I'll put it on your tab. 
+But if you don't pay up, I'll have to tell Mayor Yui!]
 1739174468325588 -->1739419408500975{ }
 Start -->1739174569058519[<b>Speaker 👉 Ritsuryo:</b>
 

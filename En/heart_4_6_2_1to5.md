@@ -3,7 +3,7 @@ graph LR
 Start -->1766404728717123[<b>Speaker 👉 Anji:</b>
 
 Hi &lbrace;playername&rbrace;, 
-been a while...
+been a while…
 
 I was worried I might have imagined you. 
 ]
@@ -21,7 +21,7 @@ You foxes, so serious and boring.
 I just came to see if you found anything...
 Soft moss, shiny rocks, transformation scrolls...]
 1766405006141257 -->1766405035471690{ }
-1766405035471690 -->|So you're hunting Inari's scroll. |1766406367476233[<b>Speaker 👉 Anji:</b>
+1766405035471690 -->|So you're hunting Lady Inari's scroll. |1766406367476233[<b>Speaker 👉 Anji:</b>
 
 We're hunting many things.]
 1766405035471690 -->|Nope, nothing.  |1766406378349066[<b>Speaker 👉 Anji:</b>
@@ -68,7 +68,7 @@ Start -->1766409073573657[<b>Speaker 👉 Anji:</b>
 
 ...]
 1766409073573657 -->1766408707190546{ }
-1766408707190546 -->|Are you alright?|1766409981573914[<b>Speaker 👉 Anji:</b>
+1766408707190546 -->|Is everything alright?|1766409981573914[<b>Speaker 👉 Anji:</b>
 
 I'll be fine. ]
 1766408707190546 -->1766409981573914[<b>Speaker 👉 Anji:</b>
@@ -110,7 +110,7 @@ What would they say if they saw me? The real me.
 .............
 Hmm, you think?
 A house with a yard for games and neighbors to chat with...
-sounds nice, doesn't it?
+Sounds nice, doesn't it?
 ........
 No! We can't.
 I have a mission to complete. 
@@ -302,7 +302,7 @@ That's the problem.
 I fought with my master today...
 He was angry that I talked to you.]
 1766663067756469 -->1766663103090614{ }
-1766663103090614 -->|Why?|1766663121777595[<b>Speaker 👉 Anji:</b>
+1766663103090614 -->|Why not?|1766663121777595[<b>Speaker 👉 Anji:</b>
 
 Haha, that's a stupid question.
 Have you already forgotten how we met?
@@ -339,7 +339,7 @@ I need some air.]
 
 I'd like that...]
 1766663465074637 -->1766663478585296{ }
-1766663478585296 -->|Me too.|1766663488850897[End]
+1766663478585296 -->|Me neither.|1766663488850897[End]
 1766663437074377 -->1766663488850897[End]
 
  ```

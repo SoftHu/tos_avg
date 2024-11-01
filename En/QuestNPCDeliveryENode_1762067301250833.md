@@ -4,7 +4,7 @@ Start -->1762069650172705[<b>Speaker 👉 Gulu Bobo Prince:</b>
 
 So... do you have it?]
 1762069650172705 -->1762069669422882{ }
-1762069669422882 -->|Hand over &lbrace;item.26318&rbrace;.|1762068673981213[ ]
+1762069669422882 -->|*Hand over &lbrace;item.26318&rbrace;*|1762068673981213[ ]
 1762069669422882 -->|It's not ready yet.|1762068838364960[End]
 1762068673981213 -->1762067883431701[<b>Speaker 👉 Gulu Bobo Prince:</b>
 

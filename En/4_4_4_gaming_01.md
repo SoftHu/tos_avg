@@ -18,7 +18,7 @@ So, how many pieces of glowing tofu were there?]
 
 Congratulations, brave adventurer.
 You found the answer and
-have earned Inari Okami's blessing.]
+have earned Lady Inari's blessing.]
 1759500278314593 -->|5|1759500484353642[<b>Speaker 👉 Gulu Bobo Queen:</b>
 
 It seems you have more thinking and training to do.

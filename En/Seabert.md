@@ -46,7 +46,7 @@ Every now and then, some tough looking guys
 would visit my uncle's shop. At first, I thought
 they were troublemakers and got a little worried.
 But they don't seem to mean any harm,
-and would even bring me delicious snacks.
+and even bring me delicious snacks.
 It's true you can't judge a book by its cover...]
 Start -->1727381607774317[<b>Speaker 👉 Seabert:</b>
 

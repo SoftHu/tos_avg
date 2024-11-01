@@ -2,7 +2,8 @@
 graph
 Start -->1730832679768155[<b>Speaker 👉 Unconfigured:</b>
 
-I'm not familiar with the yokai living here. I should come back when I am...]
+I don't know the yokai living here very well.
+I should come back when I do...]
 1730832679768155 -->1730832736418908[End]
 Start -->1730836209518772[<b>Speaker 👉 Unconfigured:</b>
 

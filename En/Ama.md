@@ -86,7 +86,7 @@ Most yokai who come to &lbrace;location.13&rbrace; have a
 checkered past, but the majority of us find peace here.]
 Start -->1740295246364888[<b>Speaker 👉 Ama:</b>
 
-I heard Inari Okami possesses otherworldly beauty.
+I heard Lady Inari possesses otherworldly beauty.
 Wonder if my designs will be able to match that…
 She probably prefers elegant and traditional kimonos
 rather than trendy and fashionable clothing, right?

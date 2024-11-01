@@ -17,7 +17,7 @@ Start -->1730217004590177[<b>Speaker 👉 Yui:</b>
 Farewell, then.]
 Start -->1730217216536675[<b>Speaker 👉 Yui:</b>
 
-Okay, see you soon then.]
+Okay, I'll see you around then.]
 Start -->1730218968869989[<b>Speaker 👉 Yui:</b>
 
 Even though I was elected as mayor...
@@ -47,8 +47,8 @@ Start -->1730233744481387[<b>Speaker 👉 Yui:</b>
 I was just about to visit Miss Ama's store!
 Musashi brought some fabric from outside recently,
 and I've asked her to make a few dresses for me.
-Oh, the print on that fabric is so cute...
-Miss Ama said it'd be perfect for a pettiskirt.
+Oh, the print on the fabric is adorable...
+Miss Ama said it'd be perfect for a petticoat.
 I'm tingling with excitement!]
 Start -->1730233993071725[<b>Speaker 👉 Yui:</b>
 
@@ -106,8 +106,8 @@ You know, many years ago, Seikyu wasn't this quiet.
 Back then, it was home to the foxes.
 The Odas and the foxes, we go way back.
 They protected Seikyu, and the Odas protected them.
-Then something happened in my grandpa's generation.
-All the foxes vanished...
+Then something happened in my grandpa's generation and
+all the foxes vanished...
 As an Oda myself, I want to fulfill my duty,
 guarding this land and waiting for the foxes' return.]
 Start -->1757037204773016[<b>Speaker 👉 Yui:</b>
@@ -161,5 +161,26 @@ Start -->1758249694724699[<b>Speaker 👉 Yui:</b>
 
 You don't see a festival like this every day,
 so try to have as much fun as possible!]
+Start -->1769153395688482[<b>Speaker 👉 Yui:</b>
+
+Alright, everyone, get ready! 
+The Golden Egg Hunt is about to begin!
+You have 180 seconds to find as many golden eggs as possible.
+Remember, the more eggs you collect, 
+the better your chances for the grand prize!
+Ready... set... Go!]
+Start -->1769153431311396[<b>Speaker 👉 Yui:</b>
+
+Wow, what an amazing hunt! 
+You all did such a fantastic job, 
+but there can only be one winner of the grand prize!
+And the winner of this year's Golden Egg Hunt is... 
+&lbrace;property.GoldenEggWinner&rbrace;!
+Congratulations! 
+You've proven yourself the best egg hunter this year. 
+Enjoy your special prize and wear the title with pride!
+Thank you all for participating! 
+I hope you had a blast. 
+Don't worry if you didn't win this time—there's always next year!]
 
  ```

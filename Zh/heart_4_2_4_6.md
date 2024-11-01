@@ -2,94 +2,91 @@
 graph
 Start -->1768789456595545[<b>Speaker 👉 柴田莉莉奈:</b>
 
-…It's… pant… finished… wheeze….
-One second….. Whooo…
-Sorry… I ran here.]
+绘画……已经……完成……呼……
+给我一秒钟喘息的时间……呜呼……
+抱歉……我是跑着过来的。]
 1768789456595545 -->1768789510087263[<b>Speaker 👉 柴田莉莉奈:</b>
 
-The ephemera painting! It's finished!
-You must see it right away!]
+那幅稍纵即逝的画作！完成了！
+你不想现在就去看看吗？]
 1768789456595545 -->1768789510087263[<b>Speaker 👉 柴田莉莉奈:</b>
 
-The ephemera painting! It's finished!
-You must see it right away!]
+那幅稍纵即逝的画作！完成了！
+你不想现在就去看看吗？]
 1768789510087263 -->1768789555074661[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Noooo!]
+不！]
 1768789510087263 -->1768789563720294[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Good idea!]
+好主意！]
 1768789555074661 -->1768789571012199[End]
 1768789563720294 -->1768789571012199[End]
 Start -->1768789582635629[ ]
-1768789582635629 -->|It's perfect, Liliana.|1768789629735536[<b>Speaker 👉 柴田莉莉奈:</b>
+1768789582635629 -->|太完美了,莉莉奈。|1768789629735536[<b>Speaker 👉 柴田莉莉奈:</b>
 
-I'm not sure.]
-1768789582635629 -->|It really shows your skill.|1768789637396081[<b>Speaker 👉 柴田莉莉奈:</b>
+我不确定。]
+1768789582635629 -->|这幅画完美得展示了你的功底。|1768789637396081[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Thank you. But is it perfect…?]
+谢谢。但是它真的足够好吗？]
 1768789629735536 -->1768789648189042[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Anyway, I have a surprise for you.
-Another special flower bloomed just after you left that day…]
+不管怎样,我要给你一个惊喜。
+那天你离开后,又有一朵特别的花开放了……]
 1768789648189042 -->1768789667948147[End]
 1768789637396081 -->1768789648189042[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Anyway, I have a surprise for you.
-Another special flower bloomed just after you left that day…]
+不管怎样,我要给你一个惊喜。
+那天你离开后,又有一朵特别的花开放了……]
 Start -->1768789682103925[<b>Speaker 👉 柴田莉莉奈:</b>
 
-This is a peacock cactus. 
-It's the opposite of Ephemera…
-It blooms only for one day, 
-under the hot sun…
-Then dies at nightfall.
-I painted it right after you left.
-I was exhausted, but it couldn't  wait.
-It's like a cheerful rural girl…
-with sweat sliding down her delicate shoulders.
-While ephemera is more like a mysterious geisha.
-Which do you prefer?]
+这是孔雀仙人掌,它与昙花相反。
+它只在骄阳下绽放……
+然后在夜幕降临时死亡。
+你离开后我紧接着就画了它。
+我筋疲力尽,但它等不了。
+就像一个开朗的乡村女孩……
+汗水顺着她纤细的肩膀滑落。
+相比之下,昙花更像是一个充满神秘魅力的艺伎。
+你更喜欢哪个？]
 1768789682103925 -->1768789752905352{ }
-1768789752905352 -->|I prefer the painter who can capture both.|1768789777376911[<b>Speaker 👉 柴田莉莉奈:</b>
+1768789752905352 -->|我更喜欢能捕捉二者美丽的画家。|1768789777376911[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Oh, don't be silly. 
-Pick one.]
+哦,别犯傻了！选一个。]
 1768789752905352 -->1768789804011159{ }
 1768789752905352 -->1768789837147800{ }
 1768789777376911 -->1768789804011159{ }
 1768789777376911 -->1768789837147800{ }
 1768789804011159 -->1768789854508697[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Hmm, interesting.
-I wonder which I more resemble.
-Both have their imperfections.]
+嗯,有趣。
+能告诉我在你眼中我更像它们当中的哪一个吗？
+二者都并不完美。]
 1768789854508697 -->1768789884488350{ }
-1768789884488350 -->|Perfection isn't everything.|1768789897873055[<b>Speaker 👉 柴田莉莉奈:</b>
+1768789884488350 -->|完美并不代表一切。|1768789897873055[<b>Speaker 👉 柴田莉莉奈:</b>
 
-I wish I could see them through your eyes.]
-1768789884488350 -->|You should exhibit them for the whole town!|1768789909116576[<b>Speaker 👉 柴田莉莉奈:</b>
+我希望我能通过你的眼睛看到它们。]
+1768789884488350 -->|让全镇的居民见识到它们的美！|1768789909116576[<b>Speaker 👉 柴田莉莉奈:</b>
 
-You think they are good enough?]
+它们真的有那么好？]
 1768789897873055 -->1768789917893281[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Maybe I'll ask Priest Leon about an exhibition…
-…but I can't look at them any longer. 
-I only see all the little flaws now.
-I need to go for a walk in the forest.
-Thank you, &lbrace;playername&rbrace;.]
+也许我会和莱昂神官讨论一下关于展览的事。
+但是我不能继续盯着画作看了
+越看越觉得有问题！
+我得去森林里散散步。
+谢谢你,&lbrace;playername&rbrace;。]
 1768789917893281 -->1768789958068898[End]
 1768789909116576 -->1768789917893281[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Maybe I'll ask Priest Leon about an exhibition…
-…but I can't look at them any longer. 
-I only see all the little flaws now.
-I need to go for a walk in the forest.
-Thank you, &lbrace;playername&rbrace;.]
+也许我会和莱昂神官讨论一下关于展览的事。
+但是我不能继续盯着画作看了
+越看越觉得有问题！
+我得去森林里散散步。
+谢谢你,&lbrace;playername&rbrace;。]
 1768789837147800 -->1768789854508697[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Hmm, interesting.
-I wonder which I more resemble.
-Both have their imperfections.]
+嗯,有趣。
+能告诉我在你眼中我更像它们当中的哪一个吗？
+二者都并不完美。]
 
  ```

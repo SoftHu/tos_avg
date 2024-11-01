@@ -259,7 +259,7 @@ Let me show you how to supply drinks.
 Simply put your drinks in this liquor cabinet,
 then Ritsuryo and I will serve them to the customers.]
 1754558012130019 -->1754558088350437{ }
-1754558088350437 -->|Understood.|1754558107545320[<b>Speaker 👉 Shuten:</b>
+1754558088350437 -->|Got it.|1754558107545320[<b>Speaker 👉 Shuten:</b>
 
 Here you go.
 This is me repaying you for that drink you got me.

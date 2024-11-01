@@ -118,8 +118,7 @@ Start -->1757037204773016[<b>Speaker 👉 织田由衣:</b>
 过去狐狸们还在的时候
 经常会做一些晴天娃娃挂在屋檐上。
 据说晴天娃娃可以用来祈求好天气
-不过自从他们消失之后，这样的传统似乎也被遗忘了。
-]
+不过自从他们消失之后，这样的传统似乎也被遗忘了。]
 Start -->1757037426456730[<b>Speaker 👉 织田由衣:</b>
 
 你知道狐狸嫁女的传说吗？
@@ -162,5 +161,26 @@ Start -->1758249243877977[<b>Speaker 👉 织田由衣:</b>
 Start -->1758249694724699[<b>Speaker 👉 织田由衣:</b>
 
 难得的庆典，请务必要玩得开心呀！]
+Start -->1769153395688482[<b>Speaker 👉 织田由衣:</b>
+
+Alright, everyone, get ready! 
+The Golden Egg Hunt is about to begin!
+You have 180 seconds to find as many golden eggs as possible.
+Remember, the more eggs you collect, 
+the better your chances for the grand prize!
+Ready... set... Go!]
+Start -->1769153431311396[<b>Speaker 👉 织田由衣:</b>
+
+Wow, what an amazing hunt! 
+You all did such a fantastic job, 
+but there can only be one winner of the grand prize!
+And the winner of this year's Golden Egg Hunt is... 
+&lbrace;property.GoldenEggWinner&rbrace;!
+Congratulations! 
+You've proven yourself the best egg hunter this year. 
+Enjoy your special prize and wear the title with pride!
+Thank you all for participating! 
+I hope you had a blast. 
+Don't worry if you didn't win this time—there's always next year!]
 
  ```

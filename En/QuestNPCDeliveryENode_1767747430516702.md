@@ -10,7 +10,7 @@ The path up the mountain must have been perilous!]
 Not finished yet, huh...?
 No worries, take your time.
 I'm grateful for your help.]
-1767747552453629 -->|Deliver|1767747871150114[ ]
+1767747552453629 -->|*Hand over*|1767747871150114[ ]
 1767747552455678 -->1767747552455679[End]
 1767747871150114 -->1767747552455678[<b>Speaker 👉 Yoni:</b>
 
@@ -22,12 +22,11 @@ I'm grateful for your help.]
 Thank you so much!
 Just when I was at a loss,
 you suddenly appeared.
-I came to &lbrace;location.13&rbrace; hoping to become a singer,
-but honestly, at first, I thought
-if I failed, I'd just go home.
-I always thought that if someone as famous as &lbrace;npc.4205&rbrace;
-would agree to help me,
-maybe my chances of becoming a singer would be better.
+When I came to &lbrace;location.13&rbrace; hoping to become a singer,
+honestly, at first, I thought if I failed, I'd just go home.
+I always thought that if a designer as famous as &lbrace;npc.4205&rbrace;
+agreed to help me, maybe my chances of becoming a singer
+would be better.
 &quot;But I've had a lot of time to think while I've been waiting for you here.
 I'm not going to give up and let your help go to waste.
 I'll work hard to become a singer and bring joy with my music!&quot;]
@@ -43,9 +42,9 @@ Thank you,
 you're the first person to believe in me like this.]
 1767747552464902 -->1767747552466951[<b>Speaker 👉 Yoni:</b>
 
-I hope you're my first listener at &lbrace;location.13&rbrace;.
-Thank you.
-&lbrace;playername&rbrace;]
+I hope you're not my first and last audience in &lbrace;location.13&rbrace;.
+Thank you,
+&lbrace;playername&rbrace;.]
 1767747552466951 -->1767747552467978{ }
 1767747552467978 -->|That's it!|1767747552469003[End]
 1767747552467978 -->|Good luck!|1767747552469003[End]

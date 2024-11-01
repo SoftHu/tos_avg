@@ -19,19 +19,21 @@ that a real man needs the sea, not a pond.]
 1756242060035602 -->1756242135297555[End]
 Start -->1756242205476373[<b>Speaker 👉 Uozumi:</b>
 
-Our boss was the leader of the Furious Waves back in the day, a true godfather of the sea.]
+Our boss was the leader of the Furious Waves back in the day, 
+a true godfather of the sea.]
 1756242205476373 -->1756242364686874{ }
 1756242364686874 -->|Godfather of the Sea?|1756242494737952[<b>Speaker 👉 Torleone:</b>
 
 Well, &lbrace;npc.4216&rbrace;... 
-that's what we used to call each other when we were young. Now I'm just the old man at the fish shop.]
+that's what we used to call each other when we were young. 
+Now I'm just the old man at the fish shop.]
 1756242364686874 -->|Mafia?|1756242572664354[<b>Speaker 👉 Torleone:</b>
 
 Haha,
 some people might think that.
 But I'd rather call us heroes of the past.]
 1756242494737952 -->1756242607330851{ }
-1756242607330851 -->|That's dope.|1756242629922344[<b>Speaker 👉 Torleone:</b>
+1756242607330851 -->|That's so cool!|1756242629922344[<b>Speaker 👉 Torleone:</b>
 
 I didn't expect to find young people like you, who still think like that.
 I'll introduce you to my other brothers later.]
@@ -140,7 +142,8 @@ and that batch of goods is still in the warehouse
 next to the fish shop.]
 1756244990950038 -->|Did &lbrace;npc.4203.nick_name&rbrace; run away?|1756245240826524[<b>Speaker 👉 Torleone:</b>
 
-Right! That's exactly right. He didn't even try to pay for the goods before vanishing in Seikyu.]
+Right! That's exactly right. 
+He didn't even try to pay for the goods before vanishing in Seikyu.]
 1756245235600027 -->1756245267263133[<b>Speaker 👉 Torleone:</b>
 
 I'll take you to see those goods next time... 
@@ -155,18 +158,17 @@ instead of worrying.]
 Start -->1756245653687967[<b>Speaker 👉 Torleone:</b>
 
 Sorry for making you come all this way.
-I've been preparing a birthday gift for a friend recently. A handmade fishing rod!
+I've been preparing a birthday gift for a friend recently. 
+A handmade fishing rod!
 Although she doesn't seem to like fishing,
 I still hope she likes it.]
 1756245653687967 -->1756245730988704{ }
 1756245730988704 -->|Who?|1756245816989349[<b>Speaker 👉 Torleone:</b>
 
-Miss Ama... it's a gift for her birthday, though we aren't
-particularly close friends...]
+I18N Missing]
 1756245730988704 -->|Her?|1756245816989349[<b>Speaker 👉 Torleone:</b>
 
-Miss Ama... it's a gift for her birthday, though we aren't
-particularly close friends...]
+I18N Missing]
 1756245816989349 -->1756245873979046[<b>Speaker 👉 Kon:</b>
 
 Oh oh oh, &lbrace;npc.4206&rbrace; is in a situation!]
@@ -186,7 +188,7 @@ she might find my gift a bit odd.]
 
 Thank you, &lbrace;playername&rbrace;.
 That reassures me.]
-1756246158552747 -->|&lbrace;noc.4205.miss&rbrace; prefers luxurious things.|1756246210047665[<b>Speaker 👉 Torleone:</b>
+1756246158552747 -->|I18N Missing|1756246210047665[<b>Speaker 👉 Torleone:</b>
 
 Sigh... I hope this little scarf helps.
 If she doesn't like it, there's nothing I can do.]

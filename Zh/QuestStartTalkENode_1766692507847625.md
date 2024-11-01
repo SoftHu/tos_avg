@@ -2,7 +2,7 @@
 graph
 Start -->1766692545158091[<b>Speaker 👉 Unconfigured:</b>
 
-Anna slips you a note at the casino asking to meet her behind the casino… ]
+安娜在赌场给你塞了一张纸条,要求在赌场后面见她......]
 1766692545158091 -->1766692812234703[End]
 
  ```

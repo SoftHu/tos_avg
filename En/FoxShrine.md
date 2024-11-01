@@ -59,13 +59,13 @@ Should we tell &lbrace;npc.4209.last_name&rbrace; about the tanuki?]
 1761914466428247 -->|Go ahead.|1761914485231961[<b>Speaker 👉 &lbrace;sw.foxgod&rbrace;:</b>
 
 As residents of Seikyu,
-and descendants of the fox kind,
+and descendants of fox kind,
 you should inform &lbrace;npc.4209.last_name&rbrace; of the danger.
 Take care, protect yourselves.]
 1761914466428247 -->|Keep it a secret.|1761914485231961[<b>Speaker 👉 &lbrace;sw.foxgod&rbrace;:</b>
 
 As residents of Seikyu,
-and descendants of the fox kind,
+and descendants of fox kind,
 you should inform &lbrace;npc.4209.last_name&rbrace; of the danger.
 Take care, protect yourselves.]
 1761914485231961 -->1761914621797722[End]

@@ -5,14 +5,14 @@ Start -->1738530500713615[<b>Speaker 👉 Kon:</b>
 &lbrace;playername&rbrace;!
 Do you know the best way to win over the spirits?]
 1738530500713615 -->1749512468842790{ }
-1749512468842790 -->|Kiss them.|1749512535586093[<b>Speaker 👉 Kon:</b>
+1749512468842790 -->|*Kiss them*|1749512535586093[<b>Speaker 👉 Kon:</b>
 
 You... 
 really are... 
 hopeless.
 If you act like this,
 nobody will like you!]
-1749512468842790 -->|Give them their favourite gifts.|1749512740558126[<b>Speaker 👉 Kon:</b>
+1749512468842790 -->|*Give them their favorite gifts*|1749512740558126[<b>Speaker 👉 Kon:</b>
 
 The way to a yokai's heart...
 Of course, through its stomach!]

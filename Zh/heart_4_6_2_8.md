@@ -1,89 +1,93 @@
 ```mermaid
 graph
 Start -->1766672127542558[ ]
-1766672127542558 -->|I've never been back here…|1766672157337891[<b>Speaker 👉 安姬:</b>
+1766672127542558 -->|我从来没有回过这里......|1766672157337891[<b>Speaker 👉 安姬:</b>
 
-I have to show you something.
-We can talk after or you can leave…
-But I have to show you first. Okay?]
+我得给你看点东西。
+看完后,无论你是愿意和我聊聊还是打算再也不见
+我都可以接受。
+总之还是先看看,行吗？]
 1766672127542558 -->1766672157337891[<b>Speaker 👉 安姬:</b>
 
-I have to show you something.
-We can talk after or you can leave…
-But I have to show you first. Okay?]
+我得给你看点东西。
+看完后,无论你是愿意和我聊聊还是打算再也不见
+我都可以接受。
+总之还是先看看,行吗？]
 1766672157337891 -->1766683556349284{ }
-1766683556349284 -->|Okay…|1766681055228200[End]
+1766683556349284 -->|好的......|1766681055228200[End]
 Start -->1766681208037674[<b>Speaker 👉 安姬:</b>
 
-This… This is the real me.]
+这...这才是真正的我。]
 1766681208037674 -->1766683664729456[<b>Speaker 👉 小灯泡:</b>
 
-Well say something!]
+喂！别沉默了,说点什么！]
 1766683664729456 -->1766681246553387{ }
-1766681246553387 -->|How dare you? You've been lying to me!|1766683789556083[<b>Speaker 👉 安姬:</b>
+1766681246553387 -->|什么？你居然一直在骗我！|1766683789556083[<b>Speaker 👉 安姬:</b>
 
- I'm sorry, &lbrace;playername&rbrace;, can you forgive me?]
-1766681246553387 -->|I had a feeling you and Anna were linked.|1766683755688306[<b>Speaker 👉 安姬:</b>
+对不起,&lbrace;playername&rbrace;
+但你能原谅我吗？]
+1766681246553387 -->|我一直都觉得你和安娜有着冥冥之中的联系。|1766683755688306[<b>Speaker 👉 安姬:</b>
 
-But… aren't you… mad?
-I'm a Tanuki and I've been lying to you!]
-1766681246553387 -->|You're beautiful.|1766683755688306[<b>Speaker 👉 安姬:</b>
+可是……你不生气吗？
+我是狸猫,我一直在骗你……]
+1766681246553387 -->|你很漂亮。|1766683755688306[<b>Speaker 👉 安姬:</b>
 
-But… aren't you… mad?
-I'm a Tanuki and I've been lying to you!]
+可是……你不生气吗？
+我是狸猫,我一直在骗你……]
 1766683755688306 -->1766685254600060{ }
 1766685254600060 -->1766685693769091[<b>Speaker 👉 安姬:</b>
 
-You really are amazing, &lbrace;playername&rbrace;. 
-I wish I could stay with you.]
+你真的太棒了,&lbrace;playername&rbrace;。
+我希望我能和你在一起。]
 1766685254600060 -->1766685693769091[<b>Speaker 👉 安姬:</b>
 
-You really are amazing, &lbrace;playername&rbrace;. 
-I wish I could stay with you.]
+你真的太棒了,&lbrace;playername&rbrace;。
+我希望我能和你在一起。]
 1766685693769091 -->1766685732531593[<b>Speaker 👉 安姬:</b>
 
-I have to leave Seikyu.
-My master knows I gave you the Talisman.
-I've betrayed my clan and I've been lying to everyone.
-Nyotengu thought I was trying to hurt you the other night.
-That's what people think when they see me.
-I can't go on pretending when I know they all hate me.
-But I needed at least one person to see who I really am.]
+我得离开青岚了。
+我师父知道我把护身符给了你。
+我背叛了我的族人,我一直在对所有人撒谎。
+那天夜里,女天狗以为我正打算伤害你。
+这就是人们看到我时的想法。
+我知道他们都讨厌我,我无法再伪装下去了。
+但我至少应该让你知道我是谁……]
 1766685693769091 -->1766685732531593[<b>Speaker 👉 安姬:</b>
 
-I have to leave Seikyu.
-My master knows I gave you the Talisman.
-I've betrayed my clan and I've been lying to everyone.
-Nyotengu thought I was trying to hurt you the other night.
-That's what people think when they see me.
-I can't go on pretending when I know they all hate me.
-But I needed at least one person to see who I really am.]
+我得离开青岚了。
+我师父知道我把护身符给了你。
+我背叛了我的族人,我一直在对所有人撒谎。
+那天夜里,女天狗以为我正打算伤害你。
+这就是人们看到我时的想法。
+我知道他们都讨厌我,我无法再伪装下去了。
+但我至少应该让你知道我是谁……]
 1766685732531593 -->1766685820738958{ }
-1766685820738958 -->|I see you Anji.|1766685833229711[<b>Speaker 👉 安姬:</b>
+1766685820738958 -->|我很庆幸我能见证这一刻,安姬。|1766685833229711[<b>Speaker 👉 安姬:</b>
 
-Don't make this harder, &lbrace;playername&rbrace;.
-I have to go.
-I hope to see you one last time before I leave this place.
-Bye, foxy.]
-1766685820738958 -->|Please don't leave.|1766685833229711[<b>Speaker 👉 安姬:</b>
+讨厌……别让离别变得更加艰难,&lbrace;playername&rbrace;。
+我得走了。
+我希望在离开之前,能见你最后一面。
+再见,狐狸。]
+1766685820738958 -->|别走……|1766685833229711[<b>Speaker 👉 安姬:</b>
 
-Don't make this harder, &lbrace;playername&rbrace;.
-I have to go.
-I hope to see you one last time before I leave this place.
-Bye, foxy.]
+讨厌……别让离别变得更加艰难,&lbrace;playername&rbrace;。
+我得走了。
+我希望在离开之前,能见你最后一面。
+再见,狐狸。]
 1766685833229711 -->1766685840648592[End]
 1766683789556083 -->1766684164810100{ }
-1766684164810100 -->|No, I can't. Tanuki dog!|1766685169377657[<b>Speaker 👉 安姬:</b>
+1766684164810100 -->|不,我不能。混蛋狸猫！|1766685169377657[<b>Speaker 👉 安姬:</b>
 
-ok… well…
-I'm leaving Seikyu soon anyway.
-So…
-I guess this is goodbye.
+好的……
+反正我很快就要离开青岚了。
+所以……
+我想也许现在也该说再见了。
 ...
-Bye, &lbrace;playername&rbrace;]
-1766684164810100 -->|I forgive you. Sorry, I overreacted.|1766685230215547[<b>Speaker 👉 安姬:</b>
+再见,&lbrace;playername&rbrace;]
+1766684164810100 -->|我原谅你。
+对不起,我刚才只是有些反应过度了。|1766685230215547[<b>Speaker 👉 安姬:</b>
 
-But aren't you mad?]
+但你不生气吗？]
 1766685169377657 -->1766685341910398[End]
 1766685230215547 -->1766685254600060{ }
 

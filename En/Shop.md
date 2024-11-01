@@ -12,7 +12,7 @@ Start -->1727831929241695[<b>Speaker 👉 Musashi:</b>
 Sorry, &lbrace;0&rbrace; is sold out today.]
 Start -->1727832261254241[<b>Speaker 👉 Musashi:</b>
 
-You want &lbrace;0&rbrace; &lbrace;1&rbrace;, right?
+You want &lbrace;0&rbrace; &lbrace;1&rbrace;&#40;s&#41;, right?
 That'll be &lbrace;2&rbrace;.]
 Start -->1727832493277283[<b>Speaker 👉 Ama:</b>
 
@@ -23,7 +23,7 @@ Start -->1727832493277285[<b>Speaker 👉 Ama:</b>
 How many would you like?]
 Start -->1727832493278313[<b>Speaker 👉 Ama:</b>
 
-You want &lbrace;0&rbrace; &lbrace;1&rbrace;, right?
+You want &lbrace;0&rbrace; &lbrace;1&rbrace;&#40;s&#41;, right?
 That'll be &lbrace;2&rbrace;.]
 Start -->1727833939692651[<b>Speaker 👉 Ama:</b>
 
@@ -38,7 +38,7 @@ Start -->1727834138646639[<b>Speaker 👉 Sasaki:</b>
 How many pieces would you like?]
 Start -->1727834138646641[<b>Speaker 👉 Sasaki:</b>
 
-You want &lbrace;0&rbrace; &lbrace;1&rbrace;, right?
+You want &lbrace;0&rbrace; &lbrace;1&rbrace;&#40;s&#41;, right?
 That'll be &lbrace;2&rbrace;.]
 Start -->1727834138647667[<b>Speaker 👉 Sasaki:</b>
 
@@ -77,7 +77,7 @@ Start -->1741624125510918[<b>Speaker 👉 Sasaki:</b>
 How many pieces would you like?]
 Start -->1741624125511944[<b>Speaker 👉 Sasaki:</b>
 
-You want &lbrace;0&rbrace; &lbrace;1&rbrace;, right?
+You want &lbrace;0&rbrace; &lbrace;1&rbrace;&#40;s&#41;, right?
 That'll be &lbrace;2&rbrace;.]
 Start -->1741624125511948[<b>Speaker 👉 Sasaki:</b>
 
@@ -98,7 +98,7 @@ Start -->1753748606761390[<b>Speaker 👉 Hephaestus:</b>
 How many pieces would you like?]
 Start -->1753748769646000[<b>Speaker 👉 Hephaestus:</b>
 
-You want &lbrace;0&rbrace; &lbrace;1&rbrace;, right?
+You want &lbrace;0&rbrace; &lbrace;1&rbrace;&#40;s&#41;, right?
 That'll be &lbrace;2&rbrace;.]
 Start -->1753749316061618[<b>Speaker 👉 Hephaestus:</b>
 
@@ -123,7 +123,7 @@ Start -->1760740275082889[<b>Speaker 👉 Musashi:</b>
 Sorry, &lbrace;0&rbrace; is sold out today.]
 Start -->1760740275083915[<b>Speaker 👉 Musashi:</b>
 
-You want &lbrace;0&rbrace; &lbrace;1&rbrace;, right?
+You want &lbrace;0&rbrace; &lbrace;1&rbrace;&#40;s&#41;, right?
 That'll be &lbrace;2&rbrace;.]
 Start -->1760740275084941[<b>Speaker 👉 Musashi:</b>
 
@@ -136,57 +136,57 @@ We can't let you make a purchase on credit.]
 Start -->1762957098140370[<b>Speaker 👉 Player:</b>
 
 &lbrace;playername&rbrace;, welcome &#40;*｀∀´*&#41;ノ
-Today's &lbrace;location.20&rbrace; is so busy!
+Today's &lbrace;location.20&rbrace; is so bustling with life!
 Would you like to see some holiday souvenirs?]
 1762957098140370 -->1762957098140371[End]
 Start -->1762957098141397[<b>Speaker 👉 Player:</b>
 
-&lbrace;Yeah?
+&lbrace;0&rbrace;, is it?
 How many do you want?]
 1762957098141397 -->1762957098141398[End]
 Start -->1762957098142424[<b>Speaker 👉 Player:</b>
 
-That's a total of &lbrace;0&rbrace; &lbrace;1&rbrace; isn't it.
-Let me do the math ............
-It's &lbrace;2&rbrace;, you should be right in your math.]
+You want &lbrace;0&rbrace; &lbrace;1&rbrace;, correct?
+Let me do the math...
+That'll be &lbrace;2&rbrace;. Run it yourself to make sure.]
 1762957098142424 -->1762957098142425[End]
 Start -->1762957098143451[<b>Speaker 👉 Player:</b>
 
 Have fun.
-Don't forget to check out the Carp Flag Challenge on your uncle's side!]
+Don't forget to visit your uncle and check out the Carp Flag Challenge!]
 1762957098143451 -->1762957098143452[End]
 Start -->1762957098144478[<b>Speaker 👉 Player:</b>
 
-This way I have no way to sell it to you Oh ......
-If I sell the wrong goods, my uncle will scold me.]
+I can't sell it to you...
+If I sell the wrong goods, my uncle will chew me out.]
 1762957098144478 -->1762957098144479[End]
 Start -->1762957098145505[<b>Speaker 👉 Player:</b>
 
-&#40;⊙o⊙&#41; If you get it wrong.
-Just put it back.]
+&#40;⊙o⊙&#41; If you took the wrong one,
+just put it back.]
 1762957098145505 -->1762957098145506[End]
 Start -->1762957098146532[<b>Speaker 👉 Player:</b>
 
-Sorry Oh ......
-Ready &lbrace;0&rbrace; is sold out this year, wait for next year.]
+Sorry...
+&lbrace;0&rbrace; has sold out for the year. Come back next year.]
 1762957098146532 -->1762957098146533[End]
 Start -->1766676794273589[<b>Speaker 👉 Ama:</b>
 
-Sorry, I've had some impromptu events and the little store will be closing soon ......]
+My apologies, I've got an errand to run and will close the shop momentarily...]
 Start -->1766676838374199[<b>Speaker 👉 Ama:</b>
 
-The store is not open yet, so please come back when it is!]
+The store is not open yet. Please come back later!]
 Start -->1766677063850809[<b>Speaker 👉 Sasaki:</b>
 
-Sorry, I've had some impromptu events and the little store will be closing soon ......]
+My apologies, I've got an errand to run and will close the shop momentarily...]
 Start -->1766677063851835[<b>Speaker 👉 Sasaki:</b>
 
-The store is not open yet, so please come back when it is!]
+The store is not open yet. Please come back later!]
 Start -->1766677094617917[<b>Speaker 👉 Hephaestus:</b>
 
-Sorry, I've had some impromptu events and the little store will be closing soon ......]
+My apologies, I've got an errand to run and will close the shop momentarily...]
 Start -->1766677094618943[<b>Speaker 👉 Hephaestus:</b>
 
-The store is not open yet, so please come back when it is!]
+The store is not open yet. Please come back later!]
 
  ```

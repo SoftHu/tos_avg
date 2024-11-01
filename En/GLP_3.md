@@ -3,7 +3,7 @@ graph
 Start -->1719159014612000[<b>Speaker 👉 Unconfigured:</b>
 
 It's about time we met, hero.
-I'm a Gulu Bobo royal guard, ordered by the Queen
+I'm a Gulu Bobo royal guard, ordered by the Gulu Bobo queen
 to wait here for you.
 Her Majesty has taken quite an interest in you.
 This was merely a test.
@@ -24,11 +24,11 @@ Being recognized by Her Majesty is a huge honor.
 But I'm telling you now, don't get any funny ideas.]
 1719161269123110 -->1719163380421672[<b>Speaker 👉 Unconfigured:</b>
 
-Anyway, here's the reward from Her Majesty...
+Anyway, here's the reward from the Gulu Bobo queen.
 Be grateful, you insolent brat.]
 1719161275267111 -->1719163380421672[<b>Speaker 👉 Unconfigured:</b>
 
-Anyway, here's the reward from Her Majesty...
+Anyway, here's the reward from the Gulu Bobo queen.
 Be grateful, you insolent brat.]
 Start -->1724023392865331[<b>Speaker 👉 Unconfigured:</b>
 

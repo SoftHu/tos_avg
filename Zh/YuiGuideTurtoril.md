@@ -2,21 +2,21 @@
 graph
 Start -->1769066131689535[<b>Speaker 👉 Unconfigured:</b>
 
-跟我来！]
+Follow me!]
 1769066131689535 -->1769066092872766[End]
 Start -->1769066146257985[<b>Speaker 👉 Unconfigured:</b>
 
-你到那里去了，
-我以为你走丢了。]
+Where did you go?
+I thought you were lost.]
 1769066146257985 -->1769066146257986[End]
 Start -->1769066149276740[<b>Speaker 👉 Unconfigured:</b>
 
-这次可要跟紧我了。]
+This time, stay close to me.]
 1769066149276740 -->1769066149276741[End]
 Start -->1769066151519303[<b>Speaker 👉 Unconfigured:</b>
 
-我们到了……
-呼，稍微绕了一点路……]
+We've arrived...
+Phew, took a bit of a detour…]
 1769066151519303 -->1769066151519304[End]
 
  ```

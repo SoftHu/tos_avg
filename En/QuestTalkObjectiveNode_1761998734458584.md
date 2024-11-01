@@ -21,15 +21,15 @@ Can you make me a bowl of it?]
 Well...
 look... you're after
 the Scroll of Transformation, right?
-If you bring me a bowl of &lbrace;item.26318&rbrace;.
-I'll give you a clue about the Scroll of Human Change ......]
+If you bring me a bowl of &lbrace;item.26318&rbrace;,
+I'll give you a clue about the Transformation Scroll: Human.]
 1761999356499682 -->|How much will you pay?|1761999398122215[<b>Speaker 👉 Gulu Bobo Prince:</b>
 
 Well...
 look... you're after
 the Scroll of Transformation, right?
-If you bring me a bowl of &lbrace;item.26318&rbrace;.
-I'll give you a clue about the Scroll of Human Change ......]
+If you bring me a bowl of &lbrace;item.26318&rbrace;,
+I'll give you a clue about the Transformation Scroll: Human.]
 1761999398122215 -->1761999510467304{ }
 1761999510467304 -->1761999809644288[<b>Speaker 👉 Gulu Bobo Prince:</b>
 
@@ -37,15 +37,15 @@ I... I am the Gulu Bobo Prince,
 why would... why would I lie?!]
 1761999510467304 -->|We have a deal.|1761999863779073[<b>Speaker 👉 Gulu Bobo Prince:</b>
 
-Great.
-I'll be over here waiting for you, then.
-Remember that making a bowl of &lbrace;item.26318&rbrace; requires some meat and some root crops.]
+Wonderful, I'll be here waiting for you, then.
+Remember, you need some meat and root vegetables to make a bowl of 
+&lbrace;item.26318&rbrace;.]
 1761999809644288 -->1761999900588806{ }
 1761999900588806 -->|We have a deal.|1761999863779073[<b>Speaker 👉 Gulu Bobo Prince:</b>
 
-Great.
-I'll be over here waiting for you, then.
-Remember that making a bowl of &lbrace;item.26318&rbrace; requires some meat and some root crops.]
+Wonderful, I'll be here waiting for you, then.
+Remember, you need some meat and root vegetables to make a bowl of 
+&lbrace;item.26318&rbrace;.]
 1761999900588806 -->|Forget it.|1761999976316682[<b>Speaker 👉 Gulu Bobo Prince:</b>
 
 O... Okay,

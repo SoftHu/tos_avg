@@ -2,7 +2,7 @@
 graph LR
 Start -->1768741844007825[<b>Speaker 👉 Lilliana:</b>
 
-……]
+...]
 1768741844007825 -->1768741949361046[<b>Speaker 👉 Lilliana:</b>
 
 The flowers in your garden are in magnificent bloom.
@@ -10,17 +10,17 @@ I would simply love to paint them.]
 1768741949361046 -->1768741964388249{ }
 1768741964388249 -->1768741987230620[<b>Speaker 👉 Lilliana:</b>
 
-Right, I've been improper. 
-I'll leave you.
-Your garden is just too beautiful…]
-1768741964388249 -->|When inspiration strikes, all we can do is grab it.|1768742015769501[<b>Speaker 👉 Lilliana:</b>
+No, you're quite right, I'm being improper. 
+I'll leave you be.
+But your garden is just too beautiful…]
+1768741964388249 -->|I guess there no time like the present.|1768742015769501[<b>Speaker 👉 Lilliana:</b>
 
 So true. 
 Thank you! I'll start right away.]
 1768741987230620 -->1768742031091614[<b>Speaker 👉 Kon:</b>
 
 No, it's ok. 
-I also live here and I think you should paint it!]
+This is my place too and I think you should paint it!]
 1768742031091614 -->1768742051441567[<b>Speaker 👉 Lilliana:</b>
 
 Thank you, I'll be quick!]
@@ -28,30 +28,31 @@ Thank you, I'll be quick!]
 1768742015769501 -->1768742061641632[End]
 Start -->1768742157331368[<b>Speaker 👉 Lilliana:</b>
 
-……]
+...]
 Start -->1768742157331368[<b>Speaker 👉 Lilliana:</b>
 
-……]
+...]
 1768742157331368 -->1768742200170415[<b>Speaker 👉 Lilliana:</b>
 
-……]
+...]
 1768742157331368 -->1768742200170415[<b>Speaker 👉 Lilliana:</b>
 
-……]
+...]
 1768742200170415 -->1768742208925616[<b>Speaker 👉 Kon:</b>
 
 I don't think she can hear us.]
 1768742208925616 -->1768742179087278[End]
 Start -->1768742231186354[<b>Speaker 👉 Lilliana:</b>
 
-I think that's enough for today
-Oh, I didn't notice you were still here.
+I think that's enough for today.
+Oh, I didn't realize you were still here.
+I was totally captivated.
 That happens a lot when I'm painting.]
 1768742231186354 -->1768742309285816[<b>Speaker 👉 Lilliana:</b>
 
 Oh! Right…
 …hmm that petal isn't perfect…
-.. and the light is a bit off…
+.. and the light doesn't fall quite like that…
 Right, right.]
 1768742231186354 -->1768742316132281[<b>Speaker 👉 Lilliana:</b>
 
@@ -61,34 +62,35 @@ and the light isn't perfect,
 and I still want to…]
 1768742309285816 -->1768742413604797[<b>Speaker 👉 Lilliana:</b>
 
-Oh, I haven't introduced myself.
+Oh, I am remiss.
 My name is Shibata Liliana.]
 1768742413604797 -->1768742439759808[<b>Speaker 👉 Lilliana:</b>
 
 Yes, I'm Yohji's older sister.
 We moved from the West–Yohji loves human legends.
-But I prefer the scenery.
+I prefer the scenery myself.
 I'm studying painting under Priest Leon.]
 1768742413604797 -->1768742439759808[<b>Speaker 👉 Lilliana:</b>
 
 Yes, I'm Yohji's older sister.
 We moved from the West–Yohji loves human legends.
-But I prefer the scenery.
+I prefer the scenery myself.
 I'm studying painting under Priest Leon.]
 1768742439759808 -->1768742506843073[<b>Speaker 👉 Kon:</b>
 
-Can we see your paintings!?]
+Can we have your painting!?]
 1768742506843073 -->1768742518990786[<b>Speaker 👉 Lilliana:</b>
 
-Hmm, only if I can get them perfect.
-I'll finish coloring this sketch at home,
+Hmm, only if I can perfect it.
+I'll add the finishing touches to this sketch at home,
 then bring it back for you to see.
-If I get this shading right…]
+This shading definitely needs more work…]
 1768742518990786 -->1768742553410499[<b>Speaker 👉 Kon:</b>
 
 I can't wait!]
 1768742553410499 -->1768742563464136{ }
-1768742563464136 -->|Me neither. I'm excited to see it.|1768742635930571[<b>Speaker 👉 Lilliana:</b>
+1768742563464136 -->|Yeah, me neither.
+I'm excited to see it.|1768742635930571[<b>Speaker 👉 Lilliana:</b>
 
 Anyway, 
 thank you for your hospitality. ]
@@ -99,7 +101,7 @@ thank you for your hospitality. ]
 1768742635930571 -->1768742627730378[End]
 1768742316132281 -->1768742413604797[<b>Speaker 👉 Lilliana:</b>
 
-Oh, I haven't introduced myself.
+Oh, I am remiss.
 My name is Shibata Liliana.]
 Start -->1768742809413598[<b>Speaker 👉 Lilliana:</b>
 
@@ -107,30 +109,32 @@ The Peonies here are smaller than those in the Mountains.
 As if they have a humble personality,
 But they're enchanting nonetheless.
 The flowers near your farm are exceptional.
-Could it be this is sacred land?]
+Could it be sacred land?]
 1768742809413598 -->1768742892275689[<b>Speaker 👉 Lilliana:</b>
 
 Painting requires close attention…
 Noticing the tree sprouting new buds…
-the beetle making its burrow…
-the green after rain…
-These beautiful scenes always move me.]
+The beetle making its burrow…
+The green after rain…
+They never fail to move me.]
 1768742809413598 -->1768742892275689[<b>Speaker 👉 Lilliana:</b>
 
 Painting requires close attention…
 Noticing the tree sprouting new buds…
-the beetle making its burrow…
-the green after rain…
-These beautiful scenes always move me.]
+The beetle making its burrow…
+The green after rain…
+They never fail to move me.]
 1768742892275689 -->1768742785701852[End]
 Start -->1768742959849455[<b>Speaker 👉 Lilliana:</b>
 
-You should slow down sometimes. Anyway…]
+You should slow down and take it all in.
+Anyway…]
 Start -->1768743327423511[ ]
 1768742959849455 -->1768742996890609[<b>Speaker 👉 Lilliana:</b>
 
 I'm happy to have met you and Kon. 
-This painting isn't perfect… but let's call it ‘Bloom'...
+This painting isn't my best work… 
+But let's call it 'Bloom'...
 A nice gift for a budding friendship.]
 1768742996890609 -->1768743033758711[<b>Speaker 👉 Lilliana:</b>
 
@@ -147,7 +151,8 @@ Thank you for your hospitality, &lbrace;playername&rbrace;.]
 1768742988472304 -->1768742996890609[<b>Speaker 👉 Lilliana:</b>
 
 I'm happy to have met you and Kon. 
-This painting isn't perfect… but let's call it ‘Bloom'...
+This painting isn't my best work… 
+But let's call it 'Bloom'...
 A nice gift for a budding friendship.]
 Start -->1768743183491066[<b>Speaker 👉 Yohji:</b>
 
@@ -207,7 +212,8 @@ I must practice if I'm to make a masterpiece.]
 1768743727419437 -->1768743737325614[End]
 Start -->1769143900859456[<b>Speaker 👉 Unconfigured:</b>
 
-Liliana rips up her painting. You and Kon watch wide-eyed. Liliana starts a new one.]
+&#40;Liliana rips up her painting. You and Kon watch wide-eyed. 
+Liliana starts a new one.&#41;]
 1769143900859456 -->1769143975149633[End]
 
  ```

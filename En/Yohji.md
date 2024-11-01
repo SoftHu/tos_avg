@@ -63,7 +63,7 @@ Start -->1756941191416905[<b>Speaker 👉 Yohji:</b>
 
 It's great to see you.
 I hope you're having a pleasant day.
-The Inari Shrine in Seikyu is full of stories.
+The Fox Shrines in Seikyu is full of stories.
 I often meditate there.]
 Start -->1756949268805708[<b>Speaker 👉 Yohji:</b>
 
@@ -115,7 +115,9 @@ the day's fatigue.
 Don't you agree?]
 Start -->1758178510372433[<b>Speaker 👉 Yohji:</b>
 
-I've attended many summer festivals in various places. Each region has its own characteristics and atmosphere, but I still like Aoba's summer festival the most.]
+I've attended many summer festivals in various places. 
+Each region has its own characteristics and atmosphere, 
+but I still like Aoba's summer festival the most.]
 Start -->1758178871818835[<b>Speaker 👉 Yohji:</b>
 
 Wish you a wonderful night.]

@@ -7,7 +7,8 @@ Oh! Oh... sorry, I got distracted.]
 1738790533336202 -->|Need help?|1738791385681039[<b>Speaker 👉 Ama:</b>
 
 True gentlemen haven't completely died out...
-Pleased to meet you. I am the manager of the Starlight Tailor shop in town, &lbrace;npc.4205&rbrace;.
+Pleased to meet you. 
+I am the manager of the Starlight Tailor shop in town, &lbrace;npc.4205&rbrace;.
 Oh, aren't you the new islander who arrived in &lbrace;location.13&rbrace; not long ago?
 If I remember rightly, you're called &lbrace;playername&rbrace;, right?]
 1738790533336202 -->|I've got to go, take care...|1738791397645456[End]

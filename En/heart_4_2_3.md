@@ -43,7 +43,7 @@ It dates back to the Song dynasty of China.
 You can frame a gyotaku print and hang it on the wall.
 It's a great collectible.]
 1752151796367724 -->1752152897572205{ }
-1752152897572205 -->|Sure!|1752152938692978[<b>Speaker 👉 Musashi:</b>
+1752152897572205 -->|Yes, let's go!|1752152938692978[<b>Speaker 👉 Musashi:</b>
 
 Oh, I didn't realize how late it is.
 Let's call it a day. Time to go back and feed Daifuku.

@@ -2,54 +2,59 @@
 graph LR
 Start -->1766836454846372[<b>Speaker 👉 Unconfigured:</b>
 
-确定要换回自己的衣服并结束这次温泉体验吗？]
+Are you sure you want to change back into your 
+clothes and exit the hot spring?]
 1766836454846372 -->1766836545220517{ }
 1766836545220517 -->|确认|1766836562522026[End]
 1766836545220517 -->|取消|1766836566630315[End]
 Start -->1766852287585140[<b>Speaker 👉 老板:</b>
 
-欸！快停下！
-这里是女宾区，再往前走可就是耍流氓的行为了。]
+Hey! Stop right there! 
+This is the women's dressing room, 
+going any further would be very inappropriate!]
 1766852287585140 -->1766852287585141[End]
 Start -->1766852287586167[<b>Speaker 👉 老板:</b>
 
-再往前走可就是男宾区了……
-为了避免不必要的尴尬，还是请您回到自己的更衣区吧。]
+The men's dressing room is right ahead.
+To avoid unnecessary embarrassment, 
+please return to your dressing room.]
 1766852287586167 -->1766852287585141[End]
 Start -->1766852287587193[<b>Speaker 👉 老板:</b>
 
-这位客人，进入温泉请先来前台购票！
-这里并非无人管理的野温泉
-您这样做会很让人为难的……]
+Dear guest, please buy a ticket at the front desk before entering the 
+hot spring! This is not some unmanned establishment. 
+Your actions put us in a difficult position...]
 1766852287587193 -->1766852287585141[End]
 1766852287587193 -->1767554932649846[<b>Speaker 👉 老板:</b>
 
-我记得上次不买票想往里面混的也是您吧……
-请不要作出让人困扰的事呢！]
+It was you trying to sneak in without paying last time, right? 
+Please, stop causing trouble for us!]
 1767554932649846 -->1766852287585141[End]
 Start -->1766918374598516[<b>Speaker 👉 Unconfigured:</b>
 
-再往前走就要离开温泉区域了，是否结束这次温泉体验？]
+You're about to leave the hot spring area. 
+Do you want to exit the hot spring ?]
 1766918374598516 -->1766918444977013{ }
 1766918444977013 -->|离开|1766918461645690[End]
 1766918444977013 -->|返回|1766918461645691[End]
 Start -->1767362903380854[<b>Speaker 👉 Unconfigured:</b>
 
-热乎乎的温泉水浸透了身体的每一个毛孔……
-积攒的疲惫随着温泉水统统流走了
-感觉整个人都变得精神焕发！]
+The warm hot spring water seeps into every pore of your body... 
+Your fatigue gets washed away by the water. 
+You feel completely refreshed!]
 Start -->1767390022138742[<b>Speaker 👉 Unconfigured:</b>
 
-温泉的经营时间已经结束了，非常感谢您的光顾。]
+The hot spring's operating hours have ended. 
+Thank you for visiting.]
 1767390022138742 -->1767393921749878[<b>Speaker 👉 Unconfigured:</b>
 
-期待您的再次光临……]
+We look forward to your next visit...]
 1767390022138742 -->1767393960097655[<b>Speaker 👉 Unconfigured:</b>
 
-由于您还没有开始泡温泉，所以将会退回您的浴资。
-期待您的再次光临……]
+Since you haven't started your bath, your ticket will be refunded.
+We look forward to your next visit...]
 Start -->1767391865579382[<b>Speaker 👉 Unconfigured:</b>
 
-温泉还没有开始营业，等等再来吧。]
+The hot spring is closed, please come back later.]
 
  ```

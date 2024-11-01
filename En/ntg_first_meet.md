@@ -58,7 +58,7 @@ Start -->1739253161281737[<b>Speaker 👉 Nyotengu:</b>
 
 Got the wine, kid?]
 1739253161281737 -->1739253183144138{ }
-1739253183144138 -->|Hand over the wine.|1739253307907280[ ]
+1739253183144138 -->|*Hand over the wine*|1739253307907280[ ]
 1739253307907280 -->1739253377374418[<b>Speaker 👉 Nyotengu:</b>
 
 Damn fine wine that is!

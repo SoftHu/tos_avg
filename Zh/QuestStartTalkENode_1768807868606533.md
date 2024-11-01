@@ -2,23 +2,23 @@
 graph
 Start -->1768807897752649[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Hello, &lbrace;playername&rbrace;.
-There are so many brilliant sprouts in your fields.
-I hope they grow tall and strong.]
+你好,&lbrace;playername&rbrace;。
+你的田地里有很多蓬勃生长的幼苗。
+我希望它们可以长得又高又壮。]
 1768807897752649 -->1768807897754701[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Remember my promise last time?
-I've finally finished the Peony from your garden.
-It's not my best work, 
-but I thought you might want to see.]
+记得我上次答应你们的事吗？
+我完成了那幅画,那朵在你的花园盛开的芍药。
+这不是我最好的作品
+但我想你或许想看看。]
 1768807897752649 -->1768807897754701[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Remember my promise last time?
-I've finally finished the Peony from your garden.
-It's not my best work, 
-but I thought you might want to see.]
+记得我上次答应你们的事吗？
+我完成了那幅画,那朵在你的花园盛开的芍药。
+这不是我最好的作品
+但我想你或许想看看。]
 1768807897754701 -->1768807897755728{ }
-1768807897755728 -->|Let's go inside.|1768807897756753[End]
-1768807897755728 -->|Show me right now!|1768807897756753[End]
+1768807897755728 -->|我们进屋看吧。|1768807897756753[End]
+1768807897755728 -->|现在就给我看！|1768807897756753[End]
 
  ```

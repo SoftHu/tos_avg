@@ -6,7 +6,7 @@ How are you, &lbrace;playername&rbrace;?
 Is something the matter?]
 1761994565016202 -->1761995100296843{ }
 1761995100296843 -->|It's okay.|1761995118851729[End]
-1761995100296843 -->|Tell her about the tanuki.|1761995505944210[<b>Speaker 👉 Yui:</b>
+1761995100296843 -->|*Tell her about the tanuki*|1761995505944210[<b>Speaker 👉 Yui:</b>
 
 ... Actually, I already knew...
 I'm sorry...

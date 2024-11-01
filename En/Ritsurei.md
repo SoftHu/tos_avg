@@ -21,7 +21,8 @@ Boss, have you read 'Dungeon Hero Lola'?
 The comic is hugely popular,
 but the author's identity remains a mystery.
 It's about Lora, a hero born and stuck in a dungeon,
-determined to defeat the evil deity keeping her there, so that she can finally escape.
+determined to defeat the evil deity keeping her there, 
+so that she can finally escape.
 I wish I could be a hero too...
 Defeat the evil monster, carve my name on its heart...
 How cool would that be!]
@@ -30,8 +31,8 @@ Start -->1727663570584679[<b>Speaker 👉 Ritsuryo:</b>
 Kinntarou can communicate with animals...
 Though I don't know how he does it!
 I'm just hopeless.
-No matter how hard I try to understand them, I can only hear miaows and barks.
-I envy Kinntarou!]
+No matter how hard I try to understand them, 
+I can only hear miaows and barks. I envy Kinntarou!]
 Start -->1727663570584681[<b>Speaker 👉 Ritsuryo:</b>
 
 I've never met my mum and dad.
@@ -98,7 +99,8 @@ Don't forget to participate in the activities at Uncle &lbrace;npc.4206&rbrace;'
 Wonder if I can win first place this year!]
 Start -->1758253420255841[<b>Speaker 👉 Ritsuryo:</b>
 
-Boss, I knew you'd come to the summer festival! How about the atmosphere in &lbrace;location.13&rbrace;? It's better than anywhere else, right?]
+Boss, I knew you'd come to the summer festival! 
+How about the atmosphere in &lbrace;location.13&rbrace;? It's better than anywhere else, right?]
 Start -->1758254460936803[<b>Speaker 👉 Ritsuryo:</b>
 
 Alright, if you find something fun, don't forget to call me.]

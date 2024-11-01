@@ -1,10 +1,10 @@
 ```mermaid
 graph
-Start -->1766672157337891[<b>Speaker 👉 LightBulb:</b>
+Start -->1766672157337891[<b>Speaker 👉 Lil' Bulb:</b>
 
 Hey... HEY! &lbrace;playername&rbrace;, wake up!]
 1766672157337891 -->1766681055228200[End]
-Start -->1766681208037674[<b>Speaker 👉 LightBulb:</b>
+Start -->1766681208037674[<b>Speaker 👉 Lil' Bulb:</b>
 
 Have you forgotten your promise!?
 Anji is leaving tonight! 

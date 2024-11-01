@@ -46,7 +46,7 @@ I'm feeling distant from &lbrace;npc.4103&rbrace;!]
 Start -->1740401882859753[<b>Speaker 👉 Kinntarou:</b>
 
 Well, see ya!
-Share your tasty snacks with me next time!]
+Bring some tasty snacks with you next time!]
 Start -->1753043153997612[<b>Speaker 👉 Kinntarou:</b>
 
 Mom says the Carp Festival is a festival for boys.

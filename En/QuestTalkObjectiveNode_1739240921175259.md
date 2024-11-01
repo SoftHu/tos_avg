@@ -15,10 +15,10 @@ Ah, are you here to bring me some &lbrace;item.26300&rbrace;?]
 1739241015168229 -->|Let's talk another time...|1739241015169258[<b>Speaker 👉 Kinntarou:</b>
 
 Okay... just remember to bring me &lbrace;item.26300&rbrace; next time!]
-1739241015168229 -->|Deliver &lbrace;item.26300&rbrace;.|1739241015169255[<b>Speaker 👉 Kinntarou:</b>
+1739241015168229 -->|*Hand over &lbrace;item.26300&rbrace;*|1739241015169255[<b>Speaker 👉 Kinntarou:</b>
 
 Is this... is this &lbrace;item.26300&rbrace;?
-Super refreshing lemon flavour, plenty of bubbles!
+Super refreshing lemon flavor, plenty of bubbles!
 It's no wonder it's the most popular Bobo Soda!
 Though I'd love to try it now,
 I'll wait for Ritsuryo to return and share it.

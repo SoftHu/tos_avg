@@ -2,15 +2,15 @@
 graph
 Start -->1751644127271263[<b>Speaker 👉 Kon:</b>
 
-It's really quiet here at night.
-It all feels so sudden…
-I still can't believe we found such a place to call home.]
+It's really peaceful here at night.
+This all feels like a beautiful dream…
+I can't believe we found such a nice place to call home.]
 1751644127271263 -->1751644142741856{ }
 1751644142741856 -->|You're welcome.|1751644159856997[<b>Speaker 👉 Kon:</b>
 
 Alright, alright.
-Fine, you're always doing the hard work. 
-Why don't you work hard plowing those fields tomorrow, tough guy.]
+Fine, you did most of the heavy lifting. 
+Why don't you start plowing those fields tomorrow, tough guy.]
 1751644142741856 -->|I'm excited to live here with you.|1751644168775014[<b>Speaker 👉 Kon:</b>
 
 My goodness, what's gotten into you?
@@ -18,50 +18,50 @@ You're never this nice to me!]
 1751644159856997 -->1751644216324455[<b>Speaker 👉 Kon:</b>
 
 …
-&lbrace;playername&rbrace;
+&lbrace;playername&rbrace;...
 Do you remember mom and dad?]
 1751644216324455 -->1751644282838376{ }
-1751644282838376 -->|I can't.|1751644301407597[<b>Speaker 👉 Kon:</b>
+1751644282838376 -->|No, I don't|1751644301407597[<b>Speaker 👉 Kon:</b>
 
 All I have is a vague memory… 
-Of mom brushing my fur.
+of mom brushing my fur.
 …
 Why do you think they left?]
 1751644282838376 -->|Do you?|1751644301407597[<b>Speaker 👉 Kon:</b>
 
 All I have is a vague memory… 
-Of mom brushing my fur.
+of mom brushing my fur.
 …
 Why do you think they left?]
 1751644301407597 -->1751644357173614{ }
-1751644357173614 -->|We're a liability.|1751644380024179[<b>Speaker 👉 Kon:</b>
+1751644357173614 -->|We were a burden.|1751644380024179[<b>Speaker 👉 Kon:</b>
 
 Really?
-Am I a liability to you? 
-You always focus on the present. 
-I want to do that too. ]
-1751644357173614 -->|I'm sure there's a good reason.|1751644383242612[<b>Speaker 👉 Kon:</b>
+Do I burden you? 
+You always live in the moment. 
+I wish I could do that. ]
+1751644357173614 -->|I'm sure they had a good reason.|1751644383242612[<b>Speaker 👉 Kon:</b>
 
 I hope so. 
-You're so optimistic about these things. 
-You always focus on the present. I want to do that too.
-You always focus on the present. 
-I want to do that too. ]
+You're always so optimistic. 
+I want to be too.
+You always live in the moment. 
+I wish I could do that. ]
 1751644380024179 -->1768703182624650{ }
-1768703182624650 -->|Of course not.|1751644039353691[End]
-1768703182624650 -->|*put arm around Kon.|1751644039353691[End]
+1768703182624650 -->|You're not a burden.|1751644039353691[End]
+1768703182624650 -->|*put arm around Kon*|1751644039353691[End]
 1751644383242612 -->1751644039353691[End]
 1751644168775014 -->1751644216324455[<b>Speaker 👉 Kon:</b>
 
 …
-&lbrace;playername&rbrace;
+&lbrace;playername&rbrace;...
 Do you remember mom and dad?]
 Start -->1751644562807161[<b>Speaker 👉 Kon:</b>
 
 The stars are really twinkling.
 Make a wish!]
 1751644562807161 -->1751644587084154{ }
-1751644587084154 -->|I want to be a famous Yokai.|1751644617870723[<b>Speaker 👉 Kon:</b>
+1751644587084154 -->|Be a famous Yokai.|1751644617870723[<b>Speaker 👉 Kon:</b>
 
 I wish...
 ...
@@ -69,7 +69,7 @@ I wish...
 That was fast.
 Did you really think it through?
 Tell me what you wished for!]
-1751644587084154 -->|I hope to find the Yokai of my dreams.|1751644617870723[<b>Speaker 👉 Kon:</b>
+1751644587084154 -->|Find the Yokai of my dreams.|1751644617870723[<b>Speaker 👉 Kon:</b>
 
 I wish...
 ...
@@ -77,7 +77,7 @@ I wish...
 That was fast.
 Did you really think it through?
 Tell me what you wished for!]
-1751644587084154 -->|A peaceful life is enough for me.|1751644617870723[<b>Speaker 👉 Kon:</b>
+1751644587084154 -->|A peaceful life.|1751644617870723[<b>Speaker 👉 Kon:</b>
 
 I wish...
 ...
@@ -85,7 +85,7 @@ I wish...
 That was fast.
 Did you really think it through?
 Tell me what you wished for!]
-1751644587084154 -->|I wish to be with Kon forever.|1751644617870723[<b>Speaker 👉 Kon:</b>
+1751644587084154 -->|Be with Kon forever.|1751644617870723[<b>Speaker 👉 Kon:</b>
 
 I wish...
 ...
@@ -100,7 +100,7 @@ You're so cheap!]
 1751645075263878 -->|You first.|1751645112345998[<b>Speaker 👉 Kon:</b>
 
 I bet you can't guess my wish.]
-1751645075263878 -->|*Tell the truth.|1751811201722694[ ]
+1751645075263878 -->|*Tell the truth*|1751811201722694[ ]
 1751645094748557 -->1751647480540614[<b>Speaker 👉 Kon:</b>
 
 I bet you can't guess my wish.]
@@ -218,19 +218,21 @@ We're settling in nicely.
 But &lbrace;playername&rbrace; is always wandering around, 
 getting lost.]
 1752073889267136 -->1752073992104385{ }
-1752073992104385 -->|Settling in well.|1752074012392902[<b>Speaker 👉 &lbrace;standard_word.foxgod&rbrace;:</b>
+1752073992104385 -->|Yeah, settling in well, like Kon says.|1752074012392902[<b>Speaker 👉 &lbrace;standard_word.foxgod&rbrace;:</b>
 
-We're glad you live so close to a fox shrine, 
-So we can talk whenever.]
+We're glad you live so close to a fox shrine.
+We can talk so frequently.
+]
 1752073992104385 -->|Kon really likes it.|1752074012392902[<b>Speaker 👉 &lbrace;standard_word.foxgod&rbrace;:</b>
 
-We're glad you live so close to a fox shrine, 
-So we can talk whenever.]
+We're glad you live so close to a fox shrine.
+We can talk so frequently.
+]
 1752074012392902 -->1752074120758727[<b>Speaker 👉 Kon:</b>
 
 Yeah it's great.
 But… um…
-You still don't know where the other foxes are?]
+Do you know where the other foxes all went?]
 1752074120758727 -->1752074153995720[<b>Speaker 👉 &lbrace;standard_word.foxgod&rbrace;:</b>
 
 We still do not know.
@@ -239,11 +241,11 @@ We're sorry.]
 1752074153995720 -->1752074538469833{ }
 1752074538469833 -->|Why did they disappear?|1752074630851022[<b>Speaker 👉 &lbrace;standard_word.foxgod&rbrace;:</b>
 
-We didn't speak to the fox clan much before they disappeared years ago. 
+We didn't speak to the fox clan much before their disappearance . 
 Want to hear a story about two little foxes?]
 1752074538469833 -->|You don't know either?|1752074630851022[<b>Speaker 👉 &lbrace;standard_word.foxgod&rbrace;:</b>
 
-We didn't speak to the fox clan much before they disappeared years ago. 
+We didn't speak to the fox clan much before their disappearance . 
 Want to hear a story about two little foxes?]
 1752074630851022 -->1752074769008079[<b>Speaker 👉 Kon:</b>
 
@@ -252,7 +254,7 @@ It's been so long since I've heard one of your stories!]
 1752075040039376 -->|Not interested.|1752075053670869[<b>Speaker 👉 Kon:</b>
 
 &lbrace;playername&rbrace; Is getting more and more antisocial.]
-1752075040039376 -->|Listen.|1752075101877718[<b>Speaker 👉 &lbrace;standard_word.foxgod&rbrace;:</b>
+1752075040039376 -->|*Listen*|1752075101877718[<b>Speaker 👉 &lbrace;standard_word.foxgod&rbrace;:</b>
 
 Once upon a time, there was a raging storm,
 and two little yokai were left at the foot of a mountain.
@@ -291,7 +293,7 @@ Okay, so what happens next?]
 We haven't come up with the rest of the story yet!]
 1752075371292127 -->1752075387700704[<b>Speaker 👉 Kon:</b>
 
-You're just making it up based on us!]
+You're just mimicking our lives!]
 1752075387700704 -->1768713043572039{ }
 1768713043572039 -->|I liked it.|1752075435377122[End]
 1768713043572039 -->|Haha, I think it's time for bed.|1752075435377122[End]

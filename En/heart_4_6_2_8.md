@@ -16,7 +16,7 @@ But I have to show you first. Okay?]
 Start -->1766681208037674[<b>Speaker 👉 Anji:</b>
 
 This... This is the real me.]
-1766681208037674 -->1766683664729456[<b>Speaker 👉 LightBulb:</b>
+1766681208037674 -->1766683664729456[<b>Speaker 👉 Lil' Bulb:</b>
 
 Well say something!]
 1766683664729456 -->1766681246553387{ }
@@ -80,7 +80,7 @@ I'm leaving Seikyu soon anyway.
 So...
 I guess this is goodbye.
 ...
-Bye, &lbrace;playername&rbrace;]
+Bye, &lbrace;playername&rbrace;.]
 1766684164810100 -->|I forgive you. Sorry, I overreacted.|1766685230215547[<b>Speaker 👉 Anji:</b>
 
 But aren't you mad?]

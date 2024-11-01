@@ -2,47 +2,49 @@
 graph
 Start -->1766332311608065[<b>Speaker 👉 米卡:</b>
 
-要不要试试热乎乎的温泉？
-享受一次只要&lbrace;Property.Price&rbrace;，很划算的。]
+Would you like to try our warm, soothing hot spring?
+You can enjoy it for only &lbrace;Property.Price&rbrace;, a very good deal.]
 Start -->1767303935431540[<b>Speaker 👉 米卡:</b>
 
-呃，抱歉耽误您几分钟。
-这位客人，根据温泉的值班记录，您过往逃票了&lbrace;Property.SneakIntoHotSpringTimes&rbrace;次。
-这种恶劣的行为会给我们的经营造成诸多困扰呢。
-根据青岚经营条例，我将对您的逃票行为作出处罚。
-这次我将一次性扣除您过往逃票费用的两倍作为惩罚……
-希望您谨记教训，下不为例。]
+Uh, sorry to trouble you for a moment. According to our records, you have
+snuck in here &lbrace;Property.SneakIntoHotSpringTimes&rbrace; times in the past. 
+Such behavior causes a lot of stress on our business.
+According to regulations in Seikyu, I must issue you a fine for sneaking in. 
+I will fine you twice the amount of all previous unpaid fees.
+I hope you learn your lesson, and don't do this again.]
 1766332311608065 -->1766332424646402{ }
-1766332424646402 -->|还是算了|1766332464329479[<b>Speaker 👉 米卡:</b>
+1766332424646402 -->|Never mind.|1766332464329479[<b>Speaker 👉 米卡:</b>
 
 下次再来哦~]
-1766332424646402 -->|享受温泉|1767448601822069[ ]
+1766332424646402 -->|Enjoy the hot spring.|1767448601822069[ ]
 1767448601822069 -->1766336570455822[<b>Speaker 👉 米卡:</b>
 
-谢谢惠顾！
-请先到更衣室换装后前往温泉区。
-希望温泉可以洗去您的疲惫……]
+Thank you for your patronage! 
+Please change in the dressing room before proceeding to the hot spring. 
+I hope the hot spring washes away all your fatigue...]
 1767448601822069 -->1766336717079312[<b>Speaker 👉 米卡:</b>
 
-抱歉……
-您的钱好像不够支付浴资呢。]
+I'm sorry...
+It seems you don't have enough money to pay for the bath.]
 1766336570455822 -->1766336935867153[End]
 1767303935431540 -->1767306465960822[<b>Speaker 👉 米卡:</b>
 
-看起来您携带的金钱不足以支付这次处罚……
-算啦，不足的金钱我就不再收取了。]
+It appears you don't have enough money to pay for the fine.
+Alright, alright, just pay what you have.]
 1767303935431540 -->1767306336520052[<b>Speaker 👉 玩家:</b>
 
-欸！！这么多？
-这种惩罚未免也太严苛了……]
+What!! That much?
+Isn't that a little too harsh...?]
 1767306465960822 -->1767306383012725[<b>Speaker 👉 米卡:</b>
 
-我想这次惩罚一定会让您印象深刻，接下来您会好好买票的。
-要做遵纪守法的好公民哦……]
+I believe this fine will leave a lasting impression,
+and you'll play from now on. 
+Let's be law-abiding citizens, okay?]
 1767306383012725 -->1766336935867153[End]
 1767306336520052 -->1767306383012725[<b>Speaker 👉 米卡:</b>
 
-我想这次惩罚一定会让您印象深刻，接下来您会好好买票的。
-要做遵纪守法的好公民哦……]
+I believe this fine will leave a lasting impression,
+and you'll play from now on. 
+Let's be law-abiding citizens, okay?]
 
  ```

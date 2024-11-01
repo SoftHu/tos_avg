@@ -2,7 +2,7 @@
 graph LR
 Start -->1731535970004068[<b>Speaker 👉 Kon:</b>
 
-Go ahead I'm listening, &lbrace;playername&rbrace;...]
+What's up, &lbrace;playername&rbrace;?]
 Start -->1731535970006126[<b>Speaker 👉 Kon:</b>
 
 Such a nice Seikyu breeze...
@@ -47,7 +47,8 @@ I love it here!
 ]
 Start -->1740298038719708[<b>Speaker 👉 Kon:</b>
 
-See ya... Take me out to hang out once in a while!]
+See ya... 
+And it wouldn't kill you to take me out once in a while!]
 Start -->1740298038721774[<b>Speaker 👉 Kon:</b>
 
 All right, we'll talk later.]

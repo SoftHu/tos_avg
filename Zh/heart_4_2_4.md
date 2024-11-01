@@ -5,25 +5,23 @@ Start -->1768741844007825[<b>Speaker 👉 柴田莉莉奈:</b>
 ……]
 1768741844007825 -->1768741949361046[<b>Speaker 👉 柴田莉莉奈:</b>
 
-The flowers in your garden are in magnificent bloom.
-I would simply love to paint them.]
+你的花园生机勃勃,这些花盛开得很壮观。
+我能有幸记录它们的美丽吗？]
 1768741949361046 -->1768741964388249{ }
 1768741964388249 -->1768741987230620[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Right, I've been improper. 
-I'll leave you.
-Your garden is just too beautiful…]
-1768741964388249 -->|When inspiration strikes, all we can do is grab it.|1768742015769501[<b>Speaker 👉 柴田莉莉奈:</b>
+好吧,失礼了。我这就走……
+你的花园太美了……真可惜。]
+1768741964388249 -->|灵感稍纵即逝,我们必须抓住机会。|1768742015769501[<b>Speaker 👉 柴田莉莉奈:</b>
 
-So true. 
-Thank you! I'll start right away.]
+你说得太对了。谢谢！我马上就开始。]
 1768741987230620 -->1768742031091614[<b>Speaker 👉 狐穗:</b>
 
-No, it's ok. 
-I also live here and I think you should paint it!]
+没关系。
+我也住在这里,我也赞同你画下它们！]
 1768742031091614 -->1768742051441567[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Thank you, I'll be quick!]
+谢谢,我会很快完成的！]
 1768742051441567 -->1768742061641632[End]
 1768742015769501 -->1768742061641632[End]
 Start -->1768742157331368[<b>Speaker 👉 柴田莉莉奈:</b>
@@ -40,173 +38,168 @@ Start -->1768742157331368[<b>Speaker 👉 柴田莉莉奈:</b>
 ……]
 1768742200170415 -->1768742208925616[<b>Speaker 👉 狐穗:</b>
 
-I don't think she can hear us.]
+我不认为她现在能听到我们说话。]
 1768742208925616 -->1768742179087278[End]
 Start -->1768742231186354[<b>Speaker 👉 柴田莉莉奈:</b>
 
-I think that's enough for today
-Oh, I didn't notice you were still here.
-That happens a lot when I'm painting.]
+我想今天就到这里吧。
+哦！你还在这里,我都没注意。
+我画画的时候经常会忽略周围发生了什么。]
 1768742231186354 -->1768742309285816[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Oh! Right…
-…hmm that petal isn't perfect…
-.. and the light is a bit off…
-Right, right.]
+哦！这……
+嗯,这个花瓣并不完美……
+光线有点暗……
+对,对……]
 1768742231186354 -->1768742316132281[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Thank you, but it's not finished yet.
-It took so long to get the petals right,
-and the light isn't perfect,
-and I still want to…]
+谢谢,但是这幅作品还没有完成。
+我花了很长时间才把花瓣的形态描绘清楚。
+光线也并不完美。
+而且我其实还想……]
 1768742309285816 -->1768742413604797[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Oh, I haven't introduced myself.
-My name is Shibata Liliana.]
+哦,忘了自我介绍。]
 1768742413604797 -->1768742439759808[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Yes, I'm Yohji's older sister.
-We moved from the West–Yohji loves human legends.
-But I prefer the scenery.
-I'm studying painting under Priest Leon.]
+是的,我是耀司的姐姐。
+我们从西部的地区搬来,耀司喜欢关于人类传说。
+但我更喜欢风景。
+我师从里昂神官,一直在他的指导下学习绘画。]
 1768742413604797 -->1768742439759808[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Yes, I'm Yohji's older sister.
-We moved from the West–Yohji loves human legends.
-But I prefer the scenery.
-I'm studying painting under Priest Leon.]
+是的,我是耀司的姐姐。
+我们从西部的地区搬来,耀司喜欢关于人类传说。
+但我更喜欢风景。
+我师从里昂神官,一直在他的指导下学习绘画。]
 1768742439759808 -->1768742506843073[<b>Speaker 👉 狐穗:</b>
 
-Can we see your paintings!?]
+我们能看看你的画吗？]
 1768742506843073 -->1768742518990786[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Hmm, only if I can get them perfect.
-I'll finish coloring this sketch at home,
-then bring it back for you to see.
-If I get this shading right…]
+这个嘛……
+除非我完全创作完这幅画
+否则我是不会随便给别人看的。
+我会在家里完成这幅素描的着色,到时候带给你看。
+我得把这个阴影处理好……]
 1768742518990786 -->1768742553410499[<b>Speaker 👉 狐穗:</b>
 
-I can't wait!]
+我等不及了！]
 1768742553410499 -->1768742563464136{ }
-1768742563464136 -->|Me neither. I'm excited to see it.|1768742635930571[<b>Speaker 👉 柴田莉莉奈:</b>
+1768742563464136 -->|我也是。我很期待看到它。|1768742635930571[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Anyway, 
-thank you for your hospitality. ]
-1768742563464136 -->|The shading does look a little off…|1768742635930571[<b>Speaker 👉 柴田莉莉奈:</b>
+无论如何,感谢您的慷慨,让我可以在这里停留。]
+1768742563464136 -->|阴影看起来有点不对劲……|1768742635930571[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Anyway, 
-thank you for your hospitality. ]
+无论如何,感谢您的慷慨,让我可以在这里停留。]
 1768742635930571 -->1768742627730378[End]
 1768742316132281 -->1768742413604797[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Oh, I haven't introduced myself.
-My name is Shibata Liliana.]
+哦,忘了自我介绍。]
 Start -->1768742809413598[<b>Speaker 👉 柴田莉莉奈:</b>
 
-The Peonies here are smaller than those in the Mountains.
-As if they have a humble personality,
-But they're enchanting nonetheless.
-The flowers near your farm are exceptional.
-Could it be this is sacred land?]
+这里的芍药比山里的芍药小
+就像他们拥有谦逊的美德一样……
+但它们真的很迷人。
+那些开放在你农场周边的花非常特别,莫非和这片土地的灵力有关？]
 1768742809413598 -->1768742892275689[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Painting requires close attention…
-Noticing the tree sprouting new buds…
-the beetle making its burrow…
-the green after rain…
-These beautiful scenes always move me.]
+绘画需要发现美的眼睛……
+画师应该注意到树木正在长出新芽……
+甲虫正在挖掘地洞……
+被雨水荡涤尘埃后的新绿……
+这些美丽的景色让我触动。]
 1768742809413598 -->1768742892275689[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Painting requires close attention…
-Noticing the tree sprouting new buds…
-the beetle making its burrow…
-the green after rain…
-These beautiful scenes always move me.]
+绘画需要发现美的眼睛……
+画师应该注意到树木正在长出新芽……
+甲虫正在挖掘地洞……
+被雨水荡涤尘埃后的新绿……
+这些美丽的景色让我触动。]
 1768742892275689 -->1768742785701852[End]
 Start -->1768742959849455[<b>Speaker 👉 柴田莉莉奈:</b>
 
-You should slow down sometimes. Anyway…]
+你不必每时每刻都那么紧绷……
+慢下来,享受这一切。]
 Start -->1768743327423511[ ]
 1768742959849455 -->1768742996890609[<b>Speaker 👉 柴田莉莉奈:</b>
 
-I'm happy to have met you and Kon. 
-This painting isn't perfect… but let's call it ‘Bloom'...
-A nice gift for a budding friendship.]
+我很高兴能认识你和狐穗。
+这幅画并不完,不过姑且让我们称之为《晨露中的芍药》吧。
+给萌芽友谊的好礼物。]
 1768742996890609 -->1768743033758711[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Of course. 
-Your special flowers were the inspiration.
-Thank you for your hospitality, &lbrace;playername&rbrace;.]
+当然。你特别的花是灵感来源。
+感谢您的款待,&lbrace;playername&rbrace;。]
 1768742996890609 -->1768743033758711[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Of course. 
-Your special flowers were the inspiration.
-Thank you for your hospitality, &lbrace;playername&rbrace;.]
+当然。你特别的花是灵感来源。
+感谢您的款待,&lbrace;playername&rbrace;。]
 1768743033758711 -->1768743071508472[End]
 1768743033758711 -->1768743071508472[End]
 1768742988472304 -->1768742996890609[<b>Speaker 👉 柴田莉莉奈:</b>
 
-I'm happy to have met you and Kon. 
-This painting isn't perfect… but let's call it ‘Bloom'...
-A nice gift for a budding friendship.]
+我很高兴能认识你和狐穗。
+这幅画并不完,不过姑且让我们称之为《晨露中的芍药》吧。
+给萌芽友谊的好礼物。]
 Start -->1768743183491066[<b>Speaker 👉 柴田耀司:</b>
 
-En Garde! 
-… 
-Oh, You got them all, &lbrace;playername&rbrace;. Good show. ]
+准备战斗！
+哦,你把它们都引过来了
+&lbrace;playername&rbrace;。干得漂亮。]
 1768743183491066 -->1768743295476758{ }
 1768743295476758 -->1768743374785564[<b>Speaker 👉 柴田耀司:</b>
 
-If they've touched a single hair my sister's head…]
-1768743295476758 -->|LILIANA!|1768743454079005[End]
+如果他们胆敢碰我姐姐的一根头发的话……]
+1768743295476758 -->|莉莉奈！|1768743454079005[End]
 1768743295476758 -->1768743374785564[<b>Speaker 👉 柴田耀司:</b>
 
-If they've touched a single hair my sister's head…]
+如果他们胆敢碰我姐姐的一根头发的话……]
 1768743374785564 -->1768743454079005[End]
 Start -->1768743476041759[<b>Speaker 👉 柴田耀司:</b>
 
-Liliana! Are you alright?]
+莉莉奈！你没事吧？]
 1768743476041759 -->1768743367756827[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Oh, Yohji, &lbrace;playername&rbrace;, 
-what a pleasant surprise.
-Look at this vine climbing the walls, 
-isn't it lovely?
-I just had to sketch it.
-Are you two alright?
-You look… flushed.]
+嗯？耀司,&lbrace;playername&rbrace;
+好巧,你们也在啊？
+你们看这条攀爬在墙上的藤蔓
+是不是很可爱？
+我只需要先勾勒个大概……
+你们两个还好吗？
+你们看起来……有点脸红？]
 1768743367756827 -->1768743596140576[<b>Speaker 👉 柴田耀司:</b>
 
-We just… the Oni… rescued you…
-…]
+我们刚刚……从妖鬼的包围中……救了你……]
 1768743596140576 -->1768743616664615{ }
-1768743616664615 -->|We just waged glorious battle in your honor!|1768743683495979[<b>Speaker 👉 柴田耀司:</b>
+1768743616664615 -->|我们刚刚为了您的荣耀进行了神圣的战斗！|1768743683495979[<b>Speaker 👉 柴田耀司:</b>
 
-You were held captive by a whole Oni camp!
-We vanquished them all to free you.]
-1768743616664615 -->|That vine is wonderful.|1768743662149673[<b>Speaker 👉 柴田莉莉奈:</b>
+你没发现刚才你已经身陷囹圄之中了吗？
+我们打败了所有的妖鬼来救你。]
+1768743616664615 -->|那棵葡萄藤看起来很棒。|1768743662149673[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Enchanting isn't it?]
+很迷人,对吧？]
 1768743662149673 -->1768743676004394[<b>Speaker 👉 柴田耀司:</b>
 
-You're both crazy.]
+两个疯子！]
 1768743676004394 -->1768743683495979[<b>Speaker 👉 柴田耀司:</b>
 
-You were held captive by a whole Oni camp!
-We vanquished them all to free you.]
+你没发现刚才你已经身陷囹圄之中了吗？
+我们打败了所有的妖鬼来救你。]
 1768743683495979 -->1768743702583340[<b>Speaker 👉 柴田莉莉奈:</b>
 
-Oh, right. Thanks.
-You're both gallant heroes, I guess.
-Now can I get back to my sketching?
-I must practice if I'm to make a masterpiece.]
+哦,好吧。谢谢。
+两位英勇的大英雄……
+现在我可以继续绘画了吗？
+我必须勤加练习才能创作出杰作。]
 1768743702583340 -->1768743727419437[<b>Speaker 👉 柴田耀司:</b>
 
-*sigh…]
+*叹息…]
 1768743727419437 -->1768743737325614[End]
 Start -->1769143900859456[<b>Speaker 👉 Unconfigured:</b>
 
-Liliana rips up her painting. You and Kon watch wide-eyed. Liliana starts a new one.]
+莉莉安娜撕掉了她的画,你和狐穗睁大眼睛看着。
+莉莉安娜开始画一幅新的。]
 1769143900859456 -->1769143975149633[End]
 
  ```

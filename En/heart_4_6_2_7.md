@@ -12,13 +12,13 @@ But I came to give you this...]
 This talisman will let you pass through the barrier.
 I shouldn't be giving this to you, foxy, but...
 I just...
-....]
+...]
 1766666176024857 -->1766666297190683[<b>Speaker 👉 Anji:</b>
 
 This talisman will let you pass through the barrier.
 I shouldn't be giving this to you, foxy, but...
 I just...
-....]
+...]
 1766666297190683 -->1768080357891162[End]
 Start -->1766672157337891[<b>Speaker 👉 Anji:</b>
 
@@ -50,7 +50,7 @@ Long enough hehe.]
 Long enough hehe.]
 1766681464737083 -->1766681281528113[End]
 Start -->1766672127542558[ ]
-1766672127542558 -->|Kiss back|1766666320771356[End]
-1766672127542558 -->|Pull away|1766666320771356[End]
+1766672127542558 -->|*Kiss back*|1766666320771356[End]
+1766672127542558 -->|*Pull away*|1766666320771356[End]
 
  ```
