@@ -1,13 +1,5 @@
 ```mermaid
 graph
-Start -->1758974106572412[<b>Speaker 👉 Yohji:</b>
-
-Good morning, &lbrace;playername&rbrace;!
-Fancy seeing you here.
-Are you here to pick out furniture as well?
-I ordered a new coffee pot from &lbrace;npc.4210&rbrace;.
-If you're free,
-would you like to have a cup of coffee together?]
 1758974106572412 -->1758974824606334{ }
 1758974824606334 -->|Okay.|1758974862427780[<b>Speaker 👉 Yohji:</b>
 
@@ -18,7 +10,32 @@ let's give this new pot a try.]
 Excuse me,
 if you have time,
 I'd like to invite you for a cup of coffee.]
-1758974862427780 -->1758974126764669[End]
-1758974898523781 -->1758974855145091[End]
+Start -->1772870341373218[<b>Speaker 👉 Yohji:</b>
+
+Good morning, &lbrace;playername&rbrace;. 
+Are you here to pick up furniture as well?
+]
+1772870341373218 -->1772870360191267{ }
+1772870360191267 -->|Yes. |1772870377515304[<b>Speaker 👉 Yohji:</b>
+
+I’m here to pick up a specialty coffee pot. 
+I’m very excited to use it. 
+Care to join me for the inaugural cup?
+]
+1772870360191267 -->|I’m just browsing. |1772870377515304[<b>Speaker 👉 Yohji:</b>
+
+I’m here to pick up a specialty coffee pot. 
+I’m very excited to use it. 
+Care to join me for the inaugural cup?
+]
+1772870377515304 -->1772870404986153{ }
+1772870404986153 -->|Not right now. |1772870422685998[<b>Speaker 👉 Yohji:</b>
+
+Probably for the best.
+These blasted instructions are gibberish!
+I’ll be here decoding them when you’re ready.
+]
+1772870404986153 -->|I’d love to acompany you. |1772870517681456[End]
+1772870422685998 -->1772870499052847[End]
 
  ```

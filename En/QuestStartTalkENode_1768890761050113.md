@@ -3,7 +3,7 @@ graph
 Start -->1768890913331204[<b>Speaker 👉 Kon:</b>
 
 There! I can already smell how good they'll taste. 
-Now, let’s find someone in town to share them with. 
+Now, let's find someone in town to share them with. 
 Let's give them to Seabert! 
 That should mellow him out a bit—haha!]
 1768890913331204 -->1768891930948625{ }

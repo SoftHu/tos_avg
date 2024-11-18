@@ -1,9 +1,83 @@
 ```mermaid
 graph
-Start -->1752082361594237[<b>Speaker 👉 武藏:</b>
+Start -->1772943296666922[<b>Speaker 👉 武藏:</b>
 
-贵安，我注意到你有在好好使用这片农田。
-作为你的朋友，请允许我给你提供一些小小的帮助吧？]
+Oh—Morning. 
+I sat down while collecting your consignments,
+and must've dozed off. ]
+1772943296666922 -->1772943327765803{ }
+1772943327765803 -->|You seem tired.|1772943350889776[<b>Speaker 👉 武藏:</b>
+
+My, what a compliment. ]
+1772943327765803 -->|Have you been up all night? |1772943372591409[<b>Speaker 👉 武藏:</b>
+
+What's it to you, hm? ]
+1772943350889776 -->1772943403083058[<b>Speaker 👉 武藏:</b>
+
+I'm a bit embarrassed to be honest. 
+Maybe we don't tell the others about this?
+They'd come up with all kinds of wild stories. 
+Our little secret, ok? ]
+1772943403083058 -->1772943445400883{ }
+1772943445400883 -->|Your secret is safe with me.|1772943524543802[<b>Speaker 👉 武藏:</b>
+
+My hero. 
+Actually, let's make it official…
+]
+1772943445400883 -->|I might need some help forgetting.|1772943505891641[<b>Speaker 👉 武藏:</b>
+
+Wow, who is this hustler? 
+You're full of surprises. 
+Fine… ]
+1772943505891641 -->1772943552381243[<b>Speaker 👉 武藏:</b>
+
+Take this…]
+1772943552381243 -->1772943762415932{ }
+1772943762415932 -->|Uh… Thanks?|1772943781244225[<b>Speaker 👉 武藏:</b>
+
+It's a special Tanuki magic. 
+Apowder that duplicates certain items. 
+It's still in an experimental stage and I happened to *ahem, acquire some. ]
+1772943762415932 -->|What is this?|1772943781244225[<b>Speaker 👉 武藏:</b>
+
+It's a special Tanuki magic. 
+Apowder that duplicates certain items. 
+It's still in an experimental stage and I happened to *ahem, acquire some. ]
+1772943781244225 -->1772943809749314{ }
+1772943809749314 -->|You stole Tanuki magic?|1772944175696199[<b>Speaker 👉 武藏:</b>
+
+Who said anything about stealing? ]
+1772943809749314 -->|Is it safe?|1772944193105224[<b>Speaker 👉 武藏:</b>
+
+Those Tanuki are crafty little stinkers.
+I know the powder works on crops.
+Anything else… well, you never know with them. ]
+1772944175696199 -->1772944193105224[<b>Speaker 👉 武藏:</b>
+
+Those Tanuki are crafty little stinkers.
+I know the powder works on crops.
+Anything else… well, you never know with them. ]
+1772944193105224 -->1772944216771913{ }
+1772944216771913 -->|So I'm a guinea pig?|1772944237097294[<b>Speaker 👉 武藏:</b>
+
+We need all the help we can get with this Tanuki war going on. 
+And now we're a team. Right, &lbrace;playername&rbrace;? 
+Let's keep watching each other's backs. ]
+1772944216771913 -->|Thanks!|1772944237097294[<b>Speaker 👉 武藏:</b>
+
+We need all the help we can get with this Tanuki war going on. 
+And now we're a team. Right, &lbrace;playername&rbrace;? 
+Let's keep watching each other's backs. ]
+1772944237097294 -->1752150325082526[End]
+1772943524543802 -->1772943552381243[<b>Speaker 👉 武藏:</b>
+
+Take this…]
+1772943372591409 -->1772943403083058[<b>Speaker 👉 武藏:</b>
+
+I'm a bit embarrassed to be honest. 
+Maybe we don't tell the others about this?
+They'd come up with all kinds of wild stories. 
+Our little secret, ok? ]
 1752082361594237 -->1752083230056830{ }
 1752083230056830 -->|什么样的帮助？|1752083440273795[<b>Speaker 👉 武藏:</b>
 
@@ -57,7 +131,6 @@ Start -->1752082361594237[<b>Speaker 👉 武藏:</b>
 1752149986771355 -->1752150248375709[<b>Speaker 👉 武藏:</b>
 
 那么，再会了。]
-1752150248375709 -->1752150325082526[End]
 1752149989083548 -->1752150248375709[<b>Speaker 👉 武藏:</b>
 
 那么，再会了。]

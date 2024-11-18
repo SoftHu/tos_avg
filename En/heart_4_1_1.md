@@ -37,9 +37,7 @@ Why do you think they left?]
 1751644357173614 -->|We were a burden.|1751644380024179[<b>Speaker 👉 Kon:</b>
 
 Really?
-Do I burden you? 
-You always live in the moment. 
-I wish I could do that. ]
+Do I burden you? ]
 1751644357173614 -->|I'm sure they had a good reason.|1751644383242612[<b>Speaker 👉 Kon:</b>
 
 I hope so. 
@@ -47,10 +45,24 @@ You're always so optimistic.
 I want to be too.
 You always live in the moment. 
 I wish I could do that. ]
-1751644380024179 -->1768703182624650{ }
-1768703182624650 -->|You're not a burden.|1751644039353691[End]
-1768703182624650 -->|*put arm around Kon*|1751644039353691[End]
-1751644383242612 -->1751644039353691[End]
+1751644380024179 -->1772507203294762[<b>Speaker 👉 Kon:</b>
+
+Since Seikyu is the birthplace of the fox clan, 
+we should be able to find others of our kind here!
+..Maybe we can even find news about Mom and Dad.]
+1751644380024179 -->1772507203294762[<b>Speaker 👉 Kon:</b>
+
+Since Seikyu is the birthplace of the fox clan, 
+we should be able to find others of our kind here!
+..Maybe we can even find news about Mom and Dad.]
+1772507203294762 -->1772507303417391{ }
+1772507303417391 -->|I believe so.|1751644039353691[End]
+1772507303417391 -->|We will find them.|1751644039353691[End]
+1751644383242612 -->1772507203294762[<b>Speaker 👉 Kon:</b>
+
+Since Seikyu is the birthplace of the fox clan, 
+we should be able to find others of our kind here!
+..Maybe we can even find news about Mom and Dad.]
 1751644168775014 -->1751644216324455[<b>Speaker 👉 Kon:</b>
 
 …

@@ -4,7 +4,7 @@ Start -->1769050262161410[<b>Speaker 👉 Yui:</b>
 
 So that's the end of the tour!
 You probably want to head to the farmhouse. 
-It’s through the grasslands.
+It's through the grasslands.
 It can be tricky finding your way there…]
 1769050262161410 -->1769050610127886[<b>Speaker 👉 Yui:</b>
 

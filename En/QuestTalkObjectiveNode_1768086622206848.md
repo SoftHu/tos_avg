@@ -9,12 +9,12 @@ Yeah, I'm talking to you!]
 
 My name is Fujiki, I'm an adventurer.
 I saw the lights were on in the farmhouse,
-so I thought I’d come over to ask for directions.]
+so I thought I'd come over to ask for directions.]
 1768096681759362 -->|What's up?|1768096699678344[<b>Speaker 👉 Fujiki:</b>
 
 My name is Fujiki, I'm an adventurer.
 I saw the lights were on in the farmhouse,
-so I thought I’d come over to ask for directions.]
+so I thought I'd come over to ask for directions.]
 1768096699678344 -->1768096733006473{ }
 1768096733006473 -->|Hi, My name is &lbrace;playername&rbrace;|1768096751167118[<b>Speaker 👉 Fujiki:</b>
 
@@ -31,7 +31,7 @@ Do you know the way there?]
 Yeah, I figured as much.
 You're new in Seikyu and probably wouldn't know.
 That reminds me, 
-there’s something I should to warn you about...
+there's something I should to warn you about...
 Don't ever think about going to &lbrace;location.10&rbrace;
 ]
 1768096783748751 -->|Tell him &#40;if known&#41;|1768098708092799[<b>Speaker 👉 Fujiki:</b>
@@ -65,7 +65,7 @@ Enjoy your night.]
 Yeah, I figured as much.
 You're new in Seikyu and probably wouldn't know.
 That reminds me, 
-there’s something I should to warn you about...
+there's something I should to warn you about...
 Don't ever think about going to &lbrace;location.10&rbrace;
 ]
 

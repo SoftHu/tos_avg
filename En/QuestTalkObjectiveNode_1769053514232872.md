@@ -2,7 +2,10 @@
 graph
 Start -->1769053689356331[<b>Speaker 👉 Yui:</b>
 
-So that's the end of the tour!
+Thank you for participating in an official tour of Seiyku, 
+I hope you enjoy your time here!
+Be sure to reach out if you need anything.
+
 You probably want to head to the farmhouse. It's through the grasslands.
 It can be tricky finding your way there…]
 1769053689356331 -->1769053814405170[<b>Speaker 👉 Yui:</b>

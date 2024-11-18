@@ -2,7 +2,6 @@
 graph
 Start -->1768166337206163[<b>Speaker 👉 Sasaki:</b>
 
-
 I'm &lbrace;npc.4210&rbrace;, the owner of the furniture store.
 Haha, don't be nervous, because I'm a bit nervous too. Here, take this!
 Please... uh... be sure to visit my little store.

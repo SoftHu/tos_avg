@@ -67,21 +67,15 @@ I did something I shouldn't have...
 I'm feeling distant from &lbrace;npc.4210&rbrace; now!]
 Start -->1749600078779689[<b>Speaker 👉 Sasaki:</b>
 
-Upgrading costs gold coins.]
-1749600078779689 -->1749600677075249[<b>Speaker 👉 Sasaki:</b>
+None]
+Start -->1772616798014667[<b>Speaker 👉 Sasaki:</b>
 
-Yo, yo, yo, can't do without money, you know?
-So many materials, it'll take a lot of time.
-Can't do it without 100 coins, you know?]
-1749600078779689 -->1749943928270117[<b>Speaker 👉 Sasaki:</b>
+None]
+1749600078779689 -->1772614890779848{ }
+1749600078779689 -->1772616838618316[<b>Speaker 👉 Sasaki:</b>
 
-Oh.]
-1749600677075249 -->1749600798797106[<b>Speaker 👉 Player:</b>
-
-That's too much!
-Even so, you're just an NPC.
-Stop being so meta! What a cheap attempt to stand out!.
-I will call the police, I really will.]
+None]
+1749943928270117 -->1772614785208517[End]
 Start -->1753051243282237[<b>Speaker 👉 Sasaki:</b>
 
 Everyone is celebrating the Carp Festival, 
@@ -89,5 +83,25 @@ so I'm closing the shop for the day to join in.]
 Start -->1753053061347134[<b>Speaker 👉 Sasaki:</b>
 
 Happy Carp Festival! Time to have some fun.]
+Start -->1772512731238547[<b>Speaker 👉 Sasaki:</b>
+
+Although... I'd really like to help you, but your farmland has already been fully expanded.]
+Start -->1772512731235472[<b>Speaker 👉 Sasaki:</b>
+
+Certainly! This time, the land expansion will cost &lbrace;property.FarmUnlockMoney&rbrace; gold coins.]
+1772512731235472 -->1772597127568617{ }
+1772597127568617 -->|That works for me.|1772513491075226[ ]
+1772597127568617 -->|Forget it.|1772597373706480[<b>Speaker 👉 Sasaki:</b>
+
+Haha, don't feel bad! Come back anytime you need help.]
+1772513491075226 -->1772512731239572[<b>Speaker 👉 Sasaki:</b>
+
+You're welcome. 
+I'll head to your farm tomorrow morning to help with the expansion.]
+1772513491075226 -->1772512731237522[<b>Speaker 👉 Sasaki:</b>
+
+Actually, I already gave you a special price for the first few plots, 
+but you can't expect me to keep losing money, right?]
+1772512731239572 -->1772597220497642[End]
 
  ```

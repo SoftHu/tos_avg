@@ -165,10 +165,14 @@ I still hope she likes it.]
 1756245653687967 -->1756245730988704{ }
 1756245730988704 -->|Who?|1756245816989349[<b>Speaker 👉 Torleone:</b>
 
-I18N Missing]
+&lbrace;noc.4205.miss&rbrace;……
+为她准备生日礼物，
+我们也不是特别好的朋友……]
 1756245730988704 -->|Her?|1756245816989349[<b>Speaker 👉 Torleone:</b>
 
-I18N Missing]
+&lbrace;noc.4205.miss&rbrace;……
+为她准备生日礼物，
+我们也不是特别好的朋友……]
 1756245816989349 -->1756245873979046[<b>Speaker 👉 Kon:</b>
 
 Oh oh oh, &lbrace;npc.4206&rbrace; is in a situation!]
@@ -188,7 +192,7 @@ she might find my gift a bit odd.]
 
 Thank you, &lbrace;playername&rbrace;.
 That reassures me.]
-1756246158552747 -->|I18N Missing|1756246210047665[<b>Speaker 👉 Torleone:</b>
+1756246158552747 -->|&lbrace;noc.4205.miss&rbrace;更喜欢奢华的东西|1756246210047665[<b>Speaker 👉 Torleone:</b>
 
 Sigh... I hope this little scarf helps.
 If she doesn't like it, there's nothing I can do.]
