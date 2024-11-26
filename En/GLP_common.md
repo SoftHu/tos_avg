@@ -1,7 +1,6 @@
 ```mermaid
 graph
-Start -->1719954746922015[<b>Speaker 👉 Unconfigured:</b>
+Start -->1719954746922015[<b>Speaker 👉 :</b>
+\nLeave now, do not disturb my meditation.]
 
-Leave now, do not disturb my meditation.]
-
- ```
+```

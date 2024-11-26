@@ -1,56 +1,42 @@
 ```mermaid
 graph LR
-Start -->1731535970004068[<b>Speaker 👉 Kon:</b>
-
-What's up, &lbrace;playername&rbrace;?]
+Start -->1731535970004068[<b>Speaker 👉 Fox:</b>
+\nWhat's up, &lbrace;playername&rbrace;?]
 Start -->1731535970006126[<b>Speaker 👉 Kon:</b>
-
-Such a nice Seikyu breeze...
+\nSuch a nice Seikyu breeze...
 I miss Mom…
-She used to comb my hair just like this, so gently.
-Sorry...
+She used to comb my hair just like this, so gently.\nSorry...
 I shouldn't have brought this up,
-knowing you've lost so many memories.
-Don't worry, let's make more memories together!]
-Start -->1731535970008186[<b>Speaker 👉 Kon:</b>
-
-Oh! How thoughtful...
+knowing you've lost so many memories.\nDon't worry, let's make more memories together!]
+Start -->1731535970008186[<b>Speaker 👉 Fox:</b>
+\nOh! How thoughtful...
 But I'm not so sure I can accept something so nice.]
-Start -->1731535970009212[<b>Speaker 👉 Kon:</b>
-
-Thank you!
+Start -->1731535970009212[<b>Speaker 👉 Fox:</b>
+\nThank you!
 I love it...]
-Start -->1731535970009214[<b>Speaker 👉 Kon:</b>
-
-Thank you...
+Start -->1731535970009214[<b>Speaker 👉 Fox:</b>
+\nThank you...
 We don't need to be so formal with each other.]
-Start -->1731535970009216[<b>Speaker 👉 Kon:</b>
-
-Although I appreciate the gift, accepting it
+Start -->1731535970009216[<b>Speaker 👉 Fox:</b>
+\nAlthough I appreciate the gift, accepting it
 would make me uncomfortable...]
-Start -->1731535970009218[<b>Speaker 👉 Kon:</b>
-
-I'm getting riled up! Why give me this...?]
-Start -->1731535970010244[<b>Speaker 👉 Kon:</b>
-
-I'm feeling closer to Kon...
+Start -->1731535970009218[<b>Speaker 👉 Fox:</b>
+\nI'm getting riled up! Why give me this...?]
+Start -->1731535970010244[<b>Speaker 👉 Fox:</b>
+\nI'm feeling closer to Kon...
 We're going to get along!]
-Start -->1731535970010246[<b>Speaker 👉 Kon:</b>
-
-I did something I shouldn't have...
+Start -->1731535970010246[<b>Speaker 👉 Fox:</b>
+\nI did something I shouldn't have...
 I'm feeling distant from Kon!]
-Start -->1731537685876872[<b>Speaker 👉 Kon:</b>
-
-This place makes a great home!
+Start -->1731537685876872[<b>Speaker 👉 Fox:</b>
+\nThis place makes a great home!
 So much space, and the neighbors are so friendly...
 I love it here!
 ]
-Start -->1740298038719708[<b>Speaker 👉 Kon:</b>
-
-See ya... 
+Start -->1740298038719708[<b>Speaker 👉 Fox:</b>
+\nSee ya... 
 And it wouldn't kill you to take me out once in a while!]
-Start -->1740298038721774[<b>Speaker 👉 Kon:</b>
+Start -->1740298038721774[<b>Speaker 👉 Fox:</b>
+\nAll right, we'll talk later.]
 
-All right, we'll talk later.]
-
- ```
+```

@@ -1,60 +1,43 @@
 ```mermaid
 graph
-Start -->1768888116997105[<b>Speaker 👉 狐穗:</b>
-
-&lbrace;playername&rbrace;! 
-Have you noticed how friendly everyone in Seikyu is? 
-It's such a wonderful place to be, 
+Start -->1768888116997105[<b>Speaker 👉 Kon:</b>
+\n&lbrace;playername&rbrace;! 
+Have you noticed how friendly everyone in Seikyu is? \nIt's such a wonderful place to be, 
 and I think we should share that kindness. ]
-1768888116997105 -->1768888249640951[<b>Speaker 👉 狐穗:</b>
-
-Oh, please. 
+1768888116997105 -->|How about I wrap you up as a gift?|1768888249640951[<b>Speaker 👉 Kon:</b>
+\nOh, please. 
 Besides, if you're thinking of giving anyone away, 
-You should be the one in a box.
-At least you'd make an interesting conversation piece!]
-1768888116997105 -->1768888622659582[<b>Speaker 👉 狐穗:</b>
-
-Ummmm...how about we cook something delicious 
-and bring it to one of the yokai in town? 
-They'll appreciate the gesture, 
+You should be the one in a box.\nAt least you'd make an interesting conversation piece!]
+1768888116997105 -->|Any Ideas?|1768888622659582[<b>Speaker 👉 Kon:</b>
+\nUmmmm...how about we cook something delicious 
+and bring it to one of the yokai in town? \nThey'll appreciate the gesture, 
 I'm sure! ]
-1768888249640951 -->1768888572405757[<b>Speaker 👉 狐穗:</b>
-
-Exactly!
+1768888249640951 -->|Alright, I would end up getting re-gifted anyway.|1768888572405757[<b>Speaker 👉 Kon:</b>
+\nExactly!
 Now, let's focus on making something they actually want
 —and that's not you or me.]
-1768888249640951 -->1768888572405757[<b>Speaker 👉 狐穗:</b>
-
-Exactly!
+1768888249640951 -->|Okay! Just kidding!|1768888572405757[<b>Speaker 👉 Kon:</b>
+\nExactly!
 Now, let's focus on making something they actually want
 —and that's not you or me.]
-1768888572405757 -->1768888622659582[<b>Speaker 👉 狐穗:</b>
-
-Ummmm...how about we cook something delicious 
-and bring it to one of the yokai in town? 
-They'll appreciate the gesture, 
+1768888572405757 -->1768888622659582[<b>Speaker 👉 Kon:</b>
+\nUmmmm...how about we cook something delicious 
+and bring it to one of the yokai in town? \nThey'll appreciate the gesture, 
 I'm sure! ]
-1768888622659582 -->1768890070932465[<b>Speaker 👉 狐穗:</b>
-
-First, we need to build a stove. 
-And then… 
-well, 
+1768888622659582 -->|But how do we cook?|1768890070932465[<b>Speaker 👉 Kon:</b>
+\nFirst, we need to build a stove. 
+And then… \nwell, 
 nothing says 'kindness' like a perfectly cooked Char-Grilled Kebab, 
 right?]
-1768888622659582 -->1768890070932465[<b>Speaker 👉 狐穗:</b>
-
-First, we need to build a stove. 
-And then… 
-well, 
+1768888622659582 -->|Any suggestions?|1768890070932465[<b>Speaker 👉 Kon:</b>
+\nFirst, we need to build a stove. 
+And then… \nwell, 
 nothing says 'kindness' like a perfectly cooked Char-Grilled Kebab, 
 right?]
-1768890070932465 -->1768890183917563{ }
-1768890183917563 -->|Let's go then!|1768890198376444[<b>Speaker 👉 狐穗:</b>
-
-Haha, I know you can do it &lbrace;playername&rbrace;!]
-1768890183917563 -->|Alright, me working on everything again.|1768890198376444[<b>Speaker 👉 狐穗:</b>
-
-Haha, I know you can do it &lbrace;playername&rbrace;!]
+1768890070932465 -->|Alright, me working on everything again.|1768890198376444[<b>Speaker 👉 Kon:</b>
+\nHaha, I know you can do it &lbrace;playername&rbrace;!]
+1768890070932465 -->|Let's go then!|1768890198376444[<b>Speaker 👉 Kon:</b>
+\nHaha, I know you can do it &lbrace;playername&rbrace;!]
 1768890198376444 -->1768890222491645[End]
 
- ```
+```

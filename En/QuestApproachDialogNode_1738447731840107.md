@@ -1,8 +1,7 @@
 ```mermaid
 graph
-Start -->1738447777819758[<b>Speaker 👉 Unconfigured:</b>
-
-Please register over here!]
+Start -->1738447777819758[<b>Speaker 👉 NPC_4_2_7:</b>
+\nPlease register over here!]
 1738447777819758 -->1738447779838063[End]
 
- ```
+```

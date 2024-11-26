@@ -1,7 +1,6 @@
 ```mermaid
 graph
-Start -->1750019988068609[<b>Speaker 👉 Player:</b>
+Start -->1750019988068609[<b>Speaker 👉 player:</b>
+\nThere are currently no announcements.]
 
-There are currently no announcements.]
-
- ```
+```

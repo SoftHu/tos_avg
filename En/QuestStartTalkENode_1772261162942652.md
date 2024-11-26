@@ -1,12 +1,8 @@
 ```mermaid
 graph
-Start -->1772261313100991[<b>Speaker 👉 Yui:</b>
+Start -->1772261313100991[<b>Speaker 👉 Oda:</b>
+\nAgain, I'm so sorry about all that.
+\nDo you want to keep going?]
+1772261313100991 -->|Yes.|1772261338034369[End]
 
-Again, I'm so sorry about all that.
-
-Do you want to keep going?]
-1772261313100991 -->1772261335803072{ }
-1772261335803072 -->|Yes.|1772261338034369[End]
-1772261335803072 -->|No, I think I am done with the tour.|1772261384326342[End]
-
- ```
+```
