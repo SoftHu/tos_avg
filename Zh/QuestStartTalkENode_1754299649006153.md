@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1754300389577294[<b>Speaker 👉 Ama:</b>
-\n嘿，&lbrace;playername&rbrace;。你空吗？
+\n嘿，&lbrace;c.playername&rbrace;。你空吗？
 我想和你聊一些事情。]
 1754300389577294 -->|请说|1754300443254355[<b>Speaker 👉 Ama:</b>
 \n你和&lbrace;npc.4209&rbrace;是好朋友吧？

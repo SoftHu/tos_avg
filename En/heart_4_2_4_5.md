@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1768788757562892[<b>Speaker 👉 Liliana:</b>
-\n&lbrace;playername&rbrace;! I'm glad you came!
+\n&lbrace;c.playername&rbrace;! I'm glad you came!
 Tonight this Ephemera flower will bloom. 
 A very rare sight.\nEphemera open for one night only under the full moon,
 And then wither with the coming dawn…\nBlooming for one night only.
@@ -17,11 +17,11 @@ You can't let me fall asleep!]
 1768788849912340 -->|I'd love to.|1768789001263642[<b>Speaker 👉 Liliana:</b>
 \nOh, it's blooming!! 
 I must start right away!\nThe perfect painting is close, 
-I can feel it. ]
+I can feel it.]
 1768788849912340 -->|I need my eight hours…|1768789001263642[<b>Speaker 👉 Liliana:</b>
 \nOh, it's blooming!! 
 I must start right away!\nThe perfect painting is close, 
-I can feel it. ]
+I can feel it.]
 1768789001263642 -->1768789023575579[End]
 Start -->1768789165582878[<b>Speaker 👉 Liliana:</b>
 \nI… I think I've got it.]

@@ -3,8 +3,8 @@ graph
 Start -->1769050262161410[<b>Speaker 👉 Oda:</b>
 \nSo that's the end of the tour!\nYou probably want to head to the farmhouse. 
 It's through the grasslands.
-It can be tricky finding your way there…]
-1769050262161410 -->|I have a map.|1769050610127886[<b>Speaker 👉 Oda:</b>
+ It can be tricky finding your way there…]
+1769050262161410 -->|I have a map|1769050610127886[<b>Speaker 👉 Oda:</b>
 \nIf you need my help, please ask.]
 1769050262161410 -->|I'm not sure how to get there.|1769050625885199[<b>Speaker 👉 Oda:</b>
 \nWould you like me to show you the way? 

@@ -1,23 +1,19 @@
 ```mermaid
 graph LR
 Start -->1766404728717123[<b>Speaker 👉 Anna:</b>
-\nHi &lbrace;playername&rbrace;, 
-been a while…
-\nI was worried I might have imagined you. 
-]
-1766404728717123 -->|What do you want? |1766405006141257[<b>Speaker 👉 Anna:</b>
-\nYou foxes, so serious and boring. 
-\nI just came to see if you found anything...\nSoft moss, shiny rocks, transformation scrolls...]
-1766404728717123 -->|No, our fight was real. And you really lost.  |1766405006141257[<b>Speaker 👉 Anna:</b>
-\nYou foxes, so serious and boring. 
-\nI just came to see if you found anything...\nSoft moss, shiny rocks, transformation scrolls...]
-1766405006141257 -->|So you're hunting Lady Inari's scroll. |1766406367476233[<b>Speaker 👉 Anna:</b>
+\nHi &lbrace;c.playername&rbrace;, 
+been a while…\nI was worried I might have imagined you.]
+1766404728717123 -->|What do you want?|1766405006141257[<b>Speaker 👉 Anna:</b>
+\nYou foxes, so serious and boring.\nI just came to see if you found anything...\nSoft moss, shiny rocks, transformation scrolls...]
+1766404728717123 -->|No, our fight was real. And you really lost.|1766405006141257[<b>Speaker 👉 Anna:</b>
+\nYou foxes, so serious and boring.\nI just came to see if you found anything...\nSoft moss, shiny rocks, transformation scrolls...]
+1766405006141257 -->|So you're hunting Lady Inari's scroll.|1766406367476233[<b>Speaker 👉 Anna:</b>
 \nWe're hunting many things.]
-1766405006141257 -->|Nope, nothing.  |1766406378349066[<b>Speaker 👉 Anna:</b>
+1766405006141257 -->|Nope, nothing.|1766406378349066[<b>Speaker 👉 Anna:</b>
 \nHm, disappointing. 
 Maybe we overestimated you.]
-1766405006141257 -->|What if I have? |1766405113682770[<b>Speaker 👉 Anna:</b>
-\n...\nHahaha. We'd know if you actually found something.]
+1766405006141257 -->|What if I have?|1766405113682770[<b>Speaker 👉 Anna:</b>
+\n…\nHahaha. We'd know if you actually found something.]
 1766405113682770 -->441601278420692{ }
 1766407339135514 -->1766407327859225[End]
 1766406367476233 -->441601278420692{ }
@@ -39,9 +35,9 @@ Start -->1766408648096529[<b>Speaker 👉 Anna:</b>
 Start -->1766409073573657[<b>Speaker 👉 Anna:</b>
 \n...]
 1766409073573657 -->|You're hurt. Let me help you.|1766409981573914[<b>Speaker 👉 Anna:</b>
-\nI'll be fine. ]
+\nI'll be fine.]
 1766409073573657 -->|Is everything alright?|1766409981573914[<b>Speaker 👉 Anna:</b>
-\nI'll be fine. ]
+\nI'll be fine.]
 1766409981573914 -->|Are you with anyone?|1766410032726816[<b>Speaker 👉 Anna:</b>
 \nNo, just me.]
 1766410032726816 -->|You're Anna, from the casino, right?|1766410737948455[<b>Speaker 👉 Anna:</b>
@@ -88,10 +84,10 @@ I'm a warrior and a Tanuki.]
 \nYou don't know anything, fox.]
 1766412145566547 -->|Come over to our house sometime. Kon loves having guests.|1766412200866650[<b>Speaker 👉 Fox:</b>
 \nWe can play Cuju. 
-You could help us beat Hephestus's team! ]
+You could help us beat Hephestus's team!]
 1766412145566547 -->|Sounds like you want a friend...|1766412200866650[<b>Speaker 👉 Fox:</b>
 \nWe can play Cuju. 
-You could help us beat Hephestus's team! ]
+You could help us beat Hephestus's team!]
 1766412200866650 -->1766412529967963[<b>Speaker 👉 Anna:</b>
 \nYou're both unbelievable. 
 Stop wasting my time.\nI have better things to do than play Cuju.\nSpy on me again and I'll kill you, foxy.]
@@ -122,7 +118,7 @@ even when you don't have to.]
 1766414441635703 -->|What happened?|1766414839939966[<b>Speaker 👉 Anna:</b>
 \nI just get... distracted.\nI heard there are Tanuki hanging around the ruins...\nYou haven't told anyone I was there, right?]
 1766414839939966 -->|No.|1766414904479618[<b>Speaker 👉 Anna:</b>
-\nThank you.\nGuess I'm lucky you came along and not one of them.\n...\nYou must really hate them... the Tanuki.]
+\nThank you.\nGuess I'm lucky you came along and not one of them.\n…\nYou must really hate them... the Tanuki.]
 1766414904479618 -->|Actually, I think they're quite cute.|1766416198068105[<b>Speaker 👉 Anna:</b>
 \nWhat?!...\nBut...\nThey're dangerous!\nFox and Tanuki have been at war for hundreds of years!]
 1766414904479618 -->| I think I'm becoming friends with one.|1766416198068105[<b>Speaker 👉 Anna:</b>
@@ -137,7 +133,7 @@ even when you don't have to.]
 \nIt's on the house ... crazy!]
 1766416356667282 -->1766416299578257[End]
 Start -->1766416533600153[<b>Speaker 👉 Anna:</b>
-\nHey, &lbrace;playername&rbrace;.]
+\nHey, &lbrace;c.playername&rbrace;.]
 1766416533600153 -->|*Say nothing*|1766416570632095[<b>Speaker 👉 Anna:</b>
 \nRelax, 
 I didn't come to fight.\nBut I heard you defeated Fujiki. 
@@ -164,25 +160,24 @@ Impressive, for a fox.]
 1766421990025137 -->|Ok, fine.|1766422068962229[<b>Speaker 👉 Anna:</b>
 \nEven after all that's happened. You're very kind.]
 1766422068962229 -->1766422101467062[<b>Speaker 👉 Fox:</b>
-\nYAY, sleepover!
-]
+\nYAY, sleepover!]
 1766422101467062 -->1766662995003311[End]
 Start -->1766663067756469[<b>Speaker 👉 Anna:</b>
 \nThat's the problem.\nI fought with my master today...\nHe was angry that I talked to you.]
 1766663067756469 -->|Why not?|1766663121777595[<b>Speaker 👉 Anna:</b>
-\nHaha, that's a stupid question.\nHave you already forgotten how we met?\nTanuki are considered invaders in Seikyu. \nWe have to hide because everyone hates us.\nYou should hate us most of all.\nThis was once a Fox city but now you're all alone.]
+\nHaha, that's a stupid question.\nHave you already forgotten how we met?\nTanuki are considered invaders in Seikyu.\nWe have to hide because everyone hates us.\nYou should hate us most of all.\nThis was once a Fox city but now you're all alone.]
 1766663067756469 -->|Am I so bad?|1766663121777595[<b>Speaker 👉 Anna:</b>
-\nHaha, that's a stupid question.\nHave you already forgotten how we met?\nTanuki are considered invaders in Seikyu. \nWe have to hide because everyone hates us.\nYou should hate us most of all.\nThis was once a Fox city but now you're all alone.]
+\nHaha, that's a stupid question.\nHave you already forgotten how we met?\nTanuki are considered invaders in Seikyu.\nWe have to hide because everyone hates us.\nYou should hate us most of all.\nThis was once a Fox city but now you're all alone.]
 1766663121777595 -->|Yeah, at least you have other Tanuki.|1766663437074377[<b>Speaker 👉 Anna:</b>
-\n I'm not sure we can be friends, &lbrace;playername&rbrace;.\nYeah, guess I'm lucky.\nIt's foolish to feel this way... weak.\nI need some air.]
+\n I'm not sure we can be friends, &lbrace;c.playername&rbrace;.\nYeah, guess I'm lucky.\nIt's foolish to feel this way... weak.\nI need some air.]
 1766663121777595 -->|I'm not alone. You're here.|1766663232176066[<b>Speaker 👉 Anna:</b>
 \n You can be alone even with people around.]
 441601278420692 -->|We? There are more Tanuki here?|1766407339135514[<b>Speaker 👉 Anna:</b>
 \nOops. Did I let that slip?]
 1766663232176066 -->|You're not alone now.|1766663366469571[<b>Speaker 👉 Anna:</b>
-\n I'm not sure we can be friends, &lbrace;playername&rbrace;.]
+\n I'm not sure we can be friends, &lbrace;c.playername&rbrace;.]
 1766663232176066 -->|Not if they're good friends.|1766663366469571[<b>Speaker 👉 Anna:</b>
-\n I'm not sure we can be friends, &lbrace;playername&rbrace;.]
+\n I'm not sure we can be friends, &lbrace;c.playername&rbrace;.]
 1766663366469571 -->|We can try.|1766663465074637[<b>Speaker 👉 Anna:</b>
 \nI'd like that...]
 1766663465074637 -->|Me neither.|1766663488850897[End]

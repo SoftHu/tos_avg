@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1739167465258188[<b>Speaker 👉 Fox:</b>
-\n&lbrace;playername&rbrace;, you got my bed set up!
+\n&lbrace;c.playername&rbrace;, you got my bed set up!
 Finally we can both get a good night's sleep.\nBy the way, I've been busy too!
 Here, I picked these up by the lake.
 I think there might be underwater caves in &lbrace;location.13&rbrace;.]

@@ -1,58 +1,108 @@
 ```mermaid
 graph LR
-Start -->1727668269189279[<b>Speaker 👉 Yoni:</b>
-\n好……再见。]
-Start -->1727668439958689[<b>Speaker 👉 Yoni:</b>
-\n承蒙照顾了……]
-Start -->1727668439958691[<b>Speaker 👉 Yoni:</b>
-\n啊……您好]
-Start -->1727668439958693[<b>Speaker 👉 Yoni:</b>
-\n是您呀！有什么能帮到您的吗？]
-Start -->1727668551084199[<b>Speaker 👉 Yoni:</b>
-\n你喜欢唱歌吗？
-对着空无一人的原野，对着银河与月亮，对着湍流的瀑布……
-放声歌唱！\n每当独处的时候我总是忍不住想唱两句呢
-总感觉自己像个歌唱家！
-但是一旦有了观众，我就不好意思了。\n真苦恼啊，到底该怎么客服这种心理上的恐惧呢？]
-Start -->1727668551084201[<b>Speaker 👉 Yoni:</b>
-\n那个……说起来……
-赫菲先生很温柔呢！
-别看他高高壮壮，看上去有点凶……\n其实私下里是个很害羞的人呢！
-他每天都会陪我练声哦
-虽然只是安静地待在一边，却从不缺席。\n让人怪不好意思的……
-我是不是该准备个礼物感谢他的陪伴呢？]
-Start -->1727668867559595[<b>Speaker 👉 Yoni:</b>
-\n呀！你真贴心……
-这么好的东西，我真的可以收下吗？]
-Start -->1727668867559597[<b>Speaker 👉 Yoni:</b>
-\n谢谢你！
-我很喜欢你送我的东西……]
-Start -->1727668867559599[<b>Speaker 👉 Yoni:</b>
-\n谢谢你……
-我们之间不用这么客气的。]
-Start -->1727668867560625[<b>Speaker 👉 Yoni:</b>
-\n虽然你能送礼物给我，我很感激……
-但是收到这个我也很困扰呀！]
-Start -->1727668867560627[<b>Speaker 👉 Yoni:</b>
-\n你是在故意羞辱我吗？]
-Start -->1727668867560629[<b>Speaker 👉 player:</b>
-\n感觉和&lbrace;npc.4105&rbrace;小姐的关系更加密切了……
-接下来好好相处吧！]
-Start -->1727668867560631[<b>Speaker 👉 player:</b>
-\n做了多余的事情……
-感觉和&lbrace;npc.4105&rbrace;小姐的关系疏远了！]
-Start -->1753123645732252[<b>Speaker 👉 Yoni:</b>
-\n&lbrace;playername&rbrace;你也来了！
-我就说嘛，这么热闹的活动你怎么可能错过！
-准备好加入鲤鱼节的狂欢了吗？]
-Start -->1753123647969693[<b>Speaker 👉 Yoni:</b>
-\n回头见，一定要玩得开心哦！]
-Start -->1758258534413873[<b>Speaker 👉 Yoni:</b>
-\n啊……这么浪漫的夏夜。
-我真想高歌一曲啊……
-抱歉，说了奇怪的话，哈哈。]
-Start -->1758258686936627[<b>Speaker 👉 Yoni:</b>
-\n再见……
-祝您拥有一个愉快的夜晚。]
+Start -->1775422849480574[<b>Speaker 👉 Yoni:</b>
+\nFarewell!]
+Start -->1775422849480578[<b>Speaker 👉 Yoni:</b>
+\nYou should pop by to see me perform sometime!]
+Start -->1775422849480582[<b>Speaker 👉 Yoni:</b>
+\nThis gift has inspried a new melody to rise within me!]
+Start -->1775422849480586[<b>Speaker 👉 Yoni:</b>
+\nThis is outstanding! Thank you!]
+Start -->1775422849480590[<b>Speaker 👉 Yoni:</b>
+\nWow! Thank you, I can only offer a measily flower in return.]
+Start -->1775422849480594[<b>Speaker 👉 Yoni:</b>
+\nWhere did you get this, the casino?]
+Start -->1775422849480598[<b>Speaker 👉 Yoni:</b>
+\nI had to leave practice for you to give me this! I don't have enough time to waste with useless trinkets!]
+Start -->1775422849480602[<b>Speaker 👉 Yoni:</b>
+\nHuh, another year has come and gone! This one will be that much brighter now that you are here!]
+Start -->1775422849480606[<b>Speaker 👉 Yoni:</b>
+\nDid you two have fun? It looks like you did! I'm glad!]
+Start -->1775422849480610[<b>Speaker 👉 Yoni:</b>
+\nOh, how did it go again? &lt;i&gt; We'll try again when we're not too different &lt;i&gt;. No! It's &lt;i&gt; not so different&lt;i&gt;.]
+Start -->1775422849480614[<b>Speaker 👉 Yoni:</b>
+\nPhew! I've completed all my orders for the day! Now to find a quiet place to practice!]
+Start -->1775422849480618[<b>Speaker 👉 Yoni:</b>
+\nAs much as I would love to take the day off but I have a performance tonight. Oh well!]
+Start -->1775422849480622[<b>Speaker 👉 Yoni:</b>
+\nTime to get to work.]
+Start -->1775422849480626[<b>Speaker 👉 Yoni:</b>
+\nBeing here makes me feel so small! It gives me a good sense of perspective.]
+Start -->1775422849480630[<b>Speaker 👉 Yoni:</b>
+\n&lt;i&gt; Oh, little pretties you speak to me, lend me your power, and set me free. &lt;i&gt;]
+Start -->1775422849480634[<b>Speaker 👉 Yoni:</b>
+\nI can't stop now! I nearly have enough saved up to see Animetal live!]
+Start -->1775422849480638[<b>Speaker 👉 Yoni:</b>
+\n&lt;i&gt; I can wait for you at the bottom, I can stay away if you want me to, I can wait for years if i gotta. &lt;i&gt;]
+Start -->1775422849480642[<b>Speaker 👉 Yoni:</b>
+\nI always feel inspired to write lyrics in the rain! It is the catalyst for so much change!]
+Start -->1775422849480646[<b>Speaker 👉 Yoni:</b>
+\nAs compensation for this beautiful gift I shall write you a song!]
+Start -->1775422849480650[<b>Speaker 👉 Yoni:</b>
+\nThank you for remembering! It means a lot!]
+Start -->1775422849480654[<b>Speaker 👉 Yoni:</b>
+\nI appreciate the thought!]
+Start -->1775422849480658[<b>Speaker 👉 Yoni:</b>
+\nWhere did you find this &lbrace;c.playername&rbrace;? You need to return it!]
+Start -->1775422849480662[<b>Speaker 👉 Yoni:</b>
+\nI only celebrate my birthday with those I care about! I am grateful the two of you are here.]
+Start -->1775422849480666[<b>Speaker 👉 Yoni:</b>
+\nHave a lovely rest of your day!]
+Start -->1775422849480670[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849480674[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849480678[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849480682[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849480686[<b>Speaker 👉 Yoni:</b>
+\nAnimetal's world tour posters should reach Seikyu soon! Imagine if they stop off here!]
+Start -->1775422849480690[<b>Speaker 👉 Yoni:</b>
+\nAhhh! Only two more seasons until Animetal goes on their world tour!]
+Start -->1775422849480694[<b>Speaker 👉 Yoni:</b>
+\nOh no! I'm going to lose my voice if I stay out in the cold too long.]
+Start -->1775422849480698[<b>Speaker 👉 Yoni:</b>
+\nMy favourate sound in the world is the sound of my hammer hitting metal. Ching! Ching! Ching!]
+Start -->1775422849480702[<b>Speaker 👉 Yoni:</b>
+\nI really don't like the cold, it's extremely damaging for your vocal chords.]
+Start -->1775422849479682[<b>Speaker 👉 Yoni:</b>
+\n&lt;i&gt; Merry Christmas to you! Merry Christmas Kon and &lbrace;c.playername&rbrace;! &lt;i&gt;]
+Start -->1775422849479686[<b>Speaker 👉 Yoni:</b>
+\nI've got to go and wish everyone else a Merry Christmas so I'll see you later!]
+Start -->1775422849479690[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849479694[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849479698[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849479702[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849479706[<b>Speaker 👉 Yoni:</b>
+\nSaturday is a day for rest and resetting back to a healthy mindset.]
+Start -->1775422849479710[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849479714[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849479718[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849479722[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849479726[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849479730[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849479734[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849479738[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849479742[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849479746[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849479750[<b>Speaker 👉 Yoni:</b>
+\n-]
+Start -->1775422849479754[<b>Speaker 👉 Yoni:</b>
+\n-]
 
 ```

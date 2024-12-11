@@ -14,7 +14,7 @@ Liliana.]
 You honor our town with your work, Liliana.]
 1768790184966892 -->1768790203762413[End]
 Start -->1768790245895919[<b>Speaker 👉 Liliana:</b>
-\nI couldn't have done it without, &lbrace;playername&rbrace;.\n&lbrace;playername&rbrace;, I want you to have this.]
+\nI couldn't have done it without, &lbrace;c.playername&rbrace;.\n&lbrace;c.playername&rbrace;, I want you to have this.]
 1768790245895919 -->1768790303961841{ }
 1768790303961841 -->1769070203944984{ }
 1768790303961841 -->1769070210412569{ }
@@ -24,7 +24,7 @@ Start -->1768790245895919[<b>Speaker 👉 Liliana:</b>
 \nIt matches your cheerful spirit.]
 1768790364526323 -->1768790376658676[<b>Speaker 👉 Liliana:</b>
 \nDisplay it in your home, 
-and I'll hang the other…\nSo we may stay connected through them. ]
+and I'll hang the other…\nSo we may stay connected through them.]
 1768790376658676 -->|You're too kind, Liliana.|1768790453280509[<b>Speaker 👉 Liliana:</b>
 \nOh, there's my teacher, Priest Leon.
 He's the reason I fell in love with painting.\nHis opinion is… very important to me.]
@@ -38,7 +38,7 @@ He's the reason I fell in love with painting.\nHis opinion is… very important 
 \nMay its mystery captivate you.]
 1768790352854770 -->1768790376658676[<b>Speaker 👉 Liliana:</b>
 \nDisplay it in your home, 
-and I'll hang the other…\nSo we may stay connected through them. ]
+and I'll hang the other…\nSo we may stay connected through them.]
 Start -->1768790535988992[<b>Speaker 👉 Leon:</b>
 \nHmm….
 …

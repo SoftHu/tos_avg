@@ -2,7 +2,7 @@
 graph
 Start -->1759525374602824[<b>Speaker 👉 GLP_1:</b>
 \nGreetings!
-&lbrace;playername&rbrace;,
+&lbrace;c.playername&rbrace;,
 I didn't expect you to venture this deep.\nI am Gulu Bobo God,
 commander of all Gulu Bobos.
 I believe you've met my guards.\nForget their pathetic little tricks;

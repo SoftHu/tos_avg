@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1738530500713615[<b>Speaker 👉 Fox:</b>
-\n&lbrace;playername&rbrace;！
+\n&lbrace;c.playername&rbrace;！
 你知道俘获妖怪们的心最好的方法是什么吗？]
 1738530500713615 -->|亲吻他们|1749512535586093[<b>Speaker 👉 Fox:</b>
 \n你...

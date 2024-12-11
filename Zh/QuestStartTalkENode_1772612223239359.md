@@ -1,18 +1,23 @@
 ```mermaid
 graph
 Start -->1772612377369795[<b>Speaker 👉 Ritsurei:</b>
-\n厉害，厉害，
-没想到青岚还能来新的高手！\n大侠敢问何名？]
-1772612377369795 -->|&lbrace;playername&rbrace;|1772612658289863[<b>Speaker 👉 Ritsurei:</b>
-\n&lbrace;playername&rbrace;……
-我记住你的名字了！\n下次我们见面，
-你的对手可就是我了！]
-1772612658289863 -->|我很期待|1772612932636880[<b>Speaker 👉 Ritsurei:</b>
-\n拿着这个，
-可别倒在回家前的路上了。\n来日再见！]
-1772612658289863 -->|别输的太惨|1772612932636880[<b>Speaker 👉 Ritsurei:</b>
-\n拿着这个，
-可别倒在回家前的路上了。\n来日再见！]
+\nImpressive, truly impressive!
+I didn’t expect Seikyu to attract such a talented warrior.\nMay I have the honor of your names, brave one?]
+1772612377369795 -->|I am &lbrace;c.playername&rbrace; and this is Kon.|1772612658289863[<b>Speaker 👉 Fox:</b>
+\nMore like &lbrace;c.playername&rbrace; the silly!]
+1772612377369795 -->|We are &lbrace;c.playername&rbrace; THE BRAVE and KON THE BRIGHT!|1772612658289863[<b>Speaker 👉 Fox:</b>
+\nMore like &lbrace;c.playername&rbrace; the silly!]
+1772612658289863 -->1775359955624372[<b>Speaker 👉 Ritsurei:</b>
+\n&lbrace;c.playername&rbrace;, Kon. It is an honor to meet you.\nBe ready though &lbrace;playername&rbrace;
+Next time we meet, your opponent will be me!]
+1775359955624372 -->|I’m looking forward to it!|1772612932636880[<b>Speaker 👉 Ritsurei:</b>
+\nHere, take this! 
+I got the wrong flavor. 
+My brother Kinntarou really wants lemon.\nYou earned it!]
+1775359955624372 -->|I will be ready!|1772612932636880[<b>Speaker 👉 Ritsurei:</b>
+\nHere, take this! 
+I got the wrong flavor. 
+My brother Kinntarou really wants lemon.\nYou earned it!]
 1772612932636880 -->1772612787498185{ }
 1772612787498185 -->1772612791118026[End]
 1772612787498185 -->1772612791118026[End]

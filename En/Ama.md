@@ -64,9 +64,7 @@ Wonder if my designs will be able to match that…\nShe probably prefers elegant
 rather than trendy and fashionable clothing, right?\nMaybe blending the classic and the trendy
 could be a good design approach.]
 Start -->1753037631444768[<b>Speaker 👉 Ama:</b>
-\nMiss &lbrace;npc.4209.last_name&rbrace; and I made a lot of flags
-for the festival. I love seeing them flying...
-Happy Carp Festival, &lbrace;playername&rbrace;!]
+\n]
 Start -->1753038002806561[<b>Speaker 👉 Ama:</b>
 \nHave a blast!
 Don't forget to go see &lbrace;npc.4206&rbrace;!]

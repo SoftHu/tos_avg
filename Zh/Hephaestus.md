@@ -1,107 +1,108 @@
 ```mermaid
 graph LR
-Start -->1727669208028345[<b>Speaker 👉 Hephaestus:</b>
-\n回头见！]
-Start -->1727669228803259[<b>Speaker 👉 Hephaestus:</b>
-\n你好，我是小镇的工匠赫菲斯托斯，不过这个名字太长了
-大家一般都叫我赫菲，你也可以这样称呼我。
-如果有需要我帮忙的尽管开口。]
-Start -->1727669228804285[<b>Speaker 👉 Hephaestus:</b>
-\n想跟我一起练肌肉吗？]
-Start -->1727669265736895[<b>Speaker 👉 Hephaestus:</b>
-\n这里什么都好，就是消息有些闭塞。
-前不久业内知名锻刀大赛的举办方给我发了邀请函
-希望我能去当评委。\n可是当我收到邀请函的时候，比赛已经结束半年多了……\n这也太离谱了吧！！！！
-明明是超级难得的技术交流机会，就这么浪费了。]
-Start -->1727669265736897[<b>Speaker 👉 Hephaestus:</b>
-\n父亲是矮人族，母亲是渴血族……
-他们的孩子一定是两个种族都无法接纳和包容的。\n这件事我从很小的时候就知道了
-毕竟固有观念是很难改变的。\n但是这并不妨碍我拥有一个充满爱的家庭。
-阻力无处不在
-很多时候，我们只是缺少面对的勇气罢了。]
-Start -->1727669712214211[<b>Speaker 👉 Hephaestus:</b>
-\n呀！你真贴心……
-这么好的东西，我真的可以收下吗？]
-Start -->1727669712214213[<b>Speaker 👉 Hephaestus:</b>
-\n谢谢你！
-我很喜欢你送我的东西……]
-Start -->1727669712214215[<b>Speaker 👉 Hephaestus:</b>
-\n谢谢你……
-我们之间不用这么客气的。]
-Start -->1727669712214217[<b>Speaker 👉 Hephaestus:</b>
-\n虽然你能送礼物给我，我很感激……
-但是收到这个我也很困扰呀！]
-Start -->1727669712215243[<b>Speaker 👉 Hephaestus:</b>
-\n你是在故意羞辱我吗？]
-Start -->1727669712215245[<b>Speaker 👉 player:</b>
-\n感觉和&lbrace;npc.4106.first_name&rbrace;的关系更加密切了……
-接下来好好相处吧！]
-Start -->1727669712215247[<b>Speaker 👉 player:</b>
-\n做了多余的事情……
-感觉和&lbrace;npc.4106.first_name&rbrace;的关系疏远了！]
-Start -->1750913663781145[<b>Speaker 👉 Hephaestus:</b>
-\n嘿，&lbrace;playername&rbrace;，又见面了。
-前两天我好像有些锻炼过头了，
-看来最近要休息一阵子了……]
-Start -->1751446334634282[<b>Speaker 👉 Hephaestus:</b>
-\n嗯……应该是这样没错，不过好像也不太对劲。
-啊！抱歉，我刚刚在想钢材配比的事情，有些走神了。]
-Start -->1751446658345260[<b>Speaker 👉 Hephaestus:</b>
-\n是你呀！真巧……
-其实刚刚我还在想&lbrace;playername&rbrace;今天会不会来找我呢。
-这可能就是友人间的心有灵犀吧！]
-Start -->1753041040684836[<b>Speaker 👉 Hephaestus:</b>
-\n又是一年一度的鲤鱼节，真让人怀念啊！
-小时候村正师父每逢鲤鱼节都会带我去逛庆典。
-不过我现在只能记起庆典现场买的红豆柏饼的味道……]
-Start -->1753042058365733[<b>Speaker 👉 Hephaestus:</b>
-\n今天就忘记一切烦恼，好好放松一下吧！]
-Start -->1754981984533008[<b>Speaker 👉 Hephaestus:</b>
-\n炎炎夏日，最让人期待的就是祭典了！
-趁此机会，戴上面具，顺便忘掉往日的琐事与烦恼吧……]
-Start -->1754982933656081[<b>Speaker 👉 Hephaestus:</b>
-\n回头见！要玩得开心呀！]
-Start -->1756859381660193[<b>Speaker 👉 Hephaestus:</b>
-\n早上好，你看上去没什么精神呢……
-莫非昨晚没有睡好？
-（呵欠……）\n不瞒你说，我昨晚也在工坊忙活了一整夜呢。
-人一旦放松下来，困意就上来了。]
-Start -->1756860676656676[<b>Speaker 👉 Hephaestus:</b>
-\n村正师父说，一个称职的工匠必须拥有强壮的体魄
-所以我总是会在下午锻炼身体呢！]
-Start -->1756926446448167[<b>Speaker 👉 Hephaestus:</b>
-\n今天没什么订单呢，我打算待会去酒馆里喝一杯。
-辛苦工作一天，然后喝点小酒，这样的生活太美妙了……\n只可惜我的酒量不好，三杯之后就开始神志不清
-再恢复意识就是第二天了]
-Start -->1756928046077482[<b>Speaker 👉 Hephaestus:</b>
-\n又下雨了……
-整个天气阴沉沉的，心情都会变得低沉了。
-每次遇到这种天气，我的关节都隐隐作痛呢。]
-Start -->1756928373282348[<b>Speaker 👉 Hephaestus:</b>
-\n前两天我隐隐约约闻到很诱人的香味
-我就循着香味的来源到处寻找
-结果差点撞到织田小姐……\n原来那个香味是从她身上飘出来的
-怎么形容呢？
-像是某种好吃的甜品的味道。]
-Start -->1757728986413649[<b>Speaker 👉 Hephaestus:</b>
-\n虽然我也不是小孩子了
-可是每次来到酒馆喝酒
-都有一种害怕被师父抓现行的感觉呢。\n不过越是紧张刺激越是吸引人去尝试……
-有的时候喝酒反而不是最重要的了
-你能理解吗？]
-Start -->1758010727046748[<b>Speaker 👉 Hephaestus:</b>
-\n告诉你一个冷知识……
-一般工匠们聚集的地区都会诞生名酒
-你知道为什么吗？\n因为酿酒和锻造有一个共同关键点——山泉水
-山泉水的品质直接决定了酒水和刀剑优秀程度。]
-Start -->1758011532116578[<b>Speaker 👉 Hephaestus:</b>
-\n抱歉，我想静一静，暂时不想聊天。]
-Start -->1758080850982448[<b>Speaker 👉 Hephaestus:</b>
-\n幸运女神，请赐福于我吧！
-今天我可做好打算准备大干一场……]
-Start -->1758081818299954[<b>Speaker 👉 Hephaestus:</b>
-\n你知道运气守恒定律吗？
-如果你一直赢，你最终会慢慢输光
-可是如果你一直输，说不定下一盘就会赢哦！]
+Start -->1775339959591886[<b>Speaker 👉 Hephaestus:</b>
+\nI'll see you around, eh?]
+Start -->1775339959591890[<b>Speaker 👉 Hephaestus:</b>
+\nFarewell for now!]
+Start -->1775339959591894[<b>Speaker 👉 Hephaestus:</b>
+\nIt's not often that I am stunned to silence... this gift is far more than I deserve and I shall cherish it for years to come.]
+Start -->1775339959591898[<b>Speaker 👉 Hephaestus:</b>
+\nHo, is this for me? Really? I don't know what I did to deserve this, thank you!]
+Start -->1775339959591902[<b>Speaker 👉 Hephaestus:</b>
+\nHo, what is this? A fine choice, please accept my deepest gratitude.]
+Start -->1775339959591906[<b>Speaker 👉 Hephaestus:</b>
+\nA peculiar gift for a sword smith, eh?]
+Start -->1775339959591910[<b>Speaker 👉 Hephaestus:</b>
+\nI'll be frank with you! I do not see any use for this, however, it would be rude for me to not accept.]
+Start -->1775339959591914[<b>Speaker 👉 Hephaestus:</b>
+\nHo, I would like to welcome you to your first Carp Festival on Seikyu!]
+Start -->1775339959591918[<b>Speaker 👉 Hephaestus:</b>
+\nHo, look at all the little ones! Oh to be so young and energetic again... I must depart for the day, but enjoy the rest of the festival!]
+Start -->1775339959591922[<b>Speaker 👉 Hephaestus:</b>
+\nThe forge will be my lasting legacy on Seikyu. I hope you have goals you're charging towards as well. The higher the better, eh?]
+Start -->1775339959591926[<b>Speaker 👉 Hephaestus:</b>
+\nHo, Wednesday, the center point of the working week! What better day to work on oneself and focus on personal growth, eh?]
+Start -->1775339959591930[<b>Speaker 👉 Hephaestus:</b>
+\nA forge is only as good as it's raw materials. That's why I spend my weekends mining for highquality ore. Swinging a pickaxe isn't a bad way to spend the day, eh?]
+Start -->1775339959591934[<b>Speaker 👉 Hephaestus:</b>
+\nHo, the cherry blossoms are in full bloom! Winter has been vanquished! Another pint, please!]
+Start -->1775339959590914[<b>Speaker 👉 Hephaestus:</b>
+\nHo, summer will soon be upon us! Let us move some of this equipment outside, eh?]
+Start -->1775339959590918[<b>Speaker 👉 Hephaestus:</b>
+\nHo, look at this magnificent ore, eh? I know I shouldn't be mining in the ruins but you won't tell anyone, right?]
+Start -->1775339959590922[<b>Speaker 👉 Hephaestus:</b>
+\nMmm, that gentle breeze would make it a perfect day to workout outdoors. What do you think, eh?]
+Start -->1775339959590926[<b>Speaker 👉 Hephaestus:</b>
+\nHo, the suns light has deprated leaving my forge alone to fend of the darkness.]
+Start -->1775339959590930[<b>Speaker 👉 Hephaestus:</b>
+\nI can't talk now. The rain always puts me in a... mood.]
+Start -->1775339959590934[<b>Speaker 👉 Hephaestus:</b>
+\nReceiving a gift like this from you, what more could one ask for on their Birthday, eh?]
+Start -->1775339959590938[<b>Speaker 👉 Hephaestus:</b>
+\nHo, you remembered, eh?  This gift is far more than I deserve.]
+Start -->1775339959590942[<b>Speaker 👉 Hephaestus:</b>
+\nWhat a gift, how kind of you! It's a curious choice, but I'm sure I'll find a use for it.]
+Start -->1775339959590946[<b>Speaker 👉 Hephaestus:</b>
+\nIs this meant for me? It's not what I was expecting, but thank you.]
+Start -->1775339959590950[<b>Speaker 👉 Hephaestus:</b>
+\nIs this... for me? I rarely find myself lost for words ... it's perfect! Thank you!]
+Start -->1775339959590954[<b>Speaker 👉 Hephaestus:</b>
+\nI shall take my leave, you know where I am if you need me.]
+Start -->1775339959590958[<b>Speaker 👉 Hephaestus:</b>
+\nI shall see you later, eh? Remember nothing great is granted without challenge.]
+Start -->1775339959590962[<b>Speaker 👉 Hephaestus:</b>
+\nHo, I must go, but stop by my forge soon. The metal shines brightest when you are near!]
+Start -->1775339959590966[<b>Speaker 👉 Hephaestus:</b>
+\nI'm glad you could make it! I hope you don't mind but I made a Koinobori for you. I hung it outside the forge!]
+Start -->1775339959590970[<b>Speaker 👉 Hephaestus:</b>
+\nI haven't had this much fun at the festival since... well, since Master Muramasa left me... so, thank you!]
+Start -->1775339959590974[<b>Speaker 👉 Hephaestus:</b>
+\nI love the feeling of the warm sun on my skin. Reminds me of long Summer days as a child with Master Muramasa!]
+Start -->1775339959590978[<b>Speaker 👉 Hephaestus:</b>
+\nAmber leaves crunching underfoot while I take my morning run in the crisp Autumnal air! There's no better time of year, eh?]
+Start -->1775339959590982[<b>Speaker 👉 Hephaestus:</b>
+\nHo, the cold never bothered me much. Guess I run naturally hot, eh?]
+Start -->1775339959590986[<b>Speaker 👉 Hephaestus:</b>
+\nMy favourate sound in the world is the sound of my hammer hitting metal. Ching! Ching! Ching!]
+Start -->1775339959590990[<b>Speaker 👉 Hephaestus:</b>
+\nWaste! There is nothing more despicable than waste! Everything has a purpose, you just have to find it!]
+Start -->1775339959590994[<b>Speaker 👉 Hephaestus:</b>
+\nHo, Merry Christmas!]
+Start -->1775339959590998[<b>Speaker 👉 Hephaestus:</b>
+\nAlthough a holiday, don't forget to stop by the gym, eh?]
+Start -->1775339959591002[<b>Speaker 👉 Hephaestus:</b>
+\nHo, the sight of you warms me up on this chilly Christmas day!]
+Start -->1775339959591006[<b>Speaker 👉 Hephaestus:</b>
+\nI shall return to the warmth of my forge now. Stop by as I have a little something for you, eh?]
+Start -->1775339959591010[<b>Speaker 👉 Hephaestus:</b>
+\nHo, with the forge now open any help would be welcome!]
+Start -->1775339959591014[<b>Speaker 👉 Hephaestus:</b>
+\nI must remember to stop by the mines today, I am low on ore and the week is yet young.]
+Start -->1775339959591018[<b>Speaker 👉 Hephaestus:</b>
+\nSaturday is a day for rest and resetting back to a healthy mindset.]
+Start -->1775339959591022[<b>Speaker 👉 Hephaestus:</b>
+\nAlthough I always strive to improve upon my craft, the clarity granted to me during recent events has shown me that the blade in your possession is the greatest sword I will ever make.]
+Start -->1775339959591026[<b>Speaker 👉 Hephaestus:</b>
+\nThis week has been dragging on, eh?]
+Start -->1775339959591030[<b>Speaker 👉 Hephaestus:</b>
+\nNow that the forge is closed for the week I am free to train you on the arts of the blade should you feel the need.]
+Start -->1775339959591034[<b>Speaker 👉 Hephaestus:</b>
+\nHo, every time I swing my hammer it is a reminder that I am crafting something to keep you safe! What more of a reason could a lowly blacksmith need, eh?]
+Start -->1775339959591038[<b>Speaker 👉 Hephaestus:</b>
+\nI was just heading out &lbrace;c.playername&rbrace;! If you need my later I'll be at the gym once the sun has set!]
+Start -->1775339959591042[<b>Speaker 👉 Hephaestus:</b>
+\nHo, I regret I could spare little time this week to spend with you. But I now promise myself to you for the next two days!]
+Start -->1775339959591046[<b>Speaker 👉 Hephaestus:</b>
+\nHo! The scorching summer days make my work all that much more arduous, eh?]
+Start -->1775339959591050[<b>Speaker 👉 Hephaestus:</b>
+\nMmm, the summer sun doesn't feel as warm this year! Without it what is there that can melt the icy jaws of winter, eh?]
+Start -->1775339959591054[<b>Speaker 👉 Hephaestus:</b>
+\nImaginging my blades slicing through the leaves as they fall inspires me to do better!]
+Start -->1775339959591058[<b>Speaker 👉 Hephaestus:</b>
+\nI wonder if there is an ore out there that could make a sword the same colour as the leaves in Autumn.?]
+Start -->1775339959591062[<b>Speaker 👉 Hephaestus:</b>
+\nI am grateful for the warmth of my forge on these bitter winter days.]
+Start -->1775339959591066[<b>Speaker 👉 Hephaestus:</b>
+\nStrange! The fire in my forge is being beaten back by the cold clutches of these dark days. If it splutters out what will keep me warm, eh?]
 
 ```

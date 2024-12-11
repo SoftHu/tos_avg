@@ -2,7 +2,7 @@
 graph
 Start -->1759525374602824[<b>Speaker 👉 GLP_1:</b>
 \n喔吼！
-你好&lbrace;playername&rbrace;，
+你好&lbrace;c.playername&rbrace;，
 没想到你已经探索到这么深处。\n我是咕噜波天王，
 咕噜波们的统帅，
 你应该已经遇见过我的手下们了。\n比起他们那些无聊的小把戏，

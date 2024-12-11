@@ -1,117 +1,64 @@
 ```mermaid
 graph LR
-Start -->1727655298056379[<b>Speaker 👉 Fox:</b>
-\nCome on, take me with you once in a while!]
-Start -->1727655446019261[<b>Speaker 👉 Kon:</b>
-\nGood morning!
-Can't let such a wonderful morning go to waste.
-Time to get to work, there's a lot to do.]
-Start -->1727655446019263[<b>Speaker 👉 Kon:</b>
-\nMorning, did you sleep well last night?]
-Start -->1727655446020291[<b>Speaker 👉 Kon:</b>
-\nGood morning. Any plans for today?]
-Start -->1727655446020293[<b>Speaker 👉 Kon:</b>
-\nAnything I can help you with?]
-Start -->1727655446021319[<b>Speaker 👉 Kon:</b>
-\nA busy day begins! Stay energized!]
-Start -->1727655446021325[<b>Speaker 👉 Kon:</b>
-\nGood evening!]
-Start -->1727655446022353[<b>Speaker 👉 Kon:</b>
-\nAlready this late? Go to bed; don't overwork.
-The Fox Spirit warned: worrying too much and
-staying up late will turn you into an ugly puppy...]
-Start -->1727655446024413[<b>Speaker 👉 Kon:</b>
-\nGood morning, let's keep our spirits up today too!]
-Start -->1727656221585637[<b>Speaker 👉 Kon:</b>
-\nYou should be used to transforming by now, right?
-Do you ever feel your self-awareness weakens
-when you use powers that don't belong to you?\nPerhaps your personality will be changed over time...
-Haha, look at your face, so serious!
-Just kidding, that can't happen.]
-Start -->1727656221585635[<b>Speaker 👉 Kon:</b>
-\nThe farmhouse still has its old design...
-No separate Western-style kitchen.
-Everyone has to gather around the fire to eat.\nWhile eating by the fire makes me happy,
-the lingering smell of smoke in my fur gives me
-quite a headache.]
-Start -->1727656221586665[<b>Speaker 👉 Kon:</b>
-\nYou seem to have a special power to unite everyone... 
-I'm starting to see why the Fox Spirit chose you.]
-Start -->1727657111555307[<b>Speaker 👉 Kon:</b>
-\nOh! How thoughtful...
-But I'm not so sure I can accept something so nice.]
-Start -->1727657111555309[<b>Speaker 👉 Kon:</b>
-\nThank you!
-I love it...]
-Start -->1727657111555311[<b>Speaker 👉 Kon:</b>
-\nThank you...
-We don't need to be so formal with each other.]
-Start -->1727657111556337[<b>Speaker 👉 Kon:</b>
-\nAlthough I appreciate the gift, accepting it
-would make me uncomfortable...]
-Start -->1727657111556339[<b>Speaker 👉 Kon:</b>
-\nAre you intentionally trying to embarrass me?]
-Start -->1727657111556341[<b>Speaker 👉 player:</b>
-\nI'm feeling closer to &lbrace;npc.4101&rbrace;...
-We're going to get along!]
-Start -->1727657111557367[<b>Speaker 👉 player:</b>
-\nI did something I shouldn't have...
-I'm feeling distant from &lbrace;npc.4101&rbrace; now!]
-Start -->1740296790321370[<b>Speaker 👉 Fox:</b>
-\nAll right, we'll talk later.]
-Start -->1740402571945195[<b>Speaker 👉 Kon:</b>
-\nSuch a nice Seikyu breeze...
-I miss Mom…
-She used to comb my hair just like this, so gently.\nI wonder where Mom and Dad are right now...
-But don't worry, I'll always be with you.
-Let's make more memories together!]
-Start -->1740402571945197[<b>Speaker 👉 Kon:</b>
-\nThis place makes a great home!
-So much space, and the neighbors are so friendly...
-I love it here!]
-Start -->1753044301893424[<b>Speaker 👉 Fox:</b>
-\nThe town looks gorgeous today with the colorful
-Carp Festival flags flying.
-Should we hang some in the &lbrace;location.1&rbrace; as well?]
-Start -->1753045038214962[<b>Speaker 👉 Fox:</b>
-\nYou can play Flag Capture at the Carp Festival!
-Take me with you! Take me with you!]
-Start -->1757025764614264[<b>Speaker 👉 Kon:</b>
-\nAccording to the Fox Spirits, the afternoon is the
-best time for training.
-I've been trying so hard but I still feel so sleepy...]
-Start -->1727656221586663[<b>Speaker 👉 Kon:</b>
-\nI'm eager to learn transformation spells...
-The Fox Spirits said they'll teach me when I'm older.\nBut I can't even transform into a human now!
-Aargh!
-It's so frustrating...]
-Start -->1757028043846787[<b>Speaker 👉 Kon:</b>
-\nIt's such a beautiful day. Take me out to play!
-Pretty please? You can't just leave me at home!
-I'm not your pet, you know...]
-Start -->1757028156646534[<b>Speaker 👉 Kon:</b>
-\nUgh... rainy days are the worst!
-Every time it rains, it reminds me of the old days.
-A homeless wanderer, soaking wet, shivering in the cold.]
-Start -->1757734086215253[<b>Speaker 👉 Kon:</b>
-\nThe Fox Spirits allowed you to unwind in the tavern,
-but they didn't say you could get drunk!
-I'll be keeping an eye on you...]
-Start -->1758012357671524[<b>Speaker 👉 Kon:</b>
-\nYou reek of alcohol...
-Get away from me and don't talk to me!]
-Start -->1758088248306265[<b>Speaker 👉 Kon:</b>
-\nBoom! The Casino Queen is in the house...
-Tonight I'm gonna win it all!]
-Start -->1758088544254555[<b>Speaker 👉 Kon:</b>
-\nHaving some fun is important, but not too much fun!\nIf you lose next month's living expenses,
-we'll be on a full-grass diet...]
-Start -->1758178075629133[<b>Speaker 👉 Kon:</b>
-\nIn the past, we could only watch from the sidelines.
-Now with Seikyu being our home,
-it finally feels like we're part of something.]
-Start -->1758178172890703[<b>Speaker 👉 Kon:</b>
-\nEnough chit-chat.
-Precious time should be spent having fun!]
+Start -->1730217004590177[<b>Speaker 👉 Kon:</b>
+\nLet's get going!]
+Start -->1730217216536675[<b>Speaker 👉 Kon:</b>
+\nWe have important stuff to do, stop wasting time!]
+Start -->1730233993071725[<b>Speaker 👉 Kon:</b>
+\nI don't know what to say! You are the best sibling ever, sometimes.]
+Start -->1730233993072751[<b>Speaker 👉 Kon:</b>
+\nThis is beautiful! It's not like you to pick out presents this nice, did you have help?]
+Start -->1730233993072753[<b>Speaker 👉 Kon:</b>
+\nYou got this for me! Really? What's the catch?]
+Start -->1730233993072755[<b>Speaker 👉 Kon:</b>
+\nThank for the gift, what is it?]
+Start -->1730233993073781[<b>Speaker 👉 Kon:</b>
+\nI'm not really sure what I am supposed to do with this. But thanks, I guess.]
+Start -->1753123160870296[<b>Speaker 👉 Kon:</b>
+\nLook at all the Koinobori! Can we design one?]
+Start -->1775162815304726[<b>Speaker 👉 Kon:</b>
+\nThis sun will be good for the crops! You didn't forget to water them again did you?]
+Start -->1775163103296538[<b>Speaker 👉 Kon:</b>
+\nWe are going to be busy next week with all the tasks we have!]
+Start -->1775163107154971[<b>Speaker 👉 Kon:</b>
+\nWe've done so much already and it's only Wednesday! I'm ready for the weekend now!]
+Start -->1775164372485149[<b>Speaker 👉 Kon:</b>
+\nI can't believe our ancestors built this!]
+Start -->1775164416326688[<b>Speaker 👉 Kon:</b>
+\nI can feel the spirits of our ancestors here... but they are distant.]
+Start -->1775164420689953[<b>Speaker 👉 Kon:</b>
+\nThis place is really starting to feel like home now!]
+Start -->1775164711722024[<b>Speaker 👉 Kon:</b>
+\nThere's no time to stand around with so much to explore!]
+Start -->1775164732277801[<b>Speaker 👉 Kon:</b>
+\nMmmm... so sleepy...]
+Start -->1775164532912166[<b>Speaker 👉 Kon:</b>
+\nI hate it when my fur is damp!]
+Start -->1775166031622193[<b>Speaker 👉 Kon:</b>
+\nOh, thank you. This is going to make life a lot easier!]
+Start -->1775166031623219[<b>Speaker 👉 Kon:</b>
+\nThank you &lbrace;c.playername&rbrace;! This will go really well in the house!]
+Start -->1775166031624245[<b>Speaker 👉 Kon:</b>
+\nI know you're busy, but I think you can do better than this!]
+Start -->1775166031624247[<b>Speaker 👉 Kon:</b>
+\nYou don't usually miss the mark this badly! Are you feeling okay?]
+Start -->1775166031625275[<b>Speaker 👉 Kon:</b>
+\nThis... how did you know I wanted this? Thank you so much!]
+Start -->1775166486298698[<b>Speaker 👉 Kon:</b>
+\nAll this fish is making me hungry! Let's go and get some food &lbrace;c.playername&rbrace;!]
+Start -->1775166589369426[<b>Speaker 👉 Kon:</b>
+\nAll my fur doesn't mix well with this heat!]
+Start -->1775166628730970[<b>Speaker 👉 Kon:</b>
+\nI love Autumn! Playing in the leaves is so much fun.]
+Start -->1775166633910364[<b>Speaker 👉 Kon:</b>
+\nThere's so much snow I'm almost being buried! Wait, don't leave me behind!]
+Start -->1775166811015263[<b>Speaker 👉 Kon:</b>
+\nYou know my favourate thing is food &lbrace;c.playername&rbrace;! Just get me some tasty grub and I'm a happy little fox!]
+Start -->1775166820796512[<b>Speaker 👉 Kon:</b>
+\nWhat do I dislike? Bit personal... I guess I really don't like being alone.]
+Start -->1775172034569978[<b>Speaker 👉 Kon:</b>
+\nOur first Christmas here in Seikyu...]
+Start -->1775172034569980[<b>Speaker 👉 Kon:</b>
+\nThis Christmas it finally feels like we're celebrating at home!]
 
 ```

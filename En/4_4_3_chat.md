@@ -7,7 +7,7 @@ State your name!]
 1750848156954962 -->|Lady Inari sent me.|1750853271600663[<b>Speaker 👉 GLP_3:</b>
 \nA friend of Lady Inari, you say?
 I'm not so easily fooled.\nSo, what brings you to these ruins?]
-1750848156954962 -->|&lbrace;playername&rbrace;|1750853393863193[<b>Speaker 👉 GLP_3:</b>
+1750848156954962 -->|&lbrace;c.playername&rbrace;|1750853393863193[<b>Speaker 👉 GLP_3:</b>
 \nNever heard of you.
 You're not some criminal, are you?\nWe heard rumors lately that some yokai
 are planning on sneaking into the ruins

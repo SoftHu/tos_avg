@@ -6,7 +6,7 @@ Start -->1738789015900297[<b>Speaker 👉 Ama:</b>
 \nTrue gentlemen haven't completely died out...
 Pleased to meet you. 
 I am the manager of the Starlight Tailor shop in town, &lbrace;npc.4205&rbrace;.\nOh, aren't you the new islander who arrived in &lbrace;location.13&rbrace; not long ago?
-If I remember rightly, you're called &lbrace;playername&rbrace;, right?]
+If I remember rightly, you're called &lbrace;c.playername&rbrace;, right?]
 1738789015900297 -->|I've got to go, take care...|1738791397645456[End]
 1738791385681039 -->|Yes...|1738793950464150[<b>Speaker 👉 Ama:</b>
 \nI wouldn't underestimate the owner of the &lbrace;location.12&rbrace;.

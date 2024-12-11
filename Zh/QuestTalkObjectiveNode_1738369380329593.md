@@ -20,8 +20,8 @@ I think we're going to get along, …]
 1742696668586266 -->|We've worked hard to afford this place.|1738369892088971[<b>Speaker 👉 Musashi:</b>
 \nI know the feeling.
 I think we're going to get along, …]
-1738369892088971 -->|&lbrace;playername&rbrace;.|1741542909956340[<b>Speaker 👉 Musashi:</b>
-\n&lbrace;playername&rbrace;…
+1738369892088971 -->|&lbrace;c.playername&rbrace;.|1741542909956340[<b>Speaker 👉 Musashi:</b>
+\n&lbrace;c.playername&rbrace;…
 And who is this?]
 1741542909956340 -->1738369888274570[<b>Speaker 👉 Fox:</b>
 \nI'm Kon!]
@@ -34,7 +34,7 @@ You two are…]
 \nOf course, I can see the family resemblance.
 I wanted to be the first to lay eyes on our new neighbors.\nI should be getting back to the shop. 
 Come find me if you ever want to go fishing.\nSee you soon, 
-&lbrace;playername&rbrace;.]
+&lbrace;c.playername&rbrace;.]
 1768545250768808 -->1738370113018005[End]
 1738369637289097 -->1742696668586266[<b>Speaker 👉 Musashi:</b>
 \nYou must be the new resident of Seikyu.

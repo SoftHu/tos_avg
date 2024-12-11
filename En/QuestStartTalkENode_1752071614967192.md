@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1752071650396571[<b>Speaker 👉 :</b>
-\n&lbrace;playername&rbrace;，
+\n&lbrace;c.playername&rbrace;，
 Come here to us after &lbrace;time.20.0&rbrace; with &lbrace;npc.4101&rbrace;.]
 1752071650396571 -->|What's up?|1752071892001183[<b>Speaker 👉 :</b>
 \nWe haven't chatted with you in a while.

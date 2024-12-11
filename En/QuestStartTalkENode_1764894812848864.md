@@ -14,7 +14,7 @@ Unlike foxes,
 they are cunning yokai who love mischief.]
 1764896206404334 -->|Good morning, &lbrace;npc.4203&rbrace;|1764896819869430[<b>Speaker 👉 Musashi:</b>
 \nYou must've worked hard these days,
-&lbrace;playername&rbrace;.
+&lbrace;c.playername&rbrace;.
 Congratulations.]
 1764896485678837 -->1764897063259897[<b>Speaker 👉 Musashi:</b>
 \nI'm gonna go back to watch the store.

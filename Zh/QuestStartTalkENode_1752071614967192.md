@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1752071650396571[<b>Speaker 👉 :</b>
-\n&lbrace;playername&rbrace;，
+\n&lbrace;c.playername&rbrace;，
 晚上&lbrace;time.20.0&rbrace;后和&lbrace;npc.4101&rbrace;一起来找我们。]
 1752071650396571 -->|什么事情|1752071892001183[<b>Speaker 👉 :</b>
 \n很久没有和你们聊天，

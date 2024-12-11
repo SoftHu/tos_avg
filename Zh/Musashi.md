@@ -1,116 +1,110 @@
 ```mermaid
 graph LR
-Start -->1727291147076724[<b>Speaker 👉 Musashi:</b>
-\n唷！老板。
-想买点什么吗？会给你优惠的。]
-Start -->1727291147076726[<b>Speaker 👉 Musashi:</b>
-\n你好！有什么可以为你效劳的吗？]
-Start -->1727291147077752[<b>Speaker 👉 Musashi:</b>
-\n物美价廉，童叟无欺。
-我叫武藏，是小镇的货郎
-有什么需要记得一定要来找我啊！]
-Start -->1727291147077754[<b>Speaker 👉 Musashi:</b>
-\n老板，你来啦！
-今天想来点什么？]
-Start -->1727291438940284[<b>Speaker 👉 Musashi:</b>
-\n有事随时来找我……]
-Start -->1727291569674366[<b>Speaker 👉 Musashi:</b>
-\n呀！你真贴心……
-这么好的东西，我真的可以收下吗？]
-Start -->1727291569674368[<b>Speaker 👉 Musashi:</b>
-\n谢谢你！
-我很喜欢你送我的东西……]
-Start -->1727291569675394[<b>Speaker 👉 Musashi:</b>
-\n谢谢你……
-我们之间不用这么客气的。]
-Start -->1727291569675396[<b>Speaker 👉 Musashi:</b>
-\n虽然你能送礼物给我，我很感激……
-但是收到这个我也很困扰呀！]
-Start -->1727291569675398[<b>Speaker 👉 Musashi:</b>
-\n你是在故意羞辱我吗？]
-Start -->1727291569675400[<b>Speaker 👉 player:</b>
-\n感觉和&lbrace;npc.4203&rbrace;的关系更加密切了……
-接下来好好相处吧！]
-Start -->1727291569676426[<b>Speaker 👉 player:</b>
-\n做了多余的事情……
-感觉和&lbrace;npc.4203&rbrace;的关系疏远了！]
-Start -->1727291716105364[<b>Speaker 👉 Musashi:</b>
-\n你应该见过獭里昂老大了吧？
-虽然长得凶神恶煞，小孩子们却都很喜欢他呢。
-不知道我老了之后会不会变成讨小孩子喜欢的大叔呢……]
-Start -->1753033796998940[<b>Speaker 👉 Musashi:</b>
-\n今天小镇很热闹吧？毕竟鲤鱼节可是青岚一年一度的重大节日！
-传说中鲤鱼只要越过龙门经过考验，就可以升格为龙。
-这真是非常吉利的象征啊！]
-Start -->1753035128592157[<b>Speaker 👉 Musashi:</b>
-\n别忘了去找&lbrace;npc.4206&rbrace;报名参加鲤鱼节活动……
-玩得开心，&lbrace;playername&rbrace;。]
-Start -->1756938432158782[<b>Speaker 👉 Musashi:</b>
-\n不是所有人都有机会摆脱过去开启新生活的
-从某种程度上来说，我们两个人其实很像呢。\n要不是青岚能接纳我们
-或许我们现在还在哪个角落里流浪
-别误会，我的意思是，你很幸运。]
-Start -->1756941066785862[<b>Speaker 👉 Musashi:</b>
-\n你有没有觉得织田镇长并不像表面看起来那么简单？
-当然，我只是八卦一下。
-并没有什么恶意……\n毕竟一个人不可能完美无缺，如果她真的看起来完美无缺
-一定是为了隐藏什么秘密。]
-Start -->1756941191416905[<b>Speaker 👉 Musashi:</b>
-\n告诉你个秘密，其实我在青岚的生意都是友情价
-完全不赚钱的……
-最多只是持平。\n毕竟大家这么信任我，我怎么好意思赚大家的钱呢
-当然，我有别的收入来源。
-不必为我的生活担忧。]
-Start -->1756949268805708[<b>Speaker 👉 Musashi:</b>
-\n早上好！
-你也应该差不多习惯青岚的生活了吧。
-这里虽然比不上四国和九州的热闹繁华……\n但是这里有着最难得的悠闲和自在
-不用考虑尔虞我诈和勾心斗角
-也不用担心交不起下个月的房租。]
-Start -->1756950644137039[<b>Speaker 👉 Musashi:</b>
-\n我在京都生活过一段时间
-那里的风土人情给我留下了很深的印象。
-不过让我印象最深的还是传统风情的下午茶歇。\n即便是现在，我也经常托京都的朋友给我带当地的和菓子。
-每每吃到这些和菓子，都好像回到了过去在京都的时光。]
-Start -->1757013227238482[<b>Speaker 👉 Musashi:</b>
-\n美酒、赌博这两样东西，很适合用来消磨时光吧？
-尤其是寂寞的漫漫长夜……
-不过，我还是劝你不要太过沉迷于享乐比较好。\n我亲眼见过深陷其中的家伙
-那两样东西可都是深渊一般的存在。
-你要是觉得自己可以抵挡诱惑可就大错特错了。]
-Start -->1757013464181844[<b>Speaker 👉 Musashi:</b>
-\n又是让人讨厌的晴天……
-我是真的讨厌暴露在阳光下
-这会让我感觉被什么锐利目光灼烧着。]
-Start -->1757013626560600[<b>Speaker 👉 Musashi:</b>
-\n我还挺享受在雨中独自漫步的感觉
-这种氛围感真是太棒了
-好像我一下子就变成了遗世而独立的侠客]
-Start -->1757738132271703[<b>Speaker 👉 Musashi:</b>
-\n能喝到酒吞小姐酿的酒
-可是非常幸运的一件事……
-听上去很夸张对吧？可是这是事实哦！\n我敢打赌，就算是稻荷神大人来到这里喝上一杯
-也会跟我说出同样的话。]
-Start -->1758070072263213[<b>Speaker 👉 Musashi:</b>
-\n别赖在我这里了……
-干嘛不去喝两杯呢？]
-Start -->1758070108711471[<b>Speaker 👉 Musashi:</b>
-\n岛外的朋友也对酒吞小姐的佳作很感兴趣……
-我一直在努力促成双方的合作
-可惜酒吞小姐一直没有这方面的兴趣。]
-Start -->1758089051778653[<b>Speaker 👉 Musashi:</b>
-\n哦呀？你也是想来这里碰碰运气的吗？
-不瞒你说，这里似乎有种魔力
-让人不愿离开呢……\n小心点，别被贪念吞噬殆尽了。]
-Start -->1758090103277151[<b>Speaker 👉 Musashi:</b>
-\n你不觉得这样规模的赌场出现在青岚很奇怪吗？
-你有没有想过……
-或许赌场真正的主人身份很特别？]
-Start -->1758178510372433[<b>Speaker 👉 Musashi:</b>
-\n我曾参加过很多地方的夏日祭
-每个地区都有自己的特色和气氛
-不过，我还是最喜欢青岚的夏日祭。]
-Start -->1758178871818835[<b>Speaker 👉 Musashi:</b>
-\n祝你拥有一个美好的夜晚。]
+Start -->1730217004590177[<b>Speaker 👉 Musashi:</b>
+\nRegrettably, I must take my leave now, but if you ever have anything you need to sell, come find me!]
+Start -->1730217216536675[<b>Speaker 👉 Musashi:</b>
+\nI overheard Nyotengu call you 'Little Fox'. It suits you, but I can come up with something better. Just give me some time!]
+Start -->1730233993071725[<b>Speaker 👉 Musashi:</b>
+\nWhat a wonderful present, &lbrace;c.playername&rbrace;! You're my new favorite.]
+Start -->1730233993072751[<b>Speaker 👉 Musashi:</b>
+\nAh you read mind. I've been after something like this for ages.]
+Start -->1730233993072753[<b>Speaker 👉 Musashi:</b>
+\nWhat a nice gesture. Thank you.]
+Start -->1730233993072755[<b>Speaker 👉 Musashi:</b>
+\nI love things and... well, this is a thing.]
+Start -->1730233993073781[<b>Speaker 👉 Musashi:</b>
+\nI love getting gifts but maybe try a little harder next time. This doesn't suit me at all.]
+Start -->1753123160870296[<b>Speaker 👉 Musashi:</b>
+\nHappy Carp festival, &lbrace;c.playername&rbrace;. I just love festivals, they make eveyone reckless with their money.]
+Start -->1753123460401561[<b>Speaker 👉 Musashi:</b>
+\nThe carp flags are making me hungry... I'm going to find the fish stand.]
+Start -->1775162815304726[<b>Speaker 👉 Musashi:</b>
+\nCome have a drink later. Days end best with a warm cup and good company. Hopefully Heph won't be too loud.]
+Start -->1775163103296538[<b>Speaker 👉 Musashi:</b>
+\nBlack market traders skulk around the forest at night. They're such dramatic little imps... I love it.]
+Start -->1775163107154971[<b>Speaker 👉 Musashi:</b>
+\nYes, the store is open on weekends. No rest for the wicked I'm afraid.]
+Start -->1775164372485149[<b>Speaker 👉 Musashi:</b>
+\nHave you come to buy something... or just to see me?]
+Start -->1775164416326688[<b>Speaker 👉 Musashi:</b>
+\nI never miss tea time. Can you think of anything more calming and elegant than a tea ceremony? It's also where all the secrets come out.]
+Start -->1775164420689953[<b>Speaker 👉 Musashi:</b>
+\nI love a tavern, so many dark corners for private rendezvous. Hope you're making good use of them.]
+Start -->1775164711722024[<b>Speaker 👉 Musashi:</b>
+\nIf the sun is up, I'm open for business. Never a bad time for a deal.]
+Start -->1775164732277801[<b>Speaker 👉 Musashi:</b>
+\nA fellow admirer of the stars I see. I feel safe knowing they are watching me...]
+Start -->1775164532912166[<b>Speaker 👉 Musashi:</b>
+\nDrip drip drip... Rain makes my mind go drip drip drip... the Tengu woman doesn't like the drip drip. Maybe you should check on her.]
+Start -->1775166031622193[<b>Speaker 👉 Musashi:</b>
+\nYou know me so well! This is a great birthday present, thank you.]
+Start -->1775166031623219[<b>Speaker 👉 Musashi:</b>
+\nWow great. I'll just put this with the birthday gifts. Thanks.]
+Start -->1775166031624245[<b>Speaker 👉 Musashi:</b>
+\nHmm, not quite my taste but you gave it your best effort. That counts for something.]
+Start -->1775166031624247[<b>Speaker 👉 Musashi:</b>
+\nEw, this must be a prank gift, right? No way you actually thought I'd like this... maybe I don't know you as well as I thought.]
+Start -->1775166031625275[<b>Speaker 👉 Musashi:</b>
+\nAh, you just made my birthday, &lbrace;c.playername&rbrace;! Keep this up and I might just fall for you.]
+Start -->1775166218007617[<b>Speaker 👉 Musashi:</b>
+\nIt's a little crowded here for my taste. I'll catch you around &lbrace;c.playername&rbrace;!]
+Start -->1775166226185284[<b>Speaker 👉 Musashi:</b>
+\nI know you feel like your life is duller when I am not around, but I'm sure you have tasks that need your attention.]
+Start -->1775166218007618[<b>Speaker 👉 Musashi:</b>
+\nAlthough I don't want to leave, there are tasks I must see to. Being around you I feel like I can finally be myself, it's nice!]
+Start -->1775166486298698[<b>Speaker 👉 Musashi:</b>
+\n-]
+Start -->1775166486299724[<b>Speaker 👉 Musashi:</b>
+\n-]
+Start -->1775166589369426[<b>Speaker 👉 Musashi:</b>
+\nSometimes, on warm Summer days when the shop is quiet, I'll fall asleep in a sunbeam for hours. Don't tell anyone.]
+Start -->1775166628730970[<b>Speaker 👉 Musashi:</b>
+\nDo you ever see a leaf on the wind and just get the urge to chase it down? No?... Yeah me neither.]
+Start -->1775166633910364[<b>Speaker 👉 Musashi:</b>
+\nThe holidays are fast approaching. I can help you pick out a gift for that someone special. Unless I'm your secret paramour, in which case, I like shiny things... hint hint.]
+Start -->1775166811015263[<b>Speaker 👉 Musashi:</b>
+\nI love a wagashi when I'm feeling a bit naughty. No shame in giving yourself a little treat.]
+Start -->1775166820796512[<b>Speaker 👉 Musashi:</b>
+\nI simply despise stinky foods. Must Heph's lunch always be an assault on the nostrils?]
+Start -->1775172156249857[<b>Speaker 👉 Musashi:</b>
+\nMerry Christmas! Never too late to get a last-minute gift, I won't tell anyone.]
+Start -->1775172164922114[<b>Speaker 👉 Musashi:</b>
+\nHave a lovely holiday. I'm looking forward to curling up by the fire.]
+Start -->1775172166556419[<b>Speaker 👉 Musashi:</b>
+\n-]
+Start -->1775172173178628[<b>Speaker 👉 Musashi:</b>
+\n-]
+Start -->1775176516281286[<b>Speaker 👉 Musashi:</b>
+\nHas Nine Tails asked you to do something gastly? Wait, don't tell me. You know what they say about curiosity...]
+Start -->1775176516281288[<b>Speaker 👉 Musashi:</b>
+\nI keep seeing phantom Tanuki around every corner. This war is going to be bad for business.]
+Start -->1775176516282314[<b>Speaker 👉 Musashi:</b>
+\nOne day I'll be rich and lazy. I'll spend my weekends laying around lavish home... You'll be invited I guess.]
+Start -->1775176919658446[<b>Speaker 👉 Musashi:</b>
+\n-]
+Start -->1775176919658448[<b>Speaker 👉 Musashi:</b>
+\n-]
+Start -->1775176919659474[<b>Speaker 👉 Musashi:</b>
+\n-]
+Start -->1775176955845588[<b>Speaker 👉 Musashi:</b>
+\n-]
+Start -->1775176955845590[<b>Speaker 👉 Musashi:</b>
+\n-]
+Start -->1775176955846616[<b>Speaker 👉 Musashi:</b>
+\n-]
+Start -->1775179389253594[<b>Speaker 👉 Musashi:</b>
+\nYou and Nyotengu are getting quite chummy... I'm glad she has a friend with all the Tanuki business going on.]
+Start -->1775179411370972[<b>Speaker 👉 Musashi:</b>
+\n-]
+Start -->1775179522039776[<b>Speaker 👉 Musashi:</b>
+\nShuten is rather cute don't you think? She reminds me of the lovely barmaids from my home town. But then her kids start yelling and I must retreat.]
+Start -->1775179522039778[<b>Speaker 👉 Musashi:</b>
+\n-]
+Start -->1775179604273124[<b>Speaker 👉 Musashi:</b>
+\nThis cold weather makes me crave a warm bath but then I see the water and... no thank you.]
+Start -->1775179604274150[<b>Speaker 👉 Musashi:</b>
+\n-]
+Start -->1775193953135699[<b>Speaker 👉 Musashi:</b>
+\nBuy something or scram.]
 
 ```

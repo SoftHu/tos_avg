@@ -1,23 +1,40 @@
 ```mermaid
 graph LR
-Start -->1773857195941183[<b>Speaker 👉 :</b>
-\n&lbrace;playername&rbrace; and Kon‘s farmhouse]
-Start -->1773857442925891[<b>Speaker 👉 :</b>
-\nThis town is the heart of Seikyu, combining Western and traditional Japanese architectural styles. It features various unique shops. \nThe town square and central shrine serve as the main stage for festival events.]
-Start -->1773857482260806[<b>Speaker 👉 :</b>
-\nSurrounded by a bamboo forest, this sacred tree exudes a mysterious and solemn aura. \nThe tree is believed to have the power to repel curses, attracting cursed yokai who seek refuge there.]
-Start -->1773857565319497[<b>Speaker 👉 :</b>
-\nOutside the cave is a camp of mischievous yokai who vigilantly guard against intruders. \nDue to its dark and damp environment, some seasonal forage also grows here.]
-Start -->1773857617143116[<b>Speaker 👉 :</b>
-\nStanding on Seikyu’s coast, the lighthouse illuminates the night for returning ships and lost yokai.\nIt is a revered symbol among the fox clan, seen as a guiding light home. Legends say a secret tied to human myths lies within the lighthouse.]
-Start -->1773857702381903[<b>Speaker 👉 :</b>
-\nPearl Lake connects human and Yokai dream legends, with rumors of an Inari shrine relic hidden at the lake's bottom.\nbelieved to be the resting place of an ancient human dwelling.]
-Start -->1773857754189138[<b>Speaker 👉 :</b>
-\nAs a sacred site for the fox clan, it holds an ancient scroll left by the deity Inari. ]
-Start -->1773857821073749[<b>Speaker 👉 :</b>
-\nLocated near a creek, this area features one of Seikyu’s oldest trees.
-In autumn, the surrounding maple trees turn into a vibrant display of red, orange, and gold leaves, resembling dancing flames. \nThe tree was said to have grown after the death of the oni woman Momiji, who held a demon king's power.\nLegend has it that her spirit can still be heard playing music near the tree each autumn.]
-Start -->1773857873172824[<b>Speaker 👉 :</b>
-\nThe shrine serves as the main venue for various festivals and events in the small town, making it a central hub of cultural and spiritual activities. Leon, the priest of the Inari Shrine, oversees the sacred grounds where visitors can offer collectibles to receive blessings from the deity.]
+Start -->1774189677612389[<b>Speaker 👉 :</b>
+\nFarmHouse
+
+The FarmHouse left behind by the fox clan.]
+Start -->1774189691757927[<b>Speaker 👉 :</b>
+\nSeikyu Town
+
+This town is Seikyu's heart, built by yokai imitating human settlements, where they coexist peacefully.]
+Start -->1774189705340265[<b>Speaker 👉 :</b>
+\nTree of the Mountain God ↑
+
+Surrounded by a bamboo forest, mysterious and solemn, providing shelter to yokai afflicted by curses.]
+Start -->1774189719104875[<b>Speaker 👉 :</b>
+\nOni Darkness
+
+Rare mushrooms grow in Oni Darkness, but few adventurers venture in due to mischievous yokai.]
+Start -->1774189780885869[<b>Speaker 👉 :</b>
+\nIsland of the Lighthouse
+
+The fox clan's sacred land, where the lighthouse guides lost yokai and ships, hides a secret about a human legend within the tower.]
+Start -->1774189828753775[<b>Speaker 👉 :</b>
+\nPearl Lake
+
+Named for its abundant pearls, is said to hide the remains of the Inari deity beneath its tranquil waters.]
+Start -->1774189835710833[<b>Speaker 👉 :</b>
+\nFox Ruins
+
+Rich in minerals, but due to their dangers, no one has reached the depths yet. The ruins seem to be linked to the fox clan.]
+Start -->1774190276512115[<b>Speaker 👉 :</b>
+\nMomiji-gari
+
+The tree grew after the death of the oni woman Momiji, who held a demon king's power. Her spirit is said to play music near the tree every autumn.]
+Start -->1774190287572341[<b>Speaker 👉 :</b>
+\nInari Temple
+
+Legend says the Inari deity symbolizes wealth and treasures, and the townsfolk believe it has ensured Seikyu's safety for years.]
 
 ```

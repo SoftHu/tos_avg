@@ -2,7 +2,7 @@
 graph LR
 Start -->1757655458919025[<b>Speaker 👉 Kinntarou:</b>
 \nThe first dish is spicy seafood pasta~ I personally think the spiciness is just right, 
-but I'm worried that the guests might not find it impactful enough...\nWhat do you think, &lbrace;playername&rbrace;?]
+but I'm worried that the guests might not find it impactful enough...\nWhat do you think, &lbrace;c.playername&rbrace;?]
 1757655458919025 -->|This is too spicy! &#40;breathing fire&#41;|1757656448902775[<b>Speaker 👉 Kinntarou:</b>
 \nReally? Is it that intense? But indeed, not everyone can handle spiciness well. 
 Maybe I should reduce the amount of chili.]
@@ -39,12 +39,12 @@ with delicious food...]
 It was so boring, I fell asleep here.]
 1758891824337530 -->|Slacking off...|1758891824337534[<b>Speaker 👉 Kinntarou:</b>
 \nIt's because I want to help Mom in other ways!
-Mom wants to hire a chef, when I can do it myself!\n&lbrace;playername&rbrace;, I need to prove I'm a good cook.
+Mom wants to hire a chef, when I can do it myself!\n&lbrace;c.playername&rbrace;, I need to prove I'm a good cook.
 Can you help me gather some ingredients?
 I need 2 &lbrace;item.42002&rbrace;s and 3 &lbrace;item.2602&rbrace;es, please.]
 1758891824337530 -->|This is not good!|1758891824337534[<b>Speaker 👉 Kinntarou:</b>
 \nIt's because I want to help Mom in other ways!
-Mom wants to hire a chef, when I can do it myself!\n&lbrace;playername&rbrace;, I need to prove I'm a good cook.
+Mom wants to hire a chef, when I can do it myself!\n&lbrace;c.playername&rbrace;, I need to prove I'm a good cook.
 Can you help me gather some ingredients?
 I need 2 &lbrace;item.42002&rbrace;s and 3 &lbrace;item.2602&rbrace;es, please.]
 1758891824337534 -->|Alright...|1758891824338562[End]
@@ -54,10 +54,10 @@ I need 2 &lbrace;item.42002&rbrace;s and 3 &lbrace;item.2602&rbrace;es, please.]
 It was so boring, I fell asleep here.]
 Start -->1757657625870971[<b>Speaker 👉 Kinntarou:</b>
 \nHeaven's Kitchen is on!
-You know this show, right, &lbrace;playername&rbrace;?
+You know this show, right, &lbrace;c.playername&rbrace;?
 It's very popular in the culinary world!]
 1757657625870971 -->|Never heard of it.|1757657831917185[<b>Speaker 👉 Kinntarou:</b>
-\nWhat? &lbrace;playername&rbrace;, you're missing out!
+\nWhat? &lbrace;c.playername&rbrace;, you're missing out!
 It's so much fun to watch!]
 1757657625870971 -->|I've heard of Heaven's Kitchen.|1757657837139586[<b>Speaker 👉 Kinntarou:</b>
 \nI know, right?\nChef Lucifer is my hero!

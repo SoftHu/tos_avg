@@ -1,105 +1,108 @@
 ```mermaid
 graph LR
-Start -->1727291147077752[<b>Speaker 👉 Yohji:</b>
-\n你好，
-欢迎来到青岚小镇，
-我是&lbrace;npc.4202&rbrace;。]
-Start -->1727291569674366[<b>Speaker 👉 Yohji:</b>
-\n真是难得的心意，
-非常感谢。
-我一直都很喜欢这些。]
-Start -->1727291569674368[<b>Speaker 👉 Yohji:</b>
-\n这真是件精美的礼物，
-正是我所中意的，
-我会好好珍藏。]
-Start -->1727291569675394[<b>Speaker 👉 Yohji:</b>
-\n谢谢你的礼物，
-你的心意我很感激。]
-Start -->1727291569675396[<b>Speaker 👉 Yohji:</b>
-\n谢谢你的心意，
-但这并非我所偏爱的，
-或许我可以将它送给更需要的人。]
-Start -->1727291569675398[<b>Speaker 👉 Yohji:</b>
-\n请原谅，
-这不适合我，
-希望你能理解我的感受。]
-Start -->1727291569675400[<b>Speaker 👉 player:</b>
-\n感觉和&lbrace;npc.4202&rbrace;的关系更加密切了……
-接下来好好相处吧！]
-Start -->1727291569676426[<b>Speaker 👉 player:</b>
-\n做了多余的事情……
-感觉和&lbrace;npc.4202&rbrace;的关系疏远了！]
-Start -->1727291716105364[<b>Speaker 👉 Yohji:</b>
-\n很高兴见到你。
-最近在探索小镇时有什么有趣的发现吗？]
-Start -->1753033796998940[<b>Speaker 👉 Yohji:</b>
-\n今天过得愉快吗？
-鲤鱼节的热闹景象总是让人流连忘返。]
-Start -->1753035128592157[<b>Speaker 👉 Yohji:</b>
-\n感谢你今天的到来，
-玩得开心，&lbrace;playername&rbrace;。]
-Start -->1756938432158782[<b>Speaker 👉 Yohji:</b>
-\n你好，我是&lbrace;npc.4202&rbrace;，
-青岚的外交官。
-请问有什么我能帮忙的吗？]
-Start -->1756941066785862[<b>Speaker 👉 Yohji:</b>
-\n见到你真高兴，
-有什么新发现吗？]
-Start -->1756941191416905[<b>Speaker 👉 Yohji:</b>
-\n见到你真高兴，
-希望你今天过得愉快。\n青岚的稻荷神社是个充满故事的地方，
-我常常在那里冥想。]
-Start -->1756949268805708[<b>Speaker 👉 Yohji:</b>
-\n早上好，希望你在青岚过得愉快。\n我通常在早上练剑，
-感觉能更好地集中精力。]
-Start -->1756950644137039[<b>Speaker 👉 Yohji:</b>
-\n下午好，
-今天的一切都还顺利吗？\n青岚的下午时光很美，
-你有没有发现这个小镇的独特之处？]
-Start -->1757013227238482[<b>Speaker 👉 Yohji:</b>
-\n晚上好，
-青岚的夜景很美，
-出去走走吗？\n夜深人静时，
-我喜欢读《蓉华物语》，
-那本书充满了温暖的故事。]
-Start -->1757013464181844[<b>Speaker 👉 Yohji:</b>
-\n早上好，
-晴天总是让人心情愉快。\n晴天的青岚真是美丽，
-阳光下的小镇显得格外宁静。]
-Start -->1757013626560600[<b>Speaker 👉 Yohji:</b>
-\n今天天气有点阴沉，
-希望你没被淋湿。\n雨天总是让人想起一些旧事，
-你也有这样的感觉吗？]
-Start -->1757738132271703[<b>Speaker 👉 Yohji:</b>
-\n见到你真好，
-酒吞刚调了一种新酒。\n每次来酒吞的酒馆，
-总能听到很多有趣的故事，
-你觉得呢？]
-Start -->1758070072263213[<b>Speaker 👉 Yohji:</b>
-\n听说你最近在探索青岚的遗迹，
-有什么新的发现吗？]
-Start -->1758070108711471[<b>Speaker 👉 Yohji:</b>
-\n有时候，喝上一杯好酒，
-能让人忘却一天的疲惫。
-你也是这样觉得吗？]
-Start -->1758178510372433[<b>Speaker 👉 Yohji:</b>
-\n我曾参加过很多地方的夏日祭
-每个地区都有自己的特色和气氛
-不过，我还是最喜欢青岚的夏日祭。]
-Start -->1758178871818835[<b>Speaker 👉 Yohji:</b>
-\n祝你拥有一个美好的夜晚。]
-Start -->1758805238033975[<b>Speaker 👉 Yohji:</b>
-\n我最近在研究一些古老的文献，
-或许你也会感兴趣。]
-Start -->1758805219585590[<b>Speaker 👉 Yohji:</b>
-\n每次看到青蛙，
-我都会想起&lbrace;npc.4204&rbrace;的恶作剧，
-真是让我哭笑不得。]
-Start -->1758882749960786[<b>Speaker 👉 Yohji:</b>
-\n再见，
-祝你在青岚度过愉快的一天。]
-Start -->1758882753961555[<b>Speaker 👉 Yohji:</b>
-\n再见，
-希望很快能再见到你。]
+Start -->1775339980319086[<b>Speaker 👉 Yohji:</b>
+\nUntill tomorrow, &lbrace;c.playername&rbrace;.]
+Start -->1775339980319090[<b>Speaker 👉 Yohji:</b>
+\nGoodbye, &lbrace;c.playername&rbrace; and let me know if you find anything in the fox ruins!]
+Start -->1775339980319094[<b>Speaker 👉 Yohji:</b>
+\nStupendous! I'm quite picky about these things but you've got me pegged, &lbrace;c.playername&rbrace;. Thank you!]
+Start -->1775339980319098[<b>Speaker 👉 Yohji:</b>
+\nThis is wonderful, &lbrace;c.playername&rbrace;. Thank you!]
+Start -->1775339980319102[<b>Speaker 👉 Yohji:</b>
+\nThank you very much, &lbrace;c.playername&rbrace;.Very thoughtful.]
+Start -->1775339980319106[<b>Speaker 👉 Yohji:</b>
+\nAh, it's not my cup of tea, but maybe I'll pass it on to Liliana.]
+Start -->1775339980319110[<b>Speaker 👉 Yohji:</b>
+\nWas this gift meant for me? No matter, I'm sure I'll find &lt;i&gt;some&lt;/i&gt; use for it. Perhaps as a doorstop.]
+Start -->1775339980319114[<b>Speaker 👉 Yohji:</b>
+\nThe carp festival is shaping up well this year. Please do enjoy yourself!]
+Start -->1775339980319118[<b>Speaker 👉 Yohji:</b>
+\nSeeing everyone so cheerful fills me with pride. Seikyu really is a special place.]
+Start -->1775339980319122[<b>Speaker 👉 Yohji:</b>
+\nEmersion expidites understanding. Thus, I try to spend as much time at the ruins as possible. They're connected to the humans, I just know it.]
+Start -->1775339980319126[<b>Speaker 👉 Yohji:</b>
+\nI take Mondays off to explore the ruins. But sometimes I slip away during the week as well. Don't tell Mayor Oda!]
+Start -->1775339980319130[<b>Speaker 👉 Yohji:</b>
+\nNo time to confabulate, &lbrace;c.playername&rbrace;. The casino is in need of my attention.]
+Start -->1775339980319134[<b>Speaker 👉 Yohji:</b>
+\nKababa runs a tight ship. Look at all the commerce she's brought to seikyu, and her funding has been invaluble to the ruin exploration.]
+Start -->1775339980319138[<b>Speaker 👉 Yohji:</b>
+\nFascinating, simply fascinating... Oh, &lbrace;c.playername&rbrace; I didn't see you. Um, give me a moment, I'm deep in thought.]
+Start -->1775339980319142[<b>Speaker 👉 Yohji:</b>
+\nLiliana and I first arrived in Seikyu at this very dock. Now, I'm responsible for its citizens. I will serve them to the best of my ability, you have my word on that.]
+Start -->1775339980319146[<b>Speaker 👉 Yohji:</b>
+\nNever enough hours in the day.]
+Start -->1775339980319150[<b>Speaker 👉 Yohji:</b>
+\nI've always struggled with insomnia... maybe it's all the coffee.]
+Start -->1775339980319154[<b>Speaker 👉 Yohji:</b>
+\nI draw humans to relax on rainy days like this. Liliana makes fun of them but I think they're quite good actually.]
+Start -->1775339980319158[<b>Speaker 👉 Yohji:</b>
+\nAh, a magnificent addition to my birthday festivities. Thank you.]
+Start -->1775339980319162[<b>Speaker 👉 Yohji:</b>
+\nThank you, &lbrace;c.playername&rbrace;. Now please enjoy the celebration.]
+Start -->1775339980319166[<b>Speaker 👉 Yohji:</b>
+\nI truly hate to be rude, but this gift doesn't quite--&lt;i&gt;ahem&lt;/i&gt;--align with my values.]
+Start -->1775339980319170[<b>Speaker 👉 Yohji:</b>
+\nYohji must have told you it's my birthday at the last minute for you to choose this gift.]
+Start -->1775339980319174[<b>Speaker 👉 Yohji:</b>
+\nLiliana says I'm difficult to buy for but this is truly magnificent! Thank you, &lbrace;c.playername&rbrace;. This will surely make her jealous.]
+Start -->1775339980319178[<b>Speaker 👉 Yohji:</b>
+\nYou and Kon are always a delight. Feel free to stop by anytime.]
+Start -->1775339980319182[<b>Speaker 👉 Yohji:</b>
+\n-]
+Start -->1775339980319186[<b>Speaker 👉 Yohji:</b>
+\n-]
+Start -->1775339980319190[<b>Speaker 👉 Yohji:</b>
+\n-]
+Start -->1775339980319194[<b>Speaker 👉 Yohji:</b>
+\n-]
+Start -->1775339980319198[<b>Speaker 👉 Yohji:</b>
+\nDo I like putting ice cubes in my coffee? No. But iced coffee is inevitable in this Summer heat.]
+Start -->1775339980319202[<b>Speaker 👉 Yohji:</b>
+\nLiliana loves watching the leaves change but I can't sit still long enough. Perhaps you can accompany her?]
+Start -->1775339980319206[<b>Speaker 👉 Yohji:</b>
+\nCold weather makes me crave a warm cup of coffee. Should we have one right now?]
+Start -->1775339980319210[<b>Speaker 👉 Yohji:</b>
+\nI always love a good story! Shuten often tells me of old tales she heard from travelers and they always intrigue me!]
+Start -->1775339980319214[<b>Speaker 👉 Yohji:</b>
+\nI am not a huge fan of failing, but it is simply unforgivable to give up!]
+Start -->1775339980319218[<b>Speaker 👉 Yohji:</b>
+\nMerry Christmas, &lbrace;c.playername&rbrace;! Seikyu is beautiful with all the festive decorations, wouldn't you say?]
+Start -->1775339980319222[<b>Speaker 👉 Yohji:</b>
+\nHave a lovely Christmas! I'm going to get a few hours of work in while I still can!]
+Start -->1775339980319226[<b>Speaker 👉 Yohji:</b>
+\n-]
+Start -->1775339980319230[<b>Speaker 👉 Yohji:</b>
+\n-]
+Start -->1775339980319234[<b>Speaker 👉 Yohji:</b>
+\nLeon and Liliana think I spend too much time at the ruins. Isn't that preposterous? I'm glad to have a kindred spirit in you, &lbrace;c.playername&rbrace;.]
+Start -->1775339980319238[<b>Speaker 👉 Yohji:</b>
+\nI've seen some of your handiwork around the ruins. Good show.]
+Start -->1775339980319242[<b>Speaker 👉 Yohji:</b>
+\nThe Casino opening was a huge success. I think everyone is starting to come around.]
+Start -->1775339980319246[<b>Speaker 👉 Yohji:</b>
+\n-]
+Start -->1775339980319250[<b>Speaker 👉 Yohji:</b>
+\n-]
+Start -->1775339980319254[<b>Speaker 👉 Yohji:</b>
+\n-]
+Start -->1775339980319258[<b>Speaker 👉 Yohji:</b>
+\n-]
+Start -->1775339980319262[<b>Speaker 👉 Yohji:</b>
+\n-]
+Start -->1775339980319266[<b>Speaker 👉 Yohji:</b>
+\n-]
+Start -->1775339980319270[<b>Speaker 👉 Yohji:</b>
+\nYui asked if my head gets sweaty under my hat... What a rediculous question!]
+Start -->1775339980319274[<b>Speaker 👉 Yohji:</b>
+\n-]
+Start -->1775339980319278[<b>Speaker 👉 Yohji:</b>
+\nHumans thank Inari for their autumnal harvest. It is a auspicous season isn't it, &lbrace;c.playername&rbrace;?]
+Start -->1775339980319282[<b>Speaker 👉 Yohji:</b>
+\n-]
+Start -->1775339980319286[<b>Speaker 👉 Yohji:</b>
+\nKababa is reporting record profits this Winter. The cold weather keeps yokai playing. I bet she'd give you a free game.]
+Start -->1775339980319290[<b>Speaker 👉 Yohji:</b>
+\n-]
 
 ```

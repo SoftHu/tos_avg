@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1741808377206227[<b>Speaker 👉 Oda:</b>
-\nToday, I want to introduce the newcomers to Seikyu.\nWelcome to our new farm owner &lbrace;playername&rbrace; 
+\nToday, I want to introduce the newcomers to Seikyu.\nWelcome to our new farm owner &lbrace;c.playername&rbrace; 
 and his good friend Kon, who are new here in Seikyu.]
 1741808377206227 -->1741840091085268[<b>Speaker 👉 Nyotengu:</b>
 \nA handsome young man.]

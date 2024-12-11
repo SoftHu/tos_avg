@@ -12,7 +12,7 @@ I will fine you twice the amount of all previous unpaid fees.
 I hope you learn your lesson, and don't do this again.]
 1766332311608065 -->|Never mind.|1766332464329479[<b>Speaker 👉 Mika:</b>
 \nCome again!]
-1766332311608065 -->|*Enjoy the hot spring*|1767448601822069[ ]
+1766332311608065 -->|Enjoy the hot spring.|1767448601822069[ ]
 1767448601822069 -->1766336570455822[<b>Speaker 👉 Mika:</b>
 \nThank you for your patronage! 
 Please change in the dressing room before proceeding to the hot spring. 

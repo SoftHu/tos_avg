@@ -1,7 +1,7 @@
 ```mermaid
 graph LR
 Start -->1766663799157883[<b>Speaker 👉 Anna:</b>
-\nHey, &lbrace;playername&rbrace;. I just... wanted to see you.\nI've been thinking about all the times you've helped me...\n...and hoping maybe I could help you somehow.\nDo you know you have a Third Eye?]
+\nHey, &lbrace;c.playername&rbrace;. I just... wanted to see you.\nI've been thinking about all the times you've helped me...\n...and hoping maybe I could help you somehow.\nDo you know you have a Third Eye?]
 1766663799157883 -->|Um...|1766663844412545[<b>Speaker 👉 Anna:</b>
 \nAll Yokai have a third eye...\nThat detects creatures from the spirit realm.\nI've always been able to see the spirits...\nThat's why I'm always so distracted.\nMost Yokai never learn to open their third eye,
 But I think you could do it.\nAnd maybe it will help with your adventures,
@@ -22,11 +22,11 @@ Start -->1766665141690508[<b>Speaker 👉 Anna:</b>
 1766665226513556 -->1766665256272021[End]
 Start -->1766665269781655[<b>Speaker 👉 Anna:</b>
 \nImagine a little a little orange monster.\nHe has a sphere body, one eye, and a tail with a bulb...\nHold that image....\nFocus...]
-1766665269781655 -->|...|1766665342180508[End]
+1766665269781655 -->|…|1766665342180508[End]
 Start -->1766847413541743[<b>Speaker 👉 Anna:</b>
 \nNow open your eyes.]
 1766847413541743 -->|Whoa, I see it! Is it... real?|1766665374808225[<b>Speaker 👉 Anna:</b>
-\nYes! You did it! Your third eye is open!\n&lbrace;playername&rbrace; meet Lightbulb.\nThis is my– ahem– best friend.\nAnd yes, he's real. He's from the spirit realm.]
+\nYes! You did it! Your third eye is open!\n&lbrace;c.playername&rbrace; meet Lightbulb.\nThis is my– ahem– best friend.\nAnd yes, he's real. He's from the spirit realm.]
 1766665374808225 -->1766665430230178[<b>Speaker 👉 Anna:</b>
 \nHeloo!]
 1766665430230178 -->1766665455797411[<b>Speaker 👉 Anna:</b>

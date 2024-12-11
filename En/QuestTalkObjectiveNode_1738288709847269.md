@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1738289650856011[<b>Speaker 👉 Yoni:</b>
-\nWow! &lbrace;playername&rbrace;, have you collected the &lbrace;item.2517&rbrace; already?
+\nWow! &lbrace;c.playername&rbrace;, have you collected the &lbrace;item.2517&rbrace; already?
 The path up the mountain must have been perilous!]
 1738289650856011 -->|Wait a bit longer.|1738289799830612[<b>Speaker 👉 Yoni:</b>
 \nNot finished yet, huh...?
@@ -31,7 +31,7 @@ I'll work hard to become a singer and spread joy with my music!]
 you're the first person to believe in me like this.]
 1738290662682717 -->1738290829012063[<b>Speaker 👉 Yoni:</b>
 \nI hope you're not my first and last audience in &lbrace;location.13&rbrace;.\nThank you,
-&lbrace;playername&rbrace;.]
+&lbrace;c.playername&rbrace;.]
 1738290829012063 -->|That's it!|1738290998103141[End]
 1738290829012063 -->|Good luck!|1738290998103141[End]
 1738290723810398 -->1738290662682717[<b>Speaker 👉 Yoni:</b>

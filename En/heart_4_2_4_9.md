@@ -11,10 +11,9 @@ The queen is you, Liliana.]
 1768792455003024 -->1768792464139153[<b>Speaker 👉 Leon:</b>
 \nIt's your best work. 
 You're finally painting for yourself.\nI'd like to hang it in the shrine permanently. 
-Congratulations.
-]
+Congratulations.]
 1768792464139153 -->|It's perfect!|1768792520710041[<b>Speaker 👉 Liliana:</b>
-\nHaha, shut up, &lbrace;playername&rbrace;.]
+\nHaha, shut up, &lbrace;c.playername&rbrace;.]
 1768792464139153 -->|Well done, Liliana.|1769070343010330[ ]
 1769070343010330 -->1768792549674906[End]
 1769070343010330 -->1768792549674906[End]

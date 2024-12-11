@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1754569657361049[<b>Speaker 👉 Shuten:</b>
-\nHey, &lbrace;playername&rbrace;!
+\nHey, &lbrace;c.playername&rbrace;!
 Wanna join me for a drink?]
 1754569657361049 -->|All right.|1754569704283809[End]
 1754569657361049 -->|Not today.|1754569700041376[<b>Speaker 👉 Shuten:</b>

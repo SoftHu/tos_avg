@@ -18,7 +18,7 @@ Until our good-for-nothing father gambled away the family fortune.\nWhat Pops lo
 1761704555641134 -->|Are you here to see Theo?|1761704661288245[<b>Speaker 👉 Iwasuke:</b>
 \nHow did that happen...]
 1761704649089332 -->|Don't literally gamble your life away.|1761705096379707[<b>Speaker 👉 Iwasuke:</b>
-\nHahaha, I can tell what you're thinking by the look on your face. \nYou must be thinking, what a pity,
+\nHahaha, I can tell what you're thinking by the look on your face.\nYou must be thinking, what a pity,
 this guy has such a hardworking brother,
 and all he can do is come up with get rich quick schemes like his old man.\nBut unlike my father, I don't do anything I'm not sure of.\nAs a fox, I'm sure you've heard of a secret book
 called The Gambler King.]

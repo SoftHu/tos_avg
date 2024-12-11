@@ -58,12 +58,12 @@ Both have their imperfections.]
 \nMaybe I'll ask Priest Leon about an exhibition…
 …but I can't look at them any longer. 
 I only see all the little flaws now.\nI need to go for a walk in the forest.
-Thank you, &lbrace;playername&rbrace;.]
+Thank you, &lbrace;c.playername&rbrace;.]
 1768789917893281 -->1768789958068898[End]
 1768789909116576 -->1768789917893281[<b>Speaker 👉 Liliana:</b>
 \nMaybe I'll ask Priest Leon about an exhibition…
 …but I can't look at them any longer. 
 I only see all the little flaws now.\nI need to go for a walk in the forest.
-Thank you, &lbrace;playername&rbrace;.]
+Thank you, &lbrace;c.playername&rbrace;.]
 
 ```

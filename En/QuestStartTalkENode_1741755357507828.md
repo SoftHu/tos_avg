@@ -1,30 +1,38 @@
 ```mermaid
 graph
 Start -->1741755494745335[<b>Speaker 👉 Oda:</b>
-\nHello! A new face!
-Those very rarely greet our shores.
-\nAre you &lbrace;playername&rbrace;, 
-the fox yokai we were foretold of?]
-1741755494745335 -->|Yes, that's me!|1772249115197577[<b>Speaker 👉 Oda:</b>
-\nYour ancestors are very talkative.
-They told us all about you and your sister's arrival.
-]
-1741755494745335 -->|Foretold of?|1772249154253962[<b>Speaker 👉 Oda:</b>
-\nOh, we have heard much of you, &lbrace;playername&rbrace;.]
-1772249115197577 -->1741757163471162[<b>Speaker 👉 Fox:</b>
-\nMe!?]
-1741757163471162 -->1772249178320011[<b>Speaker 👉 Oda:</b>
-\nYes, of course! It's lovely to meet you finally, Kon.\nYou know… Seikyu was actually founded by the Fox Clan. 
-So, we've done our best to preserve your clan's commitment to harmony.
-\nIf you want to hear more from your ancestors, 
-I suggest you start by restoring the shrine on the outskirts of town. \nWe tried restoring it ourselves, but our connection with them has faded over time… 
-I hope you can fix that…\nAnyway, enough about that!
-Do you want me to show you around town?
-]
-1772249178320011 -->|Yes, please.|1741757282187580[End]
-1772249154253962 -->1772249115197577[<b>Speaker 👉 Oda:</b>
-\nYour ancestors are very talkative.
-They told us all about you and your sister's arrival.
-]
+\nHello! New faces!
+Those very rarely greet our shores.\nYou must be &lbrace;c.playername&rbrace; and Kon, the foxes we’ve been expecting?]
+1741755494745335 -->|Yes, that’s us!|1772249115197577[<b>Speaker 👉 Oda:</b>
+\nWelcome to Seikyu!
+We’re very excited to have our first two foxes after a very long time.\nAfter all, Seikyu was historically a prosperous fox village.
+And with the blessing of Inari herself!]
+1741755494745335 -->|Are you Mayor Yui Oda?|1772249154253962[<b>Speaker 👉 Oda:</b>
+\nYes, I’ve not welcomed many…
+In fact, you’re the first newcomers we’ve had in a long time.\nMusashi told me about your new home.
+You’ll be glad to know that everything is in order.]
+1772249115197577 -->|We know only a little|1772249178320011[<b>Speaker 👉 Oda:</b>
+\nI’m sure your ancestors will fill you in.
+They’re waiting for you at the shrines.
+Don’t worry, you have lots of time to explore and learn.\nOh, I’m talking too much.
+We should welcome you properly with a tour around town!]
+1772249115197577 -->|Inari?|1772249178320011[<b>Speaker 👉 Oda:</b>
+\nI’m sure your ancestors will fill you in.
+They’re waiting for you at the shrines.
+Don’t worry, you have lots of time to explore and learn.\nOh, I’m talking too much.
+We should welcome you properly with a tour around town!]
+1772249178320011 -->|Thank you|1775357171940721[<b>Speaker 👉 Oda:</b>
+\nGreat, follow me!]
+1775357171940721 -->1741757282187580[End]
+1772249154253962 -->1775356721476954[<b>Speaker 👉 Fox:</b>
+\nOoh, our new home, &lbrace;c.playername&rbrace;!
+Thank you, Mayor. We can’t wait to see it.]
+1775356721476954 -->1775356983500126[<b>Speaker 👉 Oda:</b>
+\nThat is just wonderful. 
+But first…]
+1775356983500126 -->1772249115197577[<b>Speaker 👉 Oda:</b>
+\nWelcome to Seikyu!
+We’re very excited to have our first two foxes after a very long time.\nAfter all, Seikyu was historically a prosperous fox village.
+And with the blessing of Inari herself!]
 
 ```

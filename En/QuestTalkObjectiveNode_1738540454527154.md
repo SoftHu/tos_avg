@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1738540623759549[<b>Speaker 👉 Fox:</b>
-\n&lbrace;playername&rbrace;,
+\n&lbrace;c.playername&rbrace;,
 how's it going?
 Did you gather enough man-eating plant leaves?]
 1738540623759549 -->|Not yet.|1738541281747142[<b>Speaker 👉 Kon:</b>

@@ -5,7 +5,7 @@ Start -->1738287834941662[ ]
 \nAh...
 But this body of mine isn't built for trekking.]
 1738287834941662 -->1738285999573172[<b>Speaker 👉 Yoni:</b>
-\nAh... how can I get up the mountain and get some &lbrace;item.2517&rbrace;?\nHey, &lbrace;playername&rbrace;!
+\nAh... how can I get up the mountain and get some &lbrace;item.2517&rbrace;?\nHey, &lbrace;c.playername&rbrace;!
 You're the new owner of the &lbrace;location.1&rbrace;, right?
 My name is &lbrace;npc.4105&rbrace; and I've also just arrived in Seikyu.]
 1738287908723935 -->434571977180983{ }

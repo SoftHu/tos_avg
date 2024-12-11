@@ -1,107 +1,108 @@
 ```mermaid
 graph LR
-Start -->1727314770217055[<b>Speaker 👉 Torleone:</b>
-\n小子，找我有什么事？]
-Start -->1727314770217057[<b>Speaker 👉 Torleone:</b>
-\n来买鱼的吗？还是你遇到了麻烦需要我摆平？
-开个玩笑而已，我已经金盆洗手了。
-摆平麻烦什么现在不归我管。]
-Start -->1727314770218083[<b>Speaker 👉 Torleone:</b>
-\n如果你不会游泳，最好离大海远一些，
-这是我对你的忠告。]
-Start -->1727314770218085[<b>Speaker 👉 Torleone:</b>
-\n随便看看吧，都是刚刚捞上来的新鲜货。]
-Start -->1727314770218087[<b>Speaker 👉 Torleone:</b>
-\n大家都很帮衬我，我也有义务保护大家。]
-Start -->1727314770218089[<b>Speaker 👉 Torleone:</b>
-\n如果你愿意的话，也可以称呼我为叔叔。
-毕竟从年龄上看，我也虚长你几岁\n过去社团里，叔父辈们都会认真物色有能力的晚辈
-适当地提携加上一些测试和考验
-出人头地平步青云也就是一夜之间的事。]
-Start -->1727315484267627[<b>Speaker 👉 Torleone:</b>
-\n再见，小子。]
-Start -->1727315624140909[<b>Speaker 👉 Torleone:</b>
-\n呀！你真贴心……
-这么好的东西，我真的可以收下吗？]
-Start -->1727315624141935[<b>Speaker 👉 Torleone:</b>
-\n谢谢你！
-我很喜欢你送我的东西……]
-Start -->1727315624141937[<b>Speaker 👉 Torleone:</b>
-\n谢谢你……
-我们之间不用这么客气的。]
-Start -->1727315624141939[<b>Speaker 👉 Torleone:</b>
-\n虽然你能送礼物给我，我很感激……
-但是收到这个我也很困扰呀！]
-Start -->1727315624142965[<b>Speaker 👉 Torleone:</b>
-\n你是在故意羞辱我吗？]
-Start -->1727315624142967[<b>Speaker 👉 player:</b>
-\n感觉和&lbrace;npc.4206&rbrace;的关系更加密切了……
-接下来好好相处吧！]
-Start -->1727315624142969[<b>Speaker 👉 player:</b>
-\n做了多余的事情……
-感觉和&lbrace;npc.4206&rbrace;的关系疏远了！]
-Start -->1727315788092541[<b>Speaker 👉 Torleone:</b>
-\n海宝很可爱吧？
-在此之前我可没带过小孩，妹妹却偏偏要把海宝塞给我
-说是可以戒掉我的坏脾气。\n现在我已经是个和蔼的长辈了，哈哈哈哈。
-不得不承认，妹妹说得很有道理。]
-Start -->1727315788093569[<b>Speaker 👉 Torleone:</b>
-\n你喜欢钓鱼吗？
-很多人都会小看了钓鱼这件事
-但在我看来，钓鱼和真刀真枪的战斗没什么两样！\n隔着水面，与你的对手斗智斗勇……
-真是过瘾呐！
-有机会一起出海钓鱼吧！]
-Start -->1757108606568673[<b>Speaker 👉 Torleone:</b>
-\n如果你不会游泳，最好离大海远一些，
-这是我对你的忠告。\n虽然长辈们总是教育我们直面恐惧
-但是大海的危险绝非你想象的那么简单
-我有很多好兄弟都埋葬在这片大海里。]
-Start -->1757108860803302[<b>Speaker 👉 Torleone:</b>
-\n跟过去的自己完全割席是件很困难的事呢……
-归根结底，人并不是冰冷的机器
-过去发生的事不可能真正遗忘\n偶尔还会有怒涛组的兄弟来找我
-虽然我已经明确说过退出怒涛组了
-可过去的兄弟仍旧还是兄弟啊。]
-Start -->1757109332396266[<b>Speaker 👉 Torleone:</b>
-\n自从来到青岚，我的时间一下子变得多了起来
-以前经营社团的时候总是要操很多心\n像现在这样睡一个下午的美觉
-放过去想都不敢想呢。]
-Start -->1757109419328749[<b>Speaker 👉 Torleone:</b>
-\n灯红酒绿的夜生活过惯了
-一时半会儿并不能完全割舍……\n好在青岚也有不输给大城市的酒馆和赌场
-那就小酌怡情把。]
-Start -->1757109614104816[<b>Speaker 👉 Torleone:</b>
-\n难得的好天气，年轻人还是多出去逛逛吧。
-你也偶尔休息下，别对自己那么苛刻嘛……]
-Start -->1757109684529395[<b>Speaker 👉 Torleone:</b>
-\n雨天还在外面闲逛，小心着凉……
-要不要进来喝杯热茶，等雨停了再说？]
-Start -->1758006961589840[<b>Speaker 👉 Torleone:</b>
-\n晚上好，真巧啊，在这里遇见你。
-其实我不怎么常来
-年纪大了就害怕往热闹的地方钻。\n看着年轻人那么有活力，再看看自己
-不禁感叹岁月不饶人]
-Start -->1758007060539986[<b>Speaker 👉 Torleone:</b>
-\n怒涛组的小子们总是嚷嚷着要跟我比酒量
-下次干脆在这里办个主题联欢会好了。]
-Start -->1758007681235540[<b>Speaker 👉 Torleone:</b>
-\n别跟我这个糟老头子喝闷酒了
-去找他们玩吧……]
-Start -->1758165713182325[<b>Speaker 👉 Torleone:</b>
-\n我的前半段人生就是一场豪赌
-我已经厌倦了将自己置于赌局中的感觉……]
-Start -->1758166261541495[<b>Speaker 👉 Torleone:</b>
-\n赌博很刺激吧？
-未知的结局让人心跳加快，热血沸腾
-这让我想到了过去争夺地盘的岁月]
-Start -->1758257374056054[<b>Speaker 👉 Torleone:</b>
-\n以往我都是在海上庆祝夏日祭
-大家在甲板上张灯结彩好不热闹……
-陆地上的夏日祭别有一番风味呢！]
-Start -->1758257458516600[<b>Speaker 👉 Torleone:</b>
-\n年轻人就该好好享受祭典氛围嘛……
-去吧去吧。]
-Start -->1773843566038357[<b>Speaker 👉 Torleone:</b>
-\n喂，还没钓到哦]
+Start -->1775525237420733[<b>Speaker 👉 Torleone:</b>
+\nI should shove off! Farewell.]
+Start -->1775525237421761[<b>Speaker 👉 Torleone:</b>
+\nMay the sea be still and the wind at your back.]
+Start -->1775525237421765[<b>Speaker 👉 Torleone:</b>
+\nWhat a heart-warming expression of loyalty! You've won a powerful ally today, &lbrace;c.playername&rbrace;. Thank you.]
+Start -->1775525237421769[<b>Speaker 👉 Torleone:</b>
+\nA generous offering. This would have won you a spot on my crew back in the day. Thank you. I'll not soon forget it.]
+Start -->1775525237421773[<b>Speaker 👉 Torleone:</b>
+\nThis is a perfectly adequate tribute. Thank you.]
+Start -->1775525237421777[<b>Speaker 👉 Torleone:</b>
+\nHmm try harder next time. Or don't try at all.]
+Start -->1775525237421781[<b>Speaker 👉 Torleone:</b>
+\nIn the old days I would have fought anyone who gave me such a rediculous offering. Now I'll just say, 'No, thank you' and try to forget this insult.]
+Start -->1775525237421785[<b>Speaker 👉 Torleone:</b>
+\nHappy carp festival! I'm flying a flag for Seabert today. Be sure to wish him well.]
+Start -->1775525237421789[<b>Speaker 👉 Torleone:</b>
+\nThe Carp festival actually has very little to do with fish. It's a shame really. Anyway, enjoy yourself.]
+Start -->1775525237421793[<b>Speaker 👉 Torleone:</b>
+\nThe fish shop is only open in the mornings beacuse we sell most our catch by midday. So make sure ya wake up early.]
+Start -->1775525237421797[<b>Speaker 👉 Torleone:</b>
+\nI've joined Heph's fitness club to stay in peak physical condition. I want Seabert to join but he's afraid he'll get squished. Poor kid.]
+Start -->1775525237421801[<b>Speaker 👉 Torleone:</b>
+\nI take Seabert and the boys fishing every weekend. It's good for morale and if our catch is bigger than Musashi's... well, all the better.]
+Start -->1775525237421805[<b>Speaker 👉 Torleone:</b>
+\nDamned crates! When I catch the rogue who stuck me with 'em, he'll think twice about crossing Torleone again.]
+Start -->1775525237421809[<b>Speaker 👉 Torleone:</b>
+\nIs Heph lifting more than me? Can't have 'em thinking I've lost my edge. I'm no lazy old uncle, see!]
+Start -->1775525237421813[<b>Speaker 👉 Torleone:</b>
+\nSeabert, Prince, and Uozomi are like my little crew. The Stormwave gang lives on! Perhaps you'd like to join one day?]
+Start -->1775525237421817[<b>Speaker 👉 Torleone:</b>
+\nTime and tide wait for no Yokai. If you want something... take it.]
+Start -->1775525237421821[<b>Speaker 👉 Torleone:</b>
+\nWhen the sun sets, it's time for a drink.]
+Start -->1775525237421825[<b>Speaker 👉 Torleone:</b>
+\nRainy days are like doldrums at sea, the key is to keep your mind busy.]
+Start -->1775525237421829[<b>Speaker 👉 Torleone:</b>
+\nThis is a gift worthy of 'the Godfather of the Sea'. Thank you, &lbrace;c.playername&rbrace;.]
+Start -->1775525237421833[<b>Speaker 👉 Torleone:</b>
+\nThank you for the birthday tribute, &lbrace;c.playername&rbrace;.]
+Start -->1775525237421837[<b>Speaker 👉 Torleone:</b>
+\nMy birthday was once celebrated by the whole Stormwave gang. Now I get mediocre gifts. Don't get old, &lbrace;c.playername&rbrace;.]
+Start -->1775525237421841[<b>Speaker 👉 Torleone:</b>
+\nI don't like this at all. Maybe the fish will find some use for it when I throw it into the sea.]
+Start -->1775525237421845[<b>Speaker 👉 Torleone:</b>
+\nMy heart swells with pride to receive such a birthday present. You've made aging far more bearable, &lbrace;c.playername&rbrace;. Please accept my deepest gratitude--old sea dog that I am!]
+Start -->1775525237421849[<b>Speaker 👉 Torleone:</b>
+\nI left Prince looking after the shop. I should get back before he hurts himself.]
+Start -->1775525237421853[<b>Speaker 👉 Torleone:</b>
+\n-]
+Start -->1775525237421857[<b>Speaker 👉 Torleone:</b>
+\n-]
+Start -->1775525237421861[<b>Speaker 👉 Torleone:</b>
+\n-]
+Start -->1775525237421865[<b>Speaker 👉 Torleone:</b>
+\n-]
+Start -->1775525237421869[<b>Speaker 👉 Torleone:</b>
+\nMiss Ama makes the most brilliant Summer dresses... Not that I'm interested in that kind of thing!]
+Start -->1775525237421873[<b>Speaker 👉 Torleone:</b>
+\nThe ocean is warmest in Autumn. Good for swiming but bad for storms. The sea is a mysterious woman I tell ya.]
+Start -->1775525237421877[<b>Speaker 👉 Torleone:</b>
+\nThe cold makes me crave oysters. I've half a mind to open a kakigoya right here in Seikyu.]
+Start -->1775525237421881[<b>Speaker 👉 Torleone:</b>
+\nI used to drink beer but now I'll take a glass of wine with a seafood dinner anyday.]
+Start -->1775525237421885[<b>Speaker 👉 Torleone:</b>
+\nI can't stand vegatables. The gang always ate meat when I was in charge and they loved me for it!]
+Start -->1775525237421889[<b>Speaker 👉 Torleone:</b>
+\n-]
+Start -->1775525237421893[<b>Speaker 👉 Torleone:</b>
+\n-]
+Start -->1775525237421897[<b>Speaker 👉 Torleone:</b>
+\n-]
+Start -->1775525237421901[<b>Speaker 👉 Torleone:</b>
+\n-]
+Start -->1775525237421905[<b>Speaker 👉 Torleone:</b>
+\nKeep an eye out for scoundrels, &lbrace;c.playername&rbrace;. You don't become 'The Godfather of the Sea' without a second sense for these kinds of things.]
+Start -->1775525237421909[<b>Speaker 👉 Torleone:</b>
+\nToday's gym day. And if a certain dress-maker sees me looking manly and swashbuckling... well, so be it.]
+Start -->1775525237421913[<b>Speaker 👉 Torleone:</b>
+\nI love getting out on the water and smelling the salty air!]
+Start -->1775525237421917[<b>Speaker 👉 Torleone:</b>
+\nThose crates still torment me. The black spot on the Stormwave gang's great legacy.]
+Start -->1775525237421921[<b>Speaker 👉 Torleone:</b>
+\nWorking out helps keep my mind off of &lt;i&gt;you know who&lt;/i&gt;. Thank you for helping me with my &lt;i&gt;situation&lt;/i&gt;.]
+Start -->1775525237421925[<b>Speaker 👉 Torleone:</b>
+\nYou should fish with us today! Seabert really looks up to you. The boy is a good judge of character.]
+Start -->1775525237421929[<b>Speaker 👉 Torleone:</b>
+\n-]
+Start -->1775525237421933[<b>Speaker 👉 Torleone:</b>
+\n-]
+Start -->1775525237421937[<b>Speaker 👉 Torleone:</b>
+\n-]
+Start -->1775525237421941[<b>Speaker 👉 Torleone:</b>
+\nSummer belongs to the youthful. Watching ya crusade around brings a smile to my face.]
+Start -->1775525237421945[<b>Speaker 👉 Torleone:</b>
+\nI thought Summer love was a young man's game but I'm reduced to a quivering schoolboy when I'm around her! Can you believe it?]
+Start -->1775525237421949[<b>Speaker 👉 Torleone:</b>
+\nIt's sea urchin season. I could have some put aside for you if you like.]
+Start -->1775525237421953[<b>Speaker 👉 Torleone:</b>
+\nAny news? I want to catch that scoundrel before the holes up for the cold season.]
+Start -->1775525237421957[<b>Speaker 👉 Torleone:</b>
+\nThe sea is calm in Winter. Maybe I'll teach Seabert to how to sail. Wouldn't that be something.]
+Start -->1775525237421961[<b>Speaker 👉 Torleone:</b>
+\nUozumi talks of flying home for Winter. We need him to help stockpile fish but he misses his family. Being a leader means making tough decisions.]
 
 ```

@@ -1,7 +1,7 @@
 ```mermaid
 graph LR
 Start -->1731535970004068[<b>Speaker 👉 Fox:</b>
-\n&lbrace;playername&rbrace;，我有在好好听你说话哦……]
+\n&lbrace;c.playername&rbrace;，我有在好好听你说话哦……]
 Start -->1731535970006126[<b>Speaker 👉 Kon:</b>
 \n青岚的风吹起来好舒服哦~
 我想妈妈了……

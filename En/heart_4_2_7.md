@@ -15,7 +15,7 @@ camouflaged on the leaf. Nature is truly amazing &#40;〃'▽'〃&#41;\nAnd this
 Mum said that Shikoku was hosting a grand celebration.
 The parade was so long, you couldn't see the end of it...\nI really want to take part in lively events like that too... &#40;*❦ω❦&#41;\nSpeaking of which, all of the photos are great.
 I love them all!
-Which one would you like, &lbrace;playername&rbrace;?]
+Which one would you like, &lbrace;c.playername&rbrace;?]
 1755521662356546 -->|Humanities.|1755521662357576[<b>Speaker 👉 Seabert:</b>
 \nAll right, then I'll wrap it up for you!
 Mum and Dad would be so happy to know you like their work!]
@@ -51,7 +51,7 @@ I've saved up will be enough... &#40;✧◡✧&#41;]
 Classic Black, Fresh Green and Dazzling Laser.
 Which one does the audience at home like most?]
 1753830956435979 -->1753831336459788[<b>Speaker 👉 Seabert:</b>
-\nAh, it's such a tough decision, &lbrace;playername&rbrace;. Please help me choose…]
+\nAh, it's such a tough decision, &lbrace;c.playername&rbrace;. Please help me choose…]
 1753831336459788 -->|Black|1753831454680596[<b>Speaker 👉 Seabert:</b>
 \nAll right, I'll go with that!]
 1753831336459788 -->|Green|1753831454680596[<b>Speaker 👉 Seabert:</b>
@@ -67,29 +67,29 @@ and the Extended Warranty Package at &#40;2999&#41;.
 Which package is the right one for you?]
 1753831568567829 -->1753831705353750[<b>Speaker 👉 Seabert:</b>
 \nThe extended warranty brings peace of mind, but
-upgrading to a better lens might be the best thing to do, right?\nWhat do you think, &lbrace;playername&rbrace;?]
+upgrading to a better lens might be the best thing to do, right?\nWhat do you think, &lbrace;c.playername&rbrace;?]
 1753831705353750 -->|The standard model is fine.|1753832875953697[<b>Speaker 👉 Seabert:</b>
-\nYou've thought it through, &lbrace;playername&rbrace;, I'll listen to you!
+\nYou've thought it through, &lbrace;c.playername&rbrace;, I'll listen to you!
 I'll call to order right away!]
 1753831705353750 -->|Go for the lens upgrade.|1753832875953697[<b>Speaker 👉 Seabert:</b>
-\nYou've thought it through, &lbrace;playername&rbrace;, I'll listen to you!
+\nYou've thought it through, &lbrace;c.playername&rbrace;, I'll listen to you!
 I'll call to order right away!]
 1753831705353750 -->|Extended warranty for peace of mind.|1753832875953697[<b>Speaker 👉 Seabert:</b>
-\nYou've thought it through, &lbrace;playername&rbrace;, I'll listen to you!
+\nYou've thought it through, &lbrace;c.playername&rbrace;, I'll listen to you!
 I'll call to order right away!]
 1753832875953697 -->1753832916612643[<b>Speaker 👉 Seabert:</b>
 \nPhew… the order hotline was so busy!
 I was shaking when I finally got through to make the order!]
 1753832916612643 -->|Yeah, I almost thought I wouldn't make it.|1753833492055596[<b>Speaker 👉 Seabert:</b>
 \nNow I just have to wait for the delivery to arrive.
-I'm so excited! &#40;✧◡✧&#41;\nThanks to &lbrace;playername&rbrace;,
+I'm so excited! &#40;✧◡✧&#41;\nThanks to &lbrace;c.playername&rbrace;,
 otherwise with my hesitation, 
-I would never have gotten one.\nWhen the camera arrives, I'll take &lbrace;playername&rbrace;'s portrait.]
+I would never have gotten one.\nWhen the camera arrives, I'll take &lbrace;c.playername&rbrace;'s portrait.]
 1753832916612643 -->|I was lucky to nab the last one.|1753833492055596[<b>Speaker 👉 Seabert:</b>
 \nNow I just have to wait for the delivery to arrive.
-I'm so excited! &#40;✧◡✧&#41;\nThanks to &lbrace;playername&rbrace;,
+I'm so excited! &#40;✧◡✧&#41;\nThanks to &lbrace;c.playername&rbrace;,
 otherwise with my hesitation, 
-I would never have gotten one.\nWhen the camera arrives, I'll take &lbrace;playername&rbrace;'s portrait.]
+I would never have gotten one.\nWhen the camera arrives, I'll take &lbrace;c.playername&rbrace;'s portrait.]
 1753833492055596 -->|That's great! I'm really looking forward to it.|1753833778181682[ ]
 1753833492055596 -->|Thanks a lot, Seabert!|1753833834284595[ ]
 Start -->1753761807695329[<b>Speaker 👉 Seabert:</b>
@@ -103,19 +103,19 @@ Then I can tag along &#40;๑•̀ㅂ•́&#41;و✧]
 Actually, I haven't told anyone else about this, 
 so you must keep it a secret!\nBut then again,
 to become a photographer you need your own camera, right?
-But I don't have one yet...\nDo you know where I can buy a camera in Seikyu, &lbrace;playername&rbrace;?]
+But I don't have one yet...\nDo you know where I can buy a camera in Seikyu, &lbrace;c.playername&rbrace;?]
 1753761807695329 -->|I'm rooting for you!|1753828101462519[<b>Speaker 👉 Seabert:</b>
 \nHehe! ⁄&#40;⁄ ⁄•⁄ω⁄•⁄ ⁄&#41;⁄
 Actually, I haven't told anyone else about this, 
 so you must keep it a secret!\nBut then again,
 to become a photographer you need your own camera, right?
-But I don't have one yet...\nDo you know where I can buy a camera in Seikyu, &lbrace;playername&rbrace;?]
+But I don't have one yet...\nDo you know where I can buy a camera in Seikyu, &lbrace;c.playername&rbrace;?]
 1753828101462519 -->|Check out the TV shopping channel.|1753828567186941[<b>Speaker 👉 Seabert:</b>
 \nThat's a good point. I hadn't thought of that before!
-Thank you, &lbrace;playername&rbrace;, I'll keep an eye out. &#40;๑•̀ㅂ•́&#41;و✧]
+Thank you, &lbrace;c.playername&rbrace;, I'll keep an eye out. &#40;๑•̀ㅂ•́&#41;و✧]
 1753828101462519 -->|Ask Mr. Musashi.|1753828567186941[<b>Speaker 👉 Seabert:</b>
 \nThat's a good point. I hadn't thought of that before!
-Thank you, &lbrace;playername&rbrace;, I'll keep an eye out. &#40;๑•̀ㅂ•́&#41;و✧]
+Thank you, &lbrace;c.playername&rbrace;, I'll keep an eye out. &#40;๑•̀ㅂ•́&#41;و✧]
 1753828567186941 -->1753828593057278[End]
 
 ```

@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1768802449917971[<b>Speaker 👉 Liliana:</b>
-\n嘿,&lbrace;playername&rbrace;,你找到&lbrace;item.25122&rbrace;了吗？]
+\n嘿,&lbrace;c.playername&rbrace;,你找到&lbrace;item.25122&rbrace;了吗？]
 1768802449917971 -->1768802426206226{ }
 1768802426206226 -->1768802472486932{ }
 1768802426206226 -->1768802491199513{ }

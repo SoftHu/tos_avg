@@ -1,7 +1,7 @@
 ```mermaid
 graph LR
 Start -->1768741844007825[<b>Speaker 👉 Liliana:</b>
-\n...]
+\n……]
 1768741844007825 -->|Um, hello?|1768741949361046[<b>Speaker 👉 Liliana:</b>
 \nThe flowers in your garden are in magnificent bloom.\nI would simply love to paint them.]
 1768741949361046 -->|Right now?|1768741987230620[<b>Speaker 👉 Liliana:</b>
@@ -18,13 +18,13 @@ This is my place too and I think you should paint it!]
 1768742051441567 -->1768742061641632[End]
 1768742015769501 -->1768742061641632[End]
 Start -->1768742157331368[<b>Speaker 👉 Liliana:</b>
-\n...]
+\n……]
 Start -->1768742157331368[<b>Speaker 👉 Liliana:</b>
-\n...]
+\n……]
 1768742157331368 -->|Do you need anything?|1768742200170415[<b>Speaker 👉 Liliana:</b>
-\n...]
+\n……]
 1768742157331368 -->|*Stay quiet*|1768742200170415[<b>Speaker 👉 Liliana:</b>
-\n...]
+\n……]
 1768742200170415 -->1768742208925616[<b>Speaker 👉 Fox:</b>
 \nI don't think she can hear us.]
 1768742208925616 -->1768742179087278[End]
@@ -58,10 +58,10 @@ then bring it back for you to see.\nThis shading definitely needs more work…]
 1768742553410499 -->|Yeah, me neither.
 I'm excited to see it.|1768742635930571[<b>Speaker 👉 Liliana:</b>
 \nAnyway, 
-thank you for your hospitality. ]
+thank you for your hospitality.]
 1768742553410499 -->|The shading does look a little off…|1768742635930571[<b>Speaker 👉 Liliana:</b>
 \nAnyway, 
-thank you for your hospitality. ]
+thank you for your hospitality.]
 1768742635930571 -->1768742627730378[End]
 1768742316132281 -->1768742413604797[<b>Speaker 👉 Liliana:</b>
 \nOh, I am remiss.
@@ -90,10 +90,10 @@ This painting isn't my best work…
 But let's call it 'Bloom'...\nA nice gift for a budding friendship.]
 1768742996890609 -->|Thank you-|1768743033758711[<b>Speaker 👉 Liliana:</b>
 \nOf course. 
-Your special flowers were the inspiration.\nThank you for your hospitality, &lbrace;playername&rbrace;.]
+Your special flowers were the inspiration.\nThank you for your hospitality, &lbrace;c.playername&rbrace;.]
 1768742996890609 -->|For us...?|1768743033758711[<b>Speaker 👉 Liliana:</b>
 \nOf course. 
-Your special flowers were the inspiration.\nThank you for your hospitality, &lbrace;playername&rbrace;.]
+Your special flowers were the inspiration.\nThank you for your hospitality, &lbrace;c.playername&rbrace;.]
 1768743033758711 -->1769069908705303{ }
 1769069908705303 -->1768743071508472[End]
 1769069908705303 -->1768743071508472[End]
@@ -104,8 +104,7 @@ But let's call it 'Bloom'...\nA nice gift for a budding friendship.]
 Start -->1768743183491066[<b>Speaker 👉 Yohji:</b>
 \nEn Garde! 
 … 
-Oh, You got them all, &lbrace;playername&rbrace;. Good show. 
-]
+Oh, You got them all, &lbrace;c.playername&rbrace;. Good show.]
 1768743183491066 -->|May our foes find mercy in the next life.|1768743374785564[<b>Speaker 👉 Yohji:</b>
 \nIf they've touched a single hair my sister's head…]
 1768743183491066 -->|LILIANA!|1768743454079005[End]
@@ -115,7 +114,7 @@ Oh, You got them all, &lbrace;playername&rbrace;. Good show.
 Start -->1768743476041759[<b>Speaker 👉 Yohji:</b>
 \nLiliana! Are you alright?]
 1768743476041759 -->1768743367756827[<b>Speaker 👉 Liliana:</b>
-\nOh, Yohji, &lbrace;playername&rbrace;, 
+\nOh, Yohji, &lbrace;c.playername&rbrace;, 
 what a pleasant surprise.\nLook at this vine climbing the walls, 
 isn't it lovely?\nI just had to sketch it.
 Are you two alright?

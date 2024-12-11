@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1738530500713615[<b>Speaker 👉 Fox:</b>
-\n&lbrace;playername&rbrace;!
+\n&lbrace;c.playername&rbrace;!
 Do you know the best way to win over the spirits?]
 1738530500713615 -->|*Kiss them*|1749512535586093[<b>Speaker 👉 Fox:</b>
 \nYou... 

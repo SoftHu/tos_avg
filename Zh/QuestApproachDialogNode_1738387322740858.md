@@ -10,7 +10,7 @@ Start -->1738387958398078[<b>Speaker 👉 Fox:</b>
 这个&lbrace;location.1&rbrace;是我取的名字哎，
 我以为你会说这个名字好难听。]
 1738388286156932 -->1738995967017127[<b>Speaker 👉 Fox:</b>
-\n&lbrace;farmname&rbrace;……很不错呢！
+\n&lbrace;c.farmname&rbrace;……很不错呢！
 我们可以慢慢装扮这里，直到它变成我们理想中的状态。\n在田里种一些作物、花，
 然后把插花布置这个屋子，
 我打算装扮我自己的房间！]

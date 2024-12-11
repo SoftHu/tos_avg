@@ -2,7 +2,7 @@
 graph
 Start -->1762595293475517[ ]
 1762595293475517 -->1763771107802819[<b>Speaker 👉 Musashi:</b>
-\n&lbrace;playername&rbrace;，
+\n&lbrace;c.playername&rbrace;，
 你好像并没有怎么使用寄售箱。]
 1762595293475517 -->1741805123273116[<b>Speaker 👉 Musashi:</b>
 \n对了，

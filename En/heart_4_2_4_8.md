@@ -7,9 +7,9 @@ Start -->1768791756312373[<b>Speaker 👉 Liliana:</b>
 \nI can't paint anymore.
 Priest Leon is right. I'm not good enough.]
 1768791756312373 -->|What are you doing?|1768791807972160[<b>Speaker 👉 Liliana:</b>
-\n...]
+\n…]
 1768791756312373 -->|That's not what he said.|1768791807972160[<b>Speaker 👉 Liliana:</b>
-\n...]
+\n…]
 1768791807972160 -->|You can't give up what you love.|1768791859148614[<b>Speaker 👉 Liliana:</b>
 \nBut I'm not perfect.
 And if I can't achieve a perfect masterpiece…
@@ -33,14 +33,14 @@ And that flower is red.]
 The King of Blooms.\nAnd this blue paint is from the ore you got for me.
 And here you are, telling me to paint…\nIt's like fate.
 ....\nI'll do it.
-Thank you, &lbrace;playername&rbrace;.\nInspiration is already coming back to me! 
+Thank you, &lbrace;c.playername&rbrace;.\nInspiration is already coming back to me! 
 I must start right away.]
 1768791963679572 -->|Blue is the perfect color when you're feeling sad.|1768791991924570[<b>Speaker 👉 Liliana:</b>
 \nThat's a mountain Peony, 
 The King of Blooms.\nAnd this blue paint is from the ore you got for me.
 And here you are, telling me to paint…\nIt's like fate.
 ....\nI'll do it.
-Thank you, &lbrace;playername&rbrace;.\nInspiration is already coming back to me! 
+Thank you, &lbrace;c.playername&rbrace;.\nInspiration is already coming back to me! 
 I must start right away.]
 1768791991924570 -->1768792200010587[End]
 

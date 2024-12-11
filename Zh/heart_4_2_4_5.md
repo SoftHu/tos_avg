@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1768788757562892[<b>Speaker 👉 Liliana:</b>
-\n&lbrace;playername&rbrace;！你能来我真的很高兴！
+\n&lbrace;c.playername&rbrace;！你能来我真的很高兴！
 今晚这朵昙花将会盛开,这可是非常罕见的景象。\n昙花只在满月下开放
 然后随着黎明的到来而枯萎……\n只开放一晚……
 孤高的壮美,不是吗？]

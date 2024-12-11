@@ -1,110 +1,108 @@
 ```mermaid
 graph LR
-Start -->1727383481015419[<b>Speaker 👉 Shuten:</b>
-\n欢迎光临……嗝……]
-Start -->1727383481015421[<b>Speaker 👉 Shuten:</b>
-\n想来点什么？
-嗝……你来得太迟，我已经喝上了。
-看在我今天心情好的份上，会给你特别招待哦~]
-Start -->1727383481016453[<b>Speaker 👉 Shuten:</b>
-\n未成年请勿饮酒哦？
-啊哈哈开玩笑啦，我当然知道你已经成年了
-谁让你长得这么像小孩子呢。]
-Start -->1727383481017481[<b>Speaker 👉 Shuten:</b>
-\n早安，现在可不是营业时间哦……
-你也真是的，大白天就这么无所事事吗？]
-Start -->1727383481017483[<b>Speaker 👉 Shuten:</b>
-\n今天也需要我亲自招待吗？那是另外的价格。]
-Start -->1727384006804621[<b>Speaker 👉 Shuten:</b>
-\n要再来哦……]
-Start -->1727384181215375[<b>Speaker 👉 Shuten:</b>
-\n虽然清酒很棒，但来自别处的特产酒也都有各自的风味哦。
-就像爱情，只品尝一种未免……
-哦吼，接下来的内容可不能免费听了呢。]
-Start -->1727384181216401[<b>Speaker 👉 Shuten:</b>
-\n青岚的气候虽然很适合水稻的生长
-却并不适合种植酿酒的Nebbiolo。\n多亏了海上的季风
-运货的航线一直都很畅通
-否则岛上的客人就没办法享受了。]
-Start -->1727384181216403[<b>Speaker 👉 Shuten:</b>
-\n毕竟是开门营业
-总会遇到一些……你懂的啦……酒品不是很好的客人\n每当这个时候，我都会送给他们一杯特制的“甜蜜美梦”
-或是一记“沉睡直拳”
-反正等他们第二天清醒后什么都不会记住。]
-Start -->1727384181217429[<b>Speaker 👉 Shuten:</b>
-\n客人们只要两三杯酒下肚，话匣子就会打开了。
-虽然这些话是他们自己说出来的
-我却并不想窥探他人的隐私。\n我只关心我想要关心的人，你明白吗？
-我的意思是说，如果你有什么想要倾诉的……
-别客气，我会洗耳恭听的。]
-Start -->1727384181217431[<b>Speaker 👉 Shuten:</b>
-\n其实最近外界的酒吧都开始流行提供正餐了
-我也在考虑要不要紧跟潮流。\n目前酒馆只提供一些基础的下酒菜
-要想提供正餐就得专门为此招聘一个厨师了。
-这并不是钱的问题，最关键的其实是厨师本身。\n要不要考虑来我这里兼职呢？
-呵呵，开玩笑的……]
-Start -->1727389726956635[<b>Speaker 👉 Shuten:</b>
-\n呀！你真贴心……
-这么好的东西，我真的可以收下吗？]
-Start -->1727389726957661[<b>Speaker 👉 Shuten:</b>
-\n谢谢你！
-我很喜欢你送我的东西……]
-Start -->1727389726957663[<b>Speaker 👉 Shuten:</b>
-\n谢谢你……
-我们之间不用这么客气的。]
-Start -->1727389726957665[<b>Speaker 👉 Shuten:</b>
-\n虽然你能送礼物给我，我很感激……
-但是收到这个我也很困扰呀！]
-Start -->1727389726957667[<b>Speaker 👉 Shuten:</b>
-\n你是在故意羞辱我吗？]
-Start -->1727389726958693[<b>Speaker 👉 player:</b>
-\n感觉和&lbrace;npc.4208&rbrace;的关系更加密切了……
-接下来好好相处吧！]
-Start -->1727389726958695[<b>Speaker 👉 player:</b>
-\n做了多余的事情……
-感觉和&lbrace;npc.4208&rbrace;的关系疏远了！]
-Start -->1753046481042233[<b>Speaker 👉 Shuten:</b>
-\n鲤鱼节到了，孩子们都玩得很开心呢？
-&lbrace;playername&rbrace;不去吗？
-毕竟机会难得啊。]
-Start -->1753046656492346[<b>Speaker 👉 Shuten:</b>
-\n要好好享受哦~]
-Start -->1757099370372258[<b>Speaker 👉 Shuten:</b>
-\n小可爱，有什么心事吗？
-可以找姐姐聊聊。
-姐姐可是非常擅长抚慰你的心灵的哦~]
-Start -->1757102886965417[<b>Speaker 👉 Shuten:</b>
-\n今天天气好，律令和金太郎那两个小家伙
-早早就出门玩去了……
-年轻可真好啊，你不觉得吗？]
-Start -->1757103024217260[<b>Speaker 👉 Shuten:</b>
-\n虽然是雨天，但我已经预感到会有不错的生意了。
-毕竟这种天气，大家的心情难免落寞伤感
-这种时候，喝两杯就成了理所当然的选择吧。]
-Start -->1757999745494602[<b>Speaker 👉 Shuten:</b>
-\n我听说过去妖狐族们会在庆典上饮用“狐酒”
-那是一种经由特殊材料酿成的美酒
-平时都被藏在地下深层的酒窖中。\n虽然妖狐族已经销声匿迹
-但我总觉得狐酒还藏在地下某处……]
-Start -->1758001805515340[<b>Speaker 👉 Shuten:</b>
-\n酒品差的客人在我这里可是不受欢迎的
-我会收他双倍的酒费
-看到账单他们就会立刻清醒过来。]
-Start -->1758002576105038[<b>Speaker 👉 Shuten:</b>
-\n虽然客人们没有什么想法
-但最近我还是想丰富一下酒单
-清酒、起泡酒、雪莉酒、威士忌……一样都不能少]
-Start -->1758164032445041[<b>Speaker 👉 Shuten:</b>
-\n我上次来这里的时候
-可是把能抵押的东西都输光了……
-想想还觉得有些后怕呢。]
-Start -->1758164106621555[<b>Speaker 👉 Shuten:</b>
-\n平日里开店，积攒了很多压力
-难得有空，还是玩两把吧……]
-Start -->1758255376616042[<b>Speaker 👉 Shuten:</b>
-\n欢乐的庆典怎么能少了美酒呢？
-要不要跟姐姐喝两杯？]
-Start -->1758256348074604[<b>Speaker 👉 Shuten:</b>
-\n拜拜……]
+Start -->1775511333391116[<b>Speaker 👉 Shuten:</b>
+\nI'm always here if you need me!]
+Start -->1775511333392144[<b>Speaker 👉 Shuten:</b>
+\nSee ya!]
+Start -->1775511333392148[<b>Speaker 👉 Shuten:</b>
+\nYou two are the sweetest! I don't know how I'll be able to repay you.]
+Start -->1775511333392152[<b>Speaker 👉 Shuten:</b>
+\nYou saw this and thought of me? That's too kind!]
+Start -->1775511333392156[<b>Speaker 👉 Shuten:</b>
+\nAhh, thanks! What's the occasion, eh?]
+Start -->1775511333392160[<b>Speaker 👉 Shuten:</b>
+\nWhat am I supposed to do with this?]
+Start -->1775511333392164[<b>Speaker 👉 Shuten:</b>
+\nEven the boys can get better gifts than this! You two need to step it up.]
+Start -->1775511333392168[<b>Speaker 👉 Shuten:</b>
+\nHi, you two! Happy Carp Festival! This is the highlight of the boy's year so I hope you enjoy it.]
+Start -->1775511333392172[<b>Speaker 👉 Shuten:</b>
+\nKinntarou is getting sleepy so we're going to head off now! See ya later.]
+Start -->1775511333392176[<b>Speaker 👉 Shuten:</b>
+\nThe two of you heading off to adventure? Come by later and tell me about it!]
+Start -->1775511333392180[<b>Speaker 👉 Shuten:</b>
+\nIf weekends lasted forever we would never get anything done, eh?]
+Start -->1775511333392184[<b>Speaker 👉 Shuten:</b>
+\nHow's your week been going so far? If you ever need to vent, you know where I am!]
+Start -->1775511333392188[<b>Speaker 👉 Shuten:</b>
+\nI feel like everytime I come here it's like a bomb has gone off! The boys need to get better at tidying.]
+Start -->1775511333392192[<b>Speaker 👉 Shuten:</b>
+\nI'll win it back one day!]
+Start -->1775511333392196[<b>Speaker 👉 Shuten:</b>
+\nIt's healthy to take a brake sometimes, it grants perspective!]
+Start -->1775511333392200[<b>Speaker 👉 Shuten:</b>
+\nTime to restock!]
+Start -->1775511333392204[<b>Speaker 👉 Shuten:</b>
+\nAny juicy stories you want to share with me? I promise your secrets are safe with me!]
+Start -->1775511333392208[<b>Speaker 👉 Shuten:</b>
+\nIf you want to hide from the rain my Tavern is always open!]
+Start -->1775511333392212[<b>Speaker 👉 Shuten:</b>
+\nIt's so kind of you to remember! I will treasure this gift.]
+Start -->1775511333392216[<b>Speaker 👉 Shuten:</b>
+\nHaha! Happy Birthday to me, I guess. Thanks for looking out you two!]
+Start -->1775511333392220[<b>Speaker 👉 Shuten:</b>
+\nThanks for coming to find me! You didn't need to give me a present though.]
+Start -->1775511333392224[<b>Speaker 👉 Shuten:</b>
+\nIt's kind of you to remember, but I don't really understand the meaning behind your gift.]
+Start -->1775511333392228[<b>Speaker 👉 Shuten:</b>
+\nKon. &lbrace;c.playername&rbrace;. You two are amazing!]
+Start -->1775511333392232[<b>Speaker 👉 Shuten:</b>
+\nStop by the Tavern if you need to chat, eh?]
+Start -->1775511333392236[<b>Speaker 👉 Shuten:</b>
+\n-]
+Start -->1775511333392240[<b>Speaker 👉 Shuten:</b>
+\n-]
+Start -->1775511333392244[<b>Speaker 👉 Shuten:</b>
+\n-]
+Start -->1775511333392248[<b>Speaker 👉 Shuten:</b>
+\n-]
+Start -->1775511333392252[<b>Speaker 👉 Shuten:</b>
+\nIt's the perfect weather for a good cool pint, eh?]
+Start -->1775511333392256[<b>Speaker 👉 Shuten:</b>
+\nI need to stop by the Secret Base to make sure the boys have everything they need for winter.]
+Start -->1775511333392260[<b>Speaker 👉 Shuten:</b>
+\nThe Tavern sure does get cozy on winter evenings!]
+Start -->1775511333392264[<b>Speaker 👉 Shuten:</b>
+\nWhen everyones happy, I'm happy!]
+Start -->1775511333392268[<b>Speaker 👉 Shuten:</b>
+\nI adore Sake. We'll have to share a bottle some time.]
+Start -->1775511333392272[<b>Speaker 👉 Shuten:</b>
+\nMerry Christmas! I'm glad the two of you came to Seikyu.]
+Start -->1775511333392276[<b>Speaker 👉 Shuten:</b>
+\nHere's to another year filled with adventure, eh?]
+Start -->1775511333392280[<b>Speaker 👉 Shuten:</b>
+\n-]
+Start -->1775511333392284[<b>Speaker 👉 Shuten:</b>
+\n-]
+Start -->1775511333392288[<b>Speaker 👉 Shuten:</b>
+\nI've whipped up a new cocktail which I want the two of you to try! Come by the Tavern later if you have time.]
+Start -->1775511333392292[<b>Speaker 👉 Shuten:</b>
+\nI'm gonna be slammed today ordering stock, can you check up on the boys for me?]
+Start -->1775511333392296[<b>Speaker 👉 Shuten:</b>
+\nDon't tell the boys, but I'm building a new 'Secret Den' in the attic for them! I hope they like it.]
+Start -->1775511333392300[<b>Speaker 👉 Shuten:</b>
+\nI need to find time to swing past the casino! I have to talk to Kababa about getting &lt;i&gt; it &lt;i&gt; back.]
+Start -->1775511333392304[<b>Speaker 👉 Shuten:</b>
+\nThe boys have a suprise for me at the Secret Base, want to come see what it is?]
+Start -->1775511333392308[<b>Speaker 👉 Shuten:</b>
+\nAlthough the Tavern is official shut right now, wanna come in?]
+Start -->1775511333392312[<b>Speaker 👉 Shuten:</b>
+\n-]
+Start -->1775511333392316[<b>Speaker 👉 Shuten:</b>
+\n-]
+Start -->1775511333392320[<b>Speaker 👉 Shuten:</b>
+\n-]
+Start -->1775511333392324[<b>Speaker 👉 Shuten:</b>
+\nI need to speak to Yui about putting tables outside. The weathers too nice to keep everyone cooped up.]
+Start -->1775511333392328[<b>Speaker 👉 Shuten:</b>
+\nDo you know how to fish? The boy want to go but none of us know how to. Was thinking of asking Musashi to join us, but do the two of you want to?]
+Start -->1775511333392332[<b>Speaker 👉 Shuten:</b>
+\nI got a new Sake supplier, a name Kababa gave me.]
+Start -->1775511333392336[<b>Speaker 👉 Shuten:</b>
+\nMy family means everything to me, the two of you are family!]
+Start -->1775511333392340[<b>Speaker 👉 Shuten:</b>
+\nOn winter nights, this tavern is the coziest place on earth.]
+Start -->1775511333392344[<b>Speaker 👉 Shuten:</b>
+\nJust made up some mulled wine, want to share?]
 
 ```

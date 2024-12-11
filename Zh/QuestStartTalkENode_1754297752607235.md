@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1754297898306054[<b>Speaker 👉 Oda:</b>
-\nHi！&lbrace;playername&rbrace;，
+\nHi！&lbrace;c.playername&rbrace;，
 好久没见。
 最近怎么样，在&lbrace;location.13&rbrace;的生活还习惯吗？]
 1754297898306054 -->|挺好的|1754298284307980[<b>Speaker 👉 Oda:</b>

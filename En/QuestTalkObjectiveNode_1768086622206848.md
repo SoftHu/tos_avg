@@ -9,7 +9,7 @@ so I thought I'd come over to ask for directions.]
 1768096637256321 -->|What's up?|1768096699678344[<b>Speaker 👉 Fujiki:</b>
 \nMy name is Fujiki, I'm an adventurer.\nI saw the lights were on in the farmhouse,
 so I thought I'd come over to ask for directions.]
-1768096699678344 -->|Hi, My name is &lbrace;playername&rbrace;|1768096751167118[<b>Speaker 👉 Fujiki:</b>
+1768096699678344 -->|Hi, My name is &lbrace;c.playername&rbrace;|1768096751167118[<b>Speaker 👉 Fujiki:</b>
 \nI'm looking for &lbrace;location.10&rbrace;.
 Do you know the way there?]
 1768096699678344 -->|Please go ahead.|1768096751167118[<b>Speaker 👉 Fujiki:</b>

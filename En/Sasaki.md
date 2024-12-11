@@ -19,7 +19,7 @@ Start -->1727398269267069[<b>Speaker 👉 Sasaki:</b>
 \nApologies...
 I'm not much of a conversationalist...]
 Start -->1727398269268095[<b>Speaker 👉 Sasaki:</b>
-\n...\nUh... Sorry, I don't know what to say.
+\n……………………\nUh... Sorry, I don't know what to say.
 I'm still not great with people.]
 Start -->1727398269268097[<b>Speaker 👉 Sasaki:</b>
 \nThank you for supporting my business.
@@ -47,15 +47,18 @@ We're getting along well!]
 Start -->1727398879388819[<b>Speaker 👉 player:</b>
 \nI did something I shouldn't have...
 I'm feeling distant from &lbrace;npc.4210&rbrace; now!]
-Start -->1772616658178249[ ]
+Start -->1774503360995699[ ]
+1774503360995699 -->1772616658178249{ }
+1774503360995699 -->1774504769440115[<b>Speaker 👉 Sasaki:</b>
+\nThe house is being upgraded, I'll come over tomorrow, please be patient.]
 1772616658178249 -->1749600078779689[<b>Speaker 👉 Sasaki:</b>
-\n]
+\nUpgrading costs &lbrace;property.HomeUpgradeMoney&rbrace; gold coins.]
 1772616658178249 -->1772616798014667[<b>Speaker 👉 Sasaki:</b>
-\n]
+\nThere's nothing else left to upgrade.]
 1749600078779689 -->1772616720144586{ }
-1772616720144586 -->1772614890779848{ }
 1772616720144586 -->1772616838618316[<b>Speaker 👉 Sasaki:</b>
-\n]
+\nYou can't do it without money!]
+1772616720144586 -->1772614890779848{ }
 1749943928270117 -->1772614785208517[End]
 Start -->1753051243282237[<b>Speaker 👉 Sasaki:</b>
 \nEveryone is celebrating the Carp Festival, 

@@ -23,7 +23,7 @@ Now go,
 and may Lady Inari be with you.]
 1761911109766407 -->|I'll take good care of my sister.|1761911308834062[<b>Speaker 👉 player:</b>
 \nWe believe in you,
-&lbrace;playername&rbrace;.]
+&lbrace;c.playername&rbrace;.]
 1761911280317707 -->1761911318607119[End]
 1761911308834062 -->1761911280317707[<b>Speaker 👉 :</b>
 \nGood.

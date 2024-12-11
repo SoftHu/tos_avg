@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1754300389577294[<b>Speaker 👉 Ama:</b>
-\nHey, &lbrace;playername&rbrace;. Are you free?
+\nHey, &lbrace;c.playername&rbrace;. Are you free?
 I'd like to talk to you about something.]
 1754300389577294 -->|Please go ahead.|1754300443254355[<b>Speaker 👉 Ama:</b>
 \nYou and &lbrace;npc.4209&rbrace; are good friends, right?

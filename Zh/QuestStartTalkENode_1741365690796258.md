@@ -2,7 +2,7 @@
 graph
 Start -->1741366051818734[<b>Speaker 👉 Oda:</b>
 \n昨天的聚会还开心吗？
-&lbrace;playername&rbrace;]
+&lbrace;c.playername&rbrace;]
 1741366051818734 -->|很开心哦|1741840770440680[<b>Speaker 👉 Oda:</b>
 \n太好了，今天早上我做了甜点。
 想让你也尝尝哦！]

@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1739167465258188[<b>Speaker 👉 Fox:</b>
-\n&lbrace;playername&rbrace;，
+\n&lbrace;c.playername&rbrace;，
 你总算准备好床了！
 今天晚上终于可以好好的睡一觉了。\n对了，我也有努力帮忙哦！
 这些给你我在湖边捡到的

@@ -5,7 +5,7 @@ Start -->1754550494868988[<b>Speaker 👉 Shuten:</b>
 A hard day's work,
 all for that cold one at night.\nRefreshing,
 bubbly,
-with a bold banana flavor.\nWell done, &lbrace;playername&rbrace;.
+with a bold banana flavor.\nWell done, &lbrace;c.playername&rbrace;.
 No wonder Yui likes you so much.]
 1754550494868988 -->1754550535630334[<b>Speaker 👉 Fox:</b>
 \nI helped too!
@@ -78,7 +78,7 @@ aren't they adorable!]
 \nWhat,
 I can't have kids because I'm not married?]
 1754552713897562 -->1754552782559836[<b>Speaker 👉 Ritsurei:</b>
-\nSo, you're &lbrace;playername&rbrace;?
+\nSo, you're &lbrace;c.playername&rbrace;?
 &lbrace;npc.4209&rbrace; talks about you a lot.
 Can you really transform into different yokai?]
 1754552782559836 -->|Yes.|1754552862078562[<b>Speaker 👉 Ritsurei:</b>
@@ -103,7 +103,7 @@ The kitchen is this way.]
 1754555165427316 -->1754553076615788[End]
 1754552867669603 -->438638215519640{ }
 1754552720900699 -->1754552782559836[<b>Speaker 👉 Ritsurei:</b>
-\nSo, you're &lbrace;playername&rbrace;?
+\nSo, you're &lbrace;c.playername&rbrace;?
 &lbrace;npc.4209&rbrace; talks about you a lot.
 Can you really transform into different yokai?]
 Start -->1754555437256311[<b>Speaker 👉 :</b>
@@ -122,11 +122,11 @@ If you ever need a drinking buddy, just holler!]
 438638215519640 -->|Give it a go when you have a chance.|1754553000530537[<b>Speaker 👉 Ritsurei:</b>
 \nAwesome!
 You better become a regular at the tavern.
-I'll give &lbrace;playername&rbrace; special treatment!]
+I'll give &lbrace;c.playername&rbrace; special treatment!]
 438638215519640 -->|Certainly!|1754553000530537[<b>Speaker 👉 Ritsurei:</b>
 \nAwesome!
 You better become a regular at the tavern.
-I'll give &lbrace;playername&rbrace; special treatment!]
+I'll give &lbrace;c.playername&rbrace; special treatment!]
 1754556184598143 -->1754556211012264[End]
 Start -->1754556226805418[<b>Speaker 👉 Shuten:</b>
 \nIf you wanna sell your dishes at the tavern,
@@ -136,9 +136,9 @@ I'll have Ritsuryo bring the money to you.]
 1754556226805418 -->1754556338437830[<b>Speaker 👉 Kinntarou:</b>
 \nWill you come and teach me some more recipes?]
 1754556338437830 -->|Of course.|1754556367405767[<b>Speaker 👉 Kinntarou:</b>
-\nThank you! I'll work very hard, &lbrace;playername&rbrace;.]
+\nThank you! I'll work very hard, &lbrace;c.playername&rbrace;.]
 1754556338437830 -->|It depends on your performance.|1754556367405767[<b>Speaker 👉 Kinntarou:</b>
-\nThank you! I'll work very hard, &lbrace;playername&rbrace;.]
+\nThank you! I'll work very hard, &lbrace;c.playername&rbrace;.]
 1754556367405767 -->1754556403067592[<b>Speaker 👉 Shuten:</b>
 \nThank you! ❤]
 1754556403067592 -->1754556407528137[End]
@@ -188,7 +188,7 @@ how hard it is to raise two kids?]
 1754562196723434 -->|…Kids… little?|1754562243246832[<b>Speaker 👉 Shuten:</b>
 \nYou… dreenk tew mooch.
 You cain't even shpeak claarly.\nHahaha,
-&lbrace;playername&rbrace;, you really are… the cutest and the
+&lbrace;c.playername&rbrace;, you really are… the cutest and the
 kindest yokai I ever met. Well, apart from her...]
 1754562243246832 -->|Her?|1754562426443510[<b>Speaker 👉 Shuten:</b>
 \nI still, uh… have feelings for her,
@@ -202,7 +202,7 @@ The thought of her gives me a headache!
 What she was thinking is simply beyond me.]
 1754562426443510 -->|Maybe… it's… time to start a new life?|1754562500335356[<b>Speaker 👉 Shuten:</b>
 \nThat's just... I mean... you know!
-You're so adorable, &lbrace;playername&rbrace;.
+You're so adorable, &lbrace;c.playername&rbrace;.
 Who needs her if I have you!]
 1754562426443510 -->|Did she have her… reasons?|1754562504491773[<b>Speaker 👉 Shuten:</b>
 \n…Ah… maybe.]

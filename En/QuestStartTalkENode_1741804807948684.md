@@ -2,7 +2,7 @@
 graph
 Start -->1762595293475517[ ]
 1762595293475517 -->1763771107802819[<b>Speaker 👉 Musashi:</b>
-\nHi &lbrace;playername&rbrace;,
+\nHi &lbrace;c.playername&rbrace;,
 seems you're not using the box much.]
 1762595293475517 -->1741805123273116[<b>Speaker 👉 Musashi:</b>
 \nBy the way, &lbrace;npc.4209&rbrace; wants to introduce you to the other residents of the town,

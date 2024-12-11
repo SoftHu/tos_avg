@@ -1,115 +1,67 @@
 ```mermaid
 graph
-Start -->1773236170799417[<b>Speaker 👉 :</b>
-\nAhhh…
-Seikyu.
-It's been a long time…
-]
-1773236170799417 -->1773236213884218[<b>Speaker 👉 :</b>
-\nIt's so nice to be home!]
-1773236213884218 -->1773236453590293[<b>Speaker 👉 Fox:</b>
-\nFox Ancestors! 
-Great-great-grandma! Great-great-great…great-Grandpa?
-]
-1773236453590293 -->1773236481982742[<b>Speaker 👉 :</b>
-\nDon't forget your Great Uncle!]
-1773236481982742 -->1773236497526039[<b>Speaker 👉 Fox:</b>
-\n...yeah. Hi.]
-1773236497526039 -->1773236536844568[<b>Speaker 👉 :</b>
-\nHello, darling.
-You made it to Seikyu! 
-]
-1773236536844568 -->1773236553672985[<b>Speaker 👉 :</b>
-\nTook you long enough. ]
-1773236553672985 -->1773236567662874[<b>Speaker 👉 :</b>
-\nWelcome home &lbrace;playername&rbrace;, Kon. 
-This is where we lived long ago. 
-So, what do you think of Seikyu? 
-]
-1773236567662874 -->|It's a bit shabby. |1773236604445984[<b>Speaker 👉 :</b>
-\nAgreed! 
-You need to whip this place into shape!
-]
-1773236567662874 -->|Everyone is really nice!|1773236627277089[<b>Speaker 👉 :</b>
+Start -->1775372605654710[<b>Speaker 👉 :</b>
+\nAhhh… &lbrace;c.playername&rbrace;... Kon.]
+1775372605654710 -->1775372631379649[<b>Speaker 👉 :</b>
+\nOur precious ones.
+Welcome to Seikyu… finally.]
+1775372631379649 -->1775372631379652[<b>Speaker 👉 Fox:</b>
+\nAncestors!
+Great-great-grandma! 
+Great-great-great… great-grandpa?]
+1775372631379652 -->1775372631379655[<b>Speaker 👉 :</b>
+\nDon’t forget about your great-uncle!]
+1775372631379655 -->1775372631379658[<b>Speaker 👉 Fox:</b>
+\nYeah… hi.]
+1775372631379658 -->1775372631380685[<b>Speaker 👉 :</b>
+\nWe’re so happy to have you both home.]
+1775372631380685 -->1775372631380688[<b>Speaker 👉 :</b>
+\nWhat do you think of Seikyu?]
+1775372631380688 -->|It's a bit shabby.|1775372631381723[<b>Speaker 👉 :</b>
+\nAgreed!
+You need to whip this place into shape.]
+1775372631380688 -->|Everyone is really nice!|1775372771863289[<b>Speaker 👉 :</b>
 \nOf course they are!
-Who wouldn't love you two?
-]
-1773236604445984 -->1773236651272482[<b>Speaker 👉 :</b>
-\nAhem, well, regardless…\nWe're so proud you made it. \nAs you know, the yokai world outside can be…
-]
-1773236651272482 -->1773236704723235[<b>Speaker 👉 :</b>
-\nBrutal! ]
-1773236704723235 -->1773236724034852[<b>Speaker 👉 :</b>
-\nBut Seikyu is a rare bastion of harmony in the chaos. 
-	A perfect place for you and your sister now that your parents are…
-	Gone. 
-]
-1773236724034852 -->1773236736094501[<b>Speaker 👉 Fox:</b>
-\nYou still don't know where they are? 
-Our parents? 
-]
-1773236736094501 -->1773236762348838[<b>Speaker 👉 :</b>
-\n…\nNo. 
-All foxes are still beyond our sight. 
-But maybe you can find some here. Who knows?
-]
-1773236762348838 -->|I'm a fox?|1773236814040377[<b>Speaker 👉 :</b>
-\nVery funny, wise guy. ]
-1773236762348838 -->|We all look human… except for Kon. |1773236846390586[<b>Speaker 👉 Fox:</b>
-\nHEY!
-I'm working on it!
-]
-1773236814040377 -->1773236871789883[<b>Speaker 👉 :</b>
-\nYes, it's unfortunate that both of your abilities are…]
-1773236871789883 -->1773236882519356[<b>Speaker 👉 :</b>
-\nYou're broken!]
-1773236882519356 -->1773236919750973[<b>Speaker 👉 :</b>
-\nKon is stuck in her fox form, unable to transform.]
-1773236919750973 -->1773236943925566[<b>Speaker 👉 Fox:</b>
-\nHey, &lbrace;playername&rbrace; is stuck too!
-They can't turn into a fox at all. 
-]
-1773236943925566 -->|I can change to other stuff!|1773236995281220[<b>Speaker 👉 :</b>
-\nUnlocking your shapeshifting abilities should be your top priority.  
-Seikyu will be a great place to learn.\nThe yokai here take human form because they symbolize beauty and peace. ]
-1773236943925566 -->|At least I'm not useless!|1773236995281220[<b>Speaker 👉 :</b>
-\nUnlocking your shapeshifting abilities should be your top priority.  
-Seikyu will be a great place to learn.\nThe yokai here take human form because they symbolize beauty and peace. ]
-1773236995281220 -->1773237025847621[<b>Speaker 👉 :</b>
-\nHumans are real, I just know it! ]
-1773237025847621 -->1773237045604678[<b>Speaker 👉 :</b>
-\nOh, shut up you old hippy. ]
-1773237045604678 -->1773237069108551[<b>Speaker 👉 :</b>
-\nAt least I didn't die on the toilet!]
-1773237069108551 -->1773237083149640[<b>Speaker 👉 :</b>
-\nWha- no! - I died in glorious battle!]
-1773237083149640 -->1773237099223369[<b>Speaker 👉 :</b>
-\nBattling the porcelain…
-]
-1773237099223369 -->1773237117106506[<b>Speaker 👉 :</b>
-\nEnough!
-&lbrace;playername&rbrace;, Kon, your farmhouse should be just a bit further.
-I can feel the presence of another fox shrine there. 
-]
-1773237117106506 -->1773237216045387[<b>Speaker 👉 Fox:</b>
-\nThen we can talk all the time!]
-1773237216045387 -->1773237232234828[<b>Speaker 👉 :</b>
-\nOh, great!]
-1773237232234828 -->1773237244802381[<b>Speaker 👉 :</b>
-\nOh, great.]
-1773237244802381 -->1773237262513486[<b>Speaker 👉 :</b>
-\nSee you there!]
-1773237262513486 -->1773237270939983[End]
-1773236846390586 -->1773236871789883[<b>Speaker 👉 :</b>
-\nYes, it's unfortunate that both of your abilities are…]
-1773236627277089 -->1773236651272482[<b>Speaker 👉 :</b>
-\nAhem, well, regardless…\nWe're so proud you made it. \nAs you know, the yokai world outside can be…
-]
-1738567884438762 -->1751470926328118{ }
-1751470926328118 -->1751470966013239[<b>Speaker 👉 Fox:</b>
+Who wouldn’t love you two?]
+1775372631381723 -->1775372631382750[<b>Speaker 👉 :</b>
+\n&lt;i&gt;Ahem&lt;/i&gt;, well, regardless…\nWe are so proud you made it.
+As you know, the world outside can be…]
+1775372631382750 -->1775372631382755[<b>Speaker 👉 :</b>
+\nBrutal!]
+1775372631382755 -->1775372631382758[<b>Speaker 👉 :</b>
+\nBut Seikyu is a rare bastion of harmony in the chaos.
+A perfect place for you and your sister.]
+1775372631382758 -->|Do you know where our parents are?|1775373019161348[<b>Speaker 👉 :</b>
+\nWe don’t know. 
+All foxes are beyond our sight.]
+1775372631382758 -->|Where are the rest of our clan?|1775373019161348[<b>Speaker 👉 :</b>
+\nWe don’t know. 
+All foxes are beyond our sight.]
+1775373019161348 -->1775373019161351[<b>Speaker 👉 :</b>
+\nBut now you are home, maybe more will come.]
+1775373019161351 -->1775373057625866[<b>Speaker 👉 :</b>
+\nMore importantly, fox magic runs deep in Seikyu.  
+It could unlock your abilities!]
+1775373057625866 -->1775373075592973[<b>Speaker 👉 Fox:</b>
+\nYes! I want to shapeshift!
+I’m tired of being a fox… 
+I want hands!]
+1775373075592973 -->1775373087719184[<b>Speaker 👉 :</b>
+\nIf you try shapeshifting now, you might be pleasantly surprised.
+Maybe you’ll rediscover your fox form, &lbrace;c.playername&rbrace;.]
+1775373087719184 -->|Let’s give it a shot|1775373143912270[<b>Speaker 👉 Fox:</b>
+\nLet’s do it!
+OK…]
+1775373087719184 -->|My fox form is close, I can feel it!|1775373143912270[<b>Speaker 👉 Fox:</b>
+\nLet’s do it!
+OK…]
+1775373143912270 -->1773237270939983[End]
+1775372771863289 -->1775372631382750[<b>Speaker 👉 :</b>
+\n&lt;i&gt;Ahem&lt;/i&gt;, well, regardless…\nWe are so proud you made it.
+As you know, the world outside can be…]
+1738567884438762 -->1751470966013239[<b>Speaker 👉 Fox:</b>
 \n狐仙！
-刚才&lbrace;playername&rbrace;说我是他的宠物！]
-1751470926328118 -->1738567876941033[End]
+刚才&lbrace;c.playername&rbrace;说我是他的宠物！]
 1751470966013239 -->1751471393183033[<b>Speaker 👉 :</b>
 \n这样吗？
 如果你再这样说你的妹妹，
@@ -127,6 +79,5 @@ I can feel the presence of another fox shrine there.
 1751471518734655 -->1751471654534465[<b>Speaker 👉 :</b>
 \n好了，就这样吧。
 先抓紧回到你们的&lbrace;location.1&rbrace;吧。]
-1751471654534465 -->1738567876941033[End]
 
 ```

@@ -14,9 +14,9 @@ It's the first time I sang for anyone
 since coming to Seikyu.]
 1762965129398997 -->440741282349749{ }
 1762965159805654 -->|Thank you.|1762965391964898[<b>Speaker 👉 Yoni:</b>
-\nI was really fun to meet &lbrace;playername&rbrace; today.]
+\nI was really fun to meet &lbrace;c.playername&rbrace; today.]
 1762965159805654 -->|Looking forward to it.|1762965391964898[<b>Speaker 👉 Yoni:</b>
-\nI was really fun to meet &lbrace;playername&rbrace; today.]
+\nI was really fun to meet &lbrace;c.playername&rbrace; today.]
 1762965391964898 -->1762965405605603[End]
 440741282349749 -->|Do you live next door?|1762965159805654[<b>Speaker 👉 Yoni:</b>
 \nI didn't want to disturb other people,

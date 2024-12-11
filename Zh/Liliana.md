@@ -1,50 +1,108 @@
 ```mermaid
 graph LR
-Start -->1763122475101619[<b>Speaker 👉 Liliana:</b>
-\n你的礼物总是这么雪中送炭！
-帮了大忙了,我正需要呢。
-我该怎么感谢你才好呢,&lbrace;playername&rbrace;总是对我这么关照。]
-Start -->1763122475102645[<b>Speaker 👉 Liliana:</b>
-\n收到你的礼物,我突然感觉……很温暖,就像沐浴在夕阳中。
-这么说可能有些奇怪,但这是刚刚我的内心真实的感受。]
-Start -->1763122475102647[<b>Speaker 👉 Liliana:</b>
-\n其实你不用这么破费的……
-就算没有这些礼物,我们也依然是朋友。]
-Start -->1763122475102649[<b>Speaker 👉 Liliana:</b>
-\n这么说可能有些不礼貌……
-其实我平时比较关注创作,没什么多余的物欲。
-这些礼物,虽说出于好心,也会让我有些困扰呢。]
-Start -->1763122475103675[<b>Speaker 👉 Liliana:</b>
-\n这是什么？
-你是小孩子么？
-居然在开这么无聊的玩笑……]
-Start -->1763122475103677[<b>Speaker 👉 Liliana:</b>
-\n今天真是我的幸运日！
-能收到这么暖心的生日礼物,我真的好开心。
-或许应该用一幅画来记录此刻的心情呢。]
-Start -->1763122475104703[<b>Speaker 👉 Liliana:</b>
-\n&lbrace;playername&rbrace;送我的生日礼物……
-那我可要好好保管哦。
-就把它放在耀司送的礼物旁边吧！]
-Start -->1763122475104705[<b>Speaker 👉 Liliana:</b>
-\n生日礼物？！
-谢谢你,&lbrace;playername&rbrace;。]
-Start -->1763122475105731[<b>Speaker 👉 Liliana:</b>
-\n欸？这是生日礼物嘛？
-呃……谢谢你。
-其实我也会经常忘记过生日这回事的。]
-Start -->1763122475105733[<b>Speaker 👉 Liliana:</b>
-\n这就是你给我的“生日惊喜”吗？
-好吧,我还是不得不说,这实在是一种惊吓。]
-Start -->1763122475105735[<b>Speaker 👉 Liliana:</b>
-\n再见！]
-Start -->1763122475106761[<b>Speaker 👉 Liliana:</b>
-\n再见……]
-Start -->1763122475106763[<b>Speaker 👉 Liliana:</b>
-\n那么,今天就聊到这里吧。]
-Start -->1770474474127394[<b>Speaker 👉 Liliana:</b>
-\n啊……您好]
-Start -->1770474474128420[<b>Speaker 👉 Liliana:</b>
-\n是您呀！有什么能帮到您的吗？]
+Start -->1775339972760734[<b>Speaker 👉 Liliana:</b>
+\nI'll see you around &lbrace;c.playername&rbrace;!]
+Start -->1775339972760738[<b>Speaker 👉 Liliana:</b>
+\nIf you have an urge to paint, come find me.]
+Start -->1775339972760742[<b>Speaker 👉 Liliana:</b>
+\nInspired! The passion you have put into finding this... I can feel it! I will treasure this forever.]
+Start -->1775339972760746[<b>Speaker 👉 Liliana:</b>
+\n&lbrace;c.playername&rbrace; where did you find this? I've been searching for something like this for weeks!]
+Start -->1775339972760750[<b>Speaker 👉 Liliana:</b>
+\nI appreciate you thinking of me when when you saw this, it's simply beautiful!]
+Start -->1775339972760754[<b>Speaker 👉 Liliana:</b>
+\nI don't find this very inspiring.]
+Start -->1775339972760758[<b>Speaker 👉 Liliana:</b>
+\nThis definitly wouldn't make a very good picture!]
+Start -->1775339972760762[<b>Speaker 👉 Liliana:</b>
+\nI painted my koinobori with all the flowers that bloom at this time of year. Do you like it?]
+Start -->1775339972760766[<b>Speaker 👉 Liliana:</b>
+\nI have to get back to painting now, I have already waisted too much time!]
+Start -->1775339972760770[<b>Speaker 👉 Liliana:</b>
+\nMmmm... which flower should I paint today? Ah! I haven't practiced peonies in a while.]
+Start -->1775339972760774[<b>Speaker 👉 Liliana:</b>
+\nThe wind of inspiration is blowing today, I guess I'll follow it and see where it leads me.]
+Start -->1775339972760778[<b>Speaker 👉 Liliana:</b>
+\nHuh, the paint shop is closed... it must be the weekend.]
+Start -->1775339972760782[<b>Speaker 👉 Liliana:</b>
+\nThe biodiversity around the shrine is simply breathtaking, don't you think?]
+Start -->1775339972760786[<b>Speaker 👉 Liliana:</b>
+\nHow does one achieve perfection Shuten? You must have met someone I could ask!.]
+Start -->1775339972760790[<b>Speaker 👉 Liliana:</b>
+\nThe flowers in Yoni's Garden are familiar with me! They open up and show thier secrets!]
+Start -->1775339972760794[<b>Speaker 👉 Liliana:</b>
+\nPractice makes perfect. Practice will make me perfect!]
+Start -->1775339972760798[<b>Speaker 👉 Liliana:</b>
+\nHmmm, the moonlight is too dim for painting. I guess I shall rest until the sun rises.]
+Start -->1775339972760802[<b>Speaker 👉 Liliana:</b>
+\nThe sound of heavy rain is relaxing, don't you think? It's a shame it's a natural enemy of paper!]
+Start -->1775339972760806[<b>Speaker 👉 Liliana:</b>
+\nAs someone who is constantly striving for perfection, this birthday present is pretty close!]
+Start -->1775339972760810[<b>Speaker 👉 Liliana:</b>
+\nAs much as the gift of spending time with you is surely enough, I do appreciate this!]
+Start -->1775339972760814[<b>Speaker 👉 Liliana:</b>
+\nYou remind me of a young sapling baring its first fruit - your gifts will only get better with time!]
+Start -->1775339972760818[<b>Speaker 👉 Liliana:</b>
+\nYohji must have told you it's my birthday at the last minute for you to choose this gift.]
+Start -->1775339972760822[<b>Speaker 👉 Liliana:</b>
+\nThis gift is more beautiful than the rare Seikyu rose! Thank you!]
+Start -->1775339972760826[<b>Speaker 👉 Liliana:</b>
+\nI have to go see the Master now. Bye!]
+Start -->1775339972760830[<b>Speaker 👉 Liliana:</b>
+\n-]
+Start -->1775339972760834[<b>Speaker 👉 Liliana:</b>
+\n-]
+Start -->1775339972760838[<b>Speaker 👉 Liliana:</b>
+\n-]
+Start -->1775339972760842[<b>Speaker 👉 Liliana:</b>
+\n-]
+Start -->1775339972760846[<b>Speaker 👉 Liliana:</b>
+\nThese long summer days provide unlimited opportunities for inspriation, don't you think?]
+Start -->1775339972760850[<b>Speaker 👉 Liliana:</b>
+\nThe orange of Autumn leaves is my favourate colour... I find it warming!]
+Start -->1775339972760854[<b>Speaker 👉 Liliana:</b>
+\nI cannot stand the monochromatic colour pallet of winter!]
+Start -->1775339972760858[<b>Speaker 👉 Liliana:</b>
+\nI always love a good story! Shuten often tells me of old tales she heard from travelers and they always intrigue me!]
+Start -->1775339972760862[<b>Speaker 👉 Liliana:</b>
+\nI am not a huge fan of failing, but it is simply unforgivable to give up!]
+Start -->1775339972760866[<b>Speaker 👉 Liliana:</b>
+\nAhhh &lbrace;c.playername&rbrace;! I see you are also out here in search of inspiration.]
+Start -->1775339972760870[<b>Speaker 👉 Liliana:</b>
+\nI would love to stay and chat further but a wreath just caught my eye. I need to go sketch it!]
+Start -->1775339972760874[<b>Speaker 👉 Liliana:</b>
+\n-]
+Start -->1775339972760878[<b>Speaker 👉 Liliana:</b>
+\n-]
+Start -->1775339972760882[<b>Speaker 👉 Liliana:</b>
+\nIf you're free I would love for you to join me in gathering painting materials!]
+Start -->1775339972760886[<b>Speaker 👉 Liliana:</b>
+\nHave you been to the mines recently? There are some minerals down there I'm interested in!]
+Start -->1775339972760890[<b>Speaker 👉 Liliana:</b>
+\nHmmm, are these good enough to show to the Master tomorrow? No, not yet!]
+Start -->1775339972760894[<b>Speaker 👉 Liliana:</b>
+\n-]
+Start -->1775339972760898[<b>Speaker 👉 Liliana:</b>
+\n-]
+Start -->1775339972760902[<b>Speaker 👉 Liliana:</b>
+\n-]
+Start -->1775339972760906[<b>Speaker 👉 Liliana:</b>
+\n-]
+Start -->1775339972760910[<b>Speaker 👉 Liliana:</b>
+\n-]
+Start -->1775339972760914[<b>Speaker 👉 Liliana:</b>
+\n-]
+Start -->1775339972760918[<b>Speaker 👉 Liliana:</b>
+\nI'm packed and ready to explore a bit further out today! I'll let you know what flowers I find.]
+Start -->1775339972760922[<b>Speaker 👉 Liliana:</b>
+\n-]
+Start -->1775339972760926[<b>Speaker 👉 Liliana:</b>
+\nI might swing by the farm later... I hope that's okay!]
+Start -->1775339972760930[<b>Speaker 👉 Liliana:</b>
+\n-]
+Start -->1775339972760934[<b>Speaker 👉 Liliana:</b>
+\nThe perseverence that plants show during the winter is so inspiring!]
+Start -->1775339972760938[<b>Speaker 👉 Liliana:</b>
+\n-]
 
 ```

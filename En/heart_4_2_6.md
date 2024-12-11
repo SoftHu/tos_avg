@@ -44,7 +44,7 @@ empty-handed and disappoint the kids.]
 \nWith Uncle around,
 we could never come back empty-handed.]
 1756243408125499 -->1756243562478141[<b>Speaker 👉 Torleone:</b>
-\nDoes &lbrace;playername&rbrace; prefer sashimi or sushi?]
+\nDoes &lbrace;c.playername&rbrace; prefer sashimi or sushi?]
 1756243562478141 -->|Tuna sashimi.|1756243611384387[End]
 1756243562478141 -->|Tuna sushi.|1756243611384387[End]
 Start -->1756243808518725[<b>Speaker 👉 Fox:</b>
@@ -127,14 +127,14 @@ because I think Miss Ama actually prefers more luxurious,
 exquisite things.\nHaha, thinking about it,
 she might find my gift a bit odd.]
 1756246001855146 -->|It's the thought that matters the most.|1756246189003440[<b>Speaker 👉 Torleone:</b>
-\nThank you, &lbrace;playername&rbrace;.
+\nThank you, &lbrace;c.playername&rbrace;.
 That reassures me.]
 1756246001855146 -->|&lbrace;noc.4205.miss&rbrace;更喜欢奢华的东西|1756246210047665[<b>Speaker 👉 Torleone:</b>
 \nSigh... I hope this little scarf helps.
 If she doesn't like it, there's nothing I can do.]
 1756246189003440 -->1756246281436850[<b>Speaker 👉 Torleone:</b>
 \nAfter all, I'm just a simple man, so I came to ask you,
-&lbrace;playername&rbrace;, for advice.\nThanks for coming today. I'm much more at ease with your advice.]
+&lbrace;c.playername&rbrace;, for advice.\nThanks for coming today. I'm much more at ease with your advice.]
 1756246281436850 -->1756246306937523[<b>Speaker 👉 Fox:</b>
 \nLooking forward to your good news, &lbrace;npc.4206&rbrace;.]
 1756246306937523 -->1756246341282484[<b>Speaker 👉 Torleone:</b>
@@ -149,6 +149,6 @@ I've retired now.
 I'm just a fish shop owner.]
 1756246210047665 -->1756246281436850[<b>Speaker 👉 Torleone:</b>
 \nAfter all, I'm just a simple man, so I came to ask you,
-&lbrace;playername&rbrace;, for advice.\nThanks for coming today. I'm much more at ease with your advice.]
+&lbrace;c.playername&rbrace;, for advice.\nThanks for coming today. I'm much more at ease with your advice.]
 
 ```

@@ -55,7 +55,7 @@ I have a better chance getting on him on board, right?]
 \nI knew you'd feel the same way.
 Great, then that's what I'll write.]
 1761906724864272 -->|There is no shame in wanting to protect your family.|1761968607618743[<b>Speaker 👉 Ritsurei:</b>
-\nThank you, &lbrace;playername&rbrace;. You're the first one to telll me that. 
+\nThank you, &lbrace;c.playername&rbrace;. You're the first one to telll me that. 
 Okay, time to muster up my courage and write that letter.]
 1761968607618743 -->1761968904892088[<b>Speaker 👉 Ritsurei:</b>
 \nAlright, let's write something nice at the end

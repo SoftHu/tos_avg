@@ -2,7 +2,7 @@
 graph
 Start -->1764841729323225[<b>Speaker 👉 Kon:</b>
 \nI... I did it!
-&lbrace;playername&rbrace;\nWell? How did it go?
+&lbrace;c.playername&rbrace;\nWell? How did it go?
 How do I look?]
 1764841729323225 -->|So that's your biggest concern...|1764842203973857[<b>Speaker 👉 Kon:</b>
 \nYou bet I do!

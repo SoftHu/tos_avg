@@ -1,7 +1,7 @@
 ```mermaid
 graph LR
 Start -->1731535970004068[<b>Speaker 👉 Fox:</b>
-\nWhat's up, &lbrace;playername&rbrace;?]
+\nWhat's up, &lbrace;c.playername&rbrace;?]
 Start -->1731535970006126[<b>Speaker 👉 Kon:</b>
 \nSuch a nice Seikyu breeze...
 I miss Mom…
@@ -31,8 +31,7 @@ I'm feeling distant from Kon!]
 Start -->1731537685876872[<b>Speaker 👉 Fox:</b>
 \nThis place makes a great home!
 So much space, and the neighbors are so friendly...
-I love it here!
-]
+I love it here!]
 Start -->1740298038719708[<b>Speaker 👉 Fox:</b>
 \nSee ya... 
 And it wouldn't kill you to take me out once in a while!]

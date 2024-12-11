@@ -1,56 +1,19 @@
 ```mermaid
 graph LR
-Start -->1730212391192667[<b>Speaker 👉 Oda:</b>
-\n贵安。看得出来今天您的心情很好呢……
-如果有什么需要帮忙的地方，请不要客气。
-随时都可以来找我！\n毕竟为大家服务是我的分内之事嘛！]
-Start -->1730213165787229[<b>Speaker 👉 Oda:</b>
-\n您好呀~
-今天您看上去格外开心呢……
-是遇到什么好事了吗？\n啊！抱歉，没有想要窥探您的隐私的意思。
-我总是会忘记边界感这回事呢。]
 Start -->1730217004590177[<b>Speaker 👉 Oda:</b>
-\n那么，再会了。]
+\nFarewell. If you need me simply speak my name.]
 Start -->1730217216536675[<b>Speaker 👉 Oda:</b>
-\n好的，那再见咯~]
-Start -->1730218968869989[<b>Speaker 👉 Oda:</b>
-\n虽然被大家推选为镇长……
-但是我很清楚
-大家都是看在父亲大人的面子上才认可我的。\n不过我可不会就此消沉！
-父亲的光辉历史永远属于父亲
-而我，会创造属于自己的辉煌。\n总之，我会努力让大家真正认可我的。
-以后就请多多关照啦。]
-Start -->1730220994965607[<b>Speaker 👉 Oda:</b>
-\n说起来，你对甜点感兴趣吗？
-听狐穗小姐说，你对烹饪很有研究
-有机会的话真想和你好好交流下呢。\n对啦，我打算在小镇二期规划中建一所烘焙学校。
-现在正在我的社交账号上做前期预热和招生。
-反响意外得热烈呢！\n不瞒你说，我之前在网路上也算是小有名气
-“织田亲的烘焙教室”是我的个人频道
-深受大家信赖和喜爱\n所以一听说要开线下的培训学校
-粉丝们都很积极得报名了
-哎呀，远远超出了我的计划……]
-Start -->1730233744481387[<b>Speaker 👉 Oda:</b>
-\n我正打算去艾玛小姐的店里玩呢！
-前一阵子武藏先生帮我从外面带了一批布料
-我就送到艾玛小姐那边定做衣服了。\n哎呀，那个布料的花色很可爱呢……
-艾玛小姐说用来做蓬蓬裙正合适。
-想想还有点小激动呢！]
+\nI shall take my leave now, I'm sure you and Kon are busy!]
 Start -->1730233993071725[<b>Speaker 👉 Oda:</b>
-\n呀！你小子很上道嘛！
-多谢啦……]
+\nFor me? Are you sure? The time you must have taken out of your already busy schedule to source this for me... how can I ever repay you?]
 Start -->1730233993072751[<b>Speaker 👉 Oda:</b>
-\n这么客气……
-虽然我很欣赏你的慷慨啦
-我很喜欢你送我的东西……]
+\nHow did you know I liked this? Your attention to detail and care is far more than I deserve! Thank you!]
 Start -->1730233993072753[<b>Speaker 👉 Oda:</b>
-\n谢谢你……
-我们之间不用这么客气的。]
+\nYou two are far too kind!]
 Start -->1730233993072755[<b>Speaker 👉 Oda:</b>
-\n怎么是这个……
-啧……]
+\nThis is a fine item, but I am not sure what use I would have for it!]
 Start -->1730233993073781[<b>Speaker 👉 Oda:</b>
-\n你是在故意羞辱我吗？]
+\nMy time is limited here so I'll be blunt with you! I am not sure what made you think of me when you obtained this.]
 Start -->1730233993073783[<b>Speaker 👉 player:</b>
 \n感觉和&lbrace;npc.4209.last_name&rbrace;镇长的关系更加密切了……
 接下来好好相处吧！]
@@ -58,38 +21,9 @@ Start -->1730233993073785[<b>Speaker 👉 player:</b>
 \n做了多余的事情……
 感觉和&lbrace;npc.4209.last_name&rbrace;镇长的关系疏远了！]
 Start -->1753123160870296[<b>Speaker 👉 Oda:</b>
-\n&lbrace;playername&rbrace;，欢迎参加鲤鱼节。
-这可是&lbrace;location.13&rbrace;小镇一年一度的重要节日
-别忘了去&lbrace;npc.4206&rbrace;的摊位上参加活动哦！]
+\nWelcome to your first Carp Festival &lbrace;c.playername&rbrace;! You too Kon!]
 Start -->1753123460401561[<b>Speaker 👉 Oda:</b>
-\n今天请务必尽兴而归！]
-Start -->1757029480119432[<b>Speaker 👉 Oda:</b>
-\n晚上好，又见面了。
-看来今晚您有消遣之处呢。
-那就祝您玩得开心吧！\n不过，虽然青岚治安很好
-但还是不要太晚回去哦……
-毕竟安全第一嘛！]
-Start -->1757029824382093[<b>Speaker 👉 Oda:</b>
-\n请多关照，我是小镇的镇长织田由衣。
-你叫我由衣就好了，大家都这么称呼我。\n虽然这么说有点太自满了
-不过，你要是遇到什么困难都可以来找我哦。
-我的工作就是帮大家解决问题嘛。]
-Start -->1730229309007977[<b>Speaker 👉 Oda:</b>
-\n你知道吗？其实很多年前，青岚还不是现在这么冷清。
-那个时候，青岚是狐狸们的家园。
-织田家和狐狸们的友谊从上古时代就开始了。\n狐狸们守护青岚，织田家负责守护狐狸。
-可是似乎在我祖父那辈的时候，出了什么变故。
-狐狸们都消失了……\n现在身为织田家的一员，我还是想好好履行职责。
-守护着这片土地，等待狐狸们回来。]
-Start -->1757037204773016[<b>Speaker 👉 Oda:</b>
-\n你知道晴天娃娃吗？
-过去狐狸们还在的时候
-经常会做一些晴天娃娃挂在屋檐上。\n据说晴天娃娃可以用来祈求好天气
-不过自从他们消失之后，这样的传统似乎也被遗忘了。]
-Start -->1757037426456730[<b>Speaker 👉 Oda:</b>
-\n你知道狐狸嫁女的传说吗？
-狐狸们会选择像今天这样的雨天举办婚嫁的仪式
-新娘们会穿着白无垢，坐上轿子前往远方。\n据说遇到狐狸嫁女，人们都要回避呢。]
+\nI do hope you two had fun today!]
 Start -->1757989735854647[<b>Speaker 👉 Oda:</b>
 \n晚上好……
 其实我不太会喝酒呢
@@ -110,7 +44,7 @@ Start -->1758097679938149[<b>Speaker 👉 Oda:</b>
 我时常担心这一切会失控。]
 Start -->1758100491311719[<b>Speaker 👉 Oda:</b>
 \n漫漫长夜，总该找些消遣。
-玩得愉快呀，&lbrace;playername&rbrace;]
+玩得愉快呀，&lbrace;c.playername&rbrace;]
 Start -->1758249243877977[<b>Speaker 👉 Oda:</b>
 \n欢迎你来参加夏日祭！
 我对举办大型活动没什么经验
@@ -131,5 +65,61 @@ You've proven yourself the best egg hunter this year.
 Enjoy your special prize and wear the title with pride!\nThank you all for participating! 
 I hope you had a blast. 
 Don't worry if you didn't win this time—there's always next year!]
+Start -->1775162815304726[<b>Speaker 👉 Oda:</b>
+\nAs much as I would like to stay here and admire the cherry blossoms, there is simply too much work to be done!]
+Start -->1775163103296538[<b>Speaker 👉 Oda:</b>
+\nThe weekend draws ever closer to to its end... is everyone ready for another bustling week in Seikyu?]
+Start -->1775163107154971[<b>Speaker 👉 Oda:</b>
+\nWhere did the first half of the week go Miss Ama? There is still so much to do!]
+Start -->1775164372485149[<b>Speaker 👉 Oda:</b>
+\nOh, well you know what they say - Work hard, Play hard. Right?]
+Start -->1775164416326688[<b>Speaker 👉 Oda:</b>
+\nNow that warmer days are on the horizon I think it's time for the you-know-what Shuten!]
+Start -->1775164420689953[<b>Speaker 👉 Oda:</b>
+\nI sometimes find myself staring into this fountain getting lost in my thoughts. Does that happen to you?]
+Start -->1775164711722024[<b>Speaker 👉 Oda:</b>
+\nWhile the sun adornes the sky I am but a humble servent of Seikyu.]
+Start -->1775164732277801[<b>Speaker 👉 Oda:</b>
+\nSeikyu is simply stunning at night... there is nothing that quite compares!]
+Start -->1775164532912166[<b>Speaker 👉 Oda:</b>
+\nThis weather puts a dampener on my productivity... how annoying!]
+Start -->1775166031622193[<b>Speaker 👉 Oda:</b>
+\nA Birthday present, for me? How did you know? This, what a gift!]
+Start -->1775166031623219[<b>Speaker 👉 Oda:</b>
+\nA gift from you makes my day a little bit brighter, thank you!]
+Start -->1775166031624245[<b>Speaker 👉 Oda:</b>
+\nIt truly is kind of you to have remembered my Birthday, but a gift is far too generous.]
+Start -->1775166031624247[<b>Speaker 👉 Oda:</b>
+\nThis is a fine item, but I am not sure what use I would have for it!]
+Start -->1775166031625275[<b>Speaker 👉 Oda:</b>
+\nI did not think you would remember given how busy you have been. You really know the way to my heart... this is perfect!]
+Start -->1775166218007617[<b>Speaker 👉 Oda:</b>
+\nI'm sure you and Kon need to get back to the farm, I shall not keep you!]
+Start -->1775166226185284[<b>Speaker 👉 Oda:</b>
+\nAs much as this line of inquiry fascinates me, my duty to Seikyu summons me away!]
+Start -->1775166218007618[<b>Speaker 👉 Oda:</b>
+\nI have some free time later on and have baked some good that I would love to get your opinion on!  Pop by if you can!]
+Start -->1775166486298698[<b>Speaker 👉 Oda:</b>
+\nDid you see the Koinobori I hung outside the farm? Kon mentioned you didn't have one so I stayed up last night making it!]
+Start -->1775166486299724[<b>Speaker 👉 Oda:</b>
+\nEverything went according to plan, what a relief! Now how about we go and relax?]
+Start -->1775166589369426[<b>Speaker 👉 Oda:</b>
+\nThere is nothing I would rather be doing in this warm weather than helping out my townsfolk!]
+Start -->1775166628730970[<b>Speaker 👉 Oda:</b>
+\nThese amber leaves signal the coming of colder months. I must make sure everything is prepared for winter!]
+Start -->1775166633910364[<b>Speaker 👉 Oda:</b>
+\nIt is chilly out today. Remember to wrap up warm, alright?]
+Start -->1775166811015263[<b>Speaker 👉 Oda:</b>
+\nI am forever grateful to Shuten for looking out for the residents of Seikyu and being the holder of their secrets. She is my most trusted ally!]
+Start -->1775166820796512[<b>Speaker 👉 Oda:</b>
+\nIt has always saddened me that we could never restore the fox shrines to the way they once were. However, since you have come to Seikyu they've looked a lot better!]
+Start -->1775172156249857[<b>Speaker 👉 Oda:</b>
+\nMay your first Christmas with us be a merry one &lbrace;c.playername&rbrace;!]
+Start -->1775172164922114[<b>Speaker 👉 Oda:</b>
+\nI'm glad to see you've both settled in so well! Here's to many more festive celebrations.]
+Start -->1775172166556419[<b>Speaker 👉 Oda:</b>
+\nMerry Christmas! I had to stop myself from coming over to the farm this morning, but I baked you this!]
+Start -->1775172173178628[<b>Speaker 👉 Oda:</b>
+\nI must rush off now, people to see, places to be. But, you should pop over later, I'll make some time for you!]
 
 ```

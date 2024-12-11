@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1761996905918126[<b>Speaker 👉 :</b>
-\n有什么新发现吗&lbrace;playername&rbrace;？]
+\n有什么新发现吗&lbrace;c.playername&rbrace;？]
 1761996905918126 -->|你知道黑色的狐狸吗？|1761996951600820[<b>Speaker 👉 :</b>
 \n狐狸虽然狡猾，
 但是我们以纯白的毛发作为荣誉。\n但当狐狸杀戮过重时，

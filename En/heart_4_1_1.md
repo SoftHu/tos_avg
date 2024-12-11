@@ -12,7 +12,7 @@ Why don't you start plowing those fields tomorrow, tough guy.]
 You're never this nice to me!]
 1751644159856997 -->1751644216324455[<b>Speaker 👉 Fox:</b>
 \n…
-&lbrace;playername&rbrace;...
+&lbrace;c.playername&rbrace;...
 Do you remember mom and dad?]
 1751644216324455 -->|No, I don't|1751644301407597[<b>Speaker 👉 Fox:</b>
 \nAll I have is a vague memory… 
@@ -24,12 +24,12 @@ of mom brushing my fur.\n…
 Why do you think they left?]
 1751644301407597 -->|We were a burden.|1751644380024179[<b>Speaker 👉 Fox:</b>
 \nReally?
-Do I burden you? ]
+Do I burden you?]
 1751644301407597 -->|I'm sure they had a good reason.|1751644383242612[<b>Speaker 👉 Fox:</b>
 \nI hope so. 
 You're always so optimistic. 
 I want to be too.\nYou always live in the moment. 
-I wish I could do that. ]
+I wish I could do that.]
 1751644380024179 -->|You're not a burden.|1772507203294762[<b>Speaker 👉 Fox:</b>
 \nSince Seikyu is the birthplace of the fox clan, 
 we should be able to find others of our kind here!\n..Maybe we can even find news about Mom and Dad.]
@@ -43,7 +43,7 @@ we should be able to find others of our kind here!\n..Maybe we can even find new
 we should be able to find others of our kind here!\n..Maybe we can even find news about Mom and Dad.]
 1751644168775014 -->1751644216324455[<b>Speaker 👉 Fox:</b>
 \n…
-&lbrace;playername&rbrace;...
+&lbrace;c.playername&rbrace;...
 Do you remember mom and dad?]
 Start -->1751644562807161[<b>Speaker 👉 Fox:</b>
 \nThe stars are really twinkling.
@@ -120,22 +120,22 @@ turning Obita from a human into a spirit like that.\nWhen will I be able to tran
 People always mistake me for a pet.]
 1751903174455975 -->|Who said you're a pet?|1752159869563231[<b>Speaker 👉 Fox:</b>
 \nRitsuryo…
-He called me, “&lbrace;playername&rbrace;'s pet fox.”]
+He called me, “&lbrace;c.playername&rbrace;'s pet fox.”]
 1751903174455975 -->|Don't listen to them.|1752159968485728[<b>Speaker 👉 Fox:</b>
 \nIt's okay now.
 I jumped up right there and then,
 and served him up a swift knuckle sandwich.\nIt's okay now. 
-I served him a swift knuckle sandwich. ]
+I served him a swift knuckle sandwich.]
 1752159869563231 -->|I'll talk to him for you.|1752159968485728[<b>Speaker 👉 Fox:</b>
 \nIt's okay now.
 I jumped up right there and then,
 and served him up a swift knuckle sandwich.\nIt's okay now. 
-I served him a swift knuckle sandwich. ]
+I served him a swift knuckle sandwich.]
 1752159869563231 -->|Don't listen to that silly kid.|1752159968485728[<b>Speaker 👉 Fox:</b>
 \nIt's okay now.
 I jumped up right there and then,
 and served him up a swift knuckle sandwich.\nIt's okay now. 
-I served him a swift knuckle sandwich. ]
+I served him a swift knuckle sandwich.]
 1752159968485728 -->|Poor guy.|1751903578356404[<b>Speaker 👉 :</b>
 \nComing up next, Yokai Observation.]
 1752159968485728 -->|Well done!|1752160269715970[<b>Speaker 👉 Fox:</b>
@@ -154,16 +154,14 @@ Start -->1752073509284287[<b>Speaker 👉 :</b>
 \nSo, how's everything coming along in Seikyu?]
 1752073509284287 -->1752073889267136[<b>Speaker 👉 Fox:</b>
 \nWe're settling in nicely.
-But &lbrace;playername&rbrace; is always wandering around, 
+But &lbrace;c.playername&rbrace; is always wandering around, 
 getting lost.]
 1752073889267136 -->|Yeah, settling in well, like Kon says.|1752074012392902[<b>Speaker 👉 :</b>
 \nWe're glad you live so close to a fox shrine.
-We can talk so frequently.
-]
+We can talk so frequently.]
 1752073889267136 -->|Kon really likes it.|1752074012392902[<b>Speaker 👉 :</b>
 \nWe're glad you live so close to a fox shrine.
-We can talk so frequently.
-]
+We can talk so frequently.]
 1752074012392902 -->1752074120758727[<b>Speaker 👉 Fox:</b>
 \nYeah it's great.\nBut… um…
 Do you know where the other foxes all went?]
@@ -172,13 +170,13 @@ Do you know where the other foxes all went?]
 Some things are outside of our sight. 
 We're sorry.]
 1752074153995720 -->|Why did they disappear?|1752074630851022[<b>Speaker 👉 :</b>
-\nWe didn't speak to the fox clan much before their disappearance . \nWant to hear a story about two little foxes?]
+\nWe didn't speak to the fox clan much before their disappearance .\nWant to hear a story about two little foxes?]
 1752074153995720 -->|You don't know either?|1752074630851022[<b>Speaker 👉 :</b>
-\nWe didn't speak to the fox clan much before their disappearance . \nWant to hear a story about two little foxes?]
+\nWe didn't speak to the fox clan much before their disappearance .\nWant to hear a story about two little foxes?]
 1752074630851022 -->1752074769008079[<b>Speaker 👉 Fox:</b>
 \nIt's been so long since I've heard one of your stories!]
 1752074769008079 -->|Not interested.|1752075053670869[<b>Speaker 👉 Fox:</b>
-\n&lbrace;playername&rbrace; Is getting more and more antisocial.]
+\n&lbrace;c.playername&rbrace; Is getting more and more antisocial.]
 1752074769008079 -->|*Listen*|1752075101877718[<b>Speaker 👉 :</b>
 \nOnce upon a time, there was a raging storm,
 and two little yokai were left at the foot of a mountain.\nThey had nowhere to go, so they took refuge in a shrine.

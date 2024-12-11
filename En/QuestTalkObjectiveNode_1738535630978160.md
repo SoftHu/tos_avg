@@ -1,13 +1,12 @@
 ```mermaid
 graph
 Start -->1738536455094394[<b>Speaker 👉 Fox:</b>
-\nGood morning! &lbrace;playername&rbrace;.
+\nGood morning! &lbrace;c.playername&rbrace;.
 I was so tired yesterday,
 so I slept in a bit.\nAny plans for today?]
 1738536455094394 -->|I've got some seeds...|1738536700192898[<b>Speaker 👉 Fox:</b>
 \nGood idea!
-The outer fields need cultivating!
-]
+The outer fields need cultivating!]
 1738536455094394 -->|Wait for me at home.|1738536768908425[<b>Speaker 👉 Fox:</b>
 \nAh... you always leave me behind.
 I'm going to tell the fox spirits right now.]

@@ -3,7 +3,7 @@ graph
 Start -->1758978700966534[<b>Speaker 👉 Oda:</b>
 \nEveryone, quiet down!\nRecently,
 we've welcomed two new members,
-&lbrace;playername&rbrace; and &lbrace;npc.4101&rbrace;.\nThey are staying at the farmhouse.
+&lbrace;c.playername&rbrace; and &lbrace;npc.4101&rbrace;.\nThey are staying at the farmhouse.
 Let's thank them for joining our community.]
 1758978700966534 -->1758988547395240[<b>Speaker 👉 Fox:</b>
 \nYay!
@@ -12,7 +12,7 @@ I love adventures and sweets.\nI'm looking forward to hanging out with everybody
 This is my &lbrace;sex.sibling&rbrace;.]
 1758988547395240 -->1758988331295399[End]
 Start -->1758987591518858[<b>Speaker 👉 Oda:</b>
-\n&lbrace;playername&rbrace;, what kind of a town do you
+\n&lbrace;c.playername&rbrace;, what kind of a town do you
 hope to build together?]
 1758987591518858 -->|A prosperous town.|1758987649910418[<b>Speaker 👉 Musashi:</b>
 \nAh, a merchant, I see.
@@ -27,7 +27,7 @@ someone who's on the same page as me.]
 1758987694775956 -->1758987782295191[End]
 Start -->1758989698507443[<b>Speaker 👉 Oda:</b>
 \nYou tell everyone stories from before you came.\nAnd everyone wonders
-what yokai &lbrace;playername&rbrace; is.]
+what yokai &lbrace;c.playername&rbrace; is.]
 1758989698507443 -->1758989730576052[End]
 
 ```

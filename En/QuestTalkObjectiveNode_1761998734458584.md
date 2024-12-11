@@ -2,7 +2,7 @@
 graph
 Start -->1761998885248731[<b>Speaker 👉 GLP_2:</b>
 \nHmm...
-I have such a craving for &lbrace;item.26318&rbrace;...\nHey, &lbrace;playername&rbrace;,
+I have such a craving for &lbrace;item.26318&rbrace;...\nHey, &lbrace;c.playername&rbrace;,
 you ever heard of &lbrace;item.26318&rbrace;?]
 1761998885248731 -->|Yes.|1761999334936289[<b>Speaker 👉 GLP_2:</b>
 \nFor real?!
@@ -31,7 +31,7 @@ Remember, you need some meat and root vegetables to make a bowl of
 \nWonderful, I'll be here waiting for you, then.
 Remember, you need some meat and root vegetables to make a bowl of 
 &lbrace;item.26318&rbrace;.]
-1761999809644288 -->|Forget it.|1761999976316682[<b>Speaker 👉 GLP_2:</b>
+1761999809644288 -->|None|1761999976316682[<b>Speaker 👉 GLP_2:</b>
 \nO... Okay,
 you just turned down a great opportunity.]
 1761999863779073 -->1761999770123007[End]

@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1741366051818734[<b>Speaker 👉 Oda:</b>
-\nDid you enjoy yesterday's party, &lbrace;playername&rbrace;?]
+\nDid you enjoy yesterday's party, &lbrace;c.playername&rbrace;?]
 1741366051818734 -->|A lot!|1741840770440680[<b>Speaker 👉 Oda:</b>
 \nGreat, I made a dessert this morning.
 I'd love for you to try it!]

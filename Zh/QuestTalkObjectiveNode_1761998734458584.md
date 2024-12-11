@@ -3,7 +3,7 @@ graph
 Start -->1761998885248731[<b>Speaker 👉 GLP_2:</b>
 \n哎，
 好想吃&lbrace;item.26318
-&rbrace;……\n嘿，&lbrace;playername&rbrace;，
+&rbrace;……\n嘿，&lbrace;c.playername&rbrace;，
 你知道&lbrace;item.26318
 &rbrace;吗？]
 1761998885248731 -->|知道|1761999334936289[<b>Speaker 👉 GLP_2:</b>

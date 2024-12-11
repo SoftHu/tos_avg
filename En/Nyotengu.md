@@ -1,95 +1,108 @@
 ```mermaid
 graph LR
-Start -->1727665835304063[<b>Speaker 👉 Nyotengu:</b>
-\nSee you…]
-Start -->1727666100083841[<b>Speaker 👉 Nyotengu:</b>
-\nOh, it's you... What do you want? 
-Don't waste the precious morning hours chitchatting with me. 
-Do something worthwhile.]
-Start -->1727666100084867[<b>Speaker 👉 Nyotengu:</b>
-\nTrouble finding you, little fox? 
-As long as you're one of us from &lbrace;location.13&rbrace;, I'm bound to protect you.\nIt's an old pact between the Tengu clan and the foxes. 
-Even though the foxes vanished, a Tengu's promise is gold.]
-Start -->1727666206999689[<b>Speaker 👉 Nyotengu:</b>
-\nAre you the type that attracts trouble? 
-I have a feeling you and I are cut from the same cloth.\nFor little yokai seeking refuge, &lbrace;location.13&rbrace; is undoubtedly a paradise. 
-There's nothing wrong with liking peace.\nBut peace means boredom, means a routine existence. 
-I'm nearly suffocating from the boredom here.]
-Start -->1727666207000717[<b>Speaker 👉 Nyotengu:</b>
-\nShuten... she's a big mouth.
-And yet so perceptive. Nothing escapes her.\nDon't say I didn't warn you:
-don't go drinking with that guy!\nOnce you're drunk, secrets spill out.
-Once Shuten knows,
-your secrets won't be secrets anymore.]
-Start -->1727667152884881[<b>Speaker 👉 Nyotengu:</b>
-\nOh! How thoughtful...
-But I'm not so sure I can accept something so nice.]
-Start -->1727667152884883[<b>Speaker 👉 Nyotengu:</b>
-\nThank you!
-I love it...]
-Start -->1727667152885909[<b>Speaker 👉 Nyotengu:</b>
-\nThank you...
-We don't need to be so formal with each other.]
-Start -->1727667152885911[<b>Speaker 👉 Nyotengu:</b>
-\nAlthough I appreciate the gift, accepting it
-would make me uncomfortable...]
-Start -->1727667152885913[<b>Speaker 👉 Nyotengu:</b>
-\nAre you intentionally trying to embarrass me?]
-Start -->1727667152886939[<b>Speaker 👉 player:</b>
-\nI'm feeling closer to &lbrace;npc.4104&rbrace;...
-We're getting along well!]
-Start -->1727667152886941[<b>Speaker 👉 player:</b>
-\nI did something I shouldn't have...
-I'm feeling distant from &lbrace;npc.4104&rbrace; now!]
-Start -->1753045593933621[<b>Speaker 👉 Nyotengu:</b>
-\nIn times like these, as guardians of &lbrace;location.13&rbrace;,
-we must be more vigilant...
-Many dangers strike when they're least expected.]
-Start -->1753045597110070[<b>Speaker 👉 Nyotengu:</b>
-\nBe extra vigilant, don't be complacent.]
-Start -->1757105373438130[<b>Speaker 👉 Nyotengu:</b>
-\nThe Tengu clan has delicate relationships with many other races. 
-We don't choose our friends based on their power.]
-Start -->1757105585625269[<b>Speaker 👉 Nyotengu:</b>
-\nThe strong are always drawn to danger, 
-only by getting close to it can they truly understand their place in the world.\nThe Tengu clan never fears gazing into the abyss. 
-We're companions of the abyss... maybe we are the abyss itself.]
-Start -->1757105882885305[<b>Speaker 👉 Nyotengu:</b>
-\nMayor &lbrace;npc.4209.last_name&rbrace; is always humble and respectful. 
-Don't get me wrong, I'm not complimenting her. I can't stand all the formalities.\nSpending time on all that polite talk? Better to &quot;cut&quot; straight to the point.\nBut seeing how cute she looks when she smiles, I'll forgive her shortcomings.]
-Start -->1757106032150716[<b>Speaker 👉 Nyotengu:</b>
-\nEven though I patrol the mountains daily, I'm bound to miss some things.\nYou'd better not roam around too late, 
-to make sure you avoid any little accidents.\nIf I took you out that wouldn't be ideal for either of us.]
-Start -->1757106180782271[<b>Speaker 👉 Nyotengu:</b>
-\nThe UV rays are really bad for the skin in this weather. 
-I always have to slather on tons of sunscreen before I feel safe going out. 
-Especially once I start flying, it's even easier to get sunburned.]
-Start -->1757106398857410[<b>Speaker 👉 Nyotengu:</b>
-\nFlying in the rain really tests your skills, 
-what with lightning interference and reduced visibility. 
-But for a Tengu, it's all part of the training.]
-Start -->1757988214146609[<b>Speaker 👉 Nyotengu:</b>
-\nSurprised to see me here? 
-It should be no surprise that even a guardian of &lbrace;location.13&rbrace; 
-needs to let her hair down sometimes.]
-Start -->1757988520720947[<b>Speaker 👉 Nyotengu:</b>
-\nThat guy &lbrace;npc.4208&rbrace;, no sense of professionalism at all... 
-My good sake in the shop is disappearing at an alarming rate.\nHe's sneaking drinks from my stash! Asked him and he flat out denied it. 
-If it weren't for our long friendship, there would be reprisals.]
-Start -->1757989263913525[<b>Speaker 👉 Nyotengu:</b>
-\nOur Tengu doctrines explicitly state, 
-&quot;Do not indulge in drink, do not indulge in pleasures.&quot; 
-But how do you define indulging?\nAs long as you're not drunk, right?]
-Start -->1758090784538209[<b>Speaker 👉 Nyotengu:</b>
-\n&quot;All in&quot; is a do-or-die attitude! 
-If you believe deep inside that this time you can turn it around, you can do it.\nThis is a gambling tip passed down from an elder in the Tengu tribe. 
-Mind you, this elder is often penniless. So, it's not very reliable.]
-Start -->1758091192677987[<b>Speaker 👉 Nyotengu:</b>
-\nOur Tengu clan has a unique skill. Just one look and we can see your fortune.\nI see you're running low on luck today. Maybe don't wager too much, huh?]
-Start -->1758185326111317[<b>Speaker 👉 Nyotengu:</b>
-\nThe mayor gave me the day off today, said even if the sky falls, 
-she doesn't need my help. Guess I'm playing tourist then.]
-Start -->1758248674655831[<b>Speaker 👉 Nyotengu:</b>
-\nEnjoy it... little fox.]
+Start -->1730217004590177[<b>Speaker 👉 Nyotengu:</b>
+\nTengu do not say goodbye, we say until we meet again.]
+Start -->1730217216536675[<b>Speaker 👉 Nyotengu:</b>
+\nMay Inari smile on you.]
+Start -->1730233993071725[<b>Speaker 👉 Nyotengu:</b>
+\nLittle Fox... I'm speachless... I love it. Thank you.]
+Start -->1730233993072751[<b>Speaker 👉 Nyotengu:</b>
+\nYou must be paying close attention to know the right gift to give. Thank you, Little Fox.]
+Start -->1730233993072753[<b>Speaker 👉 Nyotengu:</b>
+\nThank you very much. I have a good spot for this in my armoury.]
+Start -->1730233993072755[<b>Speaker 👉 Nyotengu:</b>
+\nThis doesn't befit a Tengu warrior.]
+Start -->1730233993073781[<b>Speaker 👉 Nyotengu:</b>
+\nI hope my apprentice would know me better than that.]
+Start -->1753123160870296[<b>Speaker 👉 Nyotengu:</b>
+\nThe fluttering Koinobori remind me of war flags... are they serving alcohol yet?]
+Start -->1753123460401561[<b>Speaker 👉 Nyotengu:</b>
+\nDid you two have fun at the festival? There is a dragon waiting to burst forth from young Kon, I know it.]
+Start -->1775162815304726[<b>Speaker 👉 Nyotengu:</b>
+\nAnother long day of guarding sleepy Seikyu... I'll be drinking later if you care to join.]
+Start -->1775163103296538[<b>Speaker 👉 Nyotengu:</b>
+\nFox ruin monsters are hardly a challenge, the real battle is cleaning up their remains. Is one good fight too much to ask?]
+Start -->1775163107154971[<b>Speaker 👉 Nyotengu:</b>
+\nNot now, Little Fox. Saturdays are for prayer--a warrior must also condition their spirit.]
+Start -->1775164372485149[<b>Speaker 👉 Nyotengu:</b>
+\nDon't distract me while I'm on lookout. Oh, who am I kidding? Just once I wish to see warships out on the horizon.]
+Start -->1775164416326688[<b>Speaker 👉 Nyotengu:</b>
+\nI've explored a few levels of these ruins, but Tengu aren't meant for the underground. I need blue skies above so I can take off at any moment. I'll leave the depths to you, Little Fox.]
+Start -->1775164420689953[<b>Speaker 👉 Nyotengu:</b>
+\nMaybe we don't tell anyone I was here. Ok, little apprentice?]
+Start -->1775164711722024[<b>Speaker 👉 Nyotengu:</b>
+\nAnother peaceful day... boring...]
+Start -->1775164732277801[<b>Speaker 👉 Nyotengu:</b>
+\nWhen the sun has set, a warrior should be twice as wary of ambush.]
+Start -->1775164532912166[<b>Speaker 👉 Nyotengu:</b>
+\nThis damned rain...]
+Start -->1775166031622193[<b>Speaker 👉 Nyotengu:</b>
+\nYou know me so well, Little Fox. Thank you!]
+Start -->1775166031623219[<b>Speaker 👉 Nyotengu:</b>
+\nWhat a thoughtful present. Thank you, Little fox.]
+Start -->1775166031624245[<b>Speaker 👉 Nyotengu:</b>
+\nA warrior shouldn't focus on birthdays... yet I must admit, I thought you knew me better than this.]
+Start -->1775166031624247[<b>Speaker 👉 Nyotengu:</b>
+\nTengu do not celebrate birthdays... this present makes me wish I kept that practice.]
+Start -->1775166031625275[<b>Speaker 👉 Nyotengu:</b>
+\nLittle Fox! This is the best birthday present I have ever recieved. You're wonderful!]
+Start -->1775166218007617[<b>Speaker 👉 Nyotengu:</b>
+\nFarewell, Little Fox.]
+Start -->1775166226185284[<b>Speaker 👉 Nyotengu:</b>
+\nFarewell, mighty fox. May your foes tremble before you!]
+Start -->1775166218007618[<b>Speaker 👉 Nyotengu:</b>
+\nCome see me soon--my days are brightest when you're around.]
+Start -->1775166486298698[<b>Speaker 👉 Nyotengu:</b>
+\nHappy Carp Festival, Little Fox. I'd like to walk arm in arm and watch the children with you, but I'm on security duty...]
+Start -->1775166486299724[<b>Speaker 👉 Nyotengu:</b>
+\nThe festival makes me dream about having a family of our own. How unlike me!]
+Start -->1775166589369426[<b>Speaker 👉 Nyotengu:</b>
+\nSummer is the season of war...sigh...I miss those days.]
+Start -->1775166628730970[<b>Speaker 👉 Nyotengu:</b>
+\nThe leaves are turning the color of blood. Shall we make believe we're on a blood-soaked battlefield? No... that'd be silly.]
+Start -->1775166633910364[<b>Speaker 👉 Nyotengu:</b>
+\nArmour gets brittle in the cold--better for cutting through it.]
+Start -->1775166811015263[<b>Speaker 👉 Nyotengu:</b>
+\nI am forever grateful to Shuten for looking out for the residents of Seikyu and being the holder of their secrets. She is my most trusted ally!]
+Start -->1775166820796512[<b>Speaker 👉 Nyotengu:</b>
+\nIt has always saddened me that we could never restore the fox shrines to the way they once were. However, since you have come to Seikyu they've looked a lot better!]
+Start -->1775172156249857[<b>Speaker 👉 Nyotengu:</b>
+\nMerry Christmas, Little Fox.]
+Start -->1775172164922114[<b>Speaker 👉 Nyotengu:</b>
+\nDon't forget to train. Even on holidays!]
+Start -->1775172166556419[<b>Speaker 👉 Nyotengu:</b>
+\nMy heart soars to see you, Little Fox. You're the only present I wish to recieve on this day.]
+Start -->1775172173178628[<b>Speaker 👉 Nyotengu:</b>
+\nCome find me under the mistletoe later, Little Fox. That's and order.]
+Start -->1775176516281286[<b>Speaker 👉 Nyotengu:</b>
+\nMy apprentice should be training.]
+Start -->1775176516281288[<b>Speaker 👉 Nyotengu:</b>
+\nThe curse weighs heavy on me today, Little Fox. I never liked Tuesdays...]
+Start -->1775176516282314[<b>Speaker 👉 Nyotengu:</b>
+\nI find myself praying more these days. I actually look forward to Saturdays at the temple.]
+Start -->1775176919658446[<b>Speaker 👉 Nyotengu:</b>
+\nI can't believe you beat me in single combat. I want a rematch--one day when I'm feeling better.]
+Start -->1775176919658448[<b>Speaker 👉 Nyotengu:</b>
+\nYou've made me a proud master, Little Fox. I think we've earned another dip in the hot springs tonight.]
+Start -->1775176919659474[<b>Speaker 👉 Nyotengu:</b>
+\nSeikyu is lucky to have you watching over it. I can rest easy knowing the town is in good hands. Of course, Nine Tails' 'goods' don't hurt either.]
+Start -->1775176955845588[<b>Speaker 👉 Nyotengu:</b>
+\nOn these long guard hours, my mind always wanders to you, Little Fox. You make a woman want to abandon her post.]
+Start -->1775176955845590[<b>Speaker 👉 Nyotengu:</b>
+\nI'm busy now. Come find me in the hot spring later, my lovely Little Fox.]
+Start -->1775176955846616[<b>Speaker 👉 Nyotengu:</b>
+\nI find myself asking Inari for more time with you, Little Fox. I hope she grants my wish.]
+Start -->1775179389253594[<b>Speaker 👉 Nyotengu:</b>
+\nThis rainy season seems endless...]
+Start -->1775179411370972[<b>Speaker 👉 Nyotengu:</b>
+\nI fear this will be my last rainy season. If only the rain were drops of wine... at least then I'd die happy.]
+Start -->1775179522039776[<b>Speaker 👉 Nyotengu:</b>
+\nThere's nothing better than warm mulled wine after training all day. Let's indulge ourselves this evening--if you can hold your alcohol.]
+Start -->1775179522039778[<b>Speaker 👉 Nyotengu:</b>
+\nThe seasons' change makes one think of those they love... Don't you agree, Little Fox?]
+Start -->1775179604273124[<b>Speaker 👉 Nyotengu:</b>
+\nKeep your blade sharp, my apprentice. I can feel this winter in my bones... I won't be around forever.]
+Start -->1775179604274150[<b>Speaker 👉 Nyotengu:</b>
+\nWinter is the season of death. Makes me want to get cozy by a fire with someone special.]
 
 ```

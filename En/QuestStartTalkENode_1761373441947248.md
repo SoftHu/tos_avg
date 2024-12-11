@@ -1,7 +1,7 @@
 ```mermaid
 graph
 Start -->1761373919956595[<b>Speaker 👉 Tetsuo:</b>
-\nGreetings, you must be &lbrace;playername&rbrace;.
+\nGreetings, you must be &lbrace;c.playername&rbrace;.
 My name is Theo and I hope I'm not intruding.
 People all say how kind you are. Can you help me?]
 1761373919956595 -->|Well... if you put it that way|1761437199394425[<b>Speaker 👉 Tetsuo:</b>

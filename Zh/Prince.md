@@ -1,109 +1,92 @@
 ```mermaid
 graph LR
-Start -->1727401007651936[<b>Speaker 👉 Prince:</b>
-\n拜拜~]
-Start -->1727401749323882[<b>Speaker 👉 Prince:</b>
-\n日复一日，年复一年……好无聊啊！]
-Start -->1727401749323884[<b>Speaker 👉 Prince:</b>
-\n真想看看外面的风景啊……你说对吧？]
-Start -->1727640070775924[<b>Speaker 👉 Prince:</b>
-\n呀！你小子很上道嘛！
-多谢啦……]
-Start -->1727640070775926[<b>Speaker 👉 Prince:</b>
-\n这么客气……
-虽然我很欣赏你的慷慨啦
-我很喜欢你送我的东西……]
-Start -->1727640070776952[<b>Speaker 👉 Prince:</b>
-\n谢谢你……
-我们之间不用这么客气的。]
-Start -->1727640070776954[<b>Speaker 👉 Prince:</b>
-\n怎么是这个……
-啧……]
-Start -->1727640070776956[<b>Speaker 👉 Prince:</b>
-\n你是在故意羞辱我吗？]
-Start -->1727640070777982[<b>Speaker 👉 player:</b>
-\n感觉和&lbrace;npc.4212&rbrace;的关系更加密切了……
-接下来好好相处吧！]
-Start -->1727640070777984[<b>Speaker 👉 player:</b>
-\n做了多余的事情……
-感觉和&lbrace;npc.4212&rbrace;的关系疏远了！]
-Start -->1740649883864278[<b>Speaker 👉 Prince:</b>
-\n莫非……莫非……
-恕我直言，你该不会是在向我搭讪吧？\n啊，我懂。
-路上看到这么英俊帅气的河童，忍不住想要亲近一下。\n不过呢，我也是很矜持的。
-我不能向你透露太多，我需要一些神秘感。]
-Start -->1753055133671233[<b>Speaker 👉 Prince:</b>
-\n为什么连鲤鱼都有专属的节日
-我们河童却从来不值得被纪念呢？
-这不公平！]
-Start -->1753055139179330[<b>Speaker 👉 Prince:</b>
-\n不管怎么说，既然是节日，还得去好好潇洒快活一番。]
-Start -->1727402147656814[<b>Speaker 👉 Prince:</b>
-\n你随时可以找我聊天……
-只要是跟你聊天，我都不会觉得厌烦。
-毕竟咱们的关系可不一般啊。\n不过，我倒是听说了一些小小的八卦。
-分享给你也无妨！\n码头的獭里昂老大，好像对艾玛小姐有点意思哦……
-你问我怎么知道的？
-那当然是靠我的纯爱雷达探测出的啊！]
-Start -->1757018621542495[<b>Speaker 👉 Prince:</b>
-\n你有没有觉得，我们的相遇完全是命运之神的指引？
-其实，我第一眼见到你的时候
-就知道你绝对是我要找的另一半。\n不用怀疑，这只是身为河童
-与生俱来的一点天赋罢了。\n这在我们河童村并不是什么稀奇的事
-人人都可以做到……
-我以为外面世界的人也有这种天赋呢。]
-Start -->1757021088599138[<b>Speaker 👉 Prince:</b>
-\n大家对河童似乎有着很深的误解……
-我们是很喜欢在水里生活没错啦
-但是这并不代表我们像青蛙一样丑陋！\n相反，我们当中不乏俊男美女。
-比如站在你面前的我就是一个很好的案例！\n所以那些传说基本上都是对我们的误解啦……
-是污蔑！是恶评！是对我们形象的损害！]
-Start -->1757021604037733[<b>Speaker 👉 Prince:</b>
-\n哦！是你呀……今天很有活力呢！
-有没有想我呀？
-要记得每天都想我才可以哦！\n放心，我也会每天都想你的！
-爱你哟~]
-Start -->1757022289873000[<b>Speaker 👉 Prince:</b>
-\n早上好！亲爱的~
-美好的清晨应该从一个甜蜜的吻开始
-你不觉得吗？]
-Start -->1757022783148139[<b>Speaker 👉 Prince:</b>
-\n好困啊，这个时间段就不应该做任何事！
-就应该美美得睡上一觉才对吧？
-河童的养生秘诀应该推广给所有人……]
-Start -->1757023441983599[<b>Speaker 👉 Prince:</b>
-\n虽然说河童村的村长不允许我们擅自离开村子
-但是大家都会趁着夜黑风高
-偷偷溜出来玩啦！]
-Start -->1757024591266929[<b>Speaker 👉 Prince:</b>
-\n你不觉得晴天很可怕吗？
-只要我离开水源
-头顶上的甘露就会一点点被太阳蒸发掉\n有种随时随地面临死亡的危机感呢……]
-Start -->1757024657764467[<b>Speaker 👉 Prince:</b>
-\n雨天真是太棒了，我可以自由自在地到处游荡~
-雨水可以滋润我的皮肤
-感觉又变得帅气了呀！]
-Start -->1757991264677438[<b>Speaker 👉 Prince:</b>
-\n苦酒入喉心作痛啊……
-没想到堂堂王子我，也会有为情所伤的一天。]
-Start -->1757992321541696[<b>Speaker 👉 Prince:</b>
-\n酒吞小姐的酿酒技术，就算去了河童村也会大受欢迎吧！
-哎呀，河童村的长辈们对于酒类的品鉴很专业
-他们的标准可是相当高的唷，毕竟是河童嘛。]
-Start -->1757993019308610[<b>Speaker 👉 Prince:</b>
-\n你知道吗？我光是在这里坐着
-一个晚上就被搭讪四五次。
-唉，太受欢迎也很让人苦恼啊。]
-Start -->1758101022067305[<b>Speaker 👉 Prince:</b>
-\n这个赌场敢放我进来
-我可要让老板吃点亏，吸取一下教训
-哈哈哈哈哈！\n难道他不知道河童一族很擅长出老千吗？]
-Start -->1758101238852203[<b>Speaker 👉 Prince:</b>
-\n赢钱对于我来说就像喝水一样简单……]
-Start -->1758250107891293[<b>Speaker 👉 Prince:</b>
-\n这么重要的节日，应该跟重要的度过对吧？
-所以你是来找我的吗？]
-Start -->1758250182563423[<b>Speaker 👉 Prince:</b>
-\n要记得再来找我玩呀！]
+Start -->1775462589612742[<b>Speaker 👉 Prince:</b>
+\nAlas, I must take my leave.]
+Start -->1775462589612746[<b>Speaker 👉 Prince:</b>
+\nDo not be sad at me leaving, cherish the time we spent together.]
+Start -->1775462589612750[<b>Speaker 👉 Prince:</b>
+\nOhhh, you got me something. Could this be a decloration of love?]
+Start -->1775462589612754[<b>Speaker 👉 Prince:</b>
+\nFor Kappa gifts are a rare occurrence. Thank you!]
+Start -->1775462589612758[<b>Speaker 👉 Prince:</b>
+\nA present for little old Prince! You two are amazing!]
+Start -->1775462589612762[<b>Speaker 👉 Prince:</b>
+\nHmmm are you trying to tell me to leave you alone?]
+Start -->1775462589612766[<b>Speaker 👉 Prince:</b>
+\nI get it! You and I are not compatible!]
+Start -->1775462589612770[<b>Speaker 👉 Prince:</b>
+\nThe Kappa keep carp as pets and ride them around! Cool, right?]
+Start -->1775462589612774[<b>Speaker 👉 Prince:</b>
+\nI hold the high scores on all the festival games. Try and beat me!]
+Start -->1775462589612778[<b>Speaker 👉 Prince:</b>
+\nI don't understand how people could not find me attractive. I have everything! The brains and the muscles. What more could you want?]
+Start -->1775462589612782[<b>Speaker 👉 Prince:</b>
+\nI've been really busy this week. I think I'll take today off!]
+Start -->1775462589612786[<b>Speaker 👉 Prince:</b>
+\nI have no time to rest. Everyone is counting on me!]
+Start -->1775462589612790[<b>Speaker 👉 Prince:</b>
+\nSee, Torleone, I am a great hero! I shall save Kappa Village but only once my destined lover arrives. For now, I am a legendary hero in training.]
+Start -->1775462589612794[<b>Speaker 👉 Prince:</b>
+\nUzomi push me! It's my turn!]
+Start -->1775462589612798[<b>Speaker 👉 Prince:</b>
+\nSee, Shuten, I am fated to find a lover and if I don't then the Kappa's are doomed! DOOMED!]
+Start -->1775462589612802[<b>Speaker 👉 Prince:</b>
+\nI wonder how Kappa Village is holding up?]
+Start -->1775462589612806[<b>Speaker 👉 Prince:</b>
+\nAnother day has passed and still no sign of my destined lover!]
+Start -->1775462589612810[<b>Speaker 👉 Prince:</b>
+\nAhhhh, I am not at risk of drying up today!]
+Start -->1775462589612814[<b>Speaker 👉 Prince:</b>
+\nAs much as my destined lover would be the best birthday present, this isn't bad!]
+Start -->1775462589612818[<b>Speaker 👉 Prince:</b>
+\nVery kind of you to have remembered! But why wouldn't you know the birthday of the renowned hero, Prince?]
+Start -->1775462589612822[<b>Speaker 👉 Prince:</b>
+\nWhat is this?]
+Start -->1775462589612826[<b>Speaker 👉 Prince:</b>
+\nThis is not the type of gift one gives a hero!]
+Start -->1775462589612830[<b>Speaker 👉 Prince:</b>
+\nYou know me so well! Maybe the stars will align one day!]
+Start -->1775462589612834[<b>Speaker 👉 Prince:</b>
+\nI have deeds of life and death improt to attaend do! Farewell!]
+Start -->1775462589612838[<b>Speaker 👉 Prince:</b>
+\n-]
+Start -->1775462589612842[<b>Speaker 👉 Prince:</b>
+\nI have to make sure I stay close to the water. My one weakness is drying out!]
+Start -->1775462589612846[<b>Speaker 👉 Prince:</b>
+\nI wonder how may parents are holding up in Kappa Village! I miss them...]
+Start -->1775462589612850[<b>Speaker 👉 Prince:</b>
+\nI'm sure my lover will not be roaming in such cold conditions! I shall remain inside today.]
+Start -->1775462589612854[<b>Speaker 👉 Prince:</b>
+\nI'll be honest, I prefer animals to people. They are easier to talk to and don't sweat the small stuff!]
+Start -->1775462589612858[<b>Speaker 👉 Prince:</b>
+\nWise Koiwa cannot stand those who don't fulfill their responsibility to things under their protection.]
+Start -->1775462589612862[<b>Speaker 👉 Prince:</b>
+\nWe do not celebrate Christmas in Kappa Village. So this is all new to me!]
+Start -->1775462589612866[<b>Speaker 👉 Prince:</b>
+\nHave a merry Christmas you two!]
+Start -->1775462589612870[<b>Speaker 👉 Prince:</b>
+\n-]
+Start -->1775462589612874[<b>Speaker 👉 Prince:</b>
+\n-]
+Start -->1775462589612878[<b>Speaker 👉 Prince:</b>
+\n-]
+Start -->1775462589612882[<b>Speaker 👉 Prince:</b>
+\n-]
+Start -->1775462589612886[<b>Speaker 👉 Prince:</b>
+\n-]
+Start -->1775462589612890[<b>Speaker 👉 Prince:</b>
+\n-]
+Start -->1775462589612894[<b>Speaker 👉 Prince:</b>
+\nThis rainy season seems endless...]
+Start -->1775462589612898[<b>Speaker 👉 Prince:</b>
+\nI fear this will be my last rainy season. If only the rain were drops of wine... at least then I'd die happy.]
+Start -->1775462589612902[<b>Speaker 👉 Prince:</b>
+\n0]
+Start -->1775462589612906[<b>Speaker 👉 Prince:</b>
+\n0]
+Start -->1775462589612910[<b>Speaker 👉 Prince:</b>
+\n0]
+Start -->1775462589612914[<b>Speaker 👉 Prince:</b>
+\n0]
 
 ```
