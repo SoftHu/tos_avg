@@ -23,29 +23,29 @@ and led to the foxes vanishing overnight?]
 1761914266264896 -->1761914284779841[<b>Speaker 👉 :</b>
 \nPerhaps the tanuki know more than we do.
 Have you spotted them outside the ruins?]
-1761914284779841 -->|No, we haven't.|1761914321836360[<b>Speaker 👉 :</b>
+1761914284779841 -->|We found no clue.|1761914321836360[<b>Speaker 👉 :</b>
 \nThe ruins are inhabitable.
 The tanuki must have sneaked into town.]
-1761914284779841 -->|We found no clue.|1761914321836360[<b>Speaker 👉 :</b>
+1761914284779841 -->|No, we haven't.|1761914321836360[<b>Speaker 👉 :</b>
 \nThe ruins are inhabitable.
 The tanuki must have sneaked into town.]
 1761914321836360 -->1761914336786761[<b>Speaker 👉 Fox:</b>
 \nHa!
 Maybe Musashi is a tanuki!
 He comes to the farm and watches us every morning.]
-1761914336786761 -->|He's probably here to pick up the produce.|1761914365450575[<b>Speaker 👉 Fox:</b>
-\nWell,
-you can't rule out the possibility!]
 1761914336786761 -->|It does raise alarm bells.|1761914443819346[<b>Speaker 👉 :</b>
 \nMusashi has been acting strangely,
 but let's not alert him yet.]
+1761914336786761 -->|He's probably here to pick up the produce.|1761914365450575[<b>Speaker 👉 Fox:</b>
+\nWell,
+you can't rule out the possibility!]
 1761914365450575 -->1761914371688784[<b>Speaker 👉 Fox:</b>
 \nShould we tell &lbrace;npc.4209.last_name&rbrace; about the tanuki?]
-1761914371688784 -->|Go ahead.|1761914485231961[<b>Speaker 👉 :</b>
+1761914371688784 -->|Keep it a secret.|1761914485231961[<b>Speaker 👉 :</b>
 \nAs residents of Seikyu,
 and descendants of fox kind,
 you should inform &lbrace;npc.4209.last_name&rbrace; of the danger.\nTake care, protect yourselves.]
-1761914371688784 -->|Keep it a secret.|1761914485231961[<b>Speaker 👉 :</b>
+1761914371688784 -->|Go ahead.|1761914485231961[<b>Speaker 👉 :</b>
 \nAs residents of Seikyu,
 and descendants of fox kind,
 you should inform &lbrace;npc.4209.last_name&rbrace; of the danger.\nTake care, protect yourselves.]

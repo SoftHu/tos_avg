@@ -36,5 +36,8 @@ Start -->1774190287572341[<b>Speaker 👉 :</b>
 \nInari Temple
 
 Legend says the Inari deity symbolizes wealth and treasures, and the townsfolk believe it has ensured Seikyu's safety for years.]
+Start -->1775708742261136[<b>Speaker 👉 :</b>
+\nAdventurer's Notes: 
+If I had no wings, it would be impossible to cross the cliff ahead.]
 
 ```

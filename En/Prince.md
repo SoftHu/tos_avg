@@ -57,9 +57,9 @@ Start -->1775462589612846[<b>Speaker 👉 Prince:</b>
 Start -->1775462589612850[<b>Speaker 👉 Prince:</b>
 \nI'm sure my lover will not be roaming in such cold conditions! I shall remain inside today.]
 Start -->1775462589612854[<b>Speaker 👉 Prince:</b>
-\nI'll be honest, I prefer animals to people. They are easier to talk to and don't sweat the small stuff!]
+\nI love the colors in Hanami Dango! It's pretty.]
 Start -->1775462589612858[<b>Speaker 👉 Prince:</b>
-\nWise Koiwa cannot stand those who don't fulfill their responsibility to things under their protection.]
+\nI may be goon in water but I can't stand the taste of fish. Us Kappa's only eat veggies.]
 Start -->1775462589612862[<b>Speaker 👉 Prince:</b>
 \nWe do not celebrate Christmas in Kappa Village. So this is all new to me!]
 Start -->1775462589612866[<b>Speaker 👉 Prince:</b>
@@ -88,5 +88,13 @@ Start -->1775462589612910[<b>Speaker 👉 Prince:</b>
 \n0]
 Start -->1775462589612914[<b>Speaker 👉 Prince:</b>
 \n0]
+Start -->1777989729986135[<b>Speaker 👉 Prince:</b>
+\nYou know the tastiest thing - cucumber!]
+Start -->1777989820920411[<b>Speaker 👉 Prince:</b>
+\nThis shines like the Bobo Pearl... it's beautiful!]
+Start -->1777989848866399[<b>Speaker 👉 Prince:</b>
+\nSpicy food makes my tongue go numb. So I stick to dango.]
+Start -->1777989866600035[<b>Speaker 👉 Prince:</b>
+\nAnything sweet, Shuten? It can't be tea though. I don't like tea.]
 
 ```

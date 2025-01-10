@@ -1,26 +1,11 @@
 ```mermaid
 graph
 Start -->1773764098806120[<b>Speaker 👉 Oda:</b>
-\n&lbrace;c.playername&rbrace;. Thank you for meeting me.
-I couldn't sleep when I remembered I didn't cover requests in your tour.\nSo, this is a request board,
-Locals post a request when they need help with something.
-Special projects often require rare items found around Seikyu.\nAnd little bird chirps when there's a new request.
-Cute isn't he?
-We didn't teach him that—he just does it...\nCompleting requests will help develop Seikyu. 
-I wish I could do them all myself... 
-You'll be doing me a huge favor by helping out, and you'll get a reward.]
-1773764098806120 -->|Happy to help, Yui.|1773764098808172[<b>Speaker 👉 Oda:</b>
-\nAlso, I hear you're looking for members of the Fox clan…
-If people are happy with your work,
-perhaps you can ask them for information about other foxes.\nLooks like there's already an outstanding request...
-Seems like a good place to start. 
-Have fun!]
-1773764098806120 -->|Bring on the rewards.|1773764098808172[<b>Speaker 👉 Oda:</b>
-\nAlso, I hear you're looking for members of the Fox clan…
-If people are happy with your work,
-perhaps you can ask them for information about other foxes.\nLooks like there's already an outstanding request...
-Seems like a good place to start. 
-Have fun!]
+\n未配置I18N\n未配置I18N\n未配置I18N\n未配置I18N]
+1773764098806120 -->|未配置I18N|1773764098808172[<b>Speaker 👉 Oda:</b>
+\n未配置I18N\n未配置I18N]
+1773764098806120 -->|未配置I18N|1773764098808172[<b>Speaker 👉 Oda:</b>
+\n未配置I18N\n未配置I18N]
 1773764098808172 -->1773764098809197[End]
 
 ```

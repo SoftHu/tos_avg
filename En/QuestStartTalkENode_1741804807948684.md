@@ -1,19 +1,21 @@
 ```mermaid
 graph
 Start -->1762595293475517[ ]
-1762595293475517 -->1763771107802819[<b>Speaker 👉 Musashi:</b>
-\nHi &lbrace;c.playername&rbrace;,
-seems you're not using the box much.]
-1762595293475517 -->1741805123273116[<b>Speaker 👉 Musashi:</b>
-\nBy the way, &lbrace;npc.4209&rbrace; wants to introduce you to the other residents of the town,
-there's a welcome ceremony at 2PM in &lbrace;location.20&rbrace;.\nYou better be there! 2 PM, don't be late~]
-1763771107802819 -->1741805123273116[<b>Speaker 👉 Musashi:</b>
-\nBy the way, &lbrace;npc.4209&rbrace; wants to introduce you to the other residents of the town,
-there's a welcome ceremony at 2PM in &lbrace;location.20&rbrace;.\nYou better be there! 2 PM, don't be late~]
-1741805123273116 -->1741805387044261[End]
-1741804886395279 -->|Where are the seeds?|1741804982096277[<b>Speaker 👉 Musashi:</b>
-\nI left a small storage box at your place,
-filled with seeds.]
-1741805025914262 -->1741805099132311{ }
+1762595293475517 -->1776760274179495[<b>Speaker 👉 Musashi:</b>
+\nHi &lbrace;c.playername&rbrace;, I’d hoped to have some produce from you by now.
+You haven’t forgotten my shipping box have you?
+I still check it every morning.]
+1762595293475517 -->1776760253569445[<b>Speaker 👉 Musashi:</b>
+\nAh &lbrace;c.playername&rbrace;, looks like you and your sister have been busy bees!
+It’s a pleasure to be working with you.]
+1776760253569445 -->1776760302176682[<b>Speaker 👉 Musashi:</b>
+\nAnyway, I’m here to invite you to a bonfire party.
+All the residents are eager to meet you and Kon.
+It’ll be tonight at &lbrace;time.20.00&rbrace; at the Temple grounds.\nDon’t be late!]
+1776760302176682 -->1741805387044261[End]
+1776760274179495 -->1776760302176682[<b>Speaker 👉 Musashi:</b>
+\nAnyway, I’m here to invite you to a bonfire party.
+All the residents are eager to meet you and Kon.
+It’ll be tonight at &lbrace;time.20.00&rbrace; at the Temple grounds.\nDon’t be late!]
 
 ```

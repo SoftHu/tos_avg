@@ -1,55 +1,70 @@
 ```mermaid
 graph
 Start -->1773744431841627[<b>Speaker 👉 :</b>
-\nWelcome home you two!
-You can now use these shrines to travel between here and Seikyu quickly.]
-1773744431841627 -->1773744461506909[<b>Speaker 👉 :</b>
-\nWhat a joyous homecoming! 
-And your house is so cute!]
+\nWhat a joyous homecoming!
+Your new home is so cute!]
+1773744431841627 -->1773744461506909[<b>Speaker 👉 Fox:</b>
+\nI get this feeling… like I am safe here.
+Did our parents live here? 
+I feel like they are close by.]
 1773744461506909 -->1773744489285983[<b>Speaker 👉 :</b>
-\nThis place is a dump!]
+\nThere were many houses here in the past…
+all full of foxes.
+Hmm… this could’ve been your parents’ home.]
 1773744489285983 -->1773744509186401[<b>Speaker 👉 :</b>
-\nYou could put a flower bed over there…
-And some bushes over there…]
+\nNo. They wouldn’t have lived in a dump.
+This place is a dump.
+It must’ve been another house that didn’t survive the test of time.]
 1773744509186401 -->1773744520711523[<b>Speaker 👉 :</b>
-\nOr you could bulldoze the whole thing.]
+\nDon’t listen to him.
+Your farmhouse is beautiful.]
 1773744520711523 -->1773744537183589[<b>Speaker 👉 :</b>
 \nHow are you feeling about your new home?]
-1773744537183589 -->|I love it!|1773744587507055[<b>Speaker 👉 :</b>
-\nThis land is rich in resources. Collect and build as much as you can!
-And if you’re ever feeling lost, Helping others is always a good strategy.\nThe yokai of Seikyu will be watching you carefully as the last of the fox clan.]
 1773744537183589 -->|It could use some work.|1773744587507055[<b>Speaker 👉 :</b>
-\nThis land is rich in resources. Collect and build as much as you can!
-And if you’re ever feeling lost, Helping others is always a good strategy.\nThe yokai of Seikyu will be watching you carefully as the last of the fox clan.]
-1773744587507055 -->1773744627233138[<b>Speaker 👉 Fox:</b>
-\nAre we really the only Foxes left?]
-1773744627233138 -->1773744643501428[<b>Speaker 👉 :</b>
-\nWe don't know. 
-That's another reason we led you here…
-To look for the other foxes.]
-1773744643501428 -->|We’re going to find them. I know it!|1773744688807293[<b>Speaker 👉 :</b>
+\nThis land is rich in resources.
+Collect and build as much as you can!]
+1773744537183589 -->|I love it!|1773744587507055[<b>Speaker 👉 :</b>
+\nThis land is rich in resources.
+Collect and build as much as you can!]
+1773744587507055 -->1775688220895638[<b>Speaker 👉 :</b>
+\nYour parents… your ancestors…
+They were always thinking about ways to help Seikyu.
+Contributing to its development.]
+1775688220895638 -->1776855507208717[<b>Speaker 👉 :</b>
+\nThis land is rich in resources.
+Collect and build as much as you can!]
+1776855507208717 -->1776855520467472[<b>Speaker 👉 :</b>
+\nI kept telling everyfox that a casino would be great! 
+More tourists, better economy.
+But nobody listens!]
+1776855520467472 -->1776855534956051[<b>Speaker 👉 :</b>
+\nHmm… a bigger community could help us find more foxes too.]
+1776855534956051 -->1776855745777174[<b>Speaker 👉 Fox:</b>
+\nEven mum and dad?]
+1776855745777174 -->|Where would we even start?|1773744688807293[<b>Speaker 👉 :</b>
 \nTell them about the ruins!]
-1773744643501428 -->|Where do we even start?|1773744688807293[<b>Speaker 👉 :</b>
+1776855745777174 -->|We will find more foxes. I know it!|1773744688807293[<b>Speaker 👉 :</b>
 \nTell them about the ruins!]
 1773744688807293 -->1773744707674495[<b>Speaker 👉 :</b>
-\nRight,
-There is one more fox shrine North of the town, near a great ruin…
-It is the remnants of a great Fox den.]
+\nRight…
+There is one more shrine to the north, near the ruins…
+It is the remnants of an old Fox Temple.]
 1773744707674495 -->1773744725590401[<b>Speaker 👉 :</b>
-\nThe ruins can wait until tomorrow.]
+\nRest first, the ruins can wait until tomorrow.]
 1773744725590401 -->1773744740950403[<b>Speaker 👉 :</b>
-\nBut don't put it off!
-Foxes always hide their secrets underground!]
+\nBut don’t put it off!
+Foxes always hide their secrets underground.]
+1773744740950403 -->|Shall we go now, Kon?|1773744773925260[<b>Speaker 👉 :</b>
+\nThere’s plenty of time for that later.
+Now, go and settle down in your home.]
 1773744740950403 -->|What’s in this ruin?|1773744773925260[<b>Speaker 👉 :</b>
-\nWe’ll tell you more about it when you get there.]
-1773744740950403 -->|Let's go now!|1773744786113934[<b>Speaker 👉 :</b>
-\nHaha, there's plenty of work to do around here.]
+\nThere’s plenty of time for that later.
+Now, go and settle down in your home.]
 1773744773925260 -->1773744796606864[<b>Speaker 👉 :</b>
-\nBut if there's any hope of finding other foxes… it's there.\nBut tonight, enjoy your new home!
-We’ll speak again soon.]
+\nYes, there’s plenty of work to do around here.
+We’ll speak again soon.\nAnd now that you’ve visited a couple of shrines, 
+They can help you travel faster.
+Try it out.]
 1773744796606864 -->1773744829217171[End]
-1773744786113934 -->1773744796606864[<b>Speaker 👉 :</b>
-\nBut if there's any hope of finding other foxes… it's there.\nBut tonight, enjoy your new home!
-We’ll speak again soon.]
 
 ```

@@ -23,7 +23,8 @@ Start -->1775162815304726[<b>Speaker 👉 Anna:</b>
 Start -->1775163103296538[<b>Speaker 👉 Anna:</b>
 \nChatting with Liliana made me late for work again. She's...she's just so cool.]
 Start -->1775163107154971[<b>Speaker 👉 Anna:</b>
-\nYou're right, but we have to go back soon...Oh, &lbrace;c.playername&rbrace;, I... I didn't see you there. Um, I should get back to work!]
+\n&quot;*mumbles* &lt;i&gt;You're right, but we have to go back soon...&lt;/i&gt;
+Oh, &lbrace;c.playername&rbrace;, I... I didn't see you there. Um, I should get back to work!&quot;]
 Start -->1775164372485149[<b>Speaker 👉 Anna:</b>
 \nEveryone in Seikyu is so cheerful. I'd like to have a little house here... one day.]
 Start -->1775164416326688[<b>Speaker 👉 Anna:</b>
@@ -37,7 +38,7 @@ Start -->1775164732277801[<b>Speaker 👉 Anna:</b>
 Start -->1775164532912166[<b>Speaker 👉 Anna:</b>
 \nI wish I could go play in the rain. Jump in a puddle for me, ok, &lbrace;c.playername&rbrace;?]
 Start -->1775166031622193[<b>Speaker 👉 Anna:</b>
-\nYou rememberd my birthday... and such a thoughtful gift... I could almost cry. Thank you.]
+\nYou remembered my birthday... and such a thoughtful gift... I could almost cry. Thank you.]
 Start -->1775166031623219[<b>Speaker 👉 Anna:</b>
 \nI don't get many gifts for my birthday, so this means a lot. Thank you.]
 Start -->1775166031624245[<b>Speaker 👉 Anna:</b>
@@ -57,7 +58,9 @@ Start -->1775166486298698[<b>Speaker 👉 Anna:</b>
 Start -->1775166486299724[<b>Speaker 👉 Anna:</b>
 \nThank you for making this festival unforgettable.]
 Start -->1775166589369426[<b>Speaker 👉 Anna:</b>
-\nWarm weather is perfect for daydreaming.......... Don't you think?]
+\n&quot;Warm weather is perfect for daydreaming... 
+...
+... Don't you think?&quot;]
 Start -->1775166628730970[<b>Speaker 👉 Anna:</b>
 \nI can see the leaves changing outside... But then Kababa yells at me for staring out the window too long.]
 Start -->1775166633910364[<b>Speaker 👉 Anna:</b>
@@ -65,7 +68,7 @@ Start -->1775166633910364[<b>Speaker 👉 Anna:</b>
 Start -->1775166811015263[<b>Speaker 👉 Anna:</b>
 \nI would only eat fruit if I could. So sweet and delicious.]
 Start -->1775166820796512[<b>Speaker 👉 Anna:</b>
-\nI don't like eating meat because... you know... that was alive once.]
+\nI love playing games! If you have any good ones I'd love to play!]
 Start -->1775172156249857[<b>Speaker 👉 Anna:</b>
 \nMerry Christmas &lbrace;c.playername&rbrace;! Hope you got Kon something good.]
 Start -->1775172164922114[<b>Speaker 👉 Anna:</b>
@@ -74,5 +77,21 @@ Start -->1775172166556419[<b>Speaker 👉 Anna:</b>
 \nMerry Christmas! I had to stop myself from coming over to the farm this morning, but I baked you this!]
 Start -->1775172173178628[<b>Speaker 👉 Anna:</b>
 \nI must rush off now, people to see, places to be. But, you should pop over later, I'll make some time for you!]
+Start -->1777895408666994[<b>Speaker 👉 Anna:</b>
+\nI don't like eating meat because... you know... that was alive once.]
+Start -->1777895647049078[<b>Speaker 👉 Anna:</b>
+\nI could really use a matcha. Sometimes I hide one behind the bar at the casino... just for a little pick-me-up.]
+Start -->1777895951087994[<b>Speaker 👉 Anna:</b>
+\nThanks for not telling anyone...um...that I was at the ruins. It's just embarrasing.]
+Start -->1777895951089022[<b>Speaker 👉 Anna:</b>
+\nYou're a nice yokai &lbrace;c.playername&rbrace;... one of the good ones. I can just tell.]
+Start -->1777895951090050[<b>Speaker 👉 Anna:</b>
+\nEveryone is talking about the Tanuki. I wonder if they're as bad as everyone says.]
+Start -->1777896086037894[<b>Speaker 👉 Anna:</b>
+\nCan't chat. The casino's air conditioning is broken and everyone is freaking out!]
+Start -->1777896176336266[<b>Speaker 👉 Anna:</b>
+\nIt's autumn! I love picking apples and pears. We should go apple picking soon!]
+Start -->1777896374246798[<b>Speaker 👉 Anna:</b>
+\nThe holidays make me miss my brother. It's nice you and Kon live together.]
 
 ```

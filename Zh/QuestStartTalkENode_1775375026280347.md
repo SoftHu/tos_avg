@@ -2,10 +2,10 @@
 graph
 Start -->1775375068984222[<b>Speaker 👉 Oda:</b>
 \nWow &lbrace;c.playername&rbrace;, that transformation was incredible!]
-1775375068984222 -->|Thank you.|1775375103420327[<b>Speaker 👉 Fox:</b>
+1775375068984222 -->|I didn’t know I could do it.|1775375103420327[<b>Speaker 👉 Fox:</b>
 \nThere’s something special about Seikyu.
 I feel it.]
-1775375068984222 -->|I didn’t know I could do it.|1775375103420327[<b>Speaker 👉 Fox:</b>
+1775375068984222 -->|Thank you.|1775375103420327[<b>Speaker 👉 Fox:</b>
 \nThere’s something special about Seikyu.
 I feel it.]
 1775375103420327 -->1775375118787498[<b>Speaker 👉 Oda:</b>

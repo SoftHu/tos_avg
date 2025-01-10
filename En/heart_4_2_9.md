@@ -9,21 +9,21 @@ I got the strawberries fresh from the vendor this morning.]
 \nOh,
 but why does &lbrace;c.playername&rbrace; have 3 strawberries?\nI only have 2!!…
 Yui is playing favorites!]
-1754287230031284 -->|Because she likes me more.|1754287295587765[<b>Speaker 👉 Oda:</b>
-\n... &#40;blushes&#41;... Come on, try it!]
 1754287230031284 -->|Maybe because you eat less.|1754287295587765[<b>Speaker 👉 Oda:</b>
+\n... &#40;blushes&#41;... Come on, try it!]
+1754287230031284 -->|Because she likes me more.|1754287295587765[<b>Speaker 👉 Oda:</b>
 \n... &#40;blushes&#41;... Come on, try it!]
 1754287295587765 -->1754287444895165[End]
 Start -->1754287450993086[<b>Speaker 👉 Fox:</b>
 \nIt's so delicious!
 &lbrace;c.playername&rbrace;'s cake is no match for this at all.]
-1754287450993086 -->|Yui has some good recipes, right?|1754287547494853[<b>Speaker 👉 Oda:</b>
-\nI actually just went by feel.
-It makes me happy that you like it.]
 1754287450993086 -->|Yui is a baking genius, isn't she?|1754287540595140[<b>Speaker 👉 Oda:</b>
 \nJust keep tasting it, and picture how satisfied
 your friends will be when they try it,
 and you'll do a great job!]
+1754287450993086 -->|Yui has some good recipes, right?|1754287547494853[<b>Speaker 👉 Oda:</b>
+\nI actually just went by feel.
+It makes me happy that you like it.]
 1754287547494853 -->438571886873713{ }
 1754287665596876 -->1754287697788365[<b>Speaker 👉 Fox:</b>
 \nThat's right,
@@ -42,50 +42,50 @@ Start -->1754287829837269[<b>Speaker 👉 Ama:</b>
 \nI must thank you, &lbrace;c.playername&rbrace;,
 for this expensive matcha.
 I'm so grateful.]
-1754287843310038 -->|It wasn't from me.|1754287903146460[<b>Speaker 👉 Ama:</b>
+1754287843310038 -->|I don't have any matcha.|1754287903146460[<b>Speaker 👉 Ama:</b>
 \n&#40;kicks you and winks at you&#41;\nWhy are you embarrassed?
 Didn't you ask me to give Yui this matcha last time?]
-1754287843310038 -->|I don't have any matcha.|1754287903146460[<b>Speaker 👉 Ama:</b>
+1754287843310038 -->|It wasn't from me.|1754287903146460[<b>Speaker 👉 Ama:</b>
 \n&#40;kicks you and winks at you&#41;\nWhy are you embarrassed?
 Didn't you ask me to give Yui this matcha last time?]
 1754287903146460 -->1754288180745693[<b>Speaker 👉 Oda:</b>
 \nThank you,
 you're always so kind.]
-1754288180745693 -->|You're welcome...|1754288572797414[<b>Speaker 👉 Ama:</b>
-\n&lbrace;c.playername&rbrace; gave you such expensive ingredients.
-Won't you at least consider entering
-a baking competition?\nI see a winner in you.
-Didn't you always want your own baking show?]
 1754288180745693 -->|It's okay...|1754288572797414[<b>Speaker 👉 Ama:</b>
 \n&lbrace;c.playername&rbrace; gave you such expensive ingredients.
 Won't you at least consider entering
 a baking competition?\nI see a winner in you.
 Didn't you always want your own baking show?]
-438571886873713 -->|Are you thinking about a career in baking?|1754287665596876[<b>Speaker 👉 Oda:</b>
-\nThank you for the kind words,
-but my job as mayor keeps me rather busy,
-and I don't have the time.]
+1754288180745693 -->|You're welcome...|1754288572797414[<b>Speaker 👉 Ama:</b>
+\n&lbrace;c.playername&rbrace; gave you such expensive ingredients.
+Won't you at least consider entering
+a baking competition?\nI see a winner in you.
+Didn't you always want your own baking show?]
 438571886873713 -->|Do you want to open a bakery?|1754287665596876[<b>Speaker 👉 Oda:</b>
 \nThank you for the kind words,
 but my job as mayor keeps me rather busy,
 and I don't have the time.]
-1754288572797414 -->|You should pursue your dreams!|1754456339646997[End]
+438571886873713 -->|Are you thinking about a career in baking?|1754287665596876[<b>Speaker 👉 Oda:</b>
+\nThank you for the kind words,
+but my job as mayor keeps me rather busy,
+and I don't have the time.]
 1754288572797414 -->|I, too, believe you could win.|1754456339646997[End]
+1754288572797414 -->|You should pursue your dreams!|1754456339646997[End]
 Start -->1754289240414771[<b>Speaker 👉 Oda:</b>
 \nThere're so many bakers today!
 BYT has laid out some fine-looking desserts!]
-1754289240414771 -->|Did you make any friends here?|1754289546133050[<b>Speaker 👉 Oda:</b>
-\nYou know, besides &lbrace;c.playername&rbrace;,
-I haven't really had the time to meet other bakers.]
 1754289240414771 -->|Any luck?|1754289543642681[<b>Speaker 👉 Oda:</b>
 \nToday's mochi has a durian filling!
 Everyone is so creative.
 There's so much I can learn here.]
+1754289240414771 -->|Did you make any friends here?|1754289546133050[<b>Speaker 👉 Oda:</b>
+\nYou know, besides &lbrace;c.playername&rbrace;,
+I haven't really had the time to meet other bakers.]
 1754289546133050 -->1754289817857595[<b>Speaker 👉 Oda:</b>
 \nStill, I want to apologize for last time.
 You were so kind.]
-1754289817857595 -->|That's not true, Yui.|1754290966527651[End]
 1754289817857595 -->|No need to apologize, Yui.|1754290966527651[End]
+1754289817857595 -->|That's not true, Yui.|1754290966527651[End]
 1754289543642681 -->1754289817857595[<b>Speaker 👉 Oda:</b>
 \nStill, I want to apologize for last time.
 You were so kind.]
@@ -103,12 +103,12 @@ Keep trying delicious desserts and you'll get there.]
 \nAre you serious?
 ...I... I thought you're &quot;passionate&quot; about baking?
 Do you even know the difference between baking and cooking?]
-1754291430154921 -->|Mostly sweets.|1754291899223727[<b>Speaker 👉 :</b>
-\nWrong!
-Bakers are always striving to create better recipes.]
 1754291430154921 -->|Precise recipes.|1754291952030384[<b>Speaker 👉 :</b>
 \nRight!
 Bakers are always striving for better recipes.]
+1754291430154921 -->|Mostly sweets.|1754291899223727[<b>Speaker 👉 :</b>
+\nWrong!
+Bakers are always striving to create better recipes.]
 1754291899223727 -->1754291963434673[<b>Speaker 👉 :</b>
 \nI don't know if you're just stingy about sharing
 or if this is your approach to baking.\nFor a yokai like you,
@@ -144,10 +144,10 @@ I got carried away.
 My apologies.]
 1754288640162284 -->1754288712254988[<b>Speaker 👉 Ama:</b>
 \nEven &lbrace;c.playername&rbrace; can't make you budge...]
-1754288712254988 -->|It's okay.|1754288776160786[<b>Speaker 👉 Oda:</b>
+1754288712254988 -->|It's fine not to go.|1754288776160786[<b>Speaker 👉 Oda:</b>
 \nThank you,
 and thanks for the matcha.]
-1754288712254988 -->|It's fine not to go.|1754288776160786[<b>Speaker 👉 Oda:</b>
+1754288712254988 -->|It's okay.|1754288776160786[<b>Speaker 👉 Oda:</b>
 \nThank you,
 and thanks for the matcha.]
 1754288776160786 -->1754288798171697[End]

@@ -1,46 +1,118 @@
 ```mermaid
 graph LR
-Start -->1727647053384795[<b>Speaker 👉 Tetsuo:</b>
-\n拜拜~]
-Start -->1727647127117917[<b>Speaker 👉 Tetsuo:</b>
-\n您好您好……有事吗？]
-Start -->1727647155424351[<b>Speaker 👉 Tetsuo:</b>
-\n悄悄告诉你，其实我最开始是偷渡来的……\n这也是没办法的事……
-毕竟我老家那边，实在是没什么出路了。\n多亏了獭里昂老大照顾
-我才能在这里生活啊……]
-Start -->1727647155424353[<b>Speaker 👉 Tetsuo:</b>
-\n别看小镇平日里都是风平浪静的样子
-其实全靠几位大人镇着场子呢。\n只要你仔细观察
-就会发现镇子里偶尔会有些鬼鬼祟祟的陌生面孔……\n可千万要小心他们……他们可不是什么好人。]
-Start -->1727647236932707[<b>Speaker 👉 Tetsuo:</b>
-\n呀！你真贴心……
-这么好的东西，我真的可以收下吗？]
-Start -->1727647236932709[<b>Speaker 👉 Tetsuo:</b>
-\n谢谢你！
-我很喜欢你送我的东西……]
-Start -->1727647236932711[<b>Speaker 👉 Tetsuo:</b>
-\n谢谢你……
-我们之间不用这么客气的。]
-Start -->1727647236933737[<b>Speaker 👉 Tetsuo:</b>
-\n虽然你能送礼物给我，我很感激……
-但是收到这个我也很困扰呀！]
-Start -->1727647236933739[<b>Speaker 👉 Tetsuo:</b>
-\n你是在故意羞辱我吗？]
-Start -->1727647236933741[<b>Speaker 👉 player:</b>
-\n感觉和&lbrace;npc.4213&rbrace;的关系更加密切了……
-接下来好好相处吧！]
-Start -->1727647236933743[<b>Speaker 👉 player:</b>
-\n做了多余的事情……
-感觉和&lbrace;npc.4213&rbrace;的关系疏远了！]
-Start -->1753055474016069[<b>Speaker 👉 Tetsuo:</b>
-\n今天是个值得庆祝的日子
-但不知道为什么我高兴不起来。
-一想到我的儿子还在老家就有点伤感。]
-Start -->1753055480212294[<b>Speaker 👉 Tetsuo:</b>
-\n毕竟是难得的节日，还是玩得开心得吧。]
-Start -->1758257068134002[<b>Speaker 👉 Tetsuo:</b>
-\n有什么话快说啦！我急着去参加活动呢！]
-Start -->1758257158766196[<b>Speaker 👉 Tetsuo:</b>
-\n不跟你说了啦……]
+Start -->1776579455738306[<b>Speaker 👉 Tetsuo:</b>
+\nAlso, have you seen my brothers? They look like me but with hats on. Nevermind, I'll find them.]
+Start -->1776579455739334[<b>Speaker 👉 Tetsuo:</b>
+\nBye now.]
+Start -->1776579455739338[<b>Speaker 👉 Tetsuo:</b>
+\nWow I love it, and I don't use that word lightly.]
+Start -->1776579455739342[<b>Speaker 👉 Tetsuo:</b>
+\nThis is a good gift. Thank you.]
+Start -->1776579455739346[<b>Speaker 👉 Tetsuo:</b>
+\nI've received better and I've recieved worse...]
+Start -->1776579455739350[<b>Speaker 👉 Tetsuo:</b>
+\nThis is definitely not cash money.]
+Start -->1776579455739354[<b>Speaker 👉 Tetsuo:</b>
+\nCan I... Can I give it back?]
+Start -->1776579455739358[<b>Speaker 👉 Tetsuo:</b>
+\nMy brothers and I still put up carp flag for eachtoher. We're just cute like that.]
+Start -->1776579455739362[<b>Speaker 👉 Tetsuo:</b>
+\nDone with the festival already? We're staying out all night. See ya!]
+Start -->1776579455739366[<b>Speaker 👉 Tetsuo:</b>
+\nIt's not easy being a big brother, but days like today make it all worth it.]
+Start -->1776579455739370[<b>Speaker 👉 Tetsuo:</b>
+\nToday, I'm hanging out with my bros!]
+Start -->1776579455739374[<b>Speaker 👉 Tetsuo:</b>
+\nFridays are my favorite. That's when the mail comes!]
+Start -->1776579455739378[<b>Speaker 👉 Tetsuo:</b>
+\nI need to get a job!]
+Start -->1776579455739382[<b>Speaker 👉 Tetsuo:</b>
+\nIvan is taking all my money!]
+Start -->1776579455739386[<b>Speaker 👉 Tetsuo:</b>
+\nI'm in love... but she lives very far away. She writes me the sweetest notes. I work very hard on my letters so that she can feel my heart through the miles.]
+Start -->1776579455739390[<b>Speaker 👉 Tetsuo:</b>
+\nTommy! Tommy, where are you?]
+Start -->1776579455739394[<b>Speaker 👉 Tetsuo:</b>
+\nIvan gets sorta creepy at night. I try to avoid him when the sun goes down.]
+Start -->1776579455739398[<b>Speaker 👉 Tetsuo:</b>
+\nRainy days are for reading old love letters.]
+Start -->1776579455739402[<b>Speaker 👉 Tetsuo:</b>
+\nThis is great! Tommy and Ivan have some competition this year.]
+Start -->1776579455739406[<b>Speaker 👉 Tetsuo:</b>
+\nVery cool, very cool.]
+Start -->1776579455739410[<b>Speaker 👉 Tetsuo:</b>
+\nOh thanks... who are you again?]
+Start -->1776579455739414[<b>Speaker 👉 Tetsuo:</b>
+\nI'm going to let Ivan burn this... at least it'll be good for something.]
+Start -->1776579455739418[<b>Speaker 👉 Tetsuo:</b>
+\nWHAT!? This is the best birthday gift ever. Thanks!]
+Start -->1776579455739422[<b>Speaker 👉 Tetsuo:</b>
+\nLet love be your guide!]
+Start -->1776579455739426[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739430[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739434[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739438[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739442[<b>Speaker 👉 Tetsuo:</b>
+\nAh Summer love. Have you ever been in love, &lbrace;c.playername&rbrace;?]
+Start -->1776579455739446[<b>Speaker 👉 Tetsuo:</b>
+\nIt's such a crisp beautiful day!]
+Start -->1776579455739450[<b>Speaker 👉 Tetsuo:</b>
+\nCold days make me yearn for my distant love's touch, to feel her arms around me, her warmth...uh...warming me--hold on I need a pen!]
+Start -->1776579455739454[<b>Speaker 👉 Tetsuo:</b>
+\nI loooove snacks. Any kind of junk food and I'm there chomping.]
+Start -->1776579455739458[<b>Speaker 👉 Tetsuo:</b>
+\nVeggies!? Yuck, no thank you.]
+Start -->1776579455739462[<b>Speaker 👉 Tetsuo:</b>
+\nMerry Christmas fox people!]
+Start -->1776579455739466[<b>Speaker 👉 Tetsuo:</b>
+\nHave a nice Holiday.]
+Start -->1776579455739470[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739474[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739478[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739482[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739486[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739490[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739494[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739498[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739502[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739506[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739510[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739514[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739518[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739522[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739526[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739530[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1776579455739534[<b>Speaker 👉 Tetsuo:</b>
+\n-]
+Start -->1777990027661927[<b>Speaker 👉 Tetsuo:</b>
+\nI love writing letters. I always need more pens and stationary.]
+Start -->1777990184397419[<b>Speaker 👉 Tetsuo:</b>
+\nMy bros want to watch a scary movie tonight. I prefer romantic films but they always out vote me.]
+Start -->1777990203058799[<b>Speaker 👉 Tetsuo:</b>
+\nHow are you two today? Feeling hungry?]
+Start -->1777990219378291[<b>Speaker 👉 Tetsuo:</b>
+\nI'll make some extra special Takoyaki for you.]
+Start -->1777990238919287[<b>Speaker 👉 Tetsuo:</b>
+\nYou two enjoy that and have a lovely day, okay!]
 
 ```

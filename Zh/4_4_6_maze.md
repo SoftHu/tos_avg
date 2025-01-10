@@ -1,31 +1,33 @@
 ```mermaid
 graph
-Start -->1751193153645843[<b>Speaker 👉 GLP_6:</b>
-\nWO HO HO ! 
-可爱的小妖怪，
-我是咕噜波舞娘，爱与和平的守护者。\n恭喜你发现了我闺房，
-能否成为我的如意郎君，
-获得我丰厚的奖励，就看你的表现了。\n准备好了吗？
-马上就会出现我的 《华丽变身眼力大考验！》]
-1751193153645843 -->|准备好了。|1751196666168596[End]
+Start -->1776321960146393[<b>Speaker 👉 GLP_6:</b>
+\n<b>Ah-Ha-Ha!</b>\nWelcome to &lt;i&gt;my&lt;/i&gt; domain!
+I am the <b>legendary</b> dancer, Gulu Bobo.\nYou two are brave and strong to have come this far. 
+Could you possibly be my <b>true love</b>?
+Only those who master my trials are worthy of &lt;i&gt;me&lt;/i&gt;!\nMay my <b>Glorious Transformation Trial</b> begin!]
+1776321960146393 -->1751196666168596[End]
 Start -->1751196687749401[<b>Speaker 👉 GLP_6:</b>
-\n请问！
-哪个是我变化后的木桶呢，
-不要偷偷闻我的香味哦！]
+\nWere you watching carefully?
+Which barrel am I in?]
 1751196687749401 -->1751196830360868{ }
-1751196687749401 -->|左边。|1751196853955877[End]
 1751196687749401 -->|右边。|1751196853955877[End]
+1751196687749401 -->|左边。|1751196853955877[End]
 Start -->1751196867413288[ ]
 1751196867413288 -->1751196864808231[<b>Speaker 👉 GLP_6:</b>
-\n果然我们心有灵犀呢，
-我就说了，
-你很特别。\n这是你的奖励，
-请注意保护好自己哦。]
+\n&lt;shiver&gt;Ah-Ha-Ha!&lt;/shiver&gt;\nYou found me!
+It would seem we are indeed in tune!\nAs a reward for triumphing over my first trial - here! 
+Now, don’t think this means you’re worthy of me!
+You still have a lot left to prove.]
 1751196867413288 -->1751197036869931[<b>Speaker 👉 GLP_6:</b>
-\n哎呀呀，
-选错啦选错啦。\n这次就没有奖励了，
-期待我们的下一次见面。]
-1751196864808231 -->1751197029170474[End]
-1751197036869931 -->1751198576906540[End]
+\nOhhhhh, so close!\nI like you so, I’ll give you another chance.]
+1751196864808231 -->1751196985000233{ }
+1751196985000233 -->1751197029170474[End]
+1751196985000233 -->1751197029170474[End]
+1751197036869931 -->1776322116443618[<b>Speaker 👉 GLP_6:</b>
+\nWhich barrel am I in?]
+1776322116443618 -->1776325956317715{ }
+1776322116443618 -->|it has to be the right one!|1751197036869931[<b>Speaker 👉 GLP_6:</b>
+\nOhhhhh, so close!\nI like you so, I’ll give you another chance.]
+1776322116443618 -->|The middle barrel!|1751196867413288[ ]
 
 ```

@@ -1,28 +1,32 @@
 ```mermaid
 graph
 Start -->1761912478631195[<b>Speaker 👉 Fujiki:</b>
-\nSo it was you who defeated Angie?
-Would you look at that, a young fox.\nYou must be a misfit...
-You turned into human by accident and now
-you don't know how to go back being a fox.]
-1761912478631195 -->|How do you know?|1761912638464290[<b>Speaker 👉 Fujiki:</b>
-\nBecause only foxes and tanuki are capable of
-transforming into other yokai.\nWithout the guidance of a blood relative,
-yokai must stumble their way into adulthood,
-never able to harness their true strength.\nWe could have been friends had we not been
-fighting for opposing causes...
-After all, we have the same origin story.]
-1761912478631195 -->|How do you know I'm a fox?|1761912638464290[<b>Speaker 👉 Fujiki:</b>
-\nBecause only foxes and tanuki are capable of
-transforming into other yokai.\nWithout the guidance of a blood relative,
-yokai must stumble their way into adulthood,
-never able to harness their true strength.\nWe could have been friends had we not been
-fighting for opposing causes...
-After all, we have the same origin story.]
-1761912638464290 -->1761912658734371[End]
+\nHa ha! &lbrace;c.playername&rbrace;! Kon! 
+You made it!
+This place is amazing, isn’t it?]
+1761912478631195 -->1777662620984156[<b>Speaker 👉 Fox:</b>
+\nYou?!
+We know you’re here for the scroll!
+Don’t try to trick us.]
+1777662620984156 -->1777662674192226[<b>Speaker 👉 Fujiki:</b>
+\nHa ha! Yes me!
+Oh… I’ve already gotten it.
+Now, I’m just sightseeing. Ha ha!]
+1777662674192226 -->|Return the transformation scroll!|1761912638464290[<b>Speaker 👉 Fujiki:</b>
+\nOh, I will return it.
+After I learn it, that is! Ha ha!]
+1777662674192226 -->|The scroll belongs to us Foxes!|1777662727283557[<b>Speaker 👉 Fujiki:</b>
+\nYou foxes and your possessions. Always hoarding.
+Without the tanuki, the foxes are nothing!\nNot that there are any foxes left anyway…
+I’m bored now… show me what you’ve got!]
+1761912638464290 -->1777662727283557[<b>Speaker 👉 Fujiki:</b>
+\nYou foxes and your possessions. Always hoarding.
+Without the tanuki, the foxes are nothing!\nNot that there are any foxes left anyway…
+I’m bored now… show me what you’ve got!]
+1777662727283557 -->1761912658734371[End]
 Start -->1761912698906916[<b>Speaker 👉 Fujiki:</b>
-\nI never thought I'd fail...\nPerhaps you'll grow more powerful
-when you learn to transform back into a fox.]
+\nYou two are too naive to understand what you interrupted!
+We will not be stopped.\nWatch your back.]
 1761912698906916 -->1761912704325925[End]
 Start -->1761912114398485[<b>Speaker 👉 Fujiki:</b>
 \nThe path to your true self lies in the imitation

@@ -23,18 +23,18 @@ It's perfect timing, little fox.]
 1770675913457771 -->1770675913457772[<b>Speaker 👉 Oda:</b>
 \n&lbrace;c.playername&rbrace; has only just arrived in &lbrace;location.13&rbrace;.
 Can we really entrust him with this?]
-1770675913457772 -->|Leave it to me!|1770675913461873[<b>Speaker 👉 Nyotengu:</b>
-\nI've been observing you, little fox.
-Although your combat skills are still rather rudimentary, you clearly have potential.\nDon't worry, &lbrace;npc.4209.last_name&rbrace;!
-Before I leave, I'll make sure the little fox is up to the task.]
 1770675913457772 -->|I'm not very confident...|1770675913461873[<b>Speaker 👉 Nyotengu:</b>
 \nI've been observing you, little fox.
 Although your combat skills are still rather rudimentary, you clearly have potential.\nDon't worry, &lbrace;npc.4209.last_name&rbrace;!
 Before I leave, I'll make sure the little fox is up to the task.]
-1770675913461873 -->|Where are you planning to go?|1770675913464950[<b>Speaker 👉 Nyotengu:</b>
+1770675913457772 -->|Leave it to me!|1770675913461873[<b>Speaker 👉 Nyotengu:</b>
+\nI've been observing you, little fox.
+Although your combat skills are still rather rudimentary, you clearly have potential.\nDon't worry, &lbrace;npc.4209.last_name&rbrace;!
+Before I leave, I'll make sure the little fox is up to the task.]
+1770675913461873 -->|Are you really leaving?|1770675913464950[<b>Speaker 👉 Nyotengu:</b>
 \nThe Tengu are freed!
 Maybe I'll come back at some point, or maybe I won't.]
-1770675913461873 -->|Are you really leaving?|1770675913464950[<b>Speaker 👉 Nyotengu:</b>
+1770675913461873 -->|Where are you planning to go?|1770675913464950[<b>Speaker 👉 Nyotengu:</b>
 \nThe Tengu are freed!
 Maybe I'll come back at some point, or maybe I won't.]
 1770675913464950 -->1770675913467000[End]

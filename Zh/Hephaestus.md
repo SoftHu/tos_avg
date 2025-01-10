@@ -63,9 +63,9 @@ Start -->1775339959590978[<b>Speaker 👉 Hephaestus:</b>
 Start -->1775339959590982[<b>Speaker 👉 Hephaestus:</b>
 \nHo, the cold never bothered me much. Guess I run naturally hot, eh?]
 Start -->1775339959590986[<b>Speaker 👉 Hephaestus:</b>
-\nMy favourate sound in the world is the sound of my hammer hitting metal. Ching! Ching! Ching!]
+\nI have a one track mind. I can't get enough high quality metal igots for the forge.]
 Start -->1775339959590990[<b>Speaker 👉 Hephaestus:</b>
-\nWaste! There is nothing more despicable than waste! Everything has a purpose, you just have to find it!]
+\nI don't like drinking alcohol, it clouds the mind and slows the body. I like to be a peak condition at all times!]
 Start -->1775339959590994[<b>Speaker 👉 Hephaestus:</b>
 \nHo, Merry Christmas!]
 Start -->1775339959590998[<b>Speaker 👉 Hephaestus:</b>
@@ -104,5 +104,11 @@ Start -->1775339959591062[<b>Speaker 👉 Hephaestus:</b>
 \nI am grateful for the warmth of my forge on these bitter winter days.]
 Start -->1775339959591066[<b>Speaker 👉 Hephaestus:</b>
 \nStrange! The fire in my forge is being beaten back by the cold clutches of these dark days. If it splutters out what will keep me warm, eh?]
+Start -->1777901077365170[<b>Speaker 👉 Hephaestus:</b>
+\nMilk is my drink of choice! Helps one grow big and strong, eh?]
+Start -->1777901263270326[<b>Speaker 👉 Hephaestus:</b>
+\nI tried fishing with Tor once. I found it quite boring. Who can sit still for that long?]
+Start -->1777901738744250[<b>Speaker 👉 Hephaestus:</b>
+\nAdvanced weapons make good gifts, but basic ones are an insult to a blacksmith. As if I couldn't make one myself!]
 
 ```

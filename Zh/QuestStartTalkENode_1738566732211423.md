@@ -17,24 +17,26 @@ Great-great-great… great-grandpa?]
 \nWe’re so happy to have you both home.]
 1775372631380685 -->1775372631380688[<b>Speaker 👉 :</b>
 \nWhat do you think of Seikyu?]
-1775372631380688 -->|It's a bit shabby.|1775372631381723[<b>Speaker 👉 :</b>
-\nAgreed!
-You need to whip this place into shape.]
 1775372631380688 -->|Everyone is really nice!|1775372771863289[<b>Speaker 👉 :</b>
 \nOf course they are!
 Who wouldn’t love you two?]
-1775372631381723 -->1775372631382750[<b>Speaker 👉 :</b>
-\n&lt;i&gt;Ahem&lt;/i&gt;, well, regardless…\nWe are so proud you made it.
+1775372631380688 -->|It's a bit shabby.|1775372631381723[<b>Speaker 👉 :</b>
+\nAgreed!
+You need to whip this place into shape.]
+1775372631381723 -->1776854901972488[<b>Speaker 👉 :</b>
+\n&lt;i&gt;Ahem&lt;/i&gt;, well, regardless…]
+1776854901972488 -->1775372631382750[<b>Speaker 👉 :</b>
+\nWe are so proud you made it.
 As you know, the world outside can be…]
 1775372631382750 -->1775372631382755[<b>Speaker 👉 :</b>
 \nBrutal!]
 1775372631382755 -->1775372631382758[<b>Speaker 👉 :</b>
 \nBut Seikyu is a rare bastion of harmony in the chaos.
 A perfect place for you and your sister.]
-1775372631382758 -->|Do you know where our parents are?|1775373019161348[<b>Speaker 👉 :</b>
+1775372631382758 -->|Where are the rest of our clan?|1775373019161348[<b>Speaker 👉 :</b>
 \nWe don’t know. 
 All foxes are beyond our sight.]
-1775372631382758 -->|Where are the rest of our clan?|1775373019161348[<b>Speaker 👉 :</b>
+1775372631382758 -->|Do you know where our parents are?|1775373019161348[<b>Speaker 👉 :</b>
 \nWe don’t know. 
 All foxes are beyond our sight.]
 1775373019161348 -->1775373019161351[<b>Speaker 👉 :</b>
@@ -49,15 +51,15 @@ I want hands!]
 1775373075592973 -->1775373087719184[<b>Speaker 👉 :</b>
 \nIf you try shapeshifting now, you might be pleasantly surprised.
 Maybe you’ll rediscover your fox form, &lbrace;c.playername&rbrace;.]
-1775373087719184 -->|Let’s give it a shot|1775373143912270[<b>Speaker 👉 Fox:</b>
+1775373087719184 -->|My fox form is close, I can feel it!|1775373143912270[<b>Speaker 👉 Fox:</b>
 \nLet’s do it!
 OK…]
-1775373087719184 -->|My fox form is close, I can feel it!|1775373143912270[<b>Speaker 👉 Fox:</b>
+1775373087719184 -->|Let’s give it a shot|1775373143912270[<b>Speaker 👉 Fox:</b>
 \nLet’s do it!
 OK…]
 1775373143912270 -->1773237270939983[End]
 1775372771863289 -->1775372631382750[<b>Speaker 👉 :</b>
-\n&lt;i&gt;Ahem&lt;/i&gt;, well, regardless…\nWe are so proud you made it.
+\nWe are so proud you made it.
 As you know, the world outside can be…]
 1738567884438762 -->1751470966013239[<b>Speaker 👉 Fox:</b>
 \n狐仙！
@@ -66,11 +68,11 @@ As you know, the world outside can be…]
 \n这样吗？
 如果你再这样说你的妹妹，
 我就会收回你的变化能力。]
-1751471393183033 -->|我开玩笑...|1751471477905726[<b>Speaker 👉 :</b>
-\n对外人开这样的玩笑不好吧，]
 1751471393183033 -->|对不起，我不会了。|1751471591685440[<b>Speaker 👉 :</b>
 \n如果你妹妹再说这样的情况，
 我就会收回你的变化。]
+1751471393183033 -->|我开玩笑...|1751471477905726[<b>Speaker 👉 :</b>
+\n对外人开这样的玩笑不好吧，]
 1751471477905726 -->1751471591685440[<b>Speaker 👉 :</b>
 \n如果你妹妹再说这样的情况，
 我就会收回你的变化。]

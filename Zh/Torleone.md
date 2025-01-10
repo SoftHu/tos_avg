@@ -65,7 +65,7 @@ Start -->1775525237421877[<b>Speaker 👉 Torleone:</b>
 Start -->1775525237421881[<b>Speaker 👉 Torleone:</b>
 \nI used to drink beer but now I'll take a glass of wine with a seafood dinner anyday.]
 Start -->1775525237421885[<b>Speaker 👉 Torleone:</b>
-\nI can't stand vegatables. The gang always ate meat when I was in charge and they loved me for it!]
+\nVegatables aren't my favorite. The gang always ate meat when I was in charge and they loved me for it!]
 Start -->1775525237421889[<b>Speaker 👉 Torleone:</b>
 \n-]
 Start -->1775525237421893[<b>Speaker 👉 Torleone:</b>
@@ -104,5 +104,11 @@ Start -->1775525237421957[<b>Speaker 👉 Torleone:</b>
 \nThe sea is calm in Winter. Maybe I'll teach Seabert to how to sail. Wouldn't that be something.]
 Start -->1775525237421961[<b>Speaker 👉 Torleone:</b>
 \nUozumi talks of flying home for Winter. We need him to help stockpile fish but he misses his family. Being a leader means making tough decisions.]
+Start -->1777917301615122[<b>Speaker 👉 Torleone:</b>
+\nI dream of shellfish... any kind.]
+Start -->1777918151965206[<b>Speaker 👉 Torleone:</b>
+\nI have no use for rocks and minerals. You're better off giving that stuff to Heph.]
+Start -->1777918170937882[<b>Speaker 👉 Torleone:</b>
+\nThe sea is truly my happy place!]
 
 ```

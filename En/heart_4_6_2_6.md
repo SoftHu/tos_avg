@@ -2,17 +2,17 @@
 graph LR
 Start -->1766663799157883[<b>Speaker 👉 Anna:</b>
 \nHey, &lbrace;c.playername&rbrace;. I just... wanted to see you.\nI've been thinking about all the times you've helped me...\n...and hoping maybe I could help you somehow.\nDo you know you have a Third Eye?]
-1766663799157883 -->|Um...|1766663844412545[<b>Speaker 👉 Anna:</b>
-\nAll Yokai have a third eye...\nThat detects creatures from the spirit realm.\nI've always been able to see the spirits...\nThat's why I'm always so distracted.\nMost Yokai never learn to open their third eye,
-But I think you could do it.\nAnd maybe it will help with your adventures,
-Want to try?]
 1766663799157883 -->|Third what?|1766663844412545[<b>Speaker 👉 Anna:</b>
 \nAll Yokai have a third eye...\nThat detects creatures from the spirit realm.\nI've always been able to see the spirits...\nThat's why I'm always so distracted.\nMost Yokai never learn to open their third eye,
 But I think you could do it.\nAnd maybe it will help with your adventures,
 Want to try?]
-1766663844412545 -->|Sounds fascinating. Why not?|1766665089388682[<b>Speaker 👉 Anna:</b>
-\nGreat! Close your eyes and let your senses fade.\nFocus on your inner landscape.]
+1766663799157883 -->|Um...|1766663844412545[<b>Speaker 👉 Anna:</b>
+\nAll Yokai have a third eye...\nThat detects creatures from the spirit realm.\nI've always been able to see the spirits...\nThat's why I'm always so distracted.\nMost Yokai never learn to open their third eye,
+But I think you could do it.\nAnd maybe it will help with your adventures,
+Want to try?]
 1766663844412545 -->|I can give a try.|1766665089388682[<b>Speaker 👉 Anna:</b>
+\nGreat! Close your eyes and let your senses fade.\nFocus on your inner landscape.]
+1766663844412545 -->|Sounds fascinating. Why not?|1766665089388682[<b>Speaker 👉 Anna:</b>
 \nGreat! Close your eyes and let your senses fade.\nFocus on your inner landscape.]
 1766665089388682 -->1766664040949896[End]
 Start -->1766665141690508[<b>Speaker 👉 Anna:</b>
@@ -32,10 +32,10 @@ Start -->1766847413541743[<b>Speaker 👉 Anna:</b>
 1766665430230178 -->1766665455797411[<b>Speaker 👉 Anna:</b>
 \nPeople think I'm crazy when I talk to him...
 because he's invisible.\nBut now you see him too!]
-1766665455797411 -->|He's adorable.|1766665662496937[<b>Speaker 👉 Anna:</b>
+1766665455797411 -->|He's freaky.|1766665662496937[<b>Speaker 👉 Anna:</b>
 \n Nice to meet you too! 
 I'm surprised that worked.\nYou must be very special to Anna.]
-1766665455797411 -->|He's freaky.|1766665662496937[<b>Speaker 👉 Anna:</b>
+1766665455797411 -->|He's adorable.|1766665662496937[<b>Speaker 👉 Anna:</b>
 \n Nice to meet you too! 
 I'm surprised that worked.\nYou must be very special to Anna.]
 1766665662496937 -->1766665719617706[<b>Speaker 👉 Anna:</b>

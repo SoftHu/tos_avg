@@ -1,25 +1,32 @@
 ```mermaid
 graph
 Start -->1761912478631195[<b>Speaker 👉 Fujiki:</b>
-\n你就是那个打败了安姬的狐狸吧，
-没想到还是个年轻的狐狸。\n你是异类吧……
-偶然变成了人形却不知道如何变成狐狸了。]
-1761912478631195 -->|你怎么会知道？|1761912638464290[<b>Speaker 👉 Fujiki:</b>
-\n因为只有狸猫和狐狸可以变化成其他妖怪。\n没有血亲的指导，
-妖怪们只能摸索着长大，
-永远无法真正掌握自己的力量。\n如果不是因为立场不同，
-或许我们能成为朋友……
-毕竟我们的身世也相符呢。]
-1761912478631195 -->|那你怎么知道我是狐狸？|1761912638464290[<b>Speaker 👉 Fujiki:</b>
-\n因为只有狸猫和狐狸可以变化成其他妖怪。\n没有血亲的指导，
-妖怪们只能摸索着长大，
-永远无法真正掌握自己的力量。\n如果不是因为立场不同，
-或许我们能成为朋友……
-毕竟我们的身世也相符呢。]
-1761912638464290 -->1761912658734371[End]
+\nHa ha! &lbrace;c.playername&rbrace;! Kon! 
+You made it!
+This place is amazing, isn’t it?]
+1761912478631195 -->1777662620984156[<b>Speaker 👉 Fox:</b>
+\nYou?!
+We know you’re here for the scroll!
+Don’t try to trick us.]
+1777662620984156 -->1777662674192226[<b>Speaker 👉 Fujiki:</b>
+\nHa ha! Yes me!
+Oh… I’ve already gotten it.
+Now, I’m just sightseeing. Ha ha!]
+1777662674192226 -->|Return the transformation scroll!|1761912638464290[<b>Speaker 👉 Fujiki:</b>
+\nOh, I will return it.
+After I learn it, that is! Ha ha!]
+1777662674192226 -->|The scroll belongs to us Foxes!|1777662727283557[<b>Speaker 👉 Fujiki:</b>
+\nYou foxes and your possessions. Always hoarding.
+Without the tanuki, the foxes are nothing!\nNot that there are any foxes left anyway…
+I’m bored now… show me what you’ve got!]
+1761912638464290 -->1777662727283557[<b>Speaker 👉 Fujiki:</b>
+\nYou foxes and your possessions. Always hoarding.
+Without the tanuki, the foxes are nothing!\nNot that there are any foxes left anyway…
+I’m bored now… show me what you’ve got!]
+1777662727283557 -->1761912658734371[End]
 Start -->1761912698906916[<b>Speaker 👉 Fujiki:</b>
-\n没想到我会任务失败……\n或许当你知道如何变回狐狸时，
-你会变得更加强大……]
+\nYou two are too naive to understand what you interrupted!
+We will not be stopped.\nWatch your back.]
 1761912698906916 -->1761912704325925[End]
 Start -->1761912114398485[<b>Speaker 👉 Fujiki:</b>
 \n当你模仿万物后，

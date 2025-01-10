@@ -1,54 +1,118 @@
 ```mermaid
 graph LR
-Start -->1727647236932707[<b>Speaker 👉 Iwasuke:</b>
-\n呀！你真贴心……
-这么好的东西，我真的可以收下吗？]
-Start -->1727647236932709[<b>Speaker 👉 Iwasuke:</b>
-\n谢谢你！
-我很喜欢你送我的东西……]
-Start -->1727647236932711[<b>Speaker 👉 Iwasuke:</b>
-\n谢谢你……
-我们之间不用这么客气的。]
-Start -->1727647236933737[<b>Speaker 👉 Iwasuke:</b>
-\n虽然你能送礼物给我，我很感激……
-但是收到这个我也很困扰呀！]
-Start -->1727647236933739[<b>Speaker 👉 Iwasuke:</b>
-\n你是在故意羞辱我吗？]
-Start -->1727647236933741[<b>Speaker 👉 player:</b>
-\n感觉和&lbrace;npc.4215&rbrace;的关系更加密切了……
-接下来好好相处吧！]
-Start -->1727647236933743[<b>Speaker 👉 player:</b>
-\n做了多余的事情……
-感觉和&lbrace;npc.4215&rbrace;的关系疏远了！]
-Start -->1727650072682653[<b>Speaker 👉 Iwasuke:</b>
-\n回头见……]
-Start -->1727650135842975[<b>Speaker 👉 Iwasuke:</b>
-\n呀……！这这这……这不是……
-哎？你谁来着？]
-Start -->1727650258770081[<b>Speaker 👉 Iwasuke:</b>
-\n看你面生，就知道你不是本地人。
-初来乍到，让我来指点你一二。\n首先，要对稻荷神大人保持尊重
-路过她的神龛祭拜一下，让她感受到你的虔诚
-当然，跟她许愿也是可以的。\n其次，要记得灵活运用寄售箱。
-&lbrace;npc.4203&rbrace;老大是我们大家的财神爷
-天知道他用什么办法帮我们把那些杂物卖出去的。]
-Start -->1727650258770083[<b>Speaker 👉 Iwasuke:</b>
-\n听说小镇要开一家赌场了……
-我听了真是喜忧参半啊。\n喜的是终于有点像样的娱乐设施了……\n忧的是……
-我压根没钱进赌场玩啊！！
-这跟我又有什么关系呢？]
-Start -->1753042419514152[<b>Speaker 👉 Iwasuke:</b>
-\n好耶，是鲤鱼节~
-等下我要去獭里昂老大那边报名勇夺鲤鱼旗的活动。
-你有空也去试试吧！]
-Start -->1753042753954601[<b>Speaker 👉 Iwasuke:</b>
-\n行吧，那就不聊了。
-鲤鱼节快乐~]
-Start -->1758172556012100[<b>Speaker 👉 Iwasuke:</b>
-\n面具小摊可是必逛的哦，今年又多了很多新款。
-我正考虑要不要挑一个戴戴呢。]
-Start -->1758175820284486[<b>Speaker 👉 Iwasuke:</b>
-\n难得的机会，好好放松一下吧。
-夏日祭可要玩得开心哦！]
+Start -->1776677678414456[<b>Speaker 👉 Iwasuke:</b>
+\nSee ya!]
+Start -->1776677678414460[<b>Speaker 👉 Iwasuke:</b>
+\nI'm hungry, gotta go find some food!]
+Start -->1776677678414464[<b>Speaker 👉 Iwasuke:</b>
+\nThis looks so good I can almost taste it!]
+Start -->1776677678414468[<b>Speaker 👉 Iwasuke:</b>
+\nThank you! I don't often receive gifts.]
+Start -->1776677678414472[<b>Speaker 👉 Iwasuke:</b>
+\nWow! For me?]
+Start -->1776677678414476[<b>Speaker 👉 Iwasuke:</b>
+\nThis doesn't look like it would appeal to the tastebuds!]
+Start -->1776677678414480[<b>Speaker 👉 Iwasuke:</b>
+\nWhat is this?]
+Start -->1776677678414484[<b>Speaker 👉 Iwasuke:</b>
+\nWahoo! It's fish festival time! Let's go Tommy.]
+Start -->1776677678414488[<b>Speaker 👉 Iwasuke:</b>
+\nHave you guys checked out the food yet? You definitly don't want to miss out!]
+Start -->1776677678414492[<b>Speaker 👉 Iwasuke:</b>
+\nAnyone need help? I have some spare time so let me help out with some jobs!]
+Start -->1776677678414496[<b>Speaker 👉 Iwasuke:</b>
+\nSunday's are boring!]
+Start -->1776677678414500[<b>Speaker 👉 Iwasuke:</b>
+\nGotta make sure there is enough food at home!]
+Start -->1776677678414504[<b>Speaker 👉 Iwasuke:</b>
+\nTommy? Where did that rascal go?]
+Start -->1776677678414508[<b>Speaker 👉 Iwasuke:</b>
+\nI've always been curious about this place.]
+Start -->1776677678414512[<b>Speaker 👉 Iwasuke:</b>
+\nYoni's garden is the one place I can relax.]
+Start -->1776677678414516[<b>Speaker 👉 Iwasuke:</b>
+\n&lt;shiver&gt; Our daddy has been there, at that mountain, if you know he's there, you'd be tempted to go! &lt;/shiver&gt;]
+Start -->1776677678414520[<b>Speaker 👉 Iwasuke:</b>
+\nIt's such a clear night tonight! I can see so many constellations. Ah! There's the dragon. My mum used to say it circles the planet defending it from bad things!]
+Start -->1776677678414524[<b>Speaker 👉 Iwasuke:</b>
+\nDo slimes grow in the rain?]
+Start -->1776677678414528[<b>Speaker 👉 Iwasuke:</b>
+\nDid Shuten tell you? She is the only one who tends to remember!]
+Start -->1776677678414532[<b>Speaker 👉 Iwasuke:</b>
+\nThank you so much, guys! This is so kind of you!]
+Start -->1776677678414536[<b>Speaker 👉 Iwasuke:</b>
+\nI've never been a huge fan of these, but thanks.]
+Start -->1776677678414540[<b>Speaker 👉 Iwasuke:</b>
+\nI'd rather you just have bought me some onogiri.]
+Start -->1776677678414544[<b>Speaker 👉 Iwasuke:</b>
+\nIt's my birthday! It's my birthday! Yay! Yay! Yay!]
+Start -->1776677678414548[<b>Speaker 👉 Iwasuke:</b>
+\nIf you see Tommy around send him my way!]
+Start -->1776677678414552[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414556[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414560[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414564[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414568[<b>Speaker 👉 Iwasuke:</b>
+\nIt's definitely icecream weather!]
+Start -->1776677678414572[<b>Speaker 👉 Iwasuke:</b>
+\nI think I'm going to make onogiri later!]
+Start -->1776677678414576[<b>Speaker 👉 Iwasuke:</b>
+\nWow! It sure is cold out today! Make sure the two of you don't stay out too long, okay?]
+Start -->1776677678414580[<b>Speaker 👉 Iwasuke:</b>
+\nAww wow! I've never seen that bird before.]
+Start -->1776677678414584[<b>Speaker 👉 Iwasuke:</b>
+\nThere's no spicy food here! I can't handle it.]
+Start -->1776677678414588[<b>Speaker 👉 Iwasuke:</b>
+\nMerry Christmas! I'm glad you guys are here!]
+Start -->1776677678414592[<b>Speaker 👉 Iwasuke:</b>
+\n&lbrace;c.playername&rbrace; make you cook something tasty for Kon, okay!]
+Start -->1776677678414596[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414600[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414604[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414608[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414612[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414616[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414620[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414624[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414628[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414632[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414636[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414640[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414644[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414648[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414652[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414656[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1776677678414660[<b>Speaker 👉 Iwasuke:</b>
+\n-]
+Start -->1777991163528863[<b>Speaker 👉 Iwasuke:</b>
+\nThis is tasty! Not as tasty as my favorate Ninja Bubble.]
+Start -->1777991264392867[<b>Speaker 👉 Iwasuke:</b>
+\nThis is cool but do you have a milkshake?]
+Start -->1777991295345319[<b>Speaker 👉 Iwasuke:</b>
+\nDango! I've got dango! Do you guys fancy a sweet, delicious treat?]
+Start -->1777991312108203[<b>Speaker 👉 Iwasuke:</b>
+\nThat is a fine choice!]
+Start -->1777991344591535[<b>Speaker 👉 Iwasuke:</b>
+\nThank you, enjoy!]
 
 ```

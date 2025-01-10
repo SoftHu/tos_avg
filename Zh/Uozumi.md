@@ -57,9 +57,9 @@ Start -->1775462893573086[<b>Speaker 👉 Uozumi:</b>
 Start -->1775462893573090[<b>Speaker 👉 Uozumi:</b>
 \nHmmmm... I hope no one is out on the water in this weather!]
 Start -->1775462893573094[<b>Speaker 👉 Uozumi:</b>
-\nMmmm... the sea it my home. I feel most at peace out there!]
+\nLook at those crispy bits of squid! It's making me hungry.]
 Start -->1775462893573098[<b>Speaker 👉 Uozumi:</b>
-\nI wish my family were here, but they will be joining me soon. They're in my hometown of Shikoku, ever heard of it?]
+\nI don't have a taste for sweet things. They taste icky.]
 Start -->1775462893573102[<b>Speaker 👉 Uozumi:</b>
 \nMerry Christmas! I'm headed to Torleone and Seabert's place! They're the closest thing I have to family here!]
 Start -->1775462893573106[<b>Speaker 👉 Uozumi:</b>
@@ -88,5 +88,13 @@ Start -->1775462893572126[<b>Speaker 👉 Uozumi:</b>
 \n0]
 Start -->1775462893572130[<b>Speaker 👉 Uozumi:</b>
 \n0]
+Start -->1777988995923527[<b>Speaker 👉 Uozumi:</b>
+\nAhhhh, I love fish!]
+Start -->1777989189402187[<b>Speaker 👉 Uozumi:</b>
+\nI'd swap this for some shrimp onogiri any day!]
+Start -->1777989346048591[<b>Speaker 👉 Uozumi:</b>
+\nThere's something shiny down there.]
+Start -->1777989373045331[<b>Speaker 👉 Uozumi:</b>
+\nPlease don't tell me you got me a strawberry milkshake! You know I hate that stuff.]
 
 ```

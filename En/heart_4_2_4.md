@@ -21,9 +21,9 @@ Start -->1768742157331368[<b>Speaker 👉 Liliana:</b>
 \n……]
 Start -->1768742157331368[<b>Speaker 👉 Liliana:</b>
 \n……]
-1768742157331368 -->|Do you need anything?|1768742200170415[<b>Speaker 👉 Liliana:</b>
-\n……]
 1768742157331368 -->|*Stay quiet*|1768742200170415[<b>Speaker 👉 Liliana:</b>
+\n……]
+1768742157331368 -->|Do you need anything?|1768742200170415[<b>Speaker 👉 Liliana:</b>
 \n……]
 1768742200170415 -->1768742208925616[<b>Speaker 👉 Fox:</b>
 \nI don't think she can hear us.]
@@ -31,20 +31,20 @@ Start -->1768742157331368[<b>Speaker 👉 Liliana:</b>
 Start -->1768742231186354[<b>Speaker 👉 Liliana:</b>
 \nI think that's enough for today.\nOh, I didn't realize you were still here.
 I was totally captivated.\nThat happens a lot when I'm painting.]
-1768742231186354 -->|So… who are you?|1768742309285816[<b>Speaker 👉 Liliana:</b>
-\nOh! Right…\n…hmm that petal isn't perfect…\n.. and the light doesn't fall quite like that…\nRight, right.]
 1768742231186354 -->|No problem. I understand.|1768742316132281[<b>Speaker 👉 Liliana:</b>
 \nThank you, but it's not finished yet.\nIt took so long to get the petals right,
 and the light isn't perfect,
 and I still want to…]
+1768742231186354 -->|So… who are you?|1768742309285816[<b>Speaker 👉 Liliana:</b>
+\nOh! Right…\n…hmm that petal isn't perfect…\n.. and the light doesn't fall quite like that…\nRight, right.]
 1768742309285816 -->1768742413604797[<b>Speaker 👉 Liliana:</b>
 \nOh, I am remiss.
 My name is Shibata Liliana.]
-1768742413604797 -->|Shibata?|1768742439759808[<b>Speaker 👉 Liliana:</b>
+1768742413604797 -->|You're Yohji's sister?|1768742439759808[<b>Speaker 👉 Liliana:</b>
 \nYes, I'm Yohji's older sister.
 We moved from the West–Yohji loves human legends.\nI prefer the scenery myself.
 I'm studying painting under Priest Leon.]
-1768742413604797 -->|You're Yohji's sister?|1768742439759808[<b>Speaker 👉 Liliana:</b>
+1768742413604797 -->|Shibata?|1768742439759808[<b>Speaker 👉 Liliana:</b>
 \nYes, I'm Yohji's older sister.
 We moved from the West–Yohji loves human legends.\nI prefer the scenery myself.
 I'm studying painting under Priest Leon.]
@@ -55,11 +55,11 @@ I'm studying painting under Priest Leon.]
 then bring it back for you to see.\nThis shading definitely needs more work…]
 1768742518990786 -->1768742553410499[<b>Speaker 👉 Fox:</b>
 \nI can't wait!]
-1768742553410499 -->|Yeah, me neither.
-I'm excited to see it.|1768742635930571[<b>Speaker 👉 Liliana:</b>
+1768742553410499 -->|The shading does look a little off…|1768742635930571[<b>Speaker 👉 Liliana:</b>
 \nAnyway, 
 thank you for your hospitality.]
-1768742553410499 -->|The shading does look a little off…|1768742635930571[<b>Speaker 👉 Liliana:</b>
+1768742553410499 -->|Yeah, me neither.
+I'm excited to see it.|1768742635930571[<b>Speaker 👉 Liliana:</b>
 \nAnyway, 
 thank you for your hospitality.]
 1768742635930571 -->1768742627730378[End]
@@ -70,11 +70,11 @@ Start -->1768742809413598[<b>Speaker 👉 Liliana:</b>
 \nThe Peonies here are smaller than those in the Mountains.\nAs if they have a humble personality,
 But they're enchanting nonetheless.\nThe flowers near your farm are exceptional.
 Could it be sacred land?]
-1768742809413598 -->|It does feel special.|1768742892275689[<b>Speaker 👉 Liliana:</b>
+1768742809413598 -->|I wouldn't go that far.|1768742892275689[<b>Speaker 👉 Liliana:</b>
 \nPainting requires close attention…\nNoticing the tree sprouting new buds…
 The beetle making its burrow…
 The green after rain…\nThey never fail to move me.]
-1768742809413598 -->|I wouldn't go that far.|1768742892275689[<b>Speaker 👉 Liliana:</b>
+1768742809413598 -->|It does feel special.|1768742892275689[<b>Speaker 👉 Liliana:</b>
 \nPainting requires close attention…\nNoticing the tree sprouting new buds…
 The beetle making its burrow…
 The green after rain…\nThey never fail to move me.]
@@ -88,10 +88,10 @@ Start -->1768742988472304[<b>Speaker 👉 Liliana:</b>
 \nI'm happy to have met you and Kon. 
 This painting isn't my best work… 
 But let's call it 'Bloom'...\nA nice gift for a budding friendship.]
-1768742996890609 -->|Thank you-|1768743033758711[<b>Speaker 👉 Liliana:</b>
+1768742996890609 -->|For us...?|1768743033758711[<b>Speaker 👉 Liliana:</b>
 \nOf course. 
 Your special flowers were the inspiration.\nThank you for your hospitality, &lbrace;c.playername&rbrace;.]
-1768742996890609 -->|For us...?|1768743033758711[<b>Speaker 👉 Liliana:</b>
+1768742996890609 -->|Thank you-|1768743033758711[<b>Speaker 👉 Liliana:</b>
 \nOf course. 
 Your special flowers were the inspiration.\nThank you for your hospitality, &lbrace;c.playername&rbrace;.]
 1768743033758711 -->1769069908705303{ }
@@ -105,10 +105,10 @@ Start -->1768743183491066[<b>Speaker 👉 Yohji:</b>
 \nEn Garde! 
 … 
 Oh, You got them all, &lbrace;c.playername&rbrace;. Good show.]
-1768743183491066 -->|May our foes find mercy in the next life.|1768743374785564[<b>Speaker 👉 Yohji:</b>
-\nIf they've touched a single hair my sister's head…]
 1768743183491066 -->|LILIANA!|1768743454079005[End]
 1768743183491066 -->|Thanks for the help…|1768743374785564[<b>Speaker 👉 Yohji:</b>
+\nIf they've touched a single hair my sister's head…]
+1768743183491066 -->|May our foes find mercy in the next life.|1768743374785564[<b>Speaker 👉 Yohji:</b>
 \nIf they've touched a single hair my sister's head…]
 1768743374785564 -->1768743454079005[End]
 Start -->1768743476041759[<b>Speaker 👉 Yohji:</b>

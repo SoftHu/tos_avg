@@ -24,6 +24,6 @@ Ritsuryo is very… imaginative!]
 \nYou should challenge Daruma, &lbrace;c.playername&rbrace;.
 It doesn’t look so scary.]
 1775359468949900 -->1775359773042084{ }
-1775359468949900 -->|I CHALLENGE DARUMA!|1772262614885588[End]
+1775359468949900 -->|Haha! It’s just a toy!|1772262614885588[End]
 
 ```

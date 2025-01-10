@@ -1,23 +1,29 @@
 ```mermaid
 graph
 Start -->1761904066451096[<b>Speaker 👉 Anna:</b>
-\nDidn't expect to see foxes in Seikyu.
-Sorry, but you're too late.
-I've already mastered Slime Transformation.]
-1761904066451096 -->|The Scroll of Transformation?|1761904219436703[<b>Speaker 👉 Anna:</b>
-\nThere're many transformation scrolls
-in the Kitsune Ruins.
-You didn't know?\nIt seems you have much to learn, little fox.
-Behold the true power of yokai transformation!]
-1761904066451096 -->|Why did you steal it?|1761904217338526[<b>Speaker 👉 Anna:</b>
-\nBut I didn't take the scroll.
-Ah, the typical selfishness of foxes,
-how disappointing.]
-1761904219436703 -->1761904296355488[End]
-1761904217338526 -->1761904296355488[End]
+\nWell, well…
+There really are foxes in Seikyu. 
+Pity…]
+1761904066451096 -->|Return the transformation scroll!|1761904217338526[<b>Speaker 👉 Anna:</b>
+\nYou’re too late, Foxy… 
+I’ve already learned the transformation.]
+1761904066451096 -->|Why do you care?|1761904219436703[<b>Speaker 👉 Anna:</b>
+\nFoxes are nothing but a nuisance. 
+Our clan was glad to see you gone. 
+Now with this scroll, I’ll finish the job.]
+1761904219436703 -->1777657938748102[<b>Speaker 👉 Anna:</b>
+\nFoxes always underestimated Tanuki magic,
+But we are expert shapeshifters.\nAllow me to show you!]
+1777657938748102 -->1761904296355488[End]
+1761904217338526 -->1777657938748102[<b>Speaker 👉 Anna:</b>
+\nFoxes always underestimated Tanuki magic,
+But we are expert shapeshifters.\nAllow me to show you!]
 Start -->1761904323485346[<b>Speaker 👉 Anna:</b>
-\nYou have some skills, I'll give you that.
-See you in Seikyu...]
+\nHmph… I underestimated you this time…
+But it won’t happen again. 
+The power in these ruins belongs to the Tanuki.\nBye for now, Foxy. 
+You won’t see me…
+But I’ll be watching you.]
 1761904323485346 -->1761904334855843[End]
 Start -->1761904364511909[<b>Speaker 👉 player:</b>
 \nYou finally made it.

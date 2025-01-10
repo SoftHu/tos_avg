@@ -17,7 +17,7 @@ Start -->1775511333392164[<b>Speaker 👉 Shuten:</b>
 Start -->1775511333392168[<b>Speaker 👉 Shuten:</b>
 \nHi, you two! Happy Carp Festival! This is the highlight of the boy's year so I hope you enjoy it.]
 Start -->1775511333392172[<b>Speaker 👉 Shuten:</b>
-\nKinntarou is getting sleepy so we're going to head off now! See ya later.]
+\nKinn is getting sleepy so we're going to head off now! See ya later.]
 Start -->1775511333392176[<b>Speaker 👉 Shuten:</b>
 \nThe two of you heading off to adventure? Come by later and tell me about it!]
 Start -->1775511333392180[<b>Speaker 👉 Shuten:</b>
@@ -63,7 +63,7 @@ Start -->1775511333392256[<b>Speaker 👉 Shuten:</b>
 Start -->1775511333392260[<b>Speaker 👉 Shuten:</b>
 \nThe Tavern sure does get cozy on winter evenings!]
 Start -->1775511333392264[<b>Speaker 👉 Shuten:</b>
-\nWhen everyones happy, I'm happy!]
+\nI know it's childish, but I love Ninja Bubble! I think the boys are rubbing off on me.]
 Start -->1775511333392268[<b>Speaker 👉 Shuten:</b>
 \nI adore Sake. We'll have to share a bottle some time.]
 Start -->1775511333392272[<b>Speaker 👉 Shuten:</b>
@@ -77,7 +77,7 @@ Start -->1775511333392284[<b>Speaker 👉 Shuten:</b>
 Start -->1775511333392288[<b>Speaker 👉 Shuten:</b>
 \nI've whipped up a new cocktail which I want the two of you to try! Come by the Tavern later if you have time.]
 Start -->1775511333392292[<b>Speaker 👉 Shuten:</b>
-\nI'm gonna be slammed today ordering stock, can you check up on the boys for me?]
+\nI'm gonna be slammed today ordering stock, Kinntarou is planning to release a new menu in te next few weeks!]
 Start -->1775511333392296[<b>Speaker 👉 Shuten:</b>
 \nDon't tell the boys, but I'm building a new 'Secret Den' in the attic for them! I hope they like it.]
 Start -->1775511333392300[<b>Speaker 👉 Shuten:</b>
@@ -85,7 +85,7 @@ Start -->1775511333392300[<b>Speaker 👉 Shuten:</b>
 Start -->1775511333392304[<b>Speaker 👉 Shuten:</b>
 \nThe boys have a suprise for me at the Secret Base, want to come see what it is?]
 Start -->1775511333392308[<b>Speaker 👉 Shuten:</b>
-\nAlthough the Tavern is official shut right now, wanna come in?]
+\nAlthough the Tavern is officially shut right now, wanna come in? I can whip up some food!]
 Start -->1775511333392312[<b>Speaker 👉 Shuten:</b>
 \n-]
 Start -->1775511333392316[<b>Speaker 👉 Shuten:</b>
@@ -95,14 +95,34 @@ Start -->1775511333392320[<b>Speaker 👉 Shuten:</b>
 Start -->1775511333392324[<b>Speaker 👉 Shuten:</b>
 \nI need to speak to Yui about putting tables outside. The weathers too nice to keep everyone cooped up.]
 Start -->1775511333392328[<b>Speaker 👉 Shuten:</b>
-\nDo you know how to fish? The boy want to go but none of us know how to. Was thinking of asking Musashi to join us, but do the two of you want to?]
+\nDo you know how to fish? The boys want to go but none of us know how. I was thinking of asking Musashi to join us, but do the two of you want to come?]
 Start -->1775511333392332[<b>Speaker 👉 Shuten:</b>
 \nI got a new Sake supplier, a name Kababa gave me.]
 Start -->1775511333392336[<b>Speaker 👉 Shuten:</b>
 \nMy family means everything to me, the two of you are family!]
 Start -->1775511333392340[<b>Speaker 👉 Shuten:</b>
-\nOn winter nights, this tavern is the coziest place on earth.]
+\nEveryone in Seikyu has shared at least one secret, except you!]
 Start -->1775511333392344[<b>Speaker 👉 Shuten:</b>
-\nJust made up some mulled wine, want to share?]
+\nKinntarou is cooking up what he calls his 'Famous Winter Stew' tonight! Fancy coming over to try it?]
+Start -->1777908442120682[<b>Speaker 👉 Shuten:</b>
+\nAhhh the grand opening is just around the corner and there is still so much to do!]
+Start -->1777908529870318[<b>Speaker 👉 Shuten:</b>
+\nI need to find time to spend with the boys... It's been too long since we did something fun!]
+Start -->1777908657012210[<b>Speaker 👉 Shuten:</b>
+\nI appreciate everyone chipping in to help get the Tavern up and running! I don't know what I did to deserve such generosity.]
+Start -->1777908804768246[<b>Speaker 👉 Shuten:</b>
+\nMy beloved nephew Yui has been hard at work with Sasaki making sure the Tavern is up to code! Everyone has come together to make this dream a reality.]
+Start -->1777908830644730[<b>Speaker 👉 Shuten:</b>
+\nI used to make drinks at the Casino, but now I'll have my own place. We're going to serve comfort food and the Tavern will be a safe place for all!]
+Start -->1777908855799294[<b>Speaker 👉 Shuten:</b>
+\nThe boys will finally have a proper home! We've been staying with Yui for a while so it'll be nice to have our own place.]
+Start -->1777909583684098[<b>Speaker 👉 Shuten:</b>
+\nI should ask Musashi if he's had any interesting tea imports!]
+Start -->1777915883634182[<b>Speaker 👉 Shuten:</b>
+\nRitsu and Kinn mean everything to me, if anything happens to them there will be hell to pay!]
+Start -->1777916645429770[<b>Speaker 👉 Shuten:</b>
+\nI've not got a huge sweet tooth, so I've never been a fan of deserts.]
+Start -->1777916702300686[<b>Speaker 👉 Shuten:</b>
+\nI wish there weren't so many monsters around!]
 
 ```

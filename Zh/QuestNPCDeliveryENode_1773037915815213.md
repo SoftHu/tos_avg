@@ -1,9 +1,9 @@
 ```mermaid
 graph
 Start -->1773038435801393[ ]
-1773038435801393 -->1773038493593906[<b>Speaker 👉 Musashi:</b>
-\nDo you have it?]
 1773038435801393 -->1773038553192755[<b>Speaker 👉 Musashi:</b>
+\nDo you have it?]
+1773038435801393 -->1773038493593906[<b>Speaker 👉 Musashi:</b>
 \nDo you have it?]
 1773038493593906 -->1773038651971894[End]
 1773038553192755 -->1773038568763700[<b>Speaker 👉 Musashi:</b>

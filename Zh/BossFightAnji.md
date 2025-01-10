@@ -1,22 +1,29 @@
 ```mermaid
 graph
 Start -->1761904066451096[<b>Speaker 👉 Anna:</b>
-\n没想到青岚居然还有狐狸，
-但抱歉你晚来了一步，
-我已经学会了史莱姆的变化卷轴。]
-1761904066451096 -->|变化卷轴？|1761904219436703[<b>Speaker 👉 Anna:</b>
-\n狐仙遗迹中保存着许多妖怪变化卷轴，
-你居然不知道？\n看来你这个小狐狸还什么都不懂呢，
-让我来告诉你什么才是妖怪的真正变化吧！]
-1761904066451096 -->|为什么要盗取？|1761904217338526[<b>Speaker 👉 Anna:</b>
-\n我并没有拿走卷轴哦？
-狐狸还是这么自私啊，
-真是令人失望。]
-1761904219436703 -->1761904296355488[End]
-1761904217338526 -->1761904296355488[End]
+\nWell, well…
+There really are foxes in Seikyu. 
+Pity…]
+1761904066451096 -->|Return the transformation scroll!|1761904217338526[<b>Speaker 👉 Anna:</b>
+\nYou’re too late, Foxy… 
+I’ve already learned the transformation.]
+1761904066451096 -->|Why do you care?|1761904219436703[<b>Speaker 👉 Anna:</b>
+\nFoxes are nothing but a nuisance. 
+Our clan was glad to see you gone. 
+Now with this scroll, I’ll finish the job.]
+1761904219436703 -->1777657938748102[<b>Speaker 👉 Anna:</b>
+\nFoxes always underestimated Tanuki magic,
+But we are expert shapeshifters.\nAllow me to show you!]
+1777657938748102 -->1761904296355488[End]
+1761904217338526 -->1777657938748102[<b>Speaker 👉 Anna:</b>
+\nFoxes always underestimated Tanuki magic,
+But we are expert shapeshifters.\nAllow me to show you!]
 Start -->1761904323485346[<b>Speaker 👉 Anna:</b>
-\n没想到你还是有两把刷子，
-我们青岚见……]
+\nHmph… I underestimated you this time…
+But it won’t happen again. 
+The power in these ruins belongs to the Tanuki.\nBye for now, Foxy. 
+You won’t see me…
+But I’ll be watching you.]
 1761904323485346 -->1761904334855843[End]
 Start -->1761904364511909[<b>Speaker 👉 player:</b>
 \n你终于来了，

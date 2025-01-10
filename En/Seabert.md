@@ -1,99 +1,98 @@
 ```mermaid
 graph LR
-Start -->1727379338120283[<b>Speaker 👉 Seabert:</b>
-\nAlrighty, don't be a stranger!]
-Start -->1727379415579741[<b>Speaker 👉 Seabert:</b>
-\nHi there! What a beautiful day!
-Out for a walk, huh?\nThis is the perfect weather to make my uncle
-some dried fish he can eat while drinking.
-He prefers his fish to be sun-dried, not grilled.]
-Start -->1727379415580767[<b>Speaker 👉 Seabert:</b>
-\nHiya! Need anything from me?
-I'm not the best problem solver, but I'm great at
-cheering people up.\nYou got anything on your mind, come chat with me.
-Or go out and enjoy the view; it'll cheer you up.]
-Start -->1727379815240801[<b>Speaker 👉 Seabert:</b>
-\nMy uncle always treats me like a child and
-never lets me help out at the shop...
-He's like, &quot;This isn't kid stuff.&quot;\nI just want to give him a hand,
-but he won't let me!
-He's always like, &quot;What if something happens to you?&quot;]
-Start -->1727379815240803[<b>Speaker 👉 Seabert:</b>
-\nMy uncle doesn't let me wander around;
-says it's more dangerous than the sea.
-He's heard all these rumors, crazier than comic books!\nI'm trapped in town all the time. So boring.
-I mean, there's so much to see in Seikyu.
-Be a shame if I don't go check it out.]
-Start -->1727379815241829[<b>Speaker 👉 Seabert:</b>
-\nThe Summer Festival is my favorite!
-Every year, Musashi puts on a heck of a fireworks show.\nFireworks exploding in the sky, their reflection
-on the sea crushed by the waves. Nothing beats that.
-I wish I could capture it with a camera!]
-Start -->1727379815241833[<b>Speaker 👉 Seabert:</b>
-\nEvery now and then, some tough looking guys
-would visit my uncle's shop. At first, I thought
-they were troublemakers and got a little worried.\nBut they don't seem to mean any harm,
-and even bring me delicious snacks.
-It's true you can't judge a book by its cover...]
-Start -->1727381607774317[<b>Speaker 👉 Seabert:</b>
-\nOh! How thoughtful...
-But I'm not so sure I can accept something so nice.]
-Start -->1727381607774319[<b>Speaker 👉 Seabert:</b>
-\nThank you!
-I love it...]
-Start -->1727381607775345[<b>Speaker 👉 Seabert:</b>
-\nThank you...
-We don't need to be so formal with each other.]
-Start -->1727381607775347[<b>Speaker 👉 Seabert:</b>
-\nAlthough I appreciate the gift, accepting it
-would make me uncomfortable...]
-Start -->1727381607775349[<b>Speaker 👉 Seabert:</b>
-\nYou trying to humiliate me?
-Oh I'm furious now!]
-Start -->1727381607776375[<b>Speaker 👉 player:</b>
-\nI'm feeling closer to &lbrace;npc.4207&rbrace;...
-We're going to get along!]
-Start -->1727381607776377[<b>Speaker 👉 player:</b>
-\nI did something I shouldn't have...
-I'm feeling distant from &lbrace;npc.4207&rbrace;!]
-Start -->1756935544109107[<b>Speaker 👉 Seabert:</b>
-\nIt's raining again...
-The rain goes pit-a-pat, but the whole world
-feels much quieter than usual.\nOops, let my inner poet slip out again.
-Wait, what if I were a poet in a previous life?]
-Start -->1756935994392630[<b>Speaker 👉 Seabert:</b>
-\nGood morning, nice to see you again!
-You look energetic today!
-Let's get pumped for a new day!]
-Start -->1756936273795129[<b>Speaker 👉 Seabert:</b>
-\nDid you hear? Musashi is bringing in new
-comic books from outside. Finally Ritsuryo and I
-can catch up with the world!]
-Start -->1756936756863036[<b>Speaker 👉 Seabert:</b>
-\nDo you watch the prime-time documentary channel?
-There's a show about animal migration coming up.
-Here's a secret - it was produced by my parents.]
-Start -->1757998365163076[<b>Speaker 👉 Seabert:</b>
-\nDo you watch the prime-time documentary channel?
-There's a show about animal migration coming up.
-Here's a secret - it was produced by my parents.]
-Start -->1757998886755910[<b>Speaker 👉 Seabert:</b>
-\nMy uncle said he and my mom can hold their liquor.
-Family genetics.
-That means I'll be a heavyweight drinker too.]
-Start -->1757999058116168[<b>Speaker 👉 Seabert:</b>
-\nI just love the free snacks at the tavern.
-My favorite is kakinotane. It's so delicious that
-my uncle would buy some for me to take home.\nBut when I eat it at home, it's just... meh.
-Does the tavern somehow make snacks taste better?]
-Start -->1758159149355629[<b>Speaker 👉 Seabert:</b>
-\nIs this the adult world?
-I can't wait to grow up...]
-Start -->1758254907850342[<b>Speaker 👉 Seabert:</b>
-\nI helped out with this year's Summer Festival!
-&lbrace;npc.4209.first_name&rbrace; said I contributed
-to the fun everybody was having.]
-Start -->1758255297076840[<b>Speaker 👉 Seabert:</b>
-\nGotta go, have fun!]
+Start -->1775549700523536[<b>Speaker 👉 Seabert:</b>
+\nOh no, I got distracted! I've got to finish what I'm doing or Uncle Torleone will get angry. Bye!]
+Start -->1775549700523540[<b>Speaker 👉 Seabert:</b>
+\nOh, you've got to go! Ok.]
+Start -->1775549700523544[<b>Speaker 👉 Seabert:</b>
+\nOh boy, oh boy! For me? Really? Thank you so so much &lbrace;c.playername&rbrace;!]
+Start -->1775549700523548[<b>Speaker 👉 Seabert:</b>
+\nYou and Kon got me something? Oh wow!]
+Start -->1775549700523552[<b>Speaker 👉 Seabert:</b>
+\nThis will be super helpful! Thanks a bunch!]
+Start -->1775549700523556[<b>Speaker 👉 Seabert:</b>
+\nI can take a cool picture of this!]
+Start -->1775549700523560[<b>Speaker 👉 Seabert:</b>
+\nUmmm, what is it?]
+Start -->1775549700523564[<b>Speaker 👉 Seabert:</b>
+\nOhhh boy! It's the best day of the year! I need to get my camera out and capture every moment!]
+Start -->1775549700523568[<b>Speaker 👉 Seabert:</b>
+\nUmmm, did you two have fun? It's the best, isn't it? I love the Carp Festival.]
+Start -->1775549700523572[<b>Speaker 👉 Seabert:</b>
+\nUmm, if you ever need a fishing buddy let me know!]
+Start -->1775549700523576[<b>Speaker 👉 Seabert:</b>
+\nRitsuryo and Kinntarou said I could go to the secret base later. I'm so excited, I've never been!]
+Start -->1775549700523580[<b>Speaker 👉 Seabert:</b>
+\nUmmm, would you like to take a look at these photos I just took?]
+Start -->1775549700523584[<b>Speaker 👉 Seabert:</b>
+\nUncle Torleone! I delivered all the fish you wanted me to.]
+Start -->1775549700523588[<b>Speaker 👉 Seabert:</b>
+\nOhh! This will make a cool picture!]
+Start -->1775549700523592[<b>Speaker 👉 Seabert:</b>
+\nUmmm, Mr Uzomi, could you push me on the swing please?]
+Start -->1775549700523596[<b>Speaker 👉 Seabert:</b>
+\nI need to ask Yoni if she has heard the new Animetal track yet... she probably has. Maybe I won't ask her.]
+Start -->1775549700523600[<b>Speaker 👉 Seabert:</b>
+\nMmmmm, sleepy!]
+Start -->1775549700523604[<b>Speaker 👉 Seabert:</b>
+\nOh no! My cap is wet. Without it my uniform is incomplete. What do I do?]
+Start -->1775549700523608[<b>Speaker 👉 Seabert:</b>
+\nOh, it's my birthday already? I've been so busy I forgot! You two are the best!]
+Start -->1775549700523612[<b>Speaker 👉 Seabert:</b>
+\nThank you! Want to come birthday fishing with me and Uncle Torleone?]
+Start -->1775549700523616[<b>Speaker 👉 Seabert:</b>
+\nThanks, but I gotta go! I'm meeting Ritsuryo and Kinntarou!]
+Start -->1775549700523620[<b>Speaker 👉 Seabert:</b>
+\nUncle Torleone always said presents get worse as you get older. This must be what he means!]
+Start -->1775549700523624[<b>Speaker 👉 Seabert:</b>
+\nA birthday gift for me?! This looks REALLY expensive! Are you really sure you want to give this to me?]
+Start -->1775549700523628[<b>Speaker 👉 Seabert:</b>
+\nBye bye!]
+Start -->1775549700523632[<b>Speaker 👉 Seabert:</b>
+\n-]
+Start -->1775549700523636[<b>Speaker 👉 Seabert:</b>
+\nAutumn is Uncle Torleone's favourate month, did you know that?]
+Start -->1775549700523640[<b>Speaker 👉 Seabert:</b>
+\nOh boy! With all my jobs finished maybe I'll head out with my camera!]
+Start -->1775549700523644[<b>Speaker 👉 Seabert:</b>
+\nSooo cold! I must keep going, there is fish to deliver. I can't let people down.]
+Start -->1775549700523648[<b>Speaker 👉 Seabert:</b>
+\nDo we have to have stew Uncle Torleone?]
+Start -->1775549700523652[<b>Speaker 👉 Seabert:</b>
+\nDo you have to carry a weapon Ritsu? It could hurt someone.]
+Start -->1775549700523656[<b>Speaker 👉 Seabert:</b>
+\nUmmm, would you mind if I took your picture? I'm trying to get a picture of everyone at Christmas for a project and the two of you are the only ones I don't have!]
+Start -->1775549700523660[<b>Speaker 👉 Seabert:</b>
+\nThank you! I'm sure you're busy so I won't waste anymore of your time.]
+Start -->1775549700523664[<b>Speaker 👉 Seabert:</b>
+\n-]
+Start -->1775549700523668[<b>Speaker 👉 Seabert:</b>
+\n-]
+Start -->1775549700523672[<b>Speaker 👉 Seabert:</b>
+\n-]
+Start -->1775549700523676[<b>Speaker 👉 Seabert:</b>
+\n-]
+Start -->1775549700523680[<b>Speaker 👉 Seabert:</b>
+\n-]
+Start -->1775549700523684[<b>Speaker 👉 Seabert:</b>
+\n-]
+Start -->1775549700523688[<b>Speaker 👉 Seabert:</b>
+\n-]
+Start -->1775549700523692[<b>Speaker 👉 Seabert:</b>
+\n-]
+Start -->1775549700523696[<b>Speaker 👉 Seabert:</b>
+\n-]
+Start -->1775549700523700[<b>Speaker 👉 Seabert:</b>
+\n-]
+Start -->1775549700523704[<b>Speaker 👉 Seabert:</b>
+\n-]
+Start -->1775549700523708[<b>Speaker 👉 Seabert:</b>
+\n-]
+Start -->1777987550316091[<b>Speaker 👉 Seabert:</b>
+\nI prefer lemon Ninja Bubble.]
+Start -->1777987566219839[<b>Speaker 👉 Seabert:</b>
+\nIce cream! I love ice cream!]
+Start -->1777988013147715[<b>Speaker 👉 Seabert:</b>
+\nI could do with some more fishing gear!]
 
 ```

@@ -35,9 +35,9 @@ Start -->1775164732277801[<b>Speaker 👉 Kon:</b>
 Start -->1775164532912166[<b>Speaker 👉 Kon:</b>
 \nI hate it when my fur is damp!]
 Start -->1775166031622193[<b>Speaker 👉 Kon:</b>
-\nOh, thank you. This is going to make life a lot easier!]
+\nOh, thank you. I'm so grateful for this!]
 Start -->1775166031623219[<b>Speaker 👉 Kon:</b>
-\nThank you &lbrace;c.playername&rbrace;! This will go really well in the house!]
+\nThank you &lbrace;c.playername&rbrace;. Let's keep this at home.]
 Start -->1775166031624245[<b>Speaker 👉 Kon:</b>
 \nI know you're busy, but I think you can do better than this!]
 Start -->1775166031624247[<b>Speaker 👉 Kon:</b>
@@ -53,12 +53,56 @@ Start -->1775166628730970[<b>Speaker 👉 Kon:</b>
 Start -->1775166633910364[<b>Speaker 👉 Kon:</b>
 \nThere's so much snow I'm almost being buried! Wait, don't leave me behind!]
 Start -->1775166811015263[<b>Speaker 👉 Kon:</b>
-\nYou know my favourate thing is food &lbrace;c.playername&rbrace;! Just get me some tasty grub and I'm a happy little fox!]
+\nYou know desserts are my favorite &lbrace;c.playername&rbrace;! Oh, but if you can find some daifuku I would be one happy little fox!]
+1775166811015263 -->1778180011570369{ }
 Start -->1775166820796512[<b>Speaker 👉 Kon:</b>
-\nWhat do I dislike? Bit personal... I guess I really don't like being alone.]
+\nYou got me something? Thanks, it tastes almost as good as Ninja Bubble!]
+1775166820796512 -->1778180545082565{ }
 Start -->1775172034569978[<b>Speaker 👉 Kon:</b>
 \nOur first Christmas here in Seikyu...]
 Start -->1775172034569980[<b>Speaker 👉 Kon:</b>
 \nThis Christmas it finally feels like we're celebrating at home!]
+Start -->1775617925092739[<b>Speaker 👉 Kon:</b>
+\nCan we stop by town to see Yui? She might have some cake for us!]
+Start -->1775617925095815[<b>Speaker 👉 Kon:</b>
+\nCan we just spend the day sleeping? I'm sooo tired.]
+Start -->1775617925096843[<b>Speaker 👉 Kon:</b>
+\nWe should make a tasty snack to motivate the townsfolk!]
+Start -->1775619270587791[<b>Speaker 👉 Kon:</b>
+\nYou have to make sure you never plant broccoli, okay?]
+Start -->1775619270588819[<b>Speaker 👉 Kon:</b>
+\nYoni told me her favorate band Animetal are doing a live show in TV today! Let's watch.]
+Start -->1775619270589847[<b>Speaker 👉 Kon:</b>
+\nDo you think we should go ask Yohji about the Fox Ruins?]
+Start -->1775685796126107[<b>Speaker 👉 Kon:</b>
+\n-]
+Start -->1775685796126111[<b>Speaker 👉 Kon:</b>
+\n-]
+Start -->1775685796127139[<b>Speaker 👉 Kon:</b>
+\n-]
+Start -->1775686161969587[<b>Speaker 👉 Kon:</b>
+\nI hate getting wet, but I think today I'll make an exception.]
+Start -->1775686201766327[<b>Speaker 👉 Kon:</b>
+\nDid you see the shooting star last night? I made a wish to hopefully get my human form soon!]
+Start -->1775686553971131[<b>Speaker 👉 Kon:</b>
+\nIt's crazy to think about where we were this time last year!]
+Start -->1775687009837503[<b>Speaker 👉 Kon:</b>
+\nWe should stop by and see Miss Ama to get you some thicker clothes for winter.]
+Start -->1775687387976135[<b>Speaker 👉 Kon:</b>
+\nDo you think Miss Ama would make me a little coat to help me keep warm in the winter?]
+Start -->1775687624903115[<b>Speaker 👉 Kon:</b>
+\nI'm so excited, Christmas is right around the corner!]
+Start -->1777894098214242[<b>Speaker 👉 Kon:</b>
+\n&lbrace;c.playername&rbrace;! Please can we get some Zenzai? Please!]
+1777894098214242 -->1778180614489289{ }
+Start -->1777894113044838[<b>Speaker 👉 Kon:</b>
+\nThere's something shiny over there! Maybe it's pearls.]
+1777894113044838 -->1778180647930058{ }
+Start -->1777894129652074[<b>Speaker 👉 Kon:</b>
+\nEww! Is that a blobfish?]
+1777894129652074 -->1778180673073355{ }
+Start -->1777894432305518[<b>Speaker 👉 Kon:</b>
+\nAlcohol tastes icky! I prefer Ninja Bubble.]
+1777894432305518 -->1778180757650636{ }
 
 ```

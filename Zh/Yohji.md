@@ -63,9 +63,9 @@ Start -->1775339980319202[<b>Speaker 👉 Yohji:</b>
 Start -->1775339980319206[<b>Speaker 👉 Yohji:</b>
 \nCold weather makes me crave a warm cup of coffee. Should we have one right now?]
 Start -->1775339980319210[<b>Speaker 👉 Yohji:</b>
-\nI always love a good story! Shuten often tells me of old tales she heard from travelers and they always intrigue me!]
+\nBitter coffee with a sweet dessert, I challenge you to find a better combination!]
 Start -->1775339980319214[<b>Speaker 👉 Yohji:</b>
-\nI am not a huge fan of failing, but it is simply unforgivable to give up!]
+\nSpicy food ruins the pallet. How can you appreciate nuanced flavors when everything tastes like rubber!]
 Start -->1775339980319218[<b>Speaker 👉 Yohji:</b>
 \nMerry Christmas, &lbrace;c.playername&rbrace;! Seikyu is beautiful with all the festive decorations, wouldn't you say?]
 Start -->1775339980319222[<b>Speaker 👉 Yohji:</b>
@@ -104,5 +104,11 @@ Start -->1775339980319286[<b>Speaker 👉 Yohji:</b>
 \nKababa is reporting record profits this Winter. The cold weather keeps yokai playing. I bet she'd give you a free game.]
 Start -->1775339980319290[<b>Speaker 👉 Yohji:</b>
 \n-]
+Start -->1777905516468690[<b>Speaker 👉 Yohji:</b>
+\nI don't like artificial flavoring. Take Ninja bubbles for example, they just taste like chemicals.]
+Start -->1777906400800214[<b>Speaker 👉 Yohji:</b>
+\nI love reading before bed. It's settles the mind.]
+Start -->1777906889286106[<b>Speaker 👉 Yohji:</b>
+\nI'm asking Yui for an advance on my salary to buy new furniture. Decore is one of my many vices.]
 
 ```

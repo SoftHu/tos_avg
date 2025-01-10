@@ -1,78 +1,112 @@
 ```mermaid
 graph LR
-Start -->1727301435705460[<b>Speaker 👉 Ama:</b>
-\n欢迎光临！
-如果您对时尚也感兴趣，那您来对地方了！]
-Start -->1727301435705462[<b>Speaker 👉 Ama:</b>
-\n感谢光临！星辉以传统和现代的结合为特色
-希望为您带来别具一格的购物体验！]
-Start -->1727301450029176[<b>Speaker 👉 Ama:</b>
-\n再会……]
-Start -->1727302348198010[<b>Speaker 👉 Ama:</b>
-\n大家都对我的过去很感兴趣呢……
-总觉得前偶像突然隐退背后是不是有什么秘密。
-其实完全不是这么回事啦……\n我只是想要这样的生活，所以我就去做了
-无论是偶像时期还是现在
-能走到今天都是超级幸运的啦！\n你瞧，我也只是个普通人。]
-Start -->1727302348199038[<b>Speaker 👉 Ama:</b>
-\n即便是过去了这么久
-偶尔还是会有偶像时期的粉丝找上门。\n大多数都很有礼貌啦……
-但是还是会有一些难以接受现实的粉丝过来大哭大闹\n老实说，这还挺让人困扰的
-但是我明白，他们也都是出于爱意。
-希望时间可以抹平一切。]
-Start -->1727302348199040[<b>Speaker 👉 Ama:</b>
-\n虽然有些匆忙，但不管怎么说
-店铺的社交账号还是跌跌撞撞地步入正轨了。\n能够分享一些设计理念和开店日常我就很满足了。\n耀司君凭借自己的人脉也帮了我许多忙
-真是个靠得住的好男人啊。\n这段时间还收到了圈内举办的时装周的邀请函
-虽然我也很想参加\n但是店铺刚刚成立，各方面的事都需要打理。
-近期看起来都无法离岛呢……真是遗憾啊。]
-Start -->1727310682327220[<b>Speaker 👉 Ama:</b>
-\n你的身材很不错哦！
-要不要考虑当我的私人模特呢？\n毕竟这么好的身材不展示出来是不是有点太浪费了呢？\n哈哈，开玩笑的啦……
-你看上去好像有点紧张呢。]
-Start -->1727312747573430[<b>Speaker 👉 Ama:</b>
-\n呀！你真贴心……
-这么好的东西，我真的可以收下吗？]
-Start -->1727312747573432[<b>Speaker 👉 Ama:</b>
-\n谢谢你！
-我很喜欢你送我的东西……]
-Start -->1727312747573434[<b>Speaker 👉 Ama:</b>
-\n谢谢你……
-我们之间不用这么客气的。]
-Start -->1727312747574460[<b>Speaker 👉 Ama:</b>
-\n虽然你能送礼物给我，我很感激……
-但是收到这个我也很困扰呀！]
-Start -->1727312747574462[<b>Speaker 👉 Ama:</b>
-\n你是在故意羞辱我吗？]
-Start -->1727312747574464[<b>Speaker 👉 player:</b>
-\n感觉和&lbrace;npc.4205&rbrace;的关系更加密切了……
-接下来好好相处吧！]
-Start -->1727312747575490[<b>Speaker 👉 player:</b>
-\n做了多余的事情……
-感觉和&lbrace;npc.4205&rbrace;的关系疏远了！]
-Start -->1740294009384150[<b>Speaker 👉 Ama:</b>
-\n怎么样？来到&lbrace;location.13&rbrace;一切都还习惯吗？
-我觉得这里真的很适合隐居呢……
-摆脱过往，重新开始新的生活。\n大多数来到&lbrace;location.13&rbrace;的妖怪
-都有着难以言说的晦涩过往
-但我们当中的绝大多数都在这里得到了平静。]
-Start -->1740295246364888[<b>Speaker 👉 Ama:</b>
-\n听说稻荷神大人是世所罕见的大美人
-不知道我的设计能否和这位美人相得益彰呢……\n不过，比起潮流和时尚
-她应该更喜欢典雅大方的传统和服吧？\n或许将古典和潮流相融合也是个不错的设计思路。]
-Start -->1753037631444768[<b>Speaker 👉 Ama:</b>
-\n为了迎接鲤鱼节的到来，&lbrace;npc.4209.last_name&rbrace;小姐和我一起做了很多鲤鱼旗。
-每次看到鲤鱼旗迎风飘扬，就会莫名感动呢……
-鲤鱼节快乐！&lbrace;c.playername&rbrace;]
-Start -->1753038002806561[<b>Speaker 👉 Ama:</b>
-\n玩得开心！
-别忘了去&lbrace;npc.4206&rbrace;那边看看！]
-Start -->1754913648385547[<b>Speaker 👉 Ama:</b>
-\n你知道吗？夏日祭是我最喜欢的节日。
-每当这个时候，大家都会穿上漂亮的浴衣
-真是难得的风景呢！]
-Start -->1754979887910413[<b>Speaker 👉 Ama:</b>
-\n说的也是呢，美好的时光可不能白白浪费。
-玩得开心！]
+Start -->1775553166302272[<b>Speaker 👉 Ama:</b>
+\nToodles my darling little hero!]
+Start -->1775553166302276[<b>Speaker 👉 Ama:</b>
+\nCome find me if you find yourself in need of a new outfit!]
+Start -->1775553166302280[<b>Speaker 👉 Ama:</b>
+\nOh, this is simply magnificent, my darlings!]
+Start -->1775553166302284[<b>Speaker 👉 Ama:</b>
+\nYou are too generous!]
+Start -->1775553166302288[<b>Speaker 👉 Ama:</b>
+\nIn the industry I never received gifts. You have my thanks!]
+Start -->1775553166302292[<b>Speaker 👉 Ama:</b>
+\nOh my darlings, you need to sharpen up you gift giving skills!]
+Start -->1775553166302296[<b>Speaker 👉 Ama:</b>
+\nThis is truly hideous!]
+Start -->1775553166302300[<b>Speaker 👉 Ama:</b>
+\nAhh! The Carp Festival, the perfect opportunity to dress up, don't you think?]
+Start -->1775553166302304[<b>Speaker 👉 Ama:</b>
+\nIt is time for what the industry calls a costume change. I'll see you around!]
+Start -->1775553166302308[<b>Speaker 👉 Ama:</b>
+\nMy darling little hero I need your opinion on something, pop by later if you have time!]
+Start -->1775553166302312[<b>Speaker 👉 Ama:</b>
+\nI need to find something to amuse myself. In the industry, there was never time to get bored!]
+Start -->1775553166302316[<b>Speaker 👉 Ama:</b>
+\nOh darling! The best seemstress in Seikyu has just completed her masterpiece!]
+Start -->1775553166302320[<b>Speaker 👉 Ama:</b>
+\nFancy seeing you here, my darling! I was just searching for... inspiration!]
+Start -->1775553166302324[<b>Speaker 👉 Ama:</b>
+\nA lady doesn't drink ale, does she Shuten? Cocktails are the classy persons drink!]
+Start -->1775553166302328[<b>Speaker 👉 Ama:</b>
+\nI've offered to make the priet's robes more stylish but he rudely declined!]
+Start -->1775553166302332[<b>Speaker 👉 Ama:</b>
+\nThe sunshine illuminates my masterful designs!]
+Start -->1775553166302336[<b>Speaker 👉 Ama:</b>
+\nOh, my little darlings! The starts twinkle just for you!]
+Start -->1775553166302340[<b>Speaker 👉 Ama:</b>
+\nUgh! What drowsy weather!]
+Start -->1775553166302344[<b>Speaker 👉 Ama:</b>
+\nIt's perfect! I must go show Torleone immediately!]
+Start -->1775553166302348[<b>Speaker 👉 Ama:</b>
+\nMy darlings, you didn't have to. You are too kind!]
+Start -->1775553166302352[<b>Speaker 👉 Ama:</b>
+\nHmmm... I appreciate you coming to wish me happy birthday, but you didn't have to get me something!]
+Start -->1775553166302356[<b>Speaker 👉 Ama:</b>
+\nDid someone dare you to give me this?]
+Start -->1775553166302360[<b>Speaker 👉 Ama:</b>
+\nAhh! This, you two have put so much thought into this! I'm so grateful!]
+Start -->1775553166302364[<b>Speaker 👉 Ama:</b>
+\nI shall take my leave stage right!]
+Start -->1775553166302368[<b>Speaker 👉 Ama:</b>
+\n-]
+Start -->1775553166302372[<b>Speaker 👉 Ama:</b>
+\n-]
+Start -->1775553166302376[<b>Speaker 👉 Ama:</b>
+\n-]
+Start -->1775553166302380[<b>Speaker 👉 Ama:</b>
+\n-]
+Start -->1775553166302384[<b>Speaker 👉 Ama:</b>
+\nI have stylish outfits that will even make you look gorgeous in the hottest weather.]
+Start -->1775553166302388[<b>Speaker 👉 Ama:</b>
+\nThe colors of Autumn are so inspirational, aren't they darlings?]
+Start -->1775553166302392[<b>Speaker 👉 Ama:</b>
+\nUgh! Winter truly is the worst season!]
+Start -->1775553166302396[<b>Speaker 👉 Ama:</b>
+\nI am quite partial to some good, well seasoned fish!]
+Start -->1775553166302400[<b>Speaker 👉 Ama:</b>
+\nThe bubbles rising in this glass are inspiring me to make my next outfit.]
+Start -->1775553166302404[<b>Speaker 👉 Ama:</b>
+\nAhh, Merry Christmas my little darlings!]
+Start -->1775553166302408[<b>Speaker 👉 Ama:</b>
+\nI hope the foxes grant you luck in the coming year!]
+Start -->1775553166302412[<b>Speaker 👉 Ama:</b>
+\n-]
+Start -->1775553166302416[<b>Speaker 👉 Ama:</b>
+\n-]
+Start -->1775553166302420[<b>Speaker 👉 Ama:</b>
+\nKon, you hair has so much volume today! It looks faboulous.]
+Start -->1775553166302424[<b>Speaker 👉 Ama:</b>
+\nMy darlings, I am afraid I cannot spend time with you today. I have plans with my beloved Yui!]
+Start -->1775553166302428[<b>Speaker 👉 Ama:</b>
+\nI see you two get along with the charming Seabert! I'm heading over to see Torleone now, care to join me?]
+Start -->1775553166302432[<b>Speaker 👉 Ama:</b>
+\nMy darling little heroes, if you see any dyes out on your adventures please bring them to me! I'll make you something truly special!]
+Start -->1775553166302436[<b>Speaker 👉 Ama:</b>
+\nStay safe my darlings!]
+Start -->1775553166302440[<b>Speaker 👉 Ama:</b>
+\nI just picked up some really lovely fish for dinner! Would you like to come over my darlings!]
+Start -->1775553166302444[<b>Speaker 👉 Ama:</b>
+\n-]
+Start -->1775553166302448[<b>Speaker 👉 Ama:</b>
+\n-]
+Start -->1775553166302452[<b>Speaker 👉 Ama:</b>
+\n-]
+Start -->1775553166302456[<b>Speaker 👉 Ama:</b>
+\nDid you know that I am the one who made my beloved Yui's parasol? Amazing right!]
+Start -->1775553166302460[<b>Speaker 👉 Ama:</b>
+\nFancy going to the Tavern for cocktails later?]
+Start -->1775553166302464[<b>Speaker 👉 Ama:</b>
+\nI've been designing a new Autumn collection, but it's not ready yet!]
+Start -->1775553166302468[<b>Speaker 👉 Ama:</b>
+\nYou've been spending time with Torleone, right my darlings? Has he said anything about me?]
+Start -->1775553166302472[<b>Speaker 👉 Ama:</b>
+\n&lbrace;c.playername&rbrace; you need a coat as thick as Kons in this weather!]
+Start -->1775553166302476[<b>Speaker 👉 Ama:</b>
+\nI worry about my beloved Yui at this time of year! She rushes around putting everyone else first. She needs to think about herself from time to time]
+Start -->1775553731232016[<b>Speaker 👉 Ama:</b>
+\nI simply cannot stand people who waste their potential! I think it's unacceptable.]
+Start -->1775553732866324[<b>Speaker 👉 Ama:</b>
+\nI'll give this bottle of Ninja Bubble to Seabert. I can't stand it.]
 
 ```

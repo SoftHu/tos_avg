@@ -65,7 +65,7 @@ Start -->1775339972760854[<b>Speaker 👉 Liliana:</b>
 Start -->1775339972760858[<b>Speaker 👉 Liliana:</b>
 \nI always love a good story! Shuten often tells me of old tales she heard from travelers and they always intrigue me!]
 Start -->1775339972760862[<b>Speaker 👉 Liliana:</b>
-\nI am not a huge fan of failing, but it is simply unforgivable to give up!]
+\nWow this drink has a beautiful colour to it! I wish I could bottle it as paint.]
 Start -->1775339972760866[<b>Speaker 👉 Liliana:</b>
 \nAhhh &lbrace;c.playername&rbrace;! I see you are also out here in search of inspiration.]
 Start -->1775339972760870[<b>Speaker 👉 Liliana:</b>
@@ -81,11 +81,11 @@ Start -->1775339972760886[<b>Speaker 👉 Liliana:</b>
 Start -->1775339972760890[<b>Speaker 👉 Liliana:</b>
 \nHmmm, are these good enough to show to the Master tomorrow? No, not yet!]
 Start -->1775339972760894[<b>Speaker 👉 Liliana:</b>
-\n-]
+\nYou have believed in me even when I don't... thank you!]
 Start -->1775339972760898[<b>Speaker 👉 Liliana:</b>
-\n-]
+\nIf you have time I can teach you how to draw, if you like?]
 Start -->1775339972760902[<b>Speaker 👉 Liliana:</b>
-\n-]
+\nIf you think my art is good, I'm sure Leon will too!]
 Start -->1775339972760906[<b>Speaker 👉 Liliana:</b>
 \n-]
 Start -->1775339972760910[<b>Speaker 👉 Liliana:</b>
@@ -95,14 +95,24 @@ Start -->1775339972760914[<b>Speaker 👉 Liliana:</b>
 Start -->1775339972760918[<b>Speaker 👉 Liliana:</b>
 \nI'm packed and ready to explore a bit further out today! I'll let you know what flowers I find.]
 Start -->1775339972760922[<b>Speaker 👉 Liliana:</b>
-\n-]
+\nCan you take me down to the fox ruins later? I want to take a look at some of the murals!]
 Start -->1775339972760926[<b>Speaker 👉 Liliana:</b>
 \nI might swing by the farm later... I hope that's okay!]
 Start -->1775339972760930[<b>Speaker 👉 Liliana:</b>
-\n-]
+\nYohji is making ramen later, want to join us?]
 Start -->1775339972760934[<b>Speaker 👉 Liliana:</b>
 \nThe perseverence that plants show during the winter is so inspiring!]
 Start -->1775339972760938[<b>Speaker 👉 Liliana:</b>
-\n-]
+\nI picked some flowers I drew earlier as they rimided me of you. They are fox shaped, kind of.]
+Start -->1777902725579198[<b>Speaker 👉 Liliana:</b>
+\nI love coffee! The productivity boost I get with a nice strong cup, there's nothing better!]
+Start -->1777903713635778[<b>Speaker 👉 Liliana:</b>
+\nI cannot stand when someone overseasons food. You lose the taste and therefore ruin the dish!]
+Start -->1777903733935558[<b>Speaker 👉 Liliana:</b>
+\nIvan! Amazing as always.]
+Start -->1777903786446282[<b>Speaker 👉 Liliana:</b>
+\nOh, Yohji picked some flowers this morning!]
+Start -->1777903809186254[<b>Speaker 👉 Liliana:</b>
+\nYohji keeps leaving his books everywhere.]
 
 ```

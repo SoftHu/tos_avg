@@ -14,15 +14,17 @@ Start -->1768884796445711[<b>Speaker 👉 NPC_4_2_3:</b>
 \nAny day now...]
 1768884796445711 -->1768884809496592[End]
 Start -->1768884880899090[<b>Speaker 👉 NPC_4_2_3:</b>
-\nYou've tamed the wild boar. Impressive.]
+\nThere’s nothing wild about this boar!]
 1768884880899090 -->1768884891209747[End]
 Start -->1768884921164823[<b>Speaker 👉 NPC_4_2_3:</b>
-\nOh, would you look at that...]
+\nOh, would you look at that…]
 1768884921164823 -->1768884925259800[End]
 Start -->1768884920385558[<b>Speaker 👉 NPC_4_2_3:</b>
-\nYou're a pastoral picture.]
+\nYou’re a pastoral picture.]
 1768884920385558 -->1768884931682329[End]
 Start -->1772535815119022[<b>Speaker 👉 Musashi:</b>
-\n让我们先学会农场的技巧吧]
+\nDon't leave yet,
+Show me what you get!]
+1772535815119022 -->1775537268542936[End]
 
 ```

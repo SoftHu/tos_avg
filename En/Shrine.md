@@ -9,23 +9,23 @@ Start -->1775373574762323[<b>Speaker 👉 Fox:</b>
 \nOh…]
 1775373604754262 -->1775373616023385[<b>Speaker 👉 :</b>
 \nUm… Well done.]
-1775373616023385 -->|I shapeshifted!|1775373650165603[<b>Speaker 👉 :</b>
+1775373616023385 -->|Um… what am I?|1775373650165603[<b>Speaker 👉 :</b>
 \nThat’s not a fox… obviously. 
 Foxes can take any form.
 This is your wild boar transformation.]
-1775373616023385 -->|Um… what am I?|1775373650165603[<b>Speaker 👉 :</b>
+1775373616023385 -->|I shapeshifted!|1775373650165603[<b>Speaker 👉 :</b>
 \nThat’s not a fox… obviously. 
 Foxes can take any form.
 This is your wild boar transformation.]
 1775373650165603 -->1775373675159398[<b>Speaker 👉 :</b>
 \nNothing to laugh at!
 Boars are great for sprinting and smashing.\nThis is still a success!]
-1775373675159398 -->|But I wanted to be a fox.|1775373708856177[<b>Speaker 👉 :</b>
+1775373675159398 -->|This is still good… I guess.|1775373708856177[<b>Speaker 👉 :</b>
 \nIt’s strange that this is your first form… 
 Sometimes, shapes become unavailable to us.
 Blocked… by something within yourself.\nAnyhow, well done &lbrace;c.playername&rbrace;. 
 Don’t worry, other forms will come in time.]
-1775373675159398 -->|This is still good… I guess.|1775373708856177[<b>Speaker 👉 :</b>
+1775373675159398 -->|But I wanted to be a fox.|1775373708856177[<b>Speaker 👉 :</b>
 \nIt’s strange that this is your first form… 
 Sometimes, shapes become unavailable to us.
 Blocked… by something within yourself.\nAnyhow, well done &lbrace;c.playername&rbrace;. 
@@ -38,9 +38,9 @@ It’s fun!]
 With practice, you’ll learn to soar the skies and swim the seas.]
 1775373958826873 -->1775373976978300[<b>Speaker 👉 Fox:</b>
 \n*yawn* &lbrace;c.playername&rbrace;, I’m tired.]
-1775373976978300 -->|Thank you for all your guidance.|1775374013533062[<b>Speaker 👉 :</b>
-\nOh, what beautiful manners!]
 1775373976978300 -->|I’m sorry, Kon needs to rest.|1775374013533062[<b>Speaker 👉 :</b>
+\nOh, what beautiful manners!]
+1775373976978300 -->|Thank you for all your guidance.|1775374013533062[<b>Speaker 👉 :</b>
 \nOh, what beautiful manners!]
 1775374013533062 -->1775374025819017[<b>Speaker 👉 :</b>
 \nRemember to pay respects at all the shrines you find.]

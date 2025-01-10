@@ -3,31 +3,31 @@ graph
 Start -->1772258770170026[<b>Speaker 👉 Torleone:</b>
 \nHello there! You must be Seikyu’s new additions.
 Ah, foxes. No wonder everyone is so excited about your arrival.]
-1772258770170026 -->|Excited? Why?|1772259096675504[<b>Speaker 👉 Torleone:</b>
-\nAh, Seikyu has such a wonderful history with the fox clan. 
-We are just happy that we will have foxes with us once again.]
 1772258770170026 -->|Hello! I’m &lbrace;c.playername&rbrace; and this is my sister, Kon.|1772259295134897[<b>Speaker 👉 Torleone:</b>
 \nWhere are my manners… I am Torleone.
 You must have met my wonderful nephew, Seabert?]
+1772258770170026 -->|Excited? Why?|1772259096675504[<b>Speaker 👉 Torleone:</b>
+\nAh, Seikyu has such a wonderful history with the fox clan. 
+We are just happy that we will have foxes with us once again.]
 1772259096675504 -->1772259295134897[<b>Speaker 👉 Torleone:</b>
 \nWhere are my manners… I am Torleone.
 You must have met my wonderful nephew, Seabert?]
-1772259295134897 -->|He is really cute!|1772259472707768[<b>Speaker 👉 Torleone:</b>
-\nHo ho! I am extremely proud of him.
-I am also very proud of Seikyu!\nWe have such a close community.
-You’ll find that everyone knows everyone.
-We’re basically one big family!\nYou would have also noticed the bountiful waters that surround us.
-Seikyu is perfect for fishing! Ha ha!]
 1772259295134897 -->|Yes.|1772259472707768[<b>Speaker 👉 Torleone:</b>
 \nHo ho! I am extremely proud of him.
 I am also very proud of Seikyu!\nWe have such a close community.
 You’ll find that everyone knows everyone.
 We’re basically one big family!\nYou would have also noticed the bountiful waters that surround us.
 Seikyu is perfect for fishing! Ha ha!]
-1772259472707768 -->|Oh, we don’t know how to fish.|1772260066487481[<b>Speaker 👉 Torleone:</b>
+1772259295134897 -->|He is really cute!|1772259472707768[<b>Speaker 👉 Torleone:</b>
+\nHo ho! I am extremely proud of him.
+I am also very proud of Seikyu!\nWe have such a close community.
+You’ll find that everyone knows everyone.
+We’re basically one big family!\nYou would have also noticed the bountiful waters that surround us.
+Seikyu is perfect for fishing! Ha ha!]
+1772259472707768 -->|We don’t even own a fishing rod.|1772260066487481[<b>Speaker 👉 Torleone:</b>
 \nDon’t you worry. 
 Come visit me when you’re settled and I’ll sort you out!]
-1772259472707768 -->|We don’t even own a fishing rod.|1772260066487481[<b>Speaker 👉 Torleone:</b>
+1772259472707768 -->|Oh, we don’t know how to fish.|1772260066487481[<b>Speaker 👉 Torleone:</b>
 \nDon’t you worry. 
 Come visit me when you’re settled and I’ll sort you out!]
 1772260066487481 -->1775358481558881[<b>Speaker 👉 Fox:</b>

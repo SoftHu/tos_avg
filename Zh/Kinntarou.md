@@ -1,98 +1,92 @@
 ```mermaid
 graph LR
-Start -->1740393851675861[<b>Speaker 👉 Kinntarou:</b>
-\n有什么好吃的东西要分享给我吗？
-最近那些零食都吃腻了！]
-Start -->1740394561721559[<b>Speaker 👉 Kinntarou:</b>
-\n漫画书里提到，在遥远的东方有一个国家。
-那里盛产各种美食
-小笼包、麻辣香锅、糖葫芦、春卷……\n光是想想就要流口水了！
-有机会我一定要亲自去看一看……]
-Start -->1740395659485401[<b>Speaker 👉 Kinntarou:</b>
-\n我总觉得律令在偷偷谋划着什么……
-难道是像漫画书里那样去地牢冒险？
-还是说找到了什么好吃的不告诉我？]
-Start -->1740401072152795[<b>Speaker 👉 Kinntarou:</b>
-\n呀！你真贴心……
-这么好的东西，我真的可以收下吗？]
-Start -->1740401072153821[<b>Speaker 👉 Kinntarou:</b>
-\n谢谢你！
-我很喜欢你送我的东西……]
-Start -->1740401072153823[<b>Speaker 👉 Kinntarou:</b>
-\n谢谢你……
-我们之间不用这么客气的。]
-Start -->1740401072153825[<b>Speaker 👉 Kinntarou:</b>
-\n虽然你能送礼物给我，我很感激……
-但是收到这个我也很困扰呀！]
-Start -->1740401072154851[<b>Speaker 👉 Kinntarou:</b>
-\n你是在故意羞辱我吗？]
-Start -->1740401072154853[<b>Speaker 👉 player:</b>
-\n感觉和&lbrace;npc.4103&rbrace;的关系更加密切了……
-接下来好好相处吧！]
-Start -->1740401072154855[<b>Speaker 👉 player:</b>
-\n做了多余的事情……
-感觉和&lbrace;npc.4103&rbrace;的关系疏远了！]
-Start -->1740401882859753[<b>Speaker 👉 Kinntarou:</b>
-\n好吧，再见啰！
-下次有好吃的记得跟我分享！]
-Start -->1753043153997612[<b>Speaker 👉 Kinntarou:</b>
-\n妈妈说鲤鱼节是男孩子的节日
-希望我和&lbrace;npc.4102&rbrace;可以健康成长
-但其实我更关心鲤鱼节有什么好吃的小吃……]
-Start -->1753043602719533[<b>Speaker 👉 Kinntarou:</b>
-\n鲤鱼节快乐！
-我也该去找点吃的了。]
-Start -->1757546431502871[<b>Speaker 👉 Kinntarou:</b>
-\n虽然我和律令都知道酒吞并不是我们的妈妈
-她也从不要求我们叫她妈妈
-可是我们不叫她妈妈又该叫她什么呢？]
-Start -->1757546569728537[<b>Speaker 👉 Kinntarou:</b>
-\n你知道世界上最伟大的职业是什么吗？
-是厨师啦！
-这个答案或许会让你震惊，但事实就是如此。]
-Start -->1757547255693851[<b>Speaker 👉 Kinntarou:</b>
-\n啊……
-好困啊，昨晚看电视看得太晚了
-吃完午饭后再去小憩一下吧。]
-Start -->1757547400011293[<b>Speaker 👉 Kinntarou:</b>
-\n武藏哥哥曾经邀请我去他家吃下午茶
-茶水嘛……我觉得没什么特别的
-但是那个和菓子很好吃哦！]
-Start -->1757547553408543[<b>Speaker 👉 Kinntarou:</b>
-\n又到了最繁忙的时间呢……
-收拾一下，该打起精神来了。]
-Start -->1757547891338785[<b>Speaker 👉 Kinntarou:</b>
-\n今天天气真不错啊，难怪一大早律令就没影了
-肯定又是偷跑到哪里玩了]
-Start -->1757548035372579[<b>Speaker 👉 Kinntarou:</b>
-\n好无聊哦……
-这种天气我只想呆在家里睡觉
-你也一定这么想吧？]
-Start -->1757731991162451[<b>Speaker 👉 Kinntarou:</b>
-\n随便坐吧！先给自己弄点东西喝……\n要是饿了的话就找我
-虽然大家来这里都是喝酒的
-但要是真的饿了怎么能不吃东西呢？]
-Start -->1758010836575838[<b>Speaker 👉 Kinntarou:</b>
-\n年纪轻轻就过上了上班族的生活……
-将来出去应聘的时候
-别人一定会因为我的工作经历瞠目结舌吧……]
-Start -->1758010932068960[<b>Speaker 👉 Kinntarou:</b>
-\n差不多也该习惯这种日夜颠倒的生活作息了
-虽然夜生活对于小孩子来说并不健康
-我这样的年纪，九点钟应该准时上床睡觉！]
-Start -->1758084967348788[<b>Speaker 👉 Kinntarou:</b>
-\n未成年不可以玩这些哦……
-放心，我只是来看看有没有好吃的东西。]
-Start -->1758088092584535[<b>Speaker 👉 Kinntarou:</b>
-\n虽然不明白他们为什么会放我进来……
-但是既来之则安之
-我就在这里晃晃吧！]
-Start -->1758176305005128[<b>Speaker 👉 Kinntarou:</b>
-\n今天有好吃的章鱼烧哦……
-你知道章鱼烧的灵魂是什么吗？
-悄悄告诉你，是木鱼花。]
-Start -->1758177250843210[<b>Speaker 👉 Kinntarou:</b>
-\n回头见！
-要玩得开心呀……]
+Start -->1775548820281696[<b>Speaker 👉 Kinntarou:</b>
+\nBye bye!]
+Start -->1775548820281700[<b>Speaker 👉 Kinntarou:</b>
+\nLet me know if you cook something tasty!]
+Start -->1775548820281704[<b>Speaker 👉 Kinntarou:</b>
+\nOh. my. god. I love it so much. I'm going to eat it right now!]
+Start -->1775548820281708[<b>Speaker 👉 Kinntarou:</b>
+\nYummy yummy. Thanks &lbrace;c.playername&rbrace;!]
+Start -->1775548820281712[<b>Speaker 👉 Kinntarou:</b>
+\nOh cool, thanks!]
+Start -->1775548820281716[<b>Speaker 👉 Kinntarou:</b>
+\nWow... thanks... what is it?]
+Start -->1775548820281720[<b>Speaker 👉 Kinntarou:</b>
+\nWhy would you give me somthing I can't eat...?]
+Start -->1775548820281724[<b>Speaker 👉 Kinntarou:</b>
+\nShuten hung a flags for me and Ritsuryo, but I'm more interested in the food!]
+Start -->1775548820281728[<b>Speaker 👉 Kinntarou:</b>
+\nHope you had a delicious carp festival. I ate like 14 mochi cakes... I need to lie down.]
+Start -->1775548820281732[<b>Speaker 👉 Kinntarou:</b>
+\nI don't understand how people could not find me attractive. I have everything! The brains and the muscles. What more could you want?]
+Start -->1775548820281736[<b>Speaker 👉 Kinntarou:</b>
+\nShuten lets us play in the playground on Fridays. You should play with us!]
+Start -->1775548820281740[<b>Speaker 👉 Kinntarou:</b>
+\nCan't talk! Ritsuryo and I are up to something.]
+Start -->1775548820281744[<b>Speaker 👉 Kinntarou:</b>
+\nI sat on Seabert once and he cried... I'm gonna do it again if I can catch him.]
+Start -->1775548820281748[<b>Speaker 👉 Kinntarou:</b>
+\nI...want...a...treat!]
+Start -->1775548820281752[<b>Speaker 👉 Kinntarou:</b>
+\nRitsuryo says if I keep eating I'll look like Daruma... I think I can live with that.]
+Start -->1775548820281756[<b>Speaker 👉 Kinntarou:</b>
+\nShuten says I have to play outside during the day, but I'd rather be in the kitchen.]
+Start -->1775548820281760[<b>Speaker 👉 Kinntarou:</b>
+\nIt's past my bedtime... &lt;i&gt;yawn&lt;/i&gt;...]
+Start -->1775548820281764[<b>Speaker 👉 Kinntarou:</b>
+\nShuten is teaching me how to cook!]
+Start -->1775548820281768[<b>Speaker 👉 Kinntarou:</b>
+\nWowt this is great &lbrace;c.playername&rbrace;! No way I'm sharing this with Ritsuryo.]
+Start -->1775548820281772[<b>Speaker 👉 Kinntarou:</b>
+\nThanks, &lbrace;c.playername&rbrace;! you can expect a thank you card in 3 to 5 months.]
+Start -->1775548820281776[<b>Speaker 👉 Kinntarou:</b>
+\nYou could have gotten me any kind of food but instead you got... this?]
+Start -->1775548820281780[<b>Speaker 👉 Kinntarou:</b>
+\nWhy... why would you do this to me. It's my birthday. Do you hate children?]
+Start -->1775548820281784[<b>Speaker 👉 Kinntarou:</b>
+\nThis is the best birthday present EVER!!! Shuten's present sucks compaired to this!]
+Start -->1775548820281788[<b>Speaker 👉 Kinntarou:</b>
+\nCome by the tavern soon. I bet Shuten will give you a snack.]
+Start -->1775548820281792[<b>Speaker 👉 Kinntarou:</b>
+\n-]
+Start -->1775548820281796[<b>Speaker 👉 Kinntarou:</b>
+\nShuten is going to teach me how to make a Summer potato salad... I hope it's more potato than salad.]
+Start -->1775548820281800[<b>Speaker 👉 Kinntarou:</b>
+\nPumpkin, apples, cinnamon, cranberrys, squash, chesnuts, stews, mushrooms... I love this time of year.]
+Start -->1775548820281804[<b>Speaker 👉 Kinntarou:</b>
+\nChristmas cookies are the only reason I'm alive. If you make them, I will eat them.]
+Start -->1775548820281808[<b>Speaker 👉 Kinntarou:</b>
+\nI like to eat everything. Why do you ask? Do you have food? Can I have some?]
+Start -->1775548820281812[<b>Speaker 👉 Kinntarou:</b>
+\nThere's literally nothing I wouldn't eat.]
+Start -->1775548820281816[<b>Speaker 👉 Kinntarou:</b>
+\nIT'S CHRISTMAS! MERRY CHRISTMAS! Did you get me a present? Theres still time if you didn't.]
+Start -->1775548820281820[<b>Speaker 👉 Kinntarou:</b>
+\nBye bye, &lbrace;c.playername&rbrace;, and MERRY CHRISTMAS EVERYONE!]
+Start -->1775548820281824[<b>Speaker 👉 Kinntarou:</b>
+\n-]
+Start -->1775548820281828[<b>Speaker 👉 Kinntarou:</b>
+\n-]
+Start -->1775548820281832[<b>Speaker 👉 Kinntarou:</b>
+\n-]
+Start -->1775548820281836[<b>Speaker 👉 Kinntarou:</b>
+\n-]
+Start -->1775548820281840[<b>Speaker 👉 Kinntarou:</b>
+\n-]
+Start -->1775548820281844[<b>Speaker 👉 Kinntarou:</b>
+\n-]
+Start -->1775548820281848[<b>Speaker 👉 Kinntarou:</b>
+\nThis rainy season seems endless...]
+Start -->1775548820281852[<b>Speaker 👉 Kinntarou:</b>
+\nI fear this will be my last rainy season. If only the rain were drops of wine... at least then I'd die happy.]
+Start -->1775548820281856[<b>Speaker 👉 Kinntarou:</b>
+\n0]
+Start -->1775548820281860[<b>Speaker 👉 Kinntarou:</b>
+\n0]
+Start -->1775548820281864[<b>Speaker 👉 Kinntarou:</b>
+\n0]
+Start -->1775548820281868[<b>Speaker 👉 Kinntarou:</b>
+\n0]
 
 ```

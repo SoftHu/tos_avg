@@ -17,12 +17,12 @@ You decide!]
 Start -->1739174397209804[<b>Speaker 👉 Ritsurei:</b>
 \nHey! What are you doing?
 I asked you to beat the Daruma, not destroy it!]
-1739174397209804 -->|I got the Grand Prize!|1739174468325588[<b>Speaker 👉 Ritsurei:</b>
+1739174397209804 -->|Yay!|1739174468325588[<b>Speaker 👉 Ritsurei:</b>
 \nWait, wait, wait, that's for eating...\nTo buy this Daruma,
 I borrowed 1500 gold coins and used up all my savings.\nThe grand prize isn't enough to cover your debt. You still owe me 500 gold coins. 
 Since you're new around here, I'll put it on your tab. 
 But if you don't pay up, I'll have to tell Mayor Yui!]
-1739174397209804 -->|Yay!|1739174468325588[<b>Speaker 👉 Ritsurei:</b>
+1739174397209804 -->|I got the Grand Prize!|1739174468325588[<b>Speaker 👉 Ritsurei:</b>
 \nWait, wait, wait, that's for eating...\nTo buy this Daruma,
 I borrowed 1500 gold coins and used up all my savings.\nThe grand prize isn't enough to cover your debt. You still owe me 500 gold coins. 
 Since you're new around here, I'll put it on your tab. 
@@ -30,11 +30,11 @@ But if you don't pay up, I'll have to tell Mayor Yui!]
 1739174468325588 -->1739419408500975{ }
 Start -->1739174569058519[<b>Speaker 👉 Ritsurei:</b>
 \nWait, if I leave now, I'll get to keep your money, right?]
+1739174569058519 -->|No big deal.|1739174718294239[<b>Speaker 👉 Ritsurei:</b>
+\nHehe, money is so easy to earn...]
 1739174569058519 -->|Give it back!|1739174695220446[<b>Speaker 👉 Ritsurei:</b>
 \nHey, why so angry? Just kidding.
 Come back next time!]
-1739174569058519 -->|No big deal.|1739174718294239[<b>Speaker 👉 Ritsurei:</b>
-\nHehe, money is so easy to earn...]
 1739174695220446 -->1739174672407773{ }
 Start -->1739511529487604[<b>Speaker 👉 Ritsurei:</b>
 \nAttack the daruma with your weapon!]

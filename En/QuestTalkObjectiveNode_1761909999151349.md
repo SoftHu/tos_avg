@@ -17,13 +17,13 @@ to protect Seikyu from harm.]
 1761910989212934 -->1761911109766407[<b>Speaker 👉 player:</b>
 \nYour safety is our top concern,
 more than anything else.]
+1761911109766407 -->|I'll take good care of my sister.|1761911308834062[<b>Speaker 👉 player:</b>
+\nWe believe in you,
+&lbrace;c.playername&rbrace;.]
 1761911109766407 -->|Got it.|1761911280317707[<b>Speaker 👉 :</b>
 \nGood.
 Now go,
 and may Lady Inari be with you.]
-1761911109766407 -->|I'll take good care of my sister.|1761911308834062[<b>Speaker 👉 player:</b>
-\nWe believe in you,
-&lbrace;c.playername&rbrace;.]
 1761911280317707 -->1761911318607119[End]
 1761911308834062 -->1761911280317707[<b>Speaker 👉 :</b>
 \nGood.

@@ -4,36 +4,36 @@ Start -->1750843311597832[<b>Speaker 👉 Hephaestus:</b>
 \nHo, feels good to sweat eh, &lbrace;c.playername&rbrace;? 
 I could feel the cave shake with your every swing, haha.\nAnd this is high-quality iron. I'm going to save it for a special blade. 
 Master Muramasa always said Seikyu had some of the purest iron deposits.]
-1750843311597832 -->|Muramasa?|1750844368454949[End]
 1750843311597832 -->|What kind of special blade?|1750844368454949[End]
+1750843311597832 -->|Muramasa?|1750844368454949[End]
 Start -->1750843511057678[<b>Speaker 👉 Hephaestus:</b>
 \nMaster Muramasa is a world-renowned craftsman. His blades are legendary. 
 I spent my youth as his apprentice, devoting my life to blacksmithing.\nIt's my dream to become a master smith and create blades of his caliber.]
-1750843511057678 -->|Aren't you already a master smith?|1771622794595529[<b>Speaker 👉 Hephaestus:</b>
-\n Haha you flatter me! But no, not yet.]
 1750843511057678 -->|I'm sure you'll get there.|1771622814731466[<b>Speaker 👉 Hephaestus:</b>
 \nIt takes years to become a true master. 
 And there are many tests I must overcome.\nSome are within my control… 
 And some are in the hands of fate.\nWhat is your dream, &lbrace;c.playername&rbrace;？]
+1750843511057678 -->|Aren't you already a master smith?|1771622794595529[<b>Speaker 👉 Hephaestus:</b>
+\n Haha you flatter me! But no, not yet.]
 1771622794595529 -->1771622814731466[<b>Speaker 👉 Hephaestus:</b>
 \nIt takes years to become a true master. 
 And there are many tests I must overcome.\nSome are within my control… 
 And some are in the hands of fate.\nWhat is your dream, &lbrace;c.playername&rbrace;？]
-1771622814731466 -->|To find my heart's companion.|1771622940282067[<b>Speaker 👉 Hephaestus:</b>
+1771622814731466 -->|To unlock the secrets of the Fox Clan.|1771622940282067[<b>Speaker 👉 Hephaestus:</b>
 \nHmm, that's an honorable goal.\nBased on the way you swing a pickaxe,
 I'm sure nothing will stand in your way!\nSpeaking of, how about we get back to our competition with the earth, eh!?]
 1771622814731466 -->|To find a peaceful life Seikyu.|1771622940282067[<b>Speaker 👉 Hephaestus:</b>
 \nHmm, that's an honorable goal.\nBased on the way you swing a pickaxe,
 I'm sure nothing will stand in your way!\nSpeaking of, how about we get back to our competition with the earth, eh!?]
-1771622814731466 -->|To unlock the secrets of the Fox Clan.|1771622940282067[<b>Speaker 👉 Hephaestus:</b>
+1771622814731466 -->|To find my heart's companion.|1771622940282067[<b>Speaker 👉 Hephaestus:</b>
 \nHmm, that's an honorable goal.\nBased on the way you swing a pickaxe,
 I'm sure nothing will stand in your way!\nSpeaking of, how about we get back to our competition with the earth, eh!?]
 1771622940282067 -->1771623004033236[End]
-1750844326438180 -->|It seems he was very important to you.|1750843556242708[<b>Speaker 👉 Hephaestus:</b>
+1750844326438180 -->|You miss the old days.|1750843556242708[<b>Speaker 👉 Hephaestus:</b>
 \nYes, when I used to go out mining,
 it was Master Muramasa who taught me how to identify ores.
 It feels a bit lonely mining here in Seikyu without him.]
-1750844326438180 -->|You miss the old days.|1750843556242708[<b>Speaker 👉 Hephaestus:</b>
+1750844326438180 -->|It seems he was very important to you.|1750843556242708[<b>Speaker 👉 Hephaestus:</b>
 \nYes, when I used to go out mining,
 it was Master Muramasa who taught me how to identify ores.
 It feels a bit lonely mining here in Seikyu without him.]
@@ -52,12 +52,12 @@ I'm sure more people will join our fitness club.\nAs craftsmen, the size of our 
 1751366238300522 -->1751366272377195[<b>Speaker 👉 Hephaestus:</b>
 \nI thought your fighting days were over, Tor. 
 You don't need an inscribed blade.]
-1751366272377195 -->|Muramasa inscription?|1751366551144817[<b>Speaker 👉 Torleone:</b>
+1751366272377195 -->|What kind of blade do you want?|1751366551144817[<b>Speaker 👉 Torleone:</b>
 \nIt is a treasure that all warriors dream of!
 Hephaestus carries knowledge from Master Muramasa himself.
 A magic inscription that grants a weapon unmatched power!\nThose who wield a Muramasa blade are nearly unstoppable. 
 But Hephaestus refuses to make one for me!]
-1751366272377195 -->|What kind of blade do you want?|1751366551144817[<b>Speaker 👉 Torleone:</b>
+1751366272377195 -->|Muramasa inscription?|1751366551144817[<b>Speaker 👉 Torleone:</b>
 \nIt is a treasure that all warriors dream of!
 Hephaestus carries knowledge from Master Muramasa himself.
 A magic inscription that grants a weapon unmatched power!\nThose who wield a Muramasa blade are nearly unstoppable. 
@@ -78,7 +78,7 @@ Start -->1751367195766136[<b>Speaker 👉 Hephaestus:</b>
 \nSorry. Today should have been a happy occasion. 
 But I messed it up. 
 Now the club is just us two.]
-1751367195766136 -->|What friends don't argue?|1751367543267712[<b>Speaker 👉 Hephaestus:</b>
+1751367195766136 -->|You should just make him the weapon.|1751367543267712[<b>Speaker 👉 Hephaestus:</b>
 \nThe Muramasa inscription is not something to be taken lightly. 
 Its power should only fall to one truly deserving.
 I hope to find a worthy swordsman one day.\nI'll talk to Tor when he's cooled off.\nNow! Don't forget to hydrate after sweating so much. 
@@ -88,7 +88,7 @@ Let's try to keep our new club alive, eh?]
 Its power should only fall to one truly deserving.
 I hope to find a worthy swordsman one day.\nI'll talk to Tor when he's cooled off.\nNow! Don't forget to hydrate after sweating so much. 
 Let's try to keep our new club alive, eh?]
-1751367195766136 -->|You should just make him the weapon.|1751367543267712[<b>Speaker 👉 Hephaestus:</b>
+1751367195766136 -->|What friends don't argue?|1751367543267712[<b>Speaker 👉 Hephaestus:</b>
 \nThe Muramasa inscription is not something to be taken lightly. 
 Its power should only fall to one truly deserving.
 I hope to find a worthy swordsman one day.\nI'll talk to Tor when he's cooled off.\nNow! Don't forget to hydrate after sweating so much. 

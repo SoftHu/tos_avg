@@ -3,28 +3,28 @@ graph LR
 Start -->1752689880679815[<b>Speaker 👉 Nyotengu:</b>
 \nStanding behind someone without saying a word... 
 Sneaking around, it's very rude.]
-1752689880679815 -->|Sorry...|1752690924668679[<b>Speaker 👉 Nyotengu:</b>
-\nIf you stood silently behind other Crow Tengus like that, 
-they would happily remove your head from your shoulders.\nUnfortunately, this is Seikyu and there are no assassins here, 
-so your head can stay where it is.]
 1752689880679815 -->|I was captivated by the conversation...|1752690924668679[<b>Speaker 👉 Nyotengu:</b>
 \nIf you stood silently behind other Crow Tengus like that, 
 they would happily remove your head from your shoulders.\nUnfortunately, this is Seikyu and there are no assassins here, 
 so your head can stay where it is.]
-1752690924668679 -->|Am I supposed to thank you then?|1752691525420815[<b>Speaker 👉 Nyotengu:</b>
-\nYou're quite an interesting little fox...]
+1752689880679815 -->|Sorry...|1752690924668679[<b>Speaker 👉 Nyotengu:</b>
+\nIf you stood silently behind other Crow Tengus like that, 
+they would happily remove your head from your shoulders.\nUnfortunately, this is Seikyu and there are no assassins here, 
+so your head can stay where it is.]
 1752690924668679 -->|That sounds terrifying...|1752691525420815[<b>Speaker 👉 Nyotengu:</b>
 \nYou're quite an interesting little fox...]
-1752691525420815 -->|Who exactly are you?|1752692182299414[<b>Speaker 👉 Nyotengu:</b>
-\nI am Nyotengu, the keeper of order in Seikyu. 
-I reviewed your background before you arrived here.\nSeikyu isn't as densely populated as Kyushu or Shikoku, 
-we have strict standards for accepting immigrants. That's part of my job too.\nEnough of that, it's quite boring. Little fox, do you drink? Join me for a few.]
+1752690924668679 -->|Am I supposed to thank you then?|1752691525420815[<b>Speaker 👉 Nyotengu:</b>
+\nYou're quite an interesting little fox...]
 1752691525420815 -->|You knew I was a fox?|1752692182299414[<b>Speaker 👉 Nyotengu:</b>
 \nI am Nyotengu, the keeper of order in Seikyu. 
 I reviewed your background before you arrived here.\nSeikyu isn't as densely populated as Kyushu or Shikoku, 
 we have strict standards for accepting immigrants. That's part of my job too.\nEnough of that, it's quite boring. Little fox, do you drink? Join me for a few.]
-1752692182299414 -->|Then I'll follow your lead.|1752692411196189[End]
+1752691525420815 -->|Who exactly are you?|1752692182299414[<b>Speaker 👉 Nyotengu:</b>
+\nI am Nyotengu, the keeper of order in Seikyu. 
+I reviewed your background before you arrived here.\nSeikyu isn't as densely populated as Kyushu or Shikoku, 
+we have strict standards for accepting immigrants. That's part of my job too.\nEnough of that, it's quite boring. Little fox, do you drink? Join me for a few.]
 1752692182299414 -->|I'm not much of a drinker...|1752692411196189[End]
+1752692182299414 -->|Then I'll follow your lead.|1752692411196189[End]
 Start -->1753128694524304[<b>Speaker 👉 Nyotengu:</b>
 \nThe first principle of flying is to overcome your inner fear. 
 Take a deep breath and open your eyes!]
@@ -55,9 +55,9 @@ and the essence of iaijutsu is to swiftly draw the sword from its scabbard and s
 1760142008622709 -->|*Focus on strength*|1760225377338661[End]
 Start -->1760142135096959[<b>Speaker 👉 Nyotengu:</b>
 \nHiss…]
-1760142135096959 -->|What are you doing?|1760142179004038[<b>Speaker 👉 Nyotengu:</b>
-\nLet's call it a day… Can you help me to the side to sit for a while, little fox?]
 1760142135096959 -->|Are you okay?|1760142179004038[<b>Speaker 👉 Nyotengu:</b>
+\nLet's call it a day… Can you help me to the side to sit for a while, little fox?]
+1760142135096959 -->|What are you doing?|1760142179004038[<b>Speaker 👉 Nyotengu:</b>
 \nLet's call it a day… Can you help me to the side to sit for a while, little fox?]
 1760142179004038 -->1760142197570183[End]
 Start -->1760142220680841[<b>Speaker 👉 Nyotengu:</b>
@@ -78,9 +78,9 @@ you should have Hephaestus forge a Muramasa blade for you.]
 you should have Hephaestus forge a Muramasa blade for you.]
 1760225461618994 -->440056365404748{ }
 1760142101932668 -->1760142122483325[End]
-440056365404748 -->|A Muramasa blade?|1760142101932668[<b>Speaker 👉 Nyotengu:</b>
-\nHahaha, I can't help you with that.]
 440056365404748 -->|What's that?|1760142101932668[<b>Speaker 👉 Nyotengu:</b>
+\nHahaha, I can't help you with that.]
+440056365404748 -->|A Muramasa blade?|1760142101932668[<b>Speaker 👉 Nyotengu:</b>
 \nHahaha, I can't help you with that.]
 1760225114360095 -->440056365404748{ }
 

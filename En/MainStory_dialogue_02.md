@@ -14,14 +14,14 @@ This is my &lbrace;sex.sibling&rbrace;.]
 Start -->1758987591518858[<b>Speaker 👉 Oda:</b>
 \n&lbrace;c.playername&rbrace;, what kind of a town do you
 hope to build together?]
-1758987591518858 -->|A prosperous town.|1758987649910418[<b>Speaker 👉 Musashi:</b>
-\nAh, a merchant, I see.
-Let's help this town prosper together.]
-1758987591518858 -->|A free town.|1758987690209939[<b>Speaker 👉 Hephaestus:</b>
-\nWow, I didn't know we shared the same dream.]
 1758987591518858 -->|A relaxing town.|1758987694775956[<b>Speaker 👉 Yoni:</b>
 \nWonderful,
 someone who's on the same page as me.]
+1758987591518858 -->|A free town.|1758987690209939[<b>Speaker 👉 Hephaestus:</b>
+\nWow, I didn't know we shared the same dream.]
+1758987591518858 -->|A prosperous town.|1758987649910418[<b>Speaker 👉 Musashi:</b>
+\nAh, a merchant, I see.
+Let's help this town prosper together.]
 1758987649910418 -->1758987782295191[End]
 1758987690209939 -->1758987782295191[End]
 1758987694775956 -->1758987782295191[End]

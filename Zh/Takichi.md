@@ -1,50 +1,126 @@
 ```mermaid
 graph LR
-Start -->1727647769297009[<b>Speaker 👉 Takichi:</b>
-\n再会！]
-Start -->1727647787373683[<b>Speaker 👉 Takichi:</b>
-\n啥事呀？我很忙的！]
-Start -->1727647926576245[<b>Speaker 👉 Takichi:</b>
-\n打了好几份零工，就是为了攒钱……\n什么时候我要是也能在小镇里盘一个店面
-做点小买卖就好了\n我老家的青梅竹马可等着我去娶她呢！
-好久没联系了……
-也不知道她过得好不好啊？]
-Start -->1727647926576247[<b>Speaker 👉 Takichi:</b>
-\n像我们这样的小妖，不求出人头地
-只要能寻找个安稳的地方生活就已经谢天谢地了。\n我们村好几个出来讨生活的
-都死在海上了……
-真可怕哦！\n我不要再乘船出海了，我要一辈子待在岛上咧！]
-Start -->1727648128856185[<b>Speaker 👉 Takichi:</b>
-\n呀！你真贴心……
-这么好的东西，我真的可以收下吗？]
-Start -->1727648128856187[<b>Speaker 👉 Takichi:</b>
-\n谢谢你！
-我很喜欢你送我的东西……]
-Start -->1727648128857213[<b>Speaker 👉 Takichi:</b>
-\n谢谢你……
-我们之间不用这么客气的。]
-Start -->1727648128857215[<b>Speaker 👉 Takichi:</b>
-\n虽然你能送礼物给我，我很感激……
-但是收到这个我也很困扰呀！]
-Start -->1727648128857217[<b>Speaker 👉 Takichi:</b>
-\n你是在故意羞辱我吗？]
-Start -->1727648128858243[<b>Speaker 👉 player:</b>
-\n感觉和&lbrace;npc.4214&rbrace;的关系更加密切了……
-接下来好好相处吧！]
-Start -->1727648128858245[<b>Speaker 👉 player:</b>
-\n做了多余的事情……
-感觉和&lbrace;npc.4214&rbrace;的关系疏远了！]
-Start -->1753056426810768[<b>Speaker 👉 Takichi:</b>
-\n现在找我聊天也没什么用哦……
-毕竟是一年一度的鲤鱼节嘛
-还是抓紧时间享受吧！]
-Start -->1753056438301073[<b>Speaker 👉 Takichi:</b>
-\n再见，要玩的开心点哈！]
-Start -->1758256443454062[<b>Speaker 👉 Takichi:</b>
-\n哦？
-这么热闹的节日不去玩耍反而选择跟我聊天吗？]
-Start -->1758256599193200[<b>Speaker 👉 Takichi:</b>
-\n这就对了嘛，年轻人。
-应该抓紧时间去享受……]
+Start -->1776659862024612[<b>Speaker 👉 Takichi:</b>
+\nNo need to say farewell. We all end up in same place eventually.]
+Start -->1776659862025640[<b>Speaker 👉 Takichi:</b>
+\nMmm, who are you?]
+Start -->1776659862025644[<b>Speaker 👉 Takichi:</b>
+\nGifts are given to bolster the ego. It is nice though!]
+Start -->1776659862025648[<b>Speaker 👉 Takichi:</b>
+\nHmmm... ok!]
+Start -->1776659862025652[<b>Speaker 👉 Takichi:</b>
+\nWhy?]
+Start -->1776659862025656[<b>Speaker 👉 Takichi:</b>
+\nCan I give it back?]
+Start -->1776659862025660[<b>Speaker 👉 Takichi:</b>
+\nYou bought a gift you would like to receive yourself, right? Like other lifeforms, we exist only to replicate ourselves.]
+Start -->1776659862025664[<b>Speaker 👉 Takichi:</b>
+\nHmmm, what day is it again?]
+Start -->1776659862025668[<b>Speaker 👉 Takichi:</b>
+\nI think I would like to be reborn as a fish one day!]
+Start -->1776659862025672[<b>Speaker 👉 Takichi:</b>
+\nSince there is no wrong or right, you just reap what you sow. I don't participate in activites that I have no interest in!]
+Start -->1776659862025676[<b>Speaker 👉 Takichi:</b>
+\nI have no need for rest when I have expended no energy.]
+Start -->1776659862025680[<b>Speaker 👉 Takichi:</b>
+\nNo system has ever existed which did not involve the exploitation of some for the advantage of others.]
+Start -->1776659862025684[<b>Speaker 👉 Takichi:</b>
+\nFun fact: there is no one more dangerous than someone with nothing to lose.]
+Start -->1776659862025688[<b>Speaker 👉 Takichi:</b>
+\nThe laws of history tell us that only when the old is gone can the new take its place. Is that what happened to the foxes?]
+Start -->1776659862025692[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025696[<b>Speaker 👉 Takichi:</b>
+\nWhen the day end we will return to eternal darkness! Yay!]
+Start -->1776659862025700[<b>Speaker 👉 Takichi:</b>
+\nThere is no sunshine, only darkness! Hehe!]
+Start -->1776659862025704[<b>Speaker 👉 Takichi:</b>
+\nNo! I don't think so!]
+Start -->1776659862025708[<b>Speaker 👉 Takichi:</b>
+\nTommy always bakes a cake... it's tasty!]
+Start -->1776659862025712[<b>Speaker 👉 Takichi:</b>
+\nI'll give this to Ivan, I'm sure he'll like it.]
+Start -->1776659862025716[<b>Speaker 👉 Takichi:</b>
+\nI came outside for this - not worth it!]
+Start -->1776659862025720[<b>Speaker 👉 Takichi:</b>
+\nI'm just going to leave this here and walk away.]
+Start -->1776659862025724[<b>Speaker 👉 Takichi:</b>
+\nWhy do we celebrate birthdays but not death days? I shall save this for my death day!]
+Start -->1776659862025728[<b>Speaker 👉 Takichi:</b>
+\nThe point is there is no point. Bye now!]
+Start -->1776659862025732[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025736[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025740[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025744[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025748[<b>Speaker 👉 Takichi:</b>
+\nI must go inside. The sun is out.]
+Start -->1776659862025752[<b>Speaker 👉 Takichi:</b>
+\nThe cycle of life and death is never more so present than in Autumn.]
+Start -->1776659862025756[<b>Speaker 👉 Takichi:</b>
+\nIf time, like hope, is an illusion, then do the seasons truly exist?]
+Start -->1776659862025760[<b>Speaker 👉 Takichi:</b>
+\nMy mum told me we love life, not because we are used to living but because we are used to loving. Inspirational, right?]
+Start -->1776659862025764[<b>Speaker 👉 Takichi:</b>
+\nEverything in the world displeases me: but, above all, my displeasure in everything displeases me... I read that somewhere once.]
+Start -->1776659862025768[<b>Speaker 👉 Takichi:</b>
+\nChristmas is a religious construct made to enslave others.]
+Start -->1776659862025772[<b>Speaker 👉 Takichi:</b>
+\nI'm going to hibernate until spring.]
+Start -->1776659862025776[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025780[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025784[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025788[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025792[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025796[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025800[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025804[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025808[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025812[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025816[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025820[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025824[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025828[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025832[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025836[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1776659862025840[<b>Speaker 👉 Takichi:</b>
+\n-]
+Start -->1777990474676859[<b>Speaker 👉 Takichi:</b>
+\nI'm going to buy some new cooking equipment with the money I won!]
+Start -->1777990505039487[<b>Speaker 👉 Takichi:</b>
+\nUgh! Who packed fruit? That's not an adventuring snack.]
+Start -->1777990521119363[<b>Speaker 👉 Takichi:</b>
+\nThis would go well with a home cooked meal! Don't you think?]
+Start -->1777990535617159[<b>Speaker 👉 Takichi:</b>
+\nI'll trade you! Come by the stall tomorrow and I'll make you something.]
+Start -->1777990560023179[<b>Speaker 👉 Takichi:</b>
+\nGrilled veggies are the best!]
+Start -->1777990581352079[<b>Speaker 👉 Takichi:</b>
+\nI don't like scones! Except when Yui Oda makes them.]
+Start -->1777990595589779[<b>Speaker 👉 Takichi:</b>
+\nWelcome.]
+Start -->1777990621190807[<b>Speaker 👉 Takichi:</b>
+\nAre you sure? Okay.]
+Start -->1777990658015899[<b>Speaker 👉 Takichi:</b>
+\nThank you for your patronage.]
 
 ```

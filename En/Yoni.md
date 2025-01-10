@@ -63,9 +63,9 @@ Start -->1775422849480690[<b>Speaker 👉 Yoni:</b>
 Start -->1775422849480694[<b>Speaker 👉 Yoni:</b>
 \nOh no! I'm going to lose my voice if I stay out in the cold too long.]
 Start -->1775422849480698[<b>Speaker 👉 Yoni:</b>
-\nMy favourate sound in the world is the sound of my hammer hitting metal. Ching! Ching! Ching!]
+\nFor me there is simply nothing better than a good song! Especially performed my favourate group, Animetal. Have you heard of them?]
 Start -->1775422849480702[<b>Speaker 👉 Yoni:</b>
-\nI really don't like the cold, it's extremely damaging for your vocal chords.]
+\nThank you! This would go well with some omorice, don't you think?]
 Start -->1775422849479682[<b>Speaker 👉 Yoni:</b>
 \n&lt;i&gt; Merry Christmas to you! Merry Christmas Kon and &lbrace;c.playername&rbrace;! &lt;i&gt;]
 Start -->1775422849479686[<b>Speaker 👉 Yoni:</b>
@@ -75,17 +75,17 @@ Start -->1775422849479690[<b>Speaker 👉 Yoni:</b>
 Start -->1775422849479694[<b>Speaker 👉 Yoni:</b>
 \n-]
 Start -->1775422849479698[<b>Speaker 👉 Yoni:</b>
-\n-]
+\nI'm going to see Seabert to talk about the new Animetal track! Did you hear it? Wanna join us?]
 Start -->1775422849479702[<b>Speaker 👉 Yoni:</b>
-\n-]
+\nWhere do you think is the best place to go to get inspiration for song lyrics?]
 Start -->1775422849479706[<b>Speaker 👉 Yoni:</b>
-\nSaturday is a day for rest and resetting back to a healthy mindset.]
+\nI'd love to stay and chat but Kababa has summoned me! Sorry!]
 Start -->1775422849479710[<b>Speaker 👉 Yoni:</b>
-\n-]
+\nSo, if I get an extra Animetal ticket, would you like to come?]
 Start -->1775422849479714[<b>Speaker 👉 Yoni:</b>
-\n-]
+\nKon told me you were watching Animetal on the TV! You like them, don't you?]
 Start -->1775422849479718[<b>Speaker 👉 Yoni:</b>
-\n-]
+\nYou're coming to watch me tonight! Thank you! I'll do something extra special for you!]
 Start -->1775422849479722[<b>Speaker 👉 Yoni:</b>
 \n-]
 Start -->1775422849479726[<b>Speaker 👉 Yoni:</b>
@@ -93,16 +93,22 @@ Start -->1775422849479726[<b>Speaker 👉 Yoni:</b>
 Start -->1775422849479730[<b>Speaker 👉 Yoni:</b>
 \n-]
 Start -->1775422849479734[<b>Speaker 👉 Yoni:</b>
-\n-]
+\nWant to go for a drink in the tavern later?]
 Start -->1775422849479738[<b>Speaker 👉 Yoni:</b>
-\n-]
+\nSo, if I get an extra Animetal ticket, would you like to come?]
 Start -->1775422849479742[<b>Speaker 👉 Yoni:</b>
-\n-]
+\nI wonder if there is anywhere that is more beautiful than Seikyu in Autumn!]
 Start -->1775422849479746[<b>Speaker 👉 Yoni:</b>
-\n-]
+\nI planted some new flowers today, I can't wait for them to grow next year.]
 Start -->1775422849479750[<b>Speaker 👉 Yoni:</b>
-\n-]
+\nMy plants are struggling with this cold, how are yours doing?]
 Start -->1775422849479754[<b>Speaker 👉 Yoni:</b>
-\n-]
+\nHey, can I pop by the farm later? I want to sing my new song to you and Kon.]
+Start -->1777907624110558[<b>Speaker 👉 Yoni:</b>
+\nI'm not a huge fan of how meat is sourced so I'm a vegetarian!]
+Start -->1777907760756194[<b>Speaker 👉 Yoni:</b>
+\nMy tummy's rumbling! I can't wait.]
+Start -->1777907821167078[<b>Speaker 👉 Yoni:</b>
+\nMy little beauties! You should see the drawings Lilliana's done of you.]
 
 ```
