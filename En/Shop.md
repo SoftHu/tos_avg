@@ -99,7 +99,7 @@ Start -->1760740275085967[<b>Speaker 👉 Musashi:</b>
 \nSorry, you don't seem to have enough money...
 We can't let you make a purchase on credit.]
 Start -->1762957098140370[<b>Speaker 👉 player:</b>
-\n]
+\n未配置I18N]
 1762957098140370 -->1762957098140371[End]
 Start -->1762957098141397[<b>Speaker 👉 player:</b>
 \n&lbrace;0&rbrace;, is it?

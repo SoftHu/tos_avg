@@ -40,7 +40,7 @@ Start -->1766409073573657[<b>Speaker 👉 Anna:</b>
 \nI'll be fine.]
 1766409981573914 -->|Are you with anyone?|1766410032726816[<b>Speaker 👉 Anna:</b>
 \nNo, just me.]
-1766410032726816 -->|You're Anna, from the casino, right?|1766410737948455[<b>Speaker 👉 Anna:</b>
+1766410032726816 -->|You're &lbrace;npc.4218&rbrace;, from the &lbrace;location.19&rbrace;, right?|1766410737948455[<b>Speaker 👉 Anna:</b>
 \nPlease don't tell anyone I was here.]
 1766410032726816 -->|Here. Eat this.|1766411263069995[<b>Speaker 👉 Anna:</b>
 \noh-um- thank you. That's... That's very kind.]
@@ -49,16 +49,16 @@ Start -->1766409073573657[<b>Speaker 👉 Anna:</b>
 1766410737948455 -->|I won't. Are you sure you're ok?|1766411332554546[<b>Speaker 👉 Anna:</b>
 \nI'll be alright. But I have to go.\nPlease don't tell.\nAnd... um... Thank you.]
 1766411332554546 -->1766411702442806[End]
-1766411263069995 -->|You're Anna, from the casino, right?|1766410737948455[<b>Speaker 👉 Anna:</b>
+1766411263069995 -->|You're &lbrace;npc.4218&rbrace;, from the &lbrace;location.19&rbrace;, right?|1766410737948455[<b>Speaker 👉 Anna:</b>
 \nPlease don't tell anyone I was here.]
-Start -->1766411456643892[<b>Speaker 👉 Fox:</b>
+Start -->1766411456643892[<b>Speaker 👉 Kon:</b>
 \nShe's a little strange...]
 1766411456643892 -->1766411479348021[End]
 Start -->1766411752902457[<b>Speaker 👉 Anna:</b>
 \nWhat would they say if they saw me? The real me.\n.............\nHmm, you think?\nA house with a yard for games and neighbors to chat with...\nSounds nice, doesn't it?\n........\nNo! We can't.\nI have a mission to complete. 
 We stay hidden.]
 1766411752902457 -->1766411819287354[End]
-Start -->1766411856043836[<b>Speaker 👉 Fox:</b>
+Start -->1766411856043836[<b>Speaker 👉 Kon:</b>
 \nWho is she talking to?]
 1766411856043836 -->|She's crazy.|1766411939036994[<b>Speaker 👉 Anna:</b>
 \nWho's there!?]
@@ -82,21 +82,21 @@ I'm a warrior and a Tanuki.]
 \nI have—]
 1766412120371026 -->1766412145566547[<b>Speaker 👉 Anna:</b>
 \nYou don't know anything, fox.]
-1766412145566547 -->|Sounds like you want a friend...|1766412200866650[<b>Speaker 👉 Fox:</b>
+1766412145566547 -->|Sounds like you want a friend...|1766412200866650[<b>Speaker 👉 Kon:</b>
 \nWe can play Cuju. 
 You could help us beat Hephestus's team!]
-1766412145566547 -->|Come over to our house sometime. Kon loves having guests.|1766412200866650[<b>Speaker 👉 Fox:</b>
+1766412145566547 -->|Come over to our house sometime. &lbrace;npc.4101&rbrace; loves having guests.|1766412200866650[<b>Speaker 👉 Kon:</b>
 \nWe can play Cuju. 
 You could help us beat Hephestus's team!]
 1766412200866650 -->1766412529967963[<b>Speaker 👉 Anna:</b>
 \nYou're both unbelievable. 
 Stop wasting my time.\nI have better things to do than play Cuju.\nSpy on me again and I'll kill you, foxy.]
 1766412529967963 -->1766412628209500[End]
-Start -->1766412678188894[<b>Speaker 👉 Fox:</b>
+Start -->1766412678188894[<b>Speaker 👉 Kon:</b>
 \nWas she... blushing?]
-1766412678188894 -->|She's kind of cute.|1766412711107428[<b>Speaker 👉 Fox:</b>
+1766412678188894 -->|She's kind of cute.|1766412711107428[<b>Speaker 👉 Kon:</b>
 \nNow you sound crazy.]
-1766412678188894 -->|I wonder if she'll come over.|1766412711107428[<b>Speaker 👉 Fox:</b>
+1766412678188894 -->|I wonder if she'll come over.|1766412711107428[<b>Speaker 👉 Kon:</b>
 \nNow you sound crazy.]
 1766412711107428 -->1766412727551845[End]
 Start -->1766412770796391[<b>Speaker 👉 Anna:</b>
@@ -136,11 +136,11 @@ Start -->1766416533600153[<b>Speaker 👉 Anna:</b>
 \nHey, &lbrace;c.playername&rbrace;.]
 1766416533600153 -->|*Get ready to fight*|1766416570632095[<b>Speaker 👉 Anna:</b>
 \nRelax, 
-I didn't come to fight.\nBut I heard you defeated Fujiki. 
+I didn't come to fight.\nBut I heard you defeated &lbrace;npc.4603&rbrace;. 
 Impressive, for a fox.]
 1766416533600153 -->|*Say nothing*|1766416570632095[<b>Speaker 👉 Anna:</b>
 \nRelax, 
-I didn't come to fight.\nBut I heard you defeated Fujiki. 
+I didn't come to fight.\nBut I heard you defeated &lbrace;npc.4603&rbrace;. 
 Impressive, for a fox.]
 1766416570632095 -->|You continue to underestimate me.|1766416715858853[<b>Speaker 👉 Anna:</b>
 \nI wanted to ask you...\nActually, nevermind.]
@@ -154,12 +154,12 @@ Impressive, for a fox.]
  I've had some trouble and I need a place to sleep.]
 1766421931335595 -->|Sure, I'd like that.|1766422068962229[<b>Speaker 👉 Anna:</b>
 \nEven after all that's happened. You're very kind.]
-1766421931335595 -->|Ummm...|1766421990025137[<b>Speaker 👉 Fox:</b>
+1766421931335595 -->|Ummm...|1766421990025137[<b>Speaker 👉 Kon:</b>
 \nOh please can she stay!?
  I've never had a friend stay overnight!]
 1766421990025137 -->|Ok, fine.|1766422068962229[<b>Speaker 👉 Anna:</b>
 \nEven after all that's happened. You're very kind.]
-1766422068962229 -->1766422101467062[<b>Speaker 👉 Fox:</b>
+1766422068962229 -->1766422101467062[<b>Speaker 👉 Kon:</b>
 \nYAY, sleepover!]
 1766422101467062 -->1766662995003311[End]
 Start -->1766663067756469[<b>Speaker 👉 Anna:</b>

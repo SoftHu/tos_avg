@@ -7,7 +7,7 @@ But everyone forgets the latter.\nThe fox clan are her chosen children
 … or so the legends say.\nYour transformation abilities certainly suggest so.
 And the fox holes in this temple too.\nI’ve known scores of great foxes in my time.
 But then… poof…]
-1774711858257223 -->1774711928965451[<b>Speaker 👉 Fox:</b>
+1774711858257223 -->1774711928965451[<b>Speaker 👉 Kon:</b>
 \nWhere did they go?]
 1774711928965451 -->1774711959005517[<b>Speaker 👉 Leon:</b>
 \nI haven’t the foggiest!
@@ -40,11 +40,11 @@ It contains all of Inari’s teachings. Yokai legends and Inari lore…
 It also touches on fox clan history.\nYou might find cheap copies around.
 Beware, those are just works of fiction.
 The true version covers the 15 Inari Pillars.]
-1774712059338080 -->1775607129549195[<b>Speaker 👉 Fox:</b>
+1774712059338080 -->1775607129549195[<b>Speaker 👉 Kon:</b>
 \nHow do we get this scroll?]
 1775607129549195 -->1775607159457168[<b>Speaker 👉 Leon:</b>
 \nA page of the original is sealed in this altar.
-There are rumors that Yohji has another.
+There are rumors that &lbrace;npc.4202&rbrace; has another.
 But no one knows where all the pages are hidden.\nIf I have all 15, I can make it whole again.
 And Inari will once again bless us with her presence.\nAlas, we have only Inari’s altar for now.
 Inari only allows foxes through, though not just any fox.
@@ -61,7 +61,7 @@ Do visit again and freely explore the temple.
 It is yours… the fox clan’s after all.\n&lt;i&gt;Foxes rediscovering their past…
 Taking their rightful place by Inari’s side…
 Perfect for a new book. How exciting!&lt;/i&gt;]
-1774712178897260 -->1775607202801046[<b>Speaker 👉 Fox:</b>
+1774712178897260 -->1775607202801046[<b>Speaker 👉 Kon:</b>
 \nStop hassling the priest, &lbrace;c.playername&rbrace;.
 Just make the offering. 
 Perhaps we are worthy.]

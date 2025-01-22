@@ -11,16 +11,16 @@ Start -->1772262747816151[<b>Speaker 👉 Ritsurei:</b>
 Start -->1772263197206745[<b>Speaker 👉 Ritsurei:</b>
 \nSTOP! Only the best warriors can proceed!]
 1772263197206745 -->1772263214340314[<b>Speaker 👉 Oda:</b>
-\nRichi, stop it. 
-I’m giving &lbrace;c.playername&rbrace; and Kon a tour around town.\nThey’ve just arrived! Let’s not interrupt with your silly dummy, ok?]
+\nRitsu, stop it. 
+I’m giving &lbrace;c.playername&rbrace; and &lbrace;npc.4101&rbrace; a tour around town.\nThey’ve just arrived! Let’s not interrupt with your silly dummy, ok?]
 1772263214340314 -->1772263235548379[<b>Speaker 👉 Ritsurei:</b>
 \nBEHOLD!
 THE ALL POWERFUL!
 THE UNDEFEATED!\nDARUMA!\nChallenge him, if you dare!]
 1772263235548379 -->1775359445069192[<b>Speaker 👉 Oda:</b>
-\n&lbrace;c.playername&rbrace;, Kon, I’m really sorry about this.
-Ritsuryo is very… imaginative!]
-1775359445069192 -->1775359468949900[<b>Speaker 👉 Fox:</b>
+\n&lbrace;c.playername&rbrace;, &lbrace;npc.4101&rbrace;, I’m really sorry about this.
+&lbrace;npc.4102&rbrace; is very… imaginative!]
+1775359445069192 -->1775359468949900[<b>Speaker 👉 Kon:</b>
 \nYou should challenge Daruma, &lbrace;c.playername&rbrace;.
 It doesn’t look so scary.]
 1775359468949900 -->1775359773042084{ }

@@ -1,38 +1,38 @@
 ```mermaid
 graph LR
-Start -->1775691667857840[<b>Speaker 👉 Fox:</b>
+Start -->1775691667857840[<b>Speaker 👉 Kon:</b>
 \nOh, look &lbrace;c.playername&rbrace;, that’s Inari in the middle!
 She is beautiful!]
-1775691667857840 -->|What is she reading?|1775691772362172[<b>Speaker 👉 Fox:</b>
+1775691667857840 -->|What is she reading?|1775691772362172[<b>Speaker 👉 Kon:</b>
 \nThat is the &lt;i&gt;Tales of Glory&lt;/i&gt;, it contains all of Inari’s knowledge about humans.
 Oh, what I would give to read that!]
-1775691667857840 -->|There are so many foxes around her.|1775691743361465[<b>Speaker 👉 Fox:</b>
+1775691667857840 -->|There are so many foxes around her.|1775691743361465[<b>Speaker 👉 Kon:</b>
 \nShe must have been such a wonderful leader!]
-1775691743361465 -->1775691772362172[<b>Speaker 👉 Fox:</b>
+1775691743361465 -->1775691772362172[<b>Speaker 👉 Kon:</b>
 \nThat is the &lt;i&gt;Tales of Glory&lt;/i&gt;, it contains all of Inari’s knowledge about humans.
 Oh, what I would give to read that!]
-1775691772362172 -->|I wonder if it is here?|1775691827262919[<b>Speaker 👉 Fox:</b>
+1775691772362172 -->|I wonder if it is here?|1775691827262919[<b>Speaker 👉 Kon:</b>
 \nMaybe it is still hidden somewhere in Seikyu. 
 Wouldn’t that be amazing.]
-1775691772362172 -->|I don’t think you have the patience…|1775691813180869[<b>Speaker 👉 Fox:</b>
+1775691772362172 -->|I don’t think you have the patience…|1775691813180869[<b>Speaker 👉 Kon:</b>
 \nI have plenty of patience, AND I am not distracted with romances like you.]
-1775691813180869 -->1775691827262919[<b>Speaker 👉 Fox:</b>
+1775691813180869 -->1775691827262919[<b>Speaker 👉 Kon:</b>
 \nMaybe it is still hidden somewhere in Seikyu. 
 Wouldn’t that be amazing.]
 1775691827262919 -->1775691841173961[End]
-Start -->1775693148109198[<b>Speaker 👉 Fox:</b>
+Start -->1775693148109198[<b>Speaker 👉 Kon:</b>
 \nSo many different yokai all in one place!
 How amazing life here must have been.]
-1775693148109198 -->|I wonder if mum and dad ever came here.|1775693178542487[<b>Speaker 👉 Fox:</b>
+1775693148109198 -->|I wonder if mum and dad ever came here.|1775693178542487[<b>Speaker 👉 Kon:</b>
 \nAfter all the time we have been traveling and alone, it’s hard to imagine such a big community.
 But this community… it is Seikyu isn’t it?]
-1775693148109198 -->|We were so powerful.|1775693178542487[<b>Speaker 👉 Fox:</b>
+1775693148109198 -->|We were so powerful.|1775693178542487[<b>Speaker 👉 Kon:</b>
 \nAfter all the time we have been traveling and alone, it’s hard to imagine such a big community.
 But this community… it is Seikyu isn’t it?]
-1775693178542487 -->|This town is now our family.|1775693222252960[<b>Speaker 👉 Fox:</b>
+1775693178542487 -->|This town is now our family.|1775693222252960[<b>Speaker 👉 Kon:</b>
 \nYes. We must do our best. 
 I don’t want us to mess up, &lbrace;c.playername&rbrace;, Seikyu is too important.]
-1775693178542487 -->|Seikyu is our second chance.|1775693222252960[<b>Speaker 👉 Fox:</b>
+1775693178542487 -->|Seikyu is our second chance.|1775693222252960[<b>Speaker 👉 Kon:</b>
 \nYes. We must do our best. 
 I don’t want us to mess up, &lbrace;c.playername&rbrace;, Seikyu is too important.]
 1775693222252960 -->|We won’t, my little sister. I promise.|1775693248163238[End]
@@ -55,24 +55,24 @@ to be cultured and civilised.\nThere is beauty in the form
 and adoration in the soul.\nThe way of the human kind brings love and joy
 as promised by &lt;i&gt;The Tales of Glory&lt;/i&gt;, 
 by Inari herself.]
-Start -->1776310327147946[<b>Speaker 👉 Fox:</b>
+Start -->1776310327147946[<b>Speaker 👉 Kon:</b>
 \nThey’re practicing from the &lt;i&gt;Tales of Glory&lt;/i&gt;!
 So beautiful and… civilized.]
-1776310327147946 -->|There must be no suffering in the human world.|1776310426594741[<b>Speaker 👉 Fox:</b>
+1776310327147946 -->|There must be no suffering in the human world.|1776310426594741[<b>Speaker 👉 Kon:</b>
 \nThe Oda family knows so much about the human world.
 Maybe they’ll teach us about them?]
-1776310327147946 -->|I want to perform like that.|1776310382635443[<b>Speaker 👉 Fox:</b>
+1776310327147946 -->|I want to perform like that.|1776310382635443[<b>Speaker 👉 Kon:</b>
 \nHah! You’ll need a lot of practice!]
-1776310382635443 -->1776310426594741[<b>Speaker 👉 Fox:</b>
+1776310382635443 -->1776310426594741[<b>Speaker 👉 Kon:</b>
 \nThe Oda family knows so much about the human world.
 Maybe they’ll teach us about them?]
-1776310426594741 -->|Yui? The mayor?|1776310519683520[<b>Speaker 👉 Fox:</b>
+1776310426594741 -->|&lbrace;npc.4209&rbrace;? The mayor?|1776310519683520[<b>Speaker 👉 Kon:</b>
 \nYes, it seems the townsfolk put the Oda family in charge because of their human knowledge. 
 That is why Seikyu is so peaceful.]
-1776310426594741 -->|We could try and look for the &lt;i&gt;Tales of Glory&lt;/i&gt;?|1776310476395966[<b>Speaker 👉 Fox:</b>
+1776310426594741 -->|We could try and look for the &lt;i&gt;Tales of Glory&lt;/i&gt;?|1776310476395966[<b>Speaker 👉 Kon:</b>
 \nYou know, I feel that it is near. 
 My fur tingles when I think about the &lt;i&gt;Tales of Glory&lt;/i&gt;.]
-1776310476395966 -->1776310519683520[<b>Speaker 👉 Fox:</b>
+1776310476395966 -->1776310519683520[<b>Speaker 👉 Kon:</b>
 \nYes, it seems the townsfolk put the Oda family in charge because of their human knowledge. 
 That is why Seikyu is so peaceful.]
 1776310519683520 -->1776310546034114[End]

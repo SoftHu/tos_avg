@@ -7,8 +7,8 @@ My brother always says that no good deed should go unrewarded.\nIf it’s conven
 \nOf course, I understand.
 Please feel free to visit me anytime you are free!]
 1739067705717977 -->|We’d be happy to.|1739067705719005[End]
-1739067705719006 -->1776861274828447[<b>Speaker 👉 Fox:</b>
-\nWe will, Kinntarou. 
+1739067705719006 -->1776861274828447[<b>Speaker 👉 Kon:</b>
+\nWe will, &lbrace;npc.4103&rbrace;. 
 Take care and get well soon!]
 1776861274828447 -->1739067705719007[End]
 

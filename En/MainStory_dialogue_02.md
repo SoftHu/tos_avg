@@ -5,9 +5,9 @@ Start -->1758978700966534[<b>Speaker 👉 Oda:</b>
 we've welcomed two new members,
 &lbrace;c.playername&rbrace; and &lbrace;npc.4101&rbrace;.\nThey are staying at the farmhouse.
 Let's thank them for joining our community.]
-1758978700966534 -->1758988547395240[<b>Speaker 👉 Fox:</b>
+1758978700966534 -->1758988547395240[<b>Speaker 👉 Kon:</b>
 \nYay!
-Hello everyone, my name is Kon.
+Hello everyone, my name is &lbrace;npc.4101&rbrace;.
 I love adventures and sweets.\nI'm looking forward to hanging out with everybody.
 This is my &lbrace;sex.sibling&rbrace;.]
 1758988547395240 -->1758988331295399[End]

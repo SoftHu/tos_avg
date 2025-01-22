@@ -3,7 +3,7 @@ graph LR
 Start -->1730217004590177[<b>Speaker 👉 Musashi:</b>
 \nRegrettably, I must take my leave now, but if you ever have anything you need to sell, come find me!]
 Start -->1730217216536675[<b>Speaker 👉 Musashi:</b>
-\nI overheard Nyotengu call you 'Little Fox'. It suits you, but I can come up with something better. Just give me some time!]
+\nI overheard &lbrace;npc.4104&rbrace; call you 'Little Fox'. It suits you, but I can come up with something better. Just give me some time!]
 Start -->1730233993071725[<b>Speaker 👉 Musashi:</b>
 \nWhat a wonderful present, &lbrace;c.playername&rbrace;! You're my new favorite.]
 Start -->1730233993072751[<b>Speaker 👉 Musashi:</b>
@@ -29,7 +29,7 @@ Start -->1775164372485149[<b>Speaker 👉 Musashi:</b>
 Start -->1775164416326688[<b>Speaker 👉 Musashi:</b>
 \nI never miss tea time. Can you think of anything more calming and elegant than a tea ceremony? It's also where all the secrets come out.]
 Start -->1775164420689953[<b>Speaker 👉 Musashi:</b>
-\nI love a tavern, so many dark corners for private rendezvous. Hope you're making good use of them.]
+\nI love the &lbrace;location.16&rbrace;, so many dark corners for private rendezvous. Hope you're making good use of it.]
 Start -->1775164711722024[<b>Speaker 👉 Musashi:</b>
 \nIf the sun is up, I'm open for business. Never a bad time for a deal.]
 Start -->1775164732277801[<b>Speaker 👉 Musashi:</b>
@@ -63,9 +63,11 @@ Start -->1775166628730970[<b>Speaker 👉 Musashi:</b>
 Start -->1775166633910364[<b>Speaker 👉 Musashi:</b>
 \nThe holidays are fast approaching. I can help you pick out a gift for that someone special. Unless I'm your secret paramour, in which case, I like shiny things... hint hint.]
 Start -->1775166811015263[<b>Speaker 👉 Musashi:</b>
-\nI love Takoyaki when I'm feeling a bit naughty--any seafood really. No shame in giving yourself a little treat.]
+\nI love Takoyaki when I'm feeling a bit naughty - any seafood really. No shame in giving yourself a little treat.]
+1775166811015263 -->1778189206195446{ }
 Start -->1775166820796512[<b>Speaker 👉 Musashi:</b>
 \nI really want a new tea set. I'm thinking elegant white china.]
+1775166820796512 -->1778189409608952{ }
 Start -->1775172156249857[<b>Speaker 👉 Musashi:</b>
 \nMerry Christmas! Never too late to get a last-minute gift, I won't tell anyone.]
 Start -->1775172164922114[<b>Speaker 👉 Musashi:</b>
@@ -75,7 +77,7 @@ Start -->1775172166556419[<b>Speaker 👉 Musashi:</b>
 Start -->1775172173178628[<b>Speaker 👉 Musashi:</b>
 \n-]
 Start -->1775176516281286[<b>Speaker 👉 Musashi:</b>
-\nHas Nine Tails asked you to do something gastly? Wait, don't tell me. You know what they say about curiosity...]
+\nHas Nine Tails asked you to do something ghastly? Wait, don't tell me. You know what they say about curiosity...]
 Start -->1775176516281288[<b>Speaker 👉 Musashi:</b>
 \nI keep seeing phantom Tanuki around every corner. This war is going to be bad for business.]
 Start -->1775176516282314[<b>Speaker 👉 Musashi:</b>
@@ -93,24 +95,27 @@ Start -->1775176955845590[<b>Speaker 👉 Musashi:</b>
 Start -->1775176955846616[<b>Speaker 👉 Musashi:</b>
 \n-]
 Start -->1775179389253594[<b>Speaker 👉 Musashi:</b>
-\nYou and Nyotengu are getting quite chummy... I'm glad she has a friend with all the Tanuki business going on.]
+\nYou and &lbrace;npc.4104&rbrace; are getting quite chummy... I'm glad she has a friend with all the Tanuki business going on.]
 Start -->1775179411370972[<b>Speaker 👉 Musashi:</b>
 \nThere's sweat on your brow &lbrace;c.playername&rbrace;. It's actually quite appealing.]
 Start -->1775179522039776[<b>Speaker 👉 Musashi:</b>
-\nShuten is rather cute don't you think? She reminds me of the lovely barmaids from my home town. But then her kids start yelling and I must retreat.]
+\n&lbrace;npc.4208&rbrace; is rather cute don't you think? She reminds me of the lovely barmaids from my home town. But then her kids start yelling and I must retreat.]
 Start -->1775179522039778[<b>Speaker 👉 Musashi:</b>
-\nYou don't have any warm milk do you? This time of year makes me crave.]
+\nYou don't have any warm milk do you? I always crave it this time of year.]
 Start -->1775179604273124[<b>Speaker 👉 Musashi:</b>
 \nThis cold weather makes me crave a warm bath but then I see the water and... no thank you.]
 Start -->1775179604274150[<b>Speaker 👉 Musashi:</b>
-\nNine tails doesn't operate as much in the Winter. He doesn't like the cold.]
+\nNine Lives doesn't operate as much in the Winter. He doesn't like the cold.]
 Start -->1775193953135699[<b>Speaker 👉 Musashi:</b>
 \nBuy something or scram.]
 Start -->1777899980072358[<b>Speaker 👉 Musashi:</b>
-\nI find beer to be... uncivilized. Shuten is a laugh after a few pints though.]
+\nI find beer to be... uncivilized. &lbrace;npc.4208&rbrace; is a laugh after a few pints though.]
+1777899980072358 -->1778189427362041{ }
 Start -->1777900020174250[<b>Speaker 👉 Musashi:</b>
 \nI don't understand the obsession with cheese. It's just stinky, moldy old milk... yummy.]
+1777900020174250 -->1778189441080570{ }
 Start -->1777900066531758[<b>Speaker 👉 Musashi:</b>
 \nI'm not very handy. Any DIY tools will inevitably gather dust.]
+1777900066531758 -->1778189463286011{ }
 
 ```

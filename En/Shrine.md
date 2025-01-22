@@ -2,7 +2,7 @@
 graph
 Start -->1741544066898150[<b>Speaker 👉 :</b>
 \n...]
-Start -->1775373574762323[<b>Speaker 👉 Fox:</b>
+Start -->1775373574762323[<b>Speaker 👉 Kon:</b>
 \nHAHAHA!
 &lbrace;c.playername&rbrace; is the ugliest fox ever!]
 1775373574762323 -->1775373604754262[<b>Speaker 👉 :</b>
@@ -36,17 +36,17 @@ It’s fun!]
 1775373940729717 -->1775373958826873[<b>Speaker 👉 :</b>
 \nBe gentle on yourselves.
 With practice, you’ll learn to soar the skies and swim the seas.]
-1775373958826873 -->1775373976978300[<b>Speaker 👉 Fox:</b>
+1775373958826873 -->1775373976978300[<b>Speaker 👉 Kon:</b>
 \n*yawn* &lbrace;c.playername&rbrace;, I’m tired.]
-1775373976978300 -->|I’m sorry, Kon needs to rest.|1775374013533062[<b>Speaker 👉 :</b>
+1775373976978300 -->|I’m sorry, &lbrace;npc.4101&rbrace; needs to rest.|1775374013533062[<b>Speaker 👉 :</b>
 \nOh, what beautiful manners!]
 1775373976978300 -->|Thank you for all your guidance.|1775374013533062[<b>Speaker 👉 :</b>
 \nOh, what beautiful manners!]
 1775374013533062 -->1775374025819017[<b>Speaker 👉 :</b>
 \nRemember to pay respects at all the shrines you find.]
 1775374025819017 -->1775374034288524[<b>Speaker 👉 :</b>
-\nOh, what beautiful manners!]
-1775374034288524 -->1775374103412623[<b>Speaker 👉 Fox:</b>
+\nWe’ll be there when you need us!]
+1775374034288524 -->1775374103412623[<b>Speaker 👉 Kon:</b>
 \nNow &lbrace;c.playername&rbrace;, change back!
 I don’t want to be with a boar all night.]
 1775374103412623 -->1775374127431570[End]

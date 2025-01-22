@@ -2,7 +2,7 @@
 graph
 Start -->1719156857777177[<b>Speaker 👉 GLP_6:</b>
 \nHmm? Such a cute guy...
-Just my type.\nI heard the Prince's riddle was solved by a brave adventurer.
+Just my type.\nI heard the &lbrace;npc.4212&rbrace;'s riddle was solved by a brave adventurer.
 That must be you, right?
 You're quite famous among us Gulu Bobo people...]
 1719156857777177 -->|You're exaggerating...|1719158112470046[<b>Speaker 👉 GLP_6:</b>

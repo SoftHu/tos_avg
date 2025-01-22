@@ -18,7 +18,7 @@ and I'll give you some bamboo in exchange.]
 make me a glass of fine Sakura Wine,
 and I'll give you some bamboo in exchange.]
 1739246340704680 -->|How am I going to get Sakura Wine?|1739246859444664[<b>Speaker 👉 Nyotengu:</b>
-\nMusashi's shop sells it, but as a farm owner,
+\n&lbrace;npc.4203&rbrace;'s shop sells it, but as a farm owner,
 you should learn to brew your own sake.
 I'll wait here for you.]
 1739246340704680 -->|All right.|1739246775566775[<b>Speaker 👉 Nyotengu:</b>
@@ -28,9 +28,9 @@ I'll wait here for you.]
 \nOff you go. Don't bother me unless it's important.]
 1739246372695465 -->|That's none of your business.|1739246647790000[<b>Speaker 👉 Nyotengu:</b>
 \nYou've got the cunning part down.
-Good luck protecting Kon.\nOff you go. Don't bother me unless it's important.]
+Good luck protecting &lbrace;npc.4101&rbrace;.\nOff you go. Don't bother me unless it's important.]
 1739246372695465 -->|Yes.|1739246612024751[<b>Speaker 👉 Nyotengu:</b>
-\nWhat a happy little fox Kon is.
+\nWhat a happy little fox &lbrace;npc.4101&rbrace; is.
 She must be vulnerable to all kinds of danger
 since she can't transform.\nYet you're always there for her.\nOff you go. Don't bother me unless it's important.]
 1739246612024751 -->1726173304220817[End]

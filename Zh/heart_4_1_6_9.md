@@ -50,7 +50,7 @@ I'm glad I didn't squish any of you.]
 1772510175331836 -->|Heph, are you cured?|1772510225055234[<b>Speaker 👉 GLP_3:</b>
 \nAlmost. But not all the way and not forever.]
 1772510225055234 -->1772510249708035[<b>Speaker 👉 Hephaestus:</b>
-\nWould this ritual work on Nyotengu?]
+\nWould this ritual work on &lbrace;npc.4104&rbrace;?]
 1772510249708035 -->1772510277314052[<b>Speaker 👉 GLP_3:</b>
 \nNo, she's been using her muramasa blade for years. 
 the curse has long set in.

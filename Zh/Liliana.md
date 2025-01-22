@@ -13,11 +13,11 @@ Start -->1775339972760750[<b>Speaker 👉 Liliana:</b>
 Start -->1775339972760754[<b>Speaker 👉 Liliana:</b>
 \nI don't find this very inspiring.]
 Start -->1775339972760758[<b>Speaker 👉 Liliana:</b>
-\nThis definitly wouldn't make a very good picture!]
+\nThis definitely wouldn't make a very good picture!]
 Start -->1775339972760762[<b>Speaker 👉 Liliana:</b>
 \nI painted my koinobori with all the flowers that bloom at this time of year. Do you like it?]
 Start -->1775339972760766[<b>Speaker 👉 Liliana:</b>
-\nI have to get back to painting now, I have already waisted too much time!]
+\nI have to get back to painting now, I have already wasted too much time!]
 Start -->1775339972760770[<b>Speaker 👉 Liliana:</b>
 \nMmmm... which flower should I paint today? Ah! I haven't practiced peonies in a while.]
 Start -->1775339972760774[<b>Speaker 👉 Liliana:</b>
@@ -27,9 +27,9 @@ Start -->1775339972760778[<b>Speaker 👉 Liliana:</b>
 Start -->1775339972760782[<b>Speaker 👉 Liliana:</b>
 \nThe biodiversity around the shrine is simply breathtaking, don't you think?]
 Start -->1775339972760786[<b>Speaker 👉 Liliana:</b>
-\nHow does one achieve perfection Shuten? You must have met someone I could ask!.]
+\nI wonder how someone like &lbrace;npc.4208&rbrace; achieves perfection.]
 Start -->1775339972760790[<b>Speaker 👉 Liliana:</b>
-\nThe flowers in Yoni's Garden are familiar with me! They open up and show thier secrets!]
+\nThe flowers in &lbrace;npc.4105&rbrace;'s Garden are familiar with me! They open up and show their secrets!]
 Start -->1775339972760794[<b>Speaker 👉 Liliana:</b>
 \nPractice makes perfect. Practice will make me perfect!]
 Start -->1775339972760798[<b>Speaker 👉 Liliana:</b>
@@ -41,7 +41,7 @@ Start -->1775339972760806[<b>Speaker 👉 Liliana:</b>
 Start -->1775339972760810[<b>Speaker 👉 Liliana:</b>
 \nAs much as the gift of spending time with you is surely enough, I do appreciate this!]
 Start -->1775339972760814[<b>Speaker 👉 Liliana:</b>
-\nYou remind me of a young sapling baring its first fruit - your gifts will only get better with time!]
+\nYou remind me of a young sapling bearing its first fruit - your gifts will only get better with time!]
 Start -->1775339972760818[<b>Speaker 👉 Liliana:</b>
 \nYohji must have told you it's my birthday at the last minute for you to choose this gift.]
 Start -->1775339972760822[<b>Speaker 👉 Liliana:</b>
@@ -61,9 +61,9 @@ Start -->1775339972760846[<b>Speaker 👉 Liliana:</b>
 Start -->1775339972760850[<b>Speaker 👉 Liliana:</b>
 \nThe orange of Autumn leaves is my favourate colour... I find it warming!]
 Start -->1775339972760854[<b>Speaker 👉 Liliana:</b>
-\nI cannot stand the monochromatic colour pallet of winter!]
+\nI cannot stand the monochromatic color pallet of winter!]
 Start -->1775339972760858[<b>Speaker 👉 Liliana:</b>
-\nI always love a good story! Shuten often tells me of old tales she heard from travelers and they always intrigue me!]
+\nI always love a good story! &lbrace;npc.4208&rbrace; often tells me of old tales she heard from travelers and they always intrigue me!]
 Start -->1775339972760862[<b>Speaker 👉 Liliana:</b>
 \nWow this drink has a beautiful colour to it! I wish I could bottle it as paint.]
 Start -->1775339972760866[<b>Speaker 👉 Liliana:</b>
@@ -85,7 +85,7 @@ Start -->1775339972760894[<b>Speaker 👉 Liliana:</b>
 Start -->1775339972760898[<b>Speaker 👉 Liliana:</b>
 \nIf you have time I can teach you how to draw, if you like?]
 Start -->1775339972760902[<b>Speaker 👉 Liliana:</b>
-\nIf you think my art is good, I'm sure Leon will too!]
+\nIf you think my art is good, I'm sure &lbrace;npc.4220&rbrace; will too!]
 Start -->1775339972760906[<b>Speaker 👉 Liliana:</b>
 \n-]
 Start -->1775339972760910[<b>Speaker 👉 Liliana:</b>
@@ -95,7 +95,7 @@ Start -->1775339972760914[<b>Speaker 👉 Liliana:</b>
 Start -->1775339972760918[<b>Speaker 👉 Liliana:</b>
 \nI'm packed and ready to explore a bit further out today! I'll let you know what flowers I find.]
 Start -->1775339972760922[<b>Speaker 👉 Liliana:</b>
-\nCan you take me down to the fox ruins later? I want to take a look at some of the murals!]
+\nCan you take me down to the &lbrace;location.10&rbrace; later? I want to take a look at some of the murals!]
 Start -->1775339972760926[<b>Speaker 👉 Liliana:</b>
 \nI might swing by the farm later... I hope that's okay!]
 Start -->1775339972760930[<b>Speaker 👉 Liliana:</b>
@@ -103,15 +103,18 @@ Start -->1775339972760930[<b>Speaker 👉 Liliana:</b>
 Start -->1775339972760934[<b>Speaker 👉 Liliana:</b>
 \nThe perseverence that plants show during the winter is so inspiring!]
 Start -->1775339972760938[<b>Speaker 👉 Liliana:</b>
-\nI picked some flowers I drew earlier as they rimided me of you. They are fox shaped, kind of.]
+\nI picked some flowers I drew earlier as they reminded me of you. They are fox shaped, kind of.]
 Start -->1777902725579198[<b>Speaker 👉 Liliana:</b>
 \nI love coffee! The productivity boost I get with a nice strong cup, there's nothing better!]
 Start -->1777903713635778[<b>Speaker 👉 Liliana:</b>
 \nI cannot stand when someone overseasons food. You lose the taste and therefore ruin the dish!]
+1777903713635778 -->1778193306055913{ }
 Start -->1777903733935558[<b>Speaker 👉 Liliana:</b>
-\nIvan! Amazing as always.]
+\n&lbrace;npc.4215&rbrace;! Amazing as always.]
+1777903733935558 -->1778193488043244{ }
 Start -->1777903786446282[<b>Speaker 👉 Liliana:</b>
-\nOh, Yohji picked some flowers this morning!]
+\nOh, &lbrace;npc.4202&rbrace; picked some flowers this morning!]
+1777903786446282 -->1778193510600941{ }
 Start -->1777903809186254[<b>Speaker 👉 Liliana:</b>
 \nYohji keeps leaving his books everywhere.]
 

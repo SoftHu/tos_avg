@@ -12,7 +12,7 @@ Do you have some for me?]
 \nIs this… is this Ninja Bubble?
 Ooh! Super refreshing lemon flavor!
 The marble inside is so cool!\nAh! I’m going to be good.
-I’ll wait for Ritsuryo and will share it with him.
+I’ll wait for &lbrace;npc.4102&rbrace; and will share it with him.
 Thank you thank you thank you!\nI promised to trade you something good in return.
 Here you go!]
 1776865222532844 -->|Sorry, not right now.|1776865273631476[<b>Speaker 👉 Kinntarou:</b>

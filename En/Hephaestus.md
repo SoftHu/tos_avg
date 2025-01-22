@@ -19,7 +19,7 @@ Start -->1775339959591914[<b>Speaker 👉 Hephaestus:</b>
 Start -->1775339959591918[<b>Speaker 👉 Hephaestus:</b>
 \nHo, look at all the little ones! Oh to be so young and energetic again... I must depart for the day, but enjoy the rest of the festival!]
 Start -->1775339959591922[<b>Speaker 👉 Hephaestus:</b>
-\nThe forge will be my lasting legacy on Seikyu. I hope you have goals you're charging towards as well. The higher the better, eh?]
+\nThe forge will be my lasting legacy in Seikyu. I hope you have goals you're charging towards as well. The higher the better, eh?]
 Start -->1775339959591926[<b>Speaker 👉 Hephaestus:</b>
 \nHo, Wednesday, the center point of the working week! What better day to work on oneself and focus on personal growth, eh?]
 Start -->1775339959591930[<b>Speaker 👉 Hephaestus:</b>
@@ -33,11 +33,11 @@ Start -->1775339959590918[<b>Speaker 👉 Hephaestus:</b>
 Start -->1775339959590922[<b>Speaker 👉 Hephaestus:</b>
 \nMmm, that gentle breeze would make it a perfect day to workout outdoors. What do you think, eh?]
 Start -->1775339959590926[<b>Speaker 👉 Hephaestus:</b>
-\nHo, the suns light has deprated leaving my forge alone to fend of the darkness.]
+\nHo, the sun's light has departed leaving my forge alone to fend of the darkness.]
 Start -->1775339959590930[<b>Speaker 👉 Hephaestus:</b>
 \nI can't talk now. The rain always puts me in a... mood.]
 Start -->1775339959590934[<b>Speaker 👉 Hephaestus:</b>
-\nReceiving a gift like this from you, what more could one ask for on their Birthday, eh?]
+\nReceiving a gift like this from you, what more could one ask for on their birthday, eh?]
 Start -->1775339959590938[<b>Speaker 👉 Hephaestus:</b>
 \nHo, you remembered, eh?  This gift is far more than I deserve.]
 Start -->1775339959590942[<b>Speaker 👉 Hephaestus:</b>
@@ -63,9 +63,11 @@ Start -->1775339959590978[<b>Speaker 👉 Hephaestus:</b>
 Start -->1775339959590982[<b>Speaker 👉 Hephaestus:</b>
 \nHo, the cold never bothered me much. Guess I run naturally hot, eh?]
 Start -->1775339959590986[<b>Speaker 👉 Hephaestus:</b>
-\nI have a one track mind. I can't get enough high quality metal igots for the forge.]
+\nI have a one track mind. I can't get enough high quality metal ingots for the forge.]
+1775339959590986 -->1778190793917696{ }
 Start -->1775339959590990[<b>Speaker 👉 Hephaestus:</b>
 \nI don't like drinking alcohol, it clouds the mind and slows the body. I like to be a peak condition at all times!]
+1775339959590990 -->1778190836233477{ }
 Start -->1775339959590994[<b>Speaker 👉 Hephaestus:</b>
 \nHo, Merry Christmas!]
 Start -->1775339959590998[<b>Speaker 👉 Hephaestus:</b>
@@ -79,9 +81,9 @@ Start -->1775339959591010[<b>Speaker 👉 Hephaestus:</b>
 Start -->1775339959591014[<b>Speaker 👉 Hephaestus:</b>
 \nI must remember to stop by the mines today, I am low on ore and the week is yet young.]
 Start -->1775339959591018[<b>Speaker 👉 Hephaestus:</b>
-\nSaturday is a day for rest and resetting back to a healthy mindset.]
+\nSaturday is a day to reset the mind for the week. Working out and mining are great for doing so.]
 Start -->1775339959591022[<b>Speaker 👉 Hephaestus:</b>
-\nAlthough I always strive to improve upon my craft, the clarity granted to me during recent events has shown me that the blade in your possession is the greatest sword I will ever make.]
+\nThe way you fought that rock golem was a thing of beauty. Truly inspiring.]
 Start -->1775339959591026[<b>Speaker 👉 Hephaestus:</b>
 \nThis week has been dragging on, eh?]
 Start -->1775339959591030[<b>Speaker 👉 Hephaestus:</b>
@@ -89,7 +91,7 @@ Start -->1775339959591030[<b>Speaker 👉 Hephaestus:</b>
 Start -->1775339959591034[<b>Speaker 👉 Hephaestus:</b>
 \nHo, every time I swing my hammer it is a reminder that I am crafting something to keep you safe! What more of a reason could a lowly blacksmith need, eh?]
 Start -->1775339959591038[<b>Speaker 👉 Hephaestus:</b>
-\nI was just heading out &lbrace;c.playername&rbrace;! If you need my later I'll be at the gym once the sun has set!]
+\nI was just heading out &lbrace;c.playername&rbrace;! If you need me later I'll be at the gym once the sun has set!]
 Start -->1775339959591042[<b>Speaker 👉 Hephaestus:</b>
 \nHo, I regret I could spare little time this week to spend with you. But I now promise myself to you for the next two days!]
 Start -->1775339959591046[<b>Speaker 👉 Hephaestus:</b>
@@ -97,18 +99,21 @@ Start -->1775339959591046[<b>Speaker 👉 Hephaestus:</b>
 Start -->1775339959591050[<b>Speaker 👉 Hephaestus:</b>
 \nMmm, the summer sun doesn't feel as warm this year! Without it what is there that can melt the icy jaws of winter, eh?]
 Start -->1775339959591054[<b>Speaker 👉 Hephaestus:</b>
-\nImaginging my blades slicing through the leaves as they fall inspires me to do better!]
+\nImagining my blades slicing through the leaves as they fall inspires me to do better!]
 Start -->1775339959591058[<b>Speaker 👉 Hephaestus:</b>
-\nI wonder if there is an ore out there that could make a sword the same colour as the leaves in Autumn.?]
+\nI wonder if there is an ore out there that could make a sword the same colour as the leaves in Autumn?]
 Start -->1775339959591062[<b>Speaker 👉 Hephaestus:</b>
 \nI am grateful for the warmth of my forge on these bitter winter days.]
 Start -->1775339959591066[<b>Speaker 👉 Hephaestus:</b>
 \nStrange! The fire in my forge is being beaten back by the cold clutches of these dark days. If it splutters out what will keep me warm, eh?]
 Start -->1777901077365170[<b>Speaker 👉 Hephaestus:</b>
 \nMilk is my drink of choice! Helps one grow big and strong, eh?]
+1777901077365170 -->1778190840013062{ }
 Start -->1777901263270326[<b>Speaker 👉 Hephaestus:</b>
 \nI tried fishing with Tor once. I found it quite boring. Who can sit still for that long?]
+1777901263270326 -->1778190843745543{ }
 Start -->1777901738744250[<b>Speaker 👉 Hephaestus:</b>
 \nAdvanced weapons make good gifts, but basic ones are an insult to a blacksmith. As if I couldn't make one myself!]
+1777901738744250 -->1778190847686920{ }
 
 ```

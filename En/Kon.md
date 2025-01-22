@@ -63,7 +63,7 @@ Start -->1775172034569978[<b>Speaker 👉 Kon:</b>
 Start -->1775172034569980[<b>Speaker 👉 Kon:</b>
 \nThis Christmas it finally feels like we're celebrating at home!]
 Start -->1775617925092739[<b>Speaker 👉 Kon:</b>
-\nCan we stop by town to see Yui? She might have some cake for us!]
+\nCan we stop by town to see &lbrace;npc.4209&rbrace;? She might have some cake for us!]
 Start -->1775617925095815[<b>Speaker 👉 Kon:</b>
 \nCan we just spend the day sleeping? I'm sooo tired.]
 Start -->1775617925096843[<b>Speaker 👉 Kon:</b>
@@ -71,9 +71,9 @@ Start -->1775617925096843[<b>Speaker 👉 Kon:</b>
 Start -->1775619270587791[<b>Speaker 👉 Kon:</b>
 \nYou have to make sure you never plant broccoli, okay?]
 Start -->1775619270588819[<b>Speaker 👉 Kon:</b>
-\nYoni told me her favorate band Animetal are doing a live show in TV today! Let's watch.]
+\n&lbrace;npc.4105&rbrace; told me her favorate band Animetal are doing a live show in TV today! Let's watch.]
 Start -->1775619270589847[<b>Speaker 👉 Kon:</b>
-\nDo you think we should go ask Yohji about the Fox Ruins?]
+\nDo you think we should go ask &lbrace;npc.4202&rbrace; about the &lbrace;location.10&rbrace;?]
 Start -->1775685796126107[<b>Speaker 👉 Kon:</b>
 \n-]
 Start -->1775685796126111[<b>Speaker 👉 Kon:</b>
@@ -87,9 +87,9 @@ Start -->1775686201766327[<b>Speaker 👉 Kon:</b>
 Start -->1775686553971131[<b>Speaker 👉 Kon:</b>
 \nIt's crazy to think about where we were this time last year!]
 Start -->1775687009837503[<b>Speaker 👉 Kon:</b>
-\nWe should stop by and see Miss Ama to get you some thicker clothes for winter.]
+\nWe should stop by and see &lbrace;npc.4205&rbrace; to get you some thicker clothes for winter.]
 Start -->1775687387976135[<b>Speaker 👉 Kon:</b>
-\nDo you think Miss Ama would make me a little coat to help me keep warm in the winter?]
+\nDo you think &lbrace;npc.4205&rbrace; would make me a little coat to help me keep warm in the winter?]
 Start -->1775687624903115[<b>Speaker 👉 Kon:</b>
 \nI'm so excited, Christmas is right around the corner!]
 Start -->1777894098214242[<b>Speaker 👉 Kon:</b>

@@ -1,10 +1,10 @@
 ```mermaid
 graph
 Start -->1761912478631195[<b>Speaker 👉 Fujiki:</b>
-\nHa ha! &lbrace;c.playername&rbrace;! Kon! 
+\nHa ha! &lbrace;c.playername&rbrace;! &lbrace;npc.4101&rbrace;! 
 You made it!
 This place is amazing, isn’t it?]
-1761912478631195 -->1777662620984156[<b>Speaker 👉 Fox:</b>
+1761912478631195 -->1777662620984156[<b>Speaker 👉 Kon:</b>
 \nYou?!
 We know you’re here for the scroll!
 Don’t try to trick us.]

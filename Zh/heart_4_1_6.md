@@ -57,14 +57,14 @@ Start -->1751366028817745[<b>Speaker 👉 Hephaestus:</b>
 “村正铭刻”对你来说已经没有什么实际用处了吧？]
 1751366272377195 -->|这是什么……|1751366551144817[<b>Speaker 👉 Torleone:</b>
 \nIt is a treasure that all warriors dream of!
-Hephaestus carries knowledge from Master Muramasa himself.
+&lbrace;npc.4106&rbrace; carries knowledge from Master Muramasa himself.
 A magic inscription that grants a weapon unmatched power!\nThose who wield a Muramasa blade are nearly unstoppable. 
-But Hephaestus refuses to make one for me!]
+But &lbrace;npc.4106&rbrace; refuses to make one for me!]
 1751366272377195 -->|村正铭刻？|1751366551144817[<b>Speaker 👉 Torleone:</b>
 \nIt is a treasure that all warriors dream of!
-Hephaestus carries knowledge from Master Muramasa himself.
+&lbrace;npc.4106&rbrace; carries knowledge from Master Muramasa himself.
 A magic inscription that grants a weapon unmatched power!\nThose who wield a Muramasa blade are nearly unstoppable. 
-But Hephaestus refuses to make one for me!]
+But &lbrace;npc.4106&rbrace; refuses to make one for me!]
 1751366551144817 -->1751366797251954[<b>Speaker 👉 Hephaestus:</b>
 \n村正铭刻对于普通人来说是个灾难
 多年的交情，我不希望你因此遭遇不幸，獭里昂。]

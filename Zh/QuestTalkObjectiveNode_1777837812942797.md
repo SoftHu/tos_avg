@@ -1,13 +1,13 @@
 ```mermaid
 graph
 Start -->1777837870998600[<b>Speaker 👉 :</b>
-\n&lbrace;c.playername&rbrace;? Kon? Has something happened?]
+\n&lbrace;c.playername&rbrace;? &lbrace;npc.4101&rbrace;? Has something happened?]
 1777837870998600 -->|We found a letter from our parents.|1777837870999629[<b>Speaker 👉 :</b>
 \nA letter from your parents!
 Oh… I think I’ve just woken the others with my shouting.]
 1777837870999629 -->1777837871000656[<b>Speaker 👉 :</b>
 \nDid you say, letter from your parents?]
-1777837871000656 -->1777837871001683[<b>Speaker 👉 Fox:</b>
+1777837871000656 -->1777837871001683[<b>Speaker 👉 Kon:</b>
 \nYes. We found it in the fox hole in our house!]
 1777837871001683 -->1777837871002710[<b>Speaker 👉 :</b>
 \nIt was their house after all!]
@@ -19,12 +19,12 @@ Oh… I think I’ve just woken the others with my shouting.]
 \nHow do you know it’s from them?]
 1777837871005793 -->1777837871005796[<b>Speaker 👉 :</b>
 \nWe need proof!]
-1777837871005796 -->1777837871006823[<b>Speaker 👉 Fox:</b>
+1777837871005796 -->1777837871006823[<b>Speaker 👉 Kon:</b>
 \nIt matches a broken piece of paper our parents left us…
 The only thing we have from them.]
 1777837871006823 -->1777837871007850[<b>Speaker 👉 :</b>
 \nIncredible!]
-1777837871007850 -->1777837871008877[<b>Speaker 👉 Fox:</b>
+1777837871007850 -->1777837871008877[<b>Speaker 👉 Kon:</b>
 \nIt’s still missing a big part though.]
 1777837871008877 -->|Can you help us find it?|1777837871010933[<b>Speaker 👉 :</b>
 \nHave you not realised that we are spectral?

@@ -1,12 +1,12 @@
 ```mermaid
 graph
-Start -->1739167465258188[<b>Speaker 👉 Fox:</b>
+Start -->1739167465258188[<b>Speaker 👉 Kon:</b>
 \n&lbrace;c.playername&rbrace;, you got my bed set up!
 Finally we can both get a good night's sleep.\nBy the way, I've been busy too!
 Here, I picked these up by the lake.
 I think there might be underwater caves in &lbrace;location.13&rbrace;.]
 1739167465258188 -->1739167841542350{ }
-1739167841542350 -->1739167865699535[<b>Speaker 👉 Fox:</b>
+1739167841542350 -->1739167865699535[<b>Speaker 👉 Kon:</b>
 \nUh-oh! &lt;pause=0.375&gt;
 Your bag's too full.
 Sort it out, and I'll give you the items.]

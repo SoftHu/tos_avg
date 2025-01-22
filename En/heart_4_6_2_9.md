@@ -4,7 +4,7 @@ Start -->1766672157337891[<b>Speaker 👉 :</b>
 \nHey... HEY! &lbrace;c.playername&rbrace;, wake up!]
 1766672157337891 -->1766681055228200[End]
 Start -->1766681208037674[<b>Speaker 👉 Anna:</b>
-\nHave you forgotten your promise!?\nAnji is leaving tonight!\nShe's waiting for you at the frog statue...\nGo now, before she's gone!!]
+\nHave you forgotten your promise!?\n&lbrace;npc.4602&rbrace; is leaving tonight!\nShe's waiting for you at the frog statue...\nGo now, before she's gone!!]
 1766681208037674 -->1766685341910398[End]
 Start -->1766681352883506[<b>Speaker 👉 Anna:</b>
 \n&lbrace;c.playername&rbrace;!\nI'm... I'm glad you came.\nI wanted to see you one last time before I left.\nYour friendship has meant so much to me.]
@@ -33,12 +33,12 @@ I want to live open and honestly.\nI want friends and a house and... love.\nI ca
 \nAGH, this is awful! You're too nice!\nFine, I'll stay!\nI have to back and unpack before my master wakes up.\nWhatever happens.... Thank you.]
 1766686821873154 -->1766686858170883[End]
 Start -->1766686900719109[<b>Speaker 👉 Anna:</b>
-\nYou're the only person I can be myself around.\nOur sleepover with Kon was the best night of my life.]
+\nYou're the only person I can be myself around.\nOur sleepover with &lbrace;npc.4101&rbrace; was the best night of my life.]
 1766686900719109 -->|Mine too.|1766686953551371[<b>Speaker 👉 Anna:</b>
 \nI can't leave now! After... that.\nUgh, now I have to go unpack everything before my master wakes up.\nWish I could stay here forever, but I have to go! See you soon, Foxy.]
 1766686900719109 -->|We could have sleepovers every night if you stayed.|1766686953551371[<b>Speaker 👉 Anna:</b>
 \nI can't leave now! After... that.\nUgh, now I have to go unpack everything before my master wakes up.\nWish I could stay here forever, but I have to go! See you soon, Foxy.]
-1766686953551371 -->|See you soon, Anji.|1766687001349649[<b>Speaker 👉 Anna:</b>
+1766686953551371 -->|See you soon, &lbrace;npc.4602&rbrace;.|1766687001349649[<b>Speaker 👉 Anna:</b>
 \nI can't believe I'm dating a Fox!]
 1766687001349649 -->1766687019647507[End]
 

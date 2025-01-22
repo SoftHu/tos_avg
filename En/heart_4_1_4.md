@@ -16,11 +16,11 @@ so your head can stay where it is.]
 1752690924668679 -->|Am I supposed to thank you then?|1752691525420815[<b>Speaker 👉 Nyotengu:</b>
 \nYou're quite an interesting little fox...]
 1752691525420815 -->|You knew I was a fox?|1752692182299414[<b>Speaker 👉 Nyotengu:</b>
-\nI am Nyotengu, the keeper of order in Seikyu. 
+\nI am &lbrace;npc.4104&rbrace;, the keeper of order in Seikyu. 
 I reviewed your background before you arrived here.\nSeikyu isn't as densely populated as Kyushu or Shikoku, 
 we have strict standards for accepting immigrants. That's part of my job too.\nEnough of that, it's quite boring. Little fox, do you drink? Join me for a few.]
 1752691525420815 -->|Who exactly are you?|1752692182299414[<b>Speaker 👉 Nyotengu:</b>
-\nI am Nyotengu, the keeper of order in Seikyu. 
+\nI am &lbrace;npc.4104&rbrace;, the keeper of order in Seikyu. 
 I reviewed your background before you arrived here.\nSeikyu isn't as densely populated as Kyushu or Shikoku, 
 we have strict standards for accepting immigrants. That's part of my job too.\nEnough of that, it's quite boring. Little fox, do you drink? Join me for a few.]
 1752692182299414 -->|I'm not much of a drinker...|1752692411196189[End]
@@ -72,10 +72,10 @@ Start -->1760142220680841[<b>Speaker 👉 Nyotengu:</b>
 Start -->1760225436925225[ ]
 1760225436925225 -->1760225461618994[<b>Speaker 👉 Nyotengu:</b>
 \nWhen you overuse your strength, you lose focus and speed.\nKeep practicing, when you're ready, 
-you should have Hephaestus forge a Muramasa blade for you.]
+you should have &lbrace;npc.4106&rbrace; forge a Muramasa blade for you.]
 1760225436925225 -->1760225114360095[<b>Speaker 👉 Nyotengu:</b>
 \nI didn't expect you to be such a natural!\nRemember this feeling, when you're ready, 
-you should have Hephaestus forge a Muramasa blade for you.]
+you should have &lbrace;npc.4106&rbrace; forge a Muramasa blade for you.]
 1760225461618994 -->440056365404748{ }
 1760142101932668 -->1760142122483325[End]
 440056365404748 -->|What's that?|1760142101932668[<b>Speaker 👉 Nyotengu:</b>

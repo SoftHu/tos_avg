@@ -15,7 +15,7 @@ Start -->1769066151519303[<b>Speaker 👉 NPC_4_2_9:</b>
 Phew, took a bit of a detour…]
 1769066151519303 -->1769066151519304[End]
 Start -->1772598517553340[<b>Speaker 👉 Oda:</b>
-\nThat is Miss Ama’s Tailor Shop. 
+\nThat is &lbrace;npc.4205&rbrace;’s Tailor Shop. 
 She always comes up with new and exciting clothes. 
 We’re never out of style with her here!]
 1772598517553340 -->1772344589943011[End]
@@ -24,9 +24,9 @@ Start -->1772598505930939[<b>Speaker 👉 Oda:</b>
 You should be able to find anything you need here.]
 1772598505930939 -->1772344576162017[End]
 Start -->1772598518761661[<b>Speaker 👉 Oda:</b>
-\nThere’s Sasaki’s Furniture Studio. 
+\nThere’s &lbrace;npc.4210&rbrace;’s Furniture Studio. 
 You can get custom-designed furniture pieces.
-It’s closed now, but I’m sure Sasaki will open once he knows you’re here.]
+It’s closed now, but I’m sure &lbrace;npc.4210&rbrace; will open once he knows you’re here.]
 1772598518761661 -->1772344746521829[End]
 Start -->1772598520089790[<b>Speaker 👉 Oda:</b>
 \nThose are our cottages! 

@@ -3,7 +3,7 @@ graph
 Start -->1777663081302906[<b>Speaker 👉 GLP_4:</b>
 \nThe Tengu Transformation is powerful.
 It would’ve been a disaster if it had fallen into tanuki paws.\nThank you, our heroes.]
-1777663081302906 -->1777663243459454[<b>Speaker 👉 Fox:</b>
+1777663081302906 -->1777663243459454[<b>Speaker 👉 Kon:</b>
 \nWe couldn’t have done it without all the help from Gulubo.
 Thank you, Gulubo Queen.]
 1777663243459454 -->1777663255720831[<b>Speaker 👉 GLP_4:</b>
@@ -21,7 +21,7 @@ Thank you, heroes.\nWe sense no other current dangers nearby,
 thanks to your bravery.\nThe Ruins are yours, foxes.
 Explore it. 
 There are many places where only foxes can go.]
-1777663327072141 -->1777663372040080[<b>Speaker 👉 Fox:</b>
+1777663327072141 -->1777663372040080[<b>Speaker 👉 Kon:</b>
 \nHow can we find you?]
 1777663372040080 -->1777663390756753[<b>Speaker 👉 GLP_4:</b>
 \nOh, we are always here at the ruins!

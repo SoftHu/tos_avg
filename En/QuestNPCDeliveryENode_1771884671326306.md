@@ -30,7 +30,7 @@ The Muramasa name is famous, but I'd also like to make a name for myself.]
 \nHmm, lots to think about!
 Now this last one I'm really wrestling with:\nShould I write Muramasa's name on my sign or use my own? 
 The Muramasa name is famous, but I'd also like to make a name for myself.]
-1771885330352271 -->| Let everyone learn the Hephaestus name.|1771885499737259[<b>Speaker 👉 Hephaestus:</b>
+1771885330352271 -->| Let everyone learn the &lbrace;npc.4106&rbrace; name.|1771885499737259[<b>Speaker 👉 Hephaestus:</b>
 \nIt's great to hear you say that! Time to build my own name!]
 1771885330352271 -->|Muramasa's name carries more weight.|1771885479830698[<b>Speaker 👉 Hephaestus:</b>
 \nYou're right… we must honor our masters.]

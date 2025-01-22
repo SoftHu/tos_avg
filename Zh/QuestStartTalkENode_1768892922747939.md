@@ -6,7 +6,7 @@ A Char-Grilled Kebab！\nI only know you are good at shapeshifting,
 but you are also a chef!\nA delicious kebab is just what I need before plenty of town projects.
 Thank you &lbrace;c.playername&rbrace;!\nNext time I bake one of my cakes, 
 You'll have to tell me if it matches up to your kebabs.]
-1768892983850027 -->1768893093127212[<b>Speaker 👉 Fox:</b>
+1768892983850027 -->1768893093127212[<b>Speaker 👉 Kon:</b>
 \nOMG! 
 I really want to try!]
 1768893093127212 -->1775426819107498[<b>Speaker 👉 Oda:</b>

@@ -6,7 +6,7 @@ I'm…I'm trying…
 I just can't …\nIf only I had hands like yours…
 …
 so many things I want to do…]
-1740034913928581 -->|Kon, wake up.|1768707568877843[<b>Speaker 👉 Kon:</b>
+1740034913928581 -->|&lbrace;npc.4101&rbrace;, wake up.|1768707568877843[<b>Speaker 👉 Kon:</b>
 \n…Wha… 
 I was having a terrible dream.
 …\nI want to start transformation practice again. 

@@ -1,9 +1,9 @@
 ```mermaid
 graph
 Start -->1775069557225824[<b>Speaker 👉 Torleone:</b>
-\nHey, &lbrace;c.playername&rbrace; and Kon!
+\nHey, &lbrace;c.playername&rbrace; and &lbrace;npc.4101&rbrace;!
 You must be after the fishing job.]
-1775069557225824 -->1775522074034531[<b>Speaker 👉 Fox:</b>
+1775069557225824 -->1775522074034531[<b>Speaker 👉 Kon:</b>
 \nNot me! I’ll just be watching!]
 1775522074034531 -->1775522096169318[<b>Speaker 👉 Torleone:</b>
 \nWell &lbrace;c.playername&rbrace;, just reel ‘em in and I’ll pay you!]
@@ -33,7 +33,7 @@ Got it?\nOnce you’ve mastered that,
 I’ll sell you a better rod.
 Better rod catches better fish - they’re smart like that you know.\nNow get out there,
 and don't come back until you’ve got my fish!]
-1775069677011315 -->1775522243598698[<b>Speaker 👉 Fox:</b>
+1775069677011315 -->1775522243598698[<b>Speaker 👉 Kon:</b>
 \nCome on, &lbrace;c.playername&rbrace;. Let’s go fishing!]
 1775522243598698 -->1775082405283153{ }
 1775082405283153 -->1775069712328055[End]

@@ -2,7 +2,7 @@
 graph
 Start -->1768790051299048[<b>Speaker 👉 Musashi:</b>
 \nThey're beautiful, 
-Liliana.]
+&lbrace;npc.4204&rbrace;.]
 1768790051299048 -->1768790130415337[<b>Speaker 👉 Shuten:</b>
 \nThe Peacock Cactus has such energy.]
 1768790130415337 -->1768790143177450[<b>Speaker 👉 Torleone:</b>
@@ -11,7 +11,7 @@ Liliana.]
 \nI agree. She has a fatalist beauty.]
 1768790155273963 -->1768790184966892[<b>Speaker 👉 Oda:</b>
 \nThey're both wonderful.
-You honor our town with your work, Liliana.]
+You honor our town with your work, &lbrace;npc.4204&rbrace;.]
 1768790184966892 -->1768790203762413[End]
 Start -->1768790245895919[<b>Speaker 👉 Liliana:</b>
 \nI couldn't have done it without, &lbrace;c.playername&rbrace;.\n&lbrace;c.playername&rbrace;, I want you to have this.]
@@ -26,10 +26,10 @@ Start -->1768790245895919[<b>Speaker 👉 Liliana:</b>
 \nDisplay it in your home, 
 and I'll hang the other…\nSo we may stay connected through them.]
 1768790376658676 -->|I'll always cherish it.|1768790453280509[<b>Speaker 👉 Liliana:</b>
-\nOh, there's my teacher, Priest Leon.
+\nOh, there's my teacher, Priest &lbrace;npc.4220&rbrace;.
 He's the reason I fell in love with painting.\nHis opinion is… very important to me.]
-1768790376658676 -->|You're too kind, Liliana.|1768790453280509[<b>Speaker 👉 Liliana:</b>
-\nOh, there's my teacher, Priest Leon.
+1768790376658676 -->|You're too kind, &lbrace;npc.4204&rbrace;.|1768790453280509[<b>Speaker 👉 Liliana:</b>
+\nOh, there's my teacher, Priest &lbrace;npc.4220&rbrace;.
 He's the reason I fell in love with painting.\nHis opinion is… very important to me.]
 1768790453280509 -->1768790394348277[End]
 1769070210412569 -->1768790352854770[<b>Speaker 👉 Liliana:</b>
@@ -42,7 +42,7 @@ and I'll hang the other…\nSo we may stay connected through them.]
 Start -->1768790535988992[<b>Speaker 👉 Leon:</b>
 \nHmm….
 …
-…….\nLiliana…
+…….\n&lbrace;npc.4204&rbrace;…
 Your technical skill is amazing.]
 1768790535988992 -->1768791571091201[<b>Speaker 👉 Liliana:</b>
 \nThank you-]
@@ -54,9 +54,9 @@ Perfection is an impossible prison…
 and–well–boring.]
 1768791580623618 -->1768791627974403[<b>Speaker 👉 Liliana:</b>
 \nYes, of course - *sniff -\nI'll work harder - *sniff-]
-1768791627974403 -->|Liliana-|1768791656988425[<b>Speaker 👉 Liliana:</b>
+1768791627974403 -->|&lbrace;npc.4204&rbrace;-|1768791656988425[<b>Speaker 👉 Liliana:</b>
 \nThank you all for coming. I must go-]
-1768791656988425 -->1768791672336144[<b>Speaker 👉 Fox:</b>
+1768791656988425 -->1768791672336144[<b>Speaker 👉 Kon:</b>
 \nI like them…]
 1768791672336144 -->1768791683641105[End]
 

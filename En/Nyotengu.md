@@ -17,11 +17,11 @@ Start -->1730233993073781[<b>Speaker 👉 Nyotengu:</b>
 Start -->1753123160870296[<b>Speaker 👉 Nyotengu:</b>
 \nThe fluttering Koinobori remind me of war flags... are they serving alcohol yet?]
 Start -->1753123460401561[<b>Speaker 👉 Nyotengu:</b>
-\nDid you two have fun at the festival? There is a dragon waiting to burst forth from young Kon, I know it.]
+\nDid you two have fun at the festival? There is a dragon waiting to burst forth from young &lbrace;npc.4101&rbrace;, I know it.]
 Start -->1775162815304726[<b>Speaker 👉 Nyotengu:</b>
 \nAnother long day of guarding sleepy Seikyu... I'll be drinking later if you care to join.]
 Start -->1775163103296538[<b>Speaker 👉 Nyotengu:</b>
-\nFox ruin monsters are hardly a challenge, the real battle is cleaning up their remains. Is one good fight too much to ask?]
+\n&lbrace;location.10&rbrace; monsters are hardly a challenge, the real battle is cleaning up their remains. Is one good fight too much to ask?]
 Start -->1775163107154971[<b>Speaker 👉 Nyotengu:</b>
 \nNot now, Little Fox. Saturdays are for prayer - a warrior must also condition their spirit.]
 Start -->1775164372485149[<b>Speaker 👉 Nyotengu:</b>
@@ -64,8 +64,10 @@ Start -->1775166633910364[<b>Speaker 👉 Nyotengu:</b>
 \nArmour gets brittle in the cold - better for cutting through it.]
 Start -->1775166811015263[<b>Speaker 👉 Nyotengu:</b>
 \nWeapons and wine, the stronger the better. That's the key to any Tengu's heart.]
+1775166811015263 -->1778186988076270{ }
 Start -->1775166820796512[<b>Speaker 👉 Nyotengu:</b>
 \nA suitor gave me flowers once... I almost killed him. What a useless gift.]
+1775166820796512 -->1778187145444592{ }
 Start -->1775172156249857[<b>Speaker 👉 Nyotengu:</b>
 \nMerry Christmas, Little Fox.]
 Start -->1775172164922114[<b>Speaker 👉 Nyotengu:</b>
@@ -79,7 +81,7 @@ Start -->1775176516281286[<b>Speaker 👉 Nyotengu:</b>
 Start -->1775176516281288[<b>Speaker 👉 Nyotengu:</b>
 \nThe curse weighs heavy on me today, Little Fox. I never liked Tuesdays...]
 Start -->1775176516282314[<b>Speaker 👉 Nyotengu:</b>
-\nI find myself praying more these days. I actually look forward to Saturdays at the temple.]
+\nI find myself praying more these days. I actually look forward to Saturdays at the &lbrace;location.21&rbrace;.]
 Start -->1775176919658446[<b>Speaker 👉 Nyotengu:</b>
 \nI can't believe you beat me in single combat. I want a rematch - one day when I'm feeling better.]
 Start -->1775176919658448[<b>Speaker 👉 Nyotengu:</b>
@@ -104,15 +106,17 @@ Start -->1775179604273124[<b>Speaker 👉 Nyotengu:</b>
 \nKeep your blade sharp, my apprentice. I can feel this winter in my bones... I won't be around forever.]
 Start -->1775179604274150[<b>Speaker 👉 Nyotengu:</b>
 \nWinter is the season of death. Makes me want to get cozy by a fire with someone special.]
-Start -->1777896872633746[<b>Speaker 👉 Nyotengu:</b>
-\nThis place is like a beautiful painting isn't it? I love serene paintings, I've even collected a few...don't laugh.]
 Start -->1777899356714390[<b>Speaker 👉 Nyotengu:</b>
 \nThis place is like a beautiful painting isn't it? I love serene paintings, I've even collected a few...don't laugh.]
+1777899356714390 -->1778187203814642{ }
 Start -->1777899498529178[<b>Speaker 👉 Nyotengu:</b>
 \nCan you smell that? I can't stand the smell of eggs...]
+1777899498529178 -->1778187234369779{ }
 Start -->1777899700467102[<b>Speaker 👉 Nyotengu:</b>
 \nTengu have no use for fabric dyes. The only color we use is the blood of our enemies.]
+1777899700467102 -->1778187347528948{ }
 Start -->1777899732709794[<b>Speaker 👉 Nyotengu:</b>
-\nI could really go for a chargrilled kebab right now. I once snuck one into the temple... Leon was not happy.]
+\nI could really go for a chargrilled kebab right now. I once snuck one into the &lbrace;location.21&rbrace;... &lbrace;npc.4220&rbrace; was not happy.]
+1777899732709794 -->1778187354850549{ }
 
 ```

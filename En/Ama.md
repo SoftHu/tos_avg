@@ -27,17 +27,17 @@ Start -->1775553166302316[<b>Speaker 👉 Ama:</b>
 Start -->1775553166302320[<b>Speaker 👉 Ama:</b>
 \nFancy seeing you here, my darling! I was just searching for... inspiration!]
 Start -->1775553166302324[<b>Speaker 👉 Ama:</b>
-\nA lady doesn't drink ale, does she Shuten? Cocktails are the classy persons drink!]
+\nA lady doesn't drink ale, does she &lbrace;npc.4208&rbrace;? Cocktails are the classy persons drink!]
 Start -->1775553166302328[<b>Speaker 👉 Ama:</b>
-\nI've offered to make the priet's robes more stylish but he rudely declined!]
+\nI've offered to make the priest's robes more stylish but he rudely declined!]
 Start -->1775553166302332[<b>Speaker 👉 Ama:</b>
 \nThe sunshine illuminates my masterful designs!]
 Start -->1775553166302336[<b>Speaker 👉 Ama:</b>
-\nOh, my little darlings! The starts twinkle just for you!]
+\nOh, my little darlings! The stars twinkle just for you!]
 Start -->1775553166302340[<b>Speaker 👉 Ama:</b>
 \nUgh! What drowsy weather!]
 Start -->1775553166302344[<b>Speaker 👉 Ama:</b>
-\nIt's perfect! I must go show Torleone immediately!]
+\nIt's perfect! I must go show &lbrace;npc.4206&rbrace; immediately!]
 Start -->1775553166302348[<b>Speaker 👉 Ama:</b>
 \nMy darlings, you didn't have to. You are too kind!]
 Start -->1775553166302352[<b>Speaker 👉 Ama:</b>
@@ -57,15 +57,17 @@ Start -->1775553166302376[<b>Speaker 👉 Ama:</b>
 Start -->1775553166302380[<b>Speaker 👉 Ama:</b>
 \n-]
 Start -->1775553166302384[<b>Speaker 👉 Ama:</b>
-\nI have stylish outfits that will even make you look gorgeous in the hottest weather.]
+\nI have stylish outfits that will make you look gorgeous even in the hottest weather.]
 Start -->1775553166302388[<b>Speaker 👉 Ama:</b>
-\nThe colors of Autumn are so inspirational, aren't they darlings?]
+\nThe colors of autumn are so inspirational, aren't they darlings?]
 Start -->1775553166302392[<b>Speaker 👉 Ama:</b>
 \nUgh! Winter truly is the worst season!]
 Start -->1775553166302396[<b>Speaker 👉 Ama:</b>
 \nI am quite partial to some good, well seasoned fish!]
+1775553166302396 -->1778209383196166{ }
 Start -->1775553166302400[<b>Speaker 👉 Ama:</b>
 \nThe bubbles rising in this glass are inspiring me to make my next outfit.]
+1775553166302400 -->1778209410029064{ }
 Start -->1775553166302404[<b>Speaker 👉 Ama:</b>
 \nAhh, Merry Christmas my little darlings!]
 Start -->1775553166302408[<b>Speaker 👉 Ama:</b>
@@ -75,11 +77,11 @@ Start -->1775553166302412[<b>Speaker 👉 Ama:</b>
 Start -->1775553166302416[<b>Speaker 👉 Ama:</b>
 \n-]
 Start -->1775553166302420[<b>Speaker 👉 Ama:</b>
-\nKon, you hair has so much volume today! It looks faboulous.]
+\n&lbrace;npc.4101&rbrace;, you hair has so much volume today! It looks fabulous.]
 Start -->1775553166302424[<b>Speaker 👉 Ama:</b>
-\nMy darlings, I am afraid I cannot spend time with you today. I have plans with my beloved Yui!]
+\nMy darlings, I am afraid I cannot spend time with you today. I have plans with my beloved &lbrace;npc.4209&rbrace;!]
 Start -->1775553166302428[<b>Speaker 👉 Ama:</b>
-\nI see you two get along with the charming Seabert! I'm heading over to see Torleone now, care to join me?]
+\nI see you two get along with the charming &lbrace;npc.4207&rbrace;! I'm heading over to see &lbrace;npc.4206&rbrace; now, care to join me?]
 Start -->1775553166302432[<b>Speaker 👉 Ama:</b>
 \nMy darling little heroes, if you see any dyes out on your adventures please bring them to me! I'll make you something truly special!]
 Start -->1775553166302436[<b>Speaker 👉 Ama:</b>
@@ -93,20 +95,21 @@ Start -->1775553166302448[<b>Speaker 👉 Ama:</b>
 Start -->1775553166302452[<b>Speaker 👉 Ama:</b>
 \n-]
 Start -->1775553166302456[<b>Speaker 👉 Ama:</b>
-\nDid you know that I am the one who made my beloved Yui's parasol? Amazing right!]
+\nI've been designing a new Autumn Collection, but it's not ready yet!]
 Start -->1775553166302460[<b>Speaker 👉 Ama:</b>
-\nFancy going to the Tavern for cocktails later?]
+\nFancy going to the &lbrace;location.16&rbrace; for cocktails later?]
 Start -->1775553166302464[<b>Speaker 👉 Ama:</b>
-\nI've been designing a new Autumn collection, but it's not ready yet!]
+\n&lbrace;c.playername&rbrace; you need a coat as thick as &lbrace;npc.4101&rbrace;'s in this weather!]
 Start -->1775553166302468[<b>Speaker 👉 Ama:</b>
-\nYou've been spending time with Torleone, right my darlings? Has he said anything about me?]
+\nYou've been spending time with &lbrace;npc.4206&rbrace;, right my darlings? Has he said anything about me?]
 Start -->1775553166302472[<b>Speaker 👉 Ama:</b>
-\n&lbrace;c.playername&rbrace; you need a coat as thick as Kons in this weather!]
+\n&lbrace;c.playername&rbrace; you need a coat as thick as &lbrace;npc.4101&rbrace;s in this weather!]
 Start -->1775553166302476[<b>Speaker 👉 Ama:</b>
-\nI worry about my beloved Yui at this time of year! She rushes around putting everyone else first. She needs to think about herself from time to time]
+\nI worry about my beloved &lbrace;npc.4209&rbrace; at this time of year! She rushes around putting everyone else first. She needs to think about herself from time to time]
 Start -->1775553731232016[<b>Speaker 👉 Ama:</b>
 \nI simply cannot stand people who waste their potential! I think it's unacceptable.]
 Start -->1775553732866324[<b>Speaker 👉 Ama:</b>
-\nI'll give this bottle of Ninja Bubble to Seabert. I can't stand it.]
+\nI'll give this bottle of Ninja Bubble to &lbrace;npc.4207&rbrace;. I can't stand it.]
+1775553732866324 -->1778209356164611{ }
 
 ```

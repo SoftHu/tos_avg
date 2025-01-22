@@ -2,7 +2,7 @@
 graph
 Start -->1741808377206227[<b>Speaker 👉 Oda:</b>
 \nToday, I want to introduce the newcomers to Seikyu.\nWelcome to our new farm owner &lbrace;c.playername&rbrace; 
-and his good friend Kon, who are new here in Seikyu.]
+and his good friend &lbrace;npc.4101&rbrace;, who are new here in Seikyu.]
 1741808377206227 -->1741840091085268[<b>Speaker 👉 Nyotengu:</b>
 \nA handsome young man.]
 1741840091085268 -->1741840142146005[<b>Speaker 👉 Kinntarou:</b>

@@ -8,7 +8,7 @@ But now I have seen you with my own eyes!]
 1777654113924738 -->|Us?|1777654154437256[<b>Speaker 👉 GLP_5:</b>
 \nGulu Bobo was telling the truth, but we didn’t believe them.
 But now I have seen you with my own eyes!]
-1777654154437256 -->1777998303974052[<b>Speaker 👉 Fox:</b>
+1777654154437256 -->1777998303974052[<b>Speaker 👉 Kon:</b>
 \nAnother Gulubo!
 How many of you are there?]
 1777998303974052 -->1777998323519141[<b>Speaker 👉 GLP_5:</b>

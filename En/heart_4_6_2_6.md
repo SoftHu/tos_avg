@@ -34,27 +34,27 @@ Start -->1766847413541743[<b>Speaker 👉 Anna:</b>
 because he's invisible.\nBut now you see him too!]
 1766665455797411 -->|He's freaky.|1766665662496937[<b>Speaker 👉 Anna:</b>
 \n Nice to meet you too! 
-I'm surprised that worked.\nYou must be very special to Anna.]
+I'm surprised that worked.\nYou must be very special to &lbrace;npc.4218&rbrace;.]
 1766665455797411 -->|He's adorable.|1766665662496937[<b>Speaker 👉 Anna:</b>
 \n Nice to meet you too! 
-I'm surprised that worked.\nYou must be very special to Anna.]
+I'm surprised that worked.\nYou must be very special to &lbrace;npc.4218&rbrace;.]
 1766665662496937 -->1766665719617706[<b>Speaker 👉 Anna:</b>
 \nHaha, ok, Lightbulb.]
 1766665719617706 -->1766665728314539[<b>Speaker 👉 Anna:</b>
-\nShe talks about you a lot–\nYou must be very special to Anna.]
+\nShe talks about you a lot–\nYou must be very special to &lbrace;npc.4218&rbrace;.]
 1766665728314539 -->1766665742296236[<b>Speaker 👉 Anna:</b>
 \nHe likes to exaggerate.]
 1766665742296236 -->1766665754926253[<b>Speaker 👉 Anna:</b>
-\nLike all the time. ALLLL the time-\nYou must be very special to Anna.]
+\nLike all the time. ALLLL the time-\nYou must be very special to &lbrace;npc.4218&rbrace;.]
 1766665754926253 -->1766665766256814[End]
 Start -->1766665796155573[<b>Speaker 👉 Anna:</b>
 \nHaha... He's fine.\nBut you did it! 
-Your third eye is open! I hope it's useful to you!\nOh, I should get back to the casino.
-Kababa will be mad if I'm late!\nBye!]
+Your third eye is open! I hope it's useful to you!\nOh, I should get back to the &lbrace;location.19&rbrace;.
+&lbrace;npc.4223&rbrace; will be mad if I'm late!\nBye!]
 Start -->1766665796155573[<b>Speaker 👉 Anna:</b>
 \nHaha... He's fine.\nBut you did it! 
-Your third eye is open! I hope it's useful to you!\nOh, I should get back to the casino.
-Kababa will be mad if I'm late!\nBye!]
+Your third eye is open! I hope it's useful to you!\nOh, I should get back to the &lbrace;location.19&rbrace;.
+&lbrace;npc.4223&rbrace; will be mad if I'm late!\nBye!]
 1766665796155573 -->1766666064148662[End]
 
 ```

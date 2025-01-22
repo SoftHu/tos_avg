@@ -5,7 +5,7 @@ Start -->1777661646411567[<b>Speaker 👉 GLP_3:</b>
 You are truly impressive.\nBut, the ruins are not safe yet!
 In the next area, there is another tanuki…
 Bigger… stronger and more devious.\nWe are embarrassed to say, but we are scared.\nWill you protect the Fox Scrolls?]
-1777661646411567 -->|I’m not sure I’m strong enough.|1777661917474615[<b>Speaker 👉 Fox:</b>
+1777661646411567 -->|I’m not sure I’m strong enough.|1777661917474615[<b>Speaker 👉 Kon:</b>
 \nOf course you are!
 &lbrace;c.playername&rbrace; will be your hero again!]
 1777661646411567 -->|Yes, of course!|1777661947119418[<b>Speaker 👉 GLP_3:</b>
@@ -21,7 +21,7 @@ Bigger… stronger and more devious.\nWe are embarrassed to say, but we are scar
 \nNow, go!
 The prophecies are true…
 The fox siblings have returned to save Seikyu!]
-1777662185212745 -->1777662212297549[<b>Speaker 👉 Fox:</b>
+1777662185212745 -->1777662212297549[<b>Speaker 👉 Kon:</b>
 \nThese Gulubo are really into their lore!]
 1777662212297549 -->1777662264065870[End]
 

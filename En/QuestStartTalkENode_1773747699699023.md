@@ -5,9 +5,9 @@ Start -->1773747748356434[<b>Speaker 👉 :</b>
 1773747748356434 -->1773747758125396[<b>Speaker 👉 :</b>
 \nAnd you’ve been so respectful.
 Grandma is so proud of you.]
-1773747758125396 -->|Ancestral ruins?|1776927548363326[<b>Speaker 👉 Fox:</b>
+1773747758125396 -->|Ancestral ruins?|1776927548363326[<b>Speaker 👉 Kon:</b>
 \nMy fur feels all tingly!]
-1773747758125396 -->|What is this place?|1776927548363326[<b>Speaker 👉 Fox:</b>
+1773747758125396 -->|What is this place?|1776927548363326[<b>Speaker 👉 Kon:</b>
 \nMy fur feels all tingly!]
 1776927548363326 -->1773747798718818[<b>Speaker 👉 :</b>
 \nAh, you’re perceptive, little one.\nThis was a great temple from our past.
@@ -22,15 +22,15 @@ You’ll have to make offerings, solve puzzles, and fight!]
 \nBut it’s worth the effort.]
 1773747897458027 -->1773747939191155[<b>Speaker 👉 :</b>
 \nYes, there is so much knowledge in the ruins.]
-1773747939191155 -->1773747965848950[<b>Speaker 👉 Fox:</b>
+1773747939191155 -->1773747965848950[<b>Speaker 👉 Kon:</b>
 \nWe can get better at shapeshifting, &lbrace;c.playername&rbrace;!]
 1773747965848950 -->|I can return to my fox form?|1773747978007928[<b>Speaker 👉 :</b>
 \nYes. But you will need to work hard!]
-1773747965848950 -->|Kon can have a human form?|1773747978007928[<b>Speaker 👉 :</b>
+1773747965848950 -->|&lbrace;npc.4101&rbrace; can have a human form?|1773747978007928[<b>Speaker 👉 :</b>
 \nYes. But you will need to work hard!]
 1773747978007928 -->1773747994449274[<b>Speaker 👉 :</b>
 \nThe ruins may help us find other foxes too.]
-1773747994449274 -->1773748021377405[<b>Speaker 👉 Fox:</b>
+1773747994449274 -->1773748021377405[<b>Speaker 👉 Kon:</b>
 \nDoes it hold information about the foxes’ disappearance?]
 1773748021377405 -->1773748035614079[<b>Speaker 👉 :</b>
 \nMaybe… we don’t know, my little ones.]
@@ -59,7 +59,7 @@ We will help.]
 1773748161052050 -->1773748175470996[<b>Speaker 👉 :</b>
 \nFind the shapeshifting powers and keep it safe.
 Never let that fall into the hands of a tanuki!]
-1773748175470996 -->1773748191069590[<b>Speaker 👉 Fox:</b>
+1773748175470996 -->1773748191069590[<b>Speaker 👉 Kon:</b>
 \n&lbrace;c.playername&rbrace; might be a wimp, but not me!]
 1773748191069590 -->1773748221799833[<b>Speaker 👉 :</b>
 \nHahaha! I like your spirit!]
@@ -69,12 +69,12 @@ Never let that fall into the hands of a tanuki!]
 1776928505934417 -->|He was actually very nice.|1776928635325019[<b>Speaker 👉 :</b>
 \nNot all the tanuki are bad.
 There are many factions too.
-What does this… Fujiki… do?]
+What does this… &lbrace;npc.4603&rbrace;… do?]
 1776928505934417 -->|No.|1776928635325019[<b>Speaker 👉 :</b>
 \nNot all the tanuki are bad.
 There are many factions too.
-What does this… Fujiki… do?]
-1776928635325019 -->1776928659494494[<b>Speaker 👉 Fox:</b>
+What does this… &lbrace;npc.4603&rbrace;… do?]
+1776928635325019 -->1776928659494494[<b>Speaker 👉 Kon:</b>
 \nHe’s an adventurer!
 And he’s very fat.]
 1776928659494494 -->1776928692663905[<b>Speaker 👉 :</b>

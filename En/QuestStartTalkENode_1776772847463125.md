@@ -3,12 +3,12 @@ graph
 Start -->1776773250872026[<b>Speaker 👉 Shuten:</b>
 \nWhoa, Kinn! 
 Slow down!
-If you eat that fast you’re going to be sick.\nYou too Kon!
+If you eat that fast you’re going to be sick.\nYou too &lbrace;npc.4101&rbrace;!
 There is &lt;i&gt;plenty&lt;/i&gt; more food, no need to rush.]
-1776773250872026 -->1776773398233821[<b>Speaker 👉 Fox:</b>
+1776773250872026 -->1776773398233821[<b>Speaker 👉 Kon:</b>
 \n&lt;shiver&gt;But, it’s SOOO good!&lt;/shiver&gt;]
 1776773398233821 -->1776773528626911[<b>Speaker 👉 Kinntarou:</b>
-\nMr Torleone is a <b>genius</b>! 
+\nMr &lbrace;npc.4206&rbrace; is a <b>genius</b>! 
 I &lt;i&gt;need&lt;/i&gt; to know what he did to this fish.]
 1776773528626911 -->1776773548531427[<b>Speaker 👉 Ritsurei:</b>
 \n<b>Mission: Steal the Secret Fish Recipe</b> is a go!]
@@ -21,10 +21,10 @@ A chef <b>never</b> reveals his secret recipe.]
 1776773616574189 -->1776773644113648[<b>Speaker 👉 Ritsurei:</b>
 \nAnyway, it’s way more fun to steal it!]
 1776773644113648 -->1776773670907635[<b>Speaker 👉 Shuten:</b>
-\nHmm… Kinn and I could distract Torleone 
+\nHmm… Kinn and I could distract &lbrace;npc.4206&rbrace; 
 while you sneak in the back using your ninja skills.
 How does that sound?]
-1776773670907635 -->1776773878780662[<b>Speaker 👉 Fox:</b>
+1776773670907635 -->1776773878780662[<b>Speaker 👉 Kon:</b>
 \nOh, let me join in too! 
 What’s my role?]
 1776773878780662 -->|Count me out.|1776773931057921[<b>Speaker 👉 Ritsurei:</b>
@@ -44,8 +44,8 @@ See you two later!]
 1776774238695185 -->1776774258333461[End]
 1776773931057921 -->1776774110510855[<b>Speaker 👉 Shuten:</b>
 \n&lbrace;c.playername&rbrace; is trustworthy!
-Are you still in Kon?]
-1776774110510855 -->1776774187282187[<b>Speaker 👉 Fox:</b>
+Are you still in &lbrace;npc.4101&rbrace;?]
+1776774110510855 -->1776774187282187[<b>Speaker 👉 Kon:</b>
 \nOf course!]
 1776774187282187 -->1776774211815182[<b>Speaker 👉 Kinntarou:</b>
 \nI want more fish!]

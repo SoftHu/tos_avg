@@ -2,7 +2,7 @@
 graph
 Start -->1751377615148325[<b>Speaker 👉 Hephaestus:</b>
 \nMorning, &lbrace;c.playername&rbrace;. 
-I'm happy to see you well.\nI heard you've been exploring the fox ruins. 
+I'm happy to see you well.\nI heard you've been exploring the &lbrace;location.10&rbrace;. 
 It's dangerous there, eh? I was a little worried about you.]
 1751377615148325 -->|没问题的哦！|1751378039158059[<b>Speaker 👉 Hephaestus:</b>
 \n我有没有能帮得上你的地方？

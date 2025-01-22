@@ -3,7 +3,7 @@ graph LR
 Start -->1730217004590177[<b>Speaker 👉 Oda:</b>
 \nFarewell. If you need me simply speak my name.]
 Start -->1730217216536675[<b>Speaker 👉 Oda:</b>
-\nI shall take my leave now, I'm sure you and Kon are busy!]
+\nI shall take my leave now, I'm sure you and &lbrace;npc.4101&rbrace; are busy!]
 Start -->1730233993071725[<b>Speaker 👉 Oda:</b>
 \nFor me? Are you sure? The time you must have taken out of your already busy schedule to source this for me... how can I ever repay you?]
 Start -->1730233993072751[<b>Speaker 👉 Oda:</b>
@@ -21,7 +21,7 @@ Start -->1730233993073785[<b>Speaker 👉 player:</b>
 \nI did something I shouldn't have...
 I'm feeling distant from Mayor &lbrace;npc.4209.last_name&rbrace;!]
 Start -->1753123160870296[<b>Speaker 👉 Oda:</b>
-\nWelcome to your first Carp Festival &lbrace;c.playername&rbrace;! You too Kon!]
+\nWelcome to your first Carp Festival &lbrace;c.playername&rbrace;! You too &lbrace;npc.4101&rbrace;!]
 Start -->1753123460401561[<b>Speaker 👉 Oda:</b>
 \nI do hope you two had fun today!]
 Start -->1769153395688482[<b>Speaker 👉 Oda:</b>
@@ -43,11 +43,11 @@ Start -->1775162815304726[<b>Speaker 👉 Oda:</b>
 Start -->1775163103296538[<b>Speaker 👉 Oda:</b>
 \nThe weekend draws ever closer to to its end... is everyone ready for another bustling week in Seikyu?]
 Start -->1775163107154971[<b>Speaker 👉 Oda:</b>
-\nMiss Ama is nowhere to be seen... there is still so much to do!]
+\n&lbrace;npc.4205&rbrace; is nowhere to be seen... there is still so much to do!]
 Start -->1775164372485149[<b>Speaker 👉 Oda:</b>
 \nOh, well you know what they say - Work hard, Play hard. Right?]
 Start -->1775164416326688[<b>Speaker 👉 Oda:</b>
-\nNow that warmer days are on the horizon I think it's time for the you-know-what, Shuten! Hand me a bottle of strawberry Ninja Bubble!]
+\nNow that warmer days are on the horizon I think it's time for the you-know-what, &lbrace;npc.4208&rbrace;! Hand me a bottle of &lbrace;item.26301&rbrace;!]
 Start -->1775164420689953[<b>Speaker 👉 Oda:</b>
 \nI sometimes find myself staring into this fountain getting lost in my thoughts. Does that happen to you?]
 Start -->1775164711722024[<b>Speaker 👉 Oda:</b>
@@ -67,13 +67,13 @@ Start -->1775166031624247[<b>Speaker 👉 Oda:</b>
 Start -->1775166031625275[<b>Speaker 👉 Oda:</b>
 \nI did not think you would remember given how busy you have been. You really know the way to my heart... this is perfect!]
 Start -->1775166218007617[<b>Speaker 👉 Oda:</b>
-\nI'm sure you and Kon need to get back to the farm, I shall not keep you!]
+\nI'm sure you and &lbrace;npc.4101&rbrace; need to get back to the farm, I shall not keep you!]
 Start -->1775166226185284[<b>Speaker 👉 Oda:</b>
 \nAs much as this line of inquiry fascinates me, my duty to Seikyu summons me away!]
 Start -->1775166218007618[<b>Speaker 👉 Oda:</b>
 \nI've some time today and will be baking some goodies. Do pop by to try some if you can!]
 Start -->1775166486298698[<b>Speaker 👉 Oda:</b>
-\nDid you see the Koinobori I hung outside the farm? Kon mentioned you didn't have one so I stayed up last night making it!]
+\nDid you see the Koinobori I hung outside the farm? &lbrace;npc.4101&rbrace; mentioned you didn't have one so I stayed up last night making it!]
 Start -->1775166486299724[<b>Speaker 👉 Oda:</b>
 \nEverything went according to plan, what a relief! Now how about we go and relax?]
 Start -->1775166589369426[<b>Speaker 👉 Oda:</b>
@@ -98,7 +98,7 @@ Start -->1775599330692803[<b>Speaker 👉 Oda:</b>
 Start -->1775599330693831[<b>Speaker 👉 Oda:</b>
 \nMake sure you take time to unwind at the weekends, okay?]
 Start -->1775599330694859[<b>Speaker 👉 Oda:</b>
-\nI'm off to see Miss Ama, want to join me?]
+\nI'm off to see &lbrace;npc.4205&rbrace;, want to join me?]
 Start -->1775599419671247[<b>Speaker 👉 Oda:</b>
 \nAh, &lbrace;c.playername&rbrace;! Do you prefer chocolate cake or strawberry cake?]
 Start -->1775599419671251[<b>Speaker 👉 Oda:</b>
@@ -116,13 +116,13 @@ Start -->1775600161459967[<b>Speaker 👉 Oda:</b>
 Start -->1775600214748931[<b>Speaker 👉 Oda:</b>
 \nI'm sure there's enough space under my umbrella for both of us.]
 Start -->1775600300061447[<b>Speaker 👉 Oda:</b>
-\nHave you seen Miss Ama's new dress? It's inspired by the colors of Autumn!]
+\nHave you seen &lbrace;npc.4205&rbrace;'s new dress? It's inspired by the colors of Autumn!]
 Start -->1775600368578315[<b>Speaker 👉 Oda:</b>
 \nThe leaves are the color of the apricot jam my parents used to make.]
 Start -->1775600612193039[<b>Speaker 👉 Oda:</b>
 \nThis weather makes me want to go home and bake a nice cake!]
 Start -->1775601012422419[<b>Speaker 👉 Oda:</b>
-\nCan I come cozy up with you and Kon at &lbrace;c.farmname&rbrace;?]
+\nCan I come cozy up with you and &lbrace;npc.4101&rbrace; at &lbrace;c.farmname&rbrace;?]
 Start -->1777892307644750[<b>Speaker 👉 Oda:</b>
 \nThese look super tasty!]
 1777892307644750 -->1778177852660923{ }

@@ -1,6 +1,6 @@
 ```mermaid
 graph
-Start -->1741804137167206[<b>Speaker 👉 Fox:</b>
+Start -->1741804137167206[<b>Speaker 👉 Kon:</b>
 \n&lbrace;c.playername&rbrace;, you made my new bed!
 Thank you!\nCan you place it down please?
 The bed is the start of my den!

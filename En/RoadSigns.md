@@ -25,7 +25,7 @@ Start -->1774189828753775[<b>Speaker 👉 :</b>
 
 Named for its abundant pearls, is said to hide the remains of the Inari deity beneath its tranquil waters.]
 Start -->1774189835710833[<b>Speaker 👉 :</b>
-\nFox Ruins
+\n&lbrace;location.10&rbrace;
 
 Rich in minerals, but due to their dangers, no one has reached the depths yet. The ruins seem to be linked to the fox clan.]
 Start -->1774190276512115[<b>Speaker 👉 :</b>
@@ -33,7 +33,7 @@ Start -->1774190276512115[<b>Speaker 👉 :</b>
 
 The tree grew after the death of the oni woman Momiji, who held a demon king's power. Her spirit is said to play music near the tree every autumn.]
 Start -->1774190287572341[<b>Speaker 👉 :</b>
-\nInari Temple
+\n&lbrace;location.21&rbrace;
 
 Legend says the Inari deity symbolizes wealth and treasures, and the townsfolk believe it has ensured Seikyu's safety for years.]
 Start -->1775708742261136[<b>Speaker 👉 :</b>

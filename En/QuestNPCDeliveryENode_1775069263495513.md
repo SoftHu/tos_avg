@@ -15,15 +15,15 @@ Here’s your reward.]
 \nAye, there isn’t enough for me. 
 Remember, I need 4 &lbrace;item.42002&rbrace;.\nYou just need a little patience
 and you’ll have ‘em in no time.\nI’ll be here!]
-1775069988052363 -->1775522918356338[<b>Speaker 👉 Fox:</b>
+1775069988052363 -->1775522918356338[<b>Speaker 👉 Kon:</b>
 \nDid we keep any fish for ourselves?]
 1775522918356338 -->1775523012191605[<b>Speaker 👉 Torleone:</b>
 \nIf you did, you’ll find that they are tasty!\nRemember, different fish live in different waters.
 Sea fish, lake fish, river fish… all different!
 And they have seasons too, so always keep exploring.\nI’ll pay top dollar for rare delicacies. 
-And double if you catch something bigger than Musashi!
+And double if you catch something bigger than &lbrace;npc.4203&rbrace;!
 … damn cat.\nNow go crazy.
-But just don’t hook yourself… or Kon!]
+But just don’t hook yourself… or &lbrace;npc.4101&rbrace;!]
 1775523012191605 -->1775070090159504[End]
 1778122378344034 -->1775069972410762[End]
 1775069950418312 -->1775069972410762[End]

@@ -95,29 +95,29 @@ Once you've been caught, you never forget the feeling of a hook in your mouth.]
 \n啊呀，不知不觉已经这么晚了
 今天就到这里吧，我该回去给大福添狗粮了。
 那么，再会。]
-Start -->1772946414205676[<b>Speaker 👉 Fox:</b>
-\nIt's my first time in Mr. Musashi's house… *grab grab grab…]
+Start -->1772946414205676[<b>Speaker 👉 Kon:</b>
+\nIt's my first time in Mr. &lbrace;npc.4203&rbrace;'s house… *grab grab grab…]
 1772946414205676 -->1772946436415213[<b>Speaker 👉 Musashi:</b>
-\nI'm glad you like it, Kon. 
+\nI'm glad you like it, &lbrace;npc.4101&rbrace;. 
 Just don't pinch anything, or I'll know.]
-1772946436415213 -->1772946464551662[<b>Speaker 👉 Fox:</b>
+1772946436415213 -->1772946464551662[<b>Speaker 👉 Kon:</b>
 \nHehe.]
 1772946464551662 -->1772946476130031[<b>Speaker 👉 Musashi:</b>
 \nI heard you've been busy exploring the old ruins. 
 Thought you might like to slow down with some warm tea. 
 Anything to report from those dingy old caves?]
-1772946476130031 -->|Nothing interesting.|1772946528485109[<b>Speaker 👉 Fox:</b>
+1772946476130031 -->|Nothing interesting.|1772946528485109[<b>Speaker 👉 Kon:</b>
 \n&lbrace;c.playername&rbrace; fought a Tanuki!]
-1772946476130031 -->|There's more down there than you'd think.|1772946528485109[<b>Speaker 👉 Fox:</b>
+1772946476130031 -->|There's more down there than you'd think.|1772946528485109[<b>Speaker 👉 Kon:</b>
 \n&lbrace;c.playername&rbrace; fought a Tanuki!]
 1772946528485109 -->1752154590627221[End]
 1752153011933557 -->1752153046167926[<b>Speaker 👉 Musashi:</b>
 \n如果狐穗喜欢的话，随时都可以来哦。
 之前你不是总是抱怨&lbrace;c.playername&rbrace;老丢下你一个人出去玩
 自己在家呆着觉得很寂寞嘛]
-1752153046167926 -->|我好像忽略了狐穗的感受|1752153555967358[<b>Speaker 👉 Fox:</b>
+1752153046167926 -->|我好像忽略了狐穗的感受|1752153555967358[<b>Speaker 👉 Kon:</b>
 \n只要你以后多多陪我，善良的狐穗大人就会原谅你了！]
-1752153046167926 -->|狐穗是这么想的？|1752153555967358[<b>Speaker 👉 Fox:</b>
+1752153046167926 -->|狐穗是这么想的？|1752153555967358[<b>Speaker 👉 Kon:</b>
 \n只要你以后多多陪我，善良的狐穗大人就会原谅你了！]
 1752153555967358 -->1752153607355775[<b>Speaker 👉 Musashi:</b>
 \n你们俩关系真好，不愧是亲兄妹。\n哦，对了，听说你这段时间总是在地下遗迹附近活动
@@ -127,10 +127,10 @@ Anything to report from those dingy old caves?]
 \n我们是朋友嘛，这点小事不用放在心上。]
 1752153607355775 -->|谢谢你|1752153832661383[<b>Speaker 👉 Musashi:</b>
 \n我们是朋友嘛，这点小事不用放在心上。]
-1752153832661383 -->1752153888458120[<b>Speaker 👉 Fox:</b>
+1752153832661383 -->1752153888458120[<b>Speaker 👉 Kon:</b>
 \n所以你在遗迹里发现什么好玩的事了吗？
 也说给我们听听嘛！]
-1752153888458120 -->|我跟狸猫打了一架！|1752153949910412[<b>Speaker 👉 Fox:</b>
+1752153888458120 -->|我跟狸猫打了一架！|1752153949910412[<b>Speaker 👉 Kon:</b>
 \n哎——？（震惊）]
 1752153949910412 -->1752153997110669[<b>Speaker 👉 Musashi:</b>
 \n青岚居然有狸猫？！
@@ -170,14 +170,14 @@ Tools you could use against the Tanuki.]
 He deals in volatile goods….
 Tools you could use against the Tanuki.]
 1772946666990338 -->|I'm listening.|1772946744224521[<b>Speaker 👉 Musashi:</b>
-\nHis name is Nine Tails.
+\nHis name is &lbrace;npc.4605&rbrace;s.
 He hangs around Bamboo forest at night. 
 But you'll have to earn his trust if you want to do business…\nI advise you do whatever he asks. 
 You aren't afraid of a little rule-breaking, are you?]
 1772946666990338 -->|Volatile as in illegal?|1772946721123080[<b>Speaker 👉 Musashi:</b>
 \nOnly if you're caught with them.]
 1772946721123080 -->1772946744224521[<b>Speaker 👉 Musashi:</b>
-\nHis name is Nine Tails.
+\nHis name is &lbrace;npc.4605&rbrace;s.
 He hangs around Bamboo forest at night. 
 But you'll have to earn his trust if you want to do business…\nI advise you do whatever he asks. 
 You aren't afraid of a little rule-breaking, are you?]
@@ -186,17 +186,17 @@ You aren't afraid of a little rule-breaking, are you?]
 1772946744224521 -->|Rules are made to be broken.|1772946866171663[<b>Speaker 👉 Musashi:</b>
 \nI knew I liked you.]
 1772946887954192 -->1772946923672338[<b>Speaker 👉 Musashi:</b>
-\nBut most don't know about Nine Tails. Maybe we keep it that way.
-And don't bother telling Nyotengu. She lets him slink the shadows…
+\nBut most don't know about &lbrace;npc.4605&rbrace;s. Maybe we keep it that way.
+And don't bother telling &lbrace;npc.4104&rbrace;. She lets him slink the shadows…
 They have… history.]
-1772946923672338 -->1772946962207507[<b>Speaker 👉 Fox:</b>
+1772946923672338 -->1772946962207507[<b>Speaker 👉 Kon:</b>
 \nWhat kind of history?]
 1772946962207507 -->1772946981642004[<b>Speaker 👉 Musashi:</b>
 \nHaha, I think it's time for another cup of tea…]
 1772946981642004 -->1752155401022872[End]
 1772946866171663 -->1772946923672338[<b>Speaker 👉 Musashi:</b>
-\nBut most don't know about Nine Tails. Maybe we keep it that way.
-And don't bother telling Nyotengu. She lets him slink the shadows…
+\nBut most don't know about &lbrace;npc.4605&rbrace;s. Maybe we keep it that way.
+And don't bother telling &lbrace;npc.4104&rbrace;. She lets him slink the shadows…
 They have… history.]
 
 ```

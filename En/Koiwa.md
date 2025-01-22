@@ -5,7 +5,7 @@ Start -->1775459459281398[<b>Speaker 👉 Koiwa:</b>
 Start -->1775459459282426[<b>Speaker 👉 Koiwa:</b>
 \nStay safe young ones.]
 Start -->1775459459282430[<b>Speaker 👉 Koiwa:</b>
-\nWhy, Wise Koiwa is rarely lost for words... please accept my deepest thanks!]
+\nWhy, Wise &lbrace;npc.4221&rbrace; is rarely lost for words... please accept my deepest thanks!]
 Start -->1775459459282434[<b>Speaker 👉 Koiwa:</b>
 \nAhhh, this is truly a fine gift. I cannot fully express extent of my gratitude.]
 Start -->1775459459282438[<b>Speaker 👉 Koiwa:</b>
@@ -13,7 +13,7 @@ Start -->1775459459282438[<b>Speaker 👉 Koiwa:</b>
 Start -->1775459459282442[<b>Speaker 👉 Koiwa:</b>
 \nAhhh, an odd choice for sure.]
 Start -->1775459459282446[<b>Speaker 👉 Koiwa:</b>
-\nWise Koiwa does not know what this is.]
+\nWise &lbrace;npc.4221&rbrace; does not know what this is.]
 Start -->1775459459282450[<b>Speaker 👉 Koiwa:</b>
 \nAhhh, another Carp Festival has rolled around and Seikyu is looking more lively than ever!]
 Start -->1775459459282454[<b>Speaker 👉 Koiwa:</b>
@@ -21,15 +21,15 @@ Start -->1775459459282454[<b>Speaker 👉 Koiwa:</b>
 Start -->1775459459282458[<b>Speaker 👉 Koiwa:</b>
 \nAhhh, I need to get to the shop before the sun goes down.]
 Start -->1775459459282462[<b>Speaker 👉 Koiwa:</b>
-\nWise Koiwa is heading to town now everyone! I'll see you later.]
+\nWise &lbrace;npc.4221&rbrace; is heading to town now everyone! I'll see you later.]
 Start -->1775459459282466[<b>Speaker 👉 Koiwa:</b>
-\nAhhh, the temple looks busy today! I shall come back later.]
+\nAhhh, the &lbrace;location.21&rbrace; looks busy today! I shall come back later.]
 Start -->1775459459282470[<b>Speaker 👉 Koiwa:</b>
 \nThe chickens are clucking cheerily and the sheep are looking happy! I need to visit the cows later, they seem unhappy.]
 Start -->1775459459282474[<b>Speaker 👉 Koiwa:</b>
-\nAhhh, Wise Koiwa is feeling lucky today!]
+\nAhhh, Wise &lbrace;npc.4221&rbrace; is feeling lucky today!]
 Start -->1775459459282478[<b>Speaker 👉 Koiwa:</b>
-\nWise Koiwa humbly thanks you for protecting my ranch and my animals from the bitterness of winter.]
+\nWise &lbrace;npc.4221&rbrace; humbly thanks you for protecting my ranch and my animals from the bitterness of winter.]
 Start -->1775459459282482[<b>Speaker 👉 Koiwa:</b>
 \nAhhh, there is still much to do. Daylight is still fleeting at this time of year.]
 Start -->1775459459282486[<b>Speaker 👉 Koiwa:</b>
@@ -47,19 +47,19 @@ Start -->1775459459282506[<b>Speaker 👉 Koiwa:</b>
 Start -->1775459459282510[<b>Speaker 👉 Koiwa:</b>
 \nI haven't had anyone to celebrate my birthday with in many years... I will remember this day forever!]
 Start -->1775459459282514[<b>Speaker 👉 Koiwa:</b>
-\nWise Koiwa must return to the ranch. See you later, young ones!]
+\nWise &lbrace;npc.4221&rbrace; must return to the ranch. See you later, young ones!]
 Start -->1775459459282518[<b>Speaker 👉 Koiwa:</b>
 \nAhhh, your animals have great admiration for you, I am impressed! Keep up the good work.]
 Start -->1775459459282534[<b>Speaker 👉 Koiwa:</b>
-\nHmmm, will my barn be good enough to keep all my animals cool? Maybe Wise Koiwa will speak with Sasaki about extending it.]
+\nHmmm, will my barn be good enough to keep all my animals cool? Maybe Wise &lbrace;npc.4221&rbrace; will speak with &lbrace;npc.4210&rbrace; about extending it.]
 Start -->1775459459282538[<b>Speaker 👉 Koiwa:</b>
 \nTime to check my silos!  Gotta make sure I have enough food for winter.]
 Start -->1775459459282542[<b>Speaker 👉 Koiwa:</b>
-\nThis is the coldest winter Wise Koiwa has experienced in many years.]
+\nThis is the coldest winter Wise &lbrace;npc.4221&rbrace; has experienced in many years.]
 Start -->1775459459282546[<b>Speaker 👉 Koiwa:</b>
 \nI'll be honest, I prefer animals to people. They are easier to talk to and don't sweat the small stuff!]
 Start -->1775459459282550[<b>Speaker 👉 Koiwa:</b>
-\nWise Koiwa cannot stand those who don't fulfill their responsibility to things under their protection.]
+\nWise &lbrace;npc.4221&rbrace; cannot stand those who don't fulfill their responsibility to things under their protection.]
 Start -->1775459459282554[<b>Speaker 👉 Koiwa:</b>
 \nMerry Christmas young ones!]
 Start -->1775459459282558[<b>Speaker 👉 Koiwa:</b>

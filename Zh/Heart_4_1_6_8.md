@@ -2,7 +2,7 @@
 graph
 Start -->1772421744271544[<b>Speaker 👉 Hephaestus:</b>
 \n&lbrace;c.playername&rbrace;, come in.]
-1772421744271544 -->|Nice to see you, Hephaestus.|1772421781827779[<b>Speaker 👉 Hephaestus:</b>
+1772421744271544 -->|Nice to see you, &lbrace;npc.4106&rbrace;.|1772421781827779[<b>Speaker 👉 Hephaestus:</b>
 \nI did it. 
 I've made a blade worthy of Muramasa.]
 1772421744271544 -->|What's the surprise?|1772421781827779[<b>Speaker 👉 Hephaestus:</b>

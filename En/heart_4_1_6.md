@@ -54,14 +54,14 @@ I'm sure more people will join our fitness club.\nAs craftsmen, the size of our 
 You don't need an inscribed blade.]
 1751366272377195 -->|What kind of blade do you want?|1751366551144817[<b>Speaker 👉 Torleone:</b>
 \nIt is a treasure that all warriors dream of!
-Hephaestus carries knowledge from Master Muramasa himself.
+&lbrace;npc.4106&rbrace; carries knowledge from Master Muramasa himself.
 A magic inscription that grants a weapon unmatched power!\nThose who wield a Muramasa blade are nearly unstoppable. 
-But Hephaestus refuses to make one for me!]
+But &lbrace;npc.4106&rbrace; refuses to make one for me!]
 1751366272377195 -->|Muramasa inscription?|1751366551144817[<b>Speaker 👉 Torleone:</b>
 \nIt is a treasure that all warriors dream of!
-Hephaestus carries knowledge from Master Muramasa himself.
+&lbrace;npc.4106&rbrace; carries knowledge from Master Muramasa himself.
 A magic inscription that grants a weapon unmatched power!\nThose who wield a Muramasa blade are nearly unstoppable. 
-But Hephaestus refuses to make one for me!]
+But &lbrace;npc.4106&rbrace; refuses to make one for me!]
 1751366551144817 -->1751366797251954[<b>Speaker 👉 Hephaestus:</b>
 \nA Muramasa blade is extremely dangerous!
 An ordinary swordsman would be consumed by it. 
@@ -72,7 +72,7 @@ I was a great warrior in my time, I'll have you know!]
 1751366826677619 -->1751366849399156[<b>Speaker 👉 Hephaestus:</b>
 \nTor, that's not what I meant.]
 1751366849399156 -->1751367042076021[<b>Speaker 👉 Torleone:</b>
-\nNyotengu has one!]
+\n&lbrace;npc.4104&rbrace; has one!]
 1751367042076021 -->1751367060009334[End]
 Start -->1751367195766136[<b>Speaker 👉 Hephaestus:</b>
 \nSorry. Today should have been a happy occasion. 

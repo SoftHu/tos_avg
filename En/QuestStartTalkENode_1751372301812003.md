@@ -2,7 +2,7 @@
 graph
 Start -->1751377615148325[<b>Speaker 👉 Hephaestus:</b>
 \nMorning, &lbrace;c.playername&rbrace;. 
-I'm happy to see you well.\nI heard you've been exploring the fox ruins. 
+I'm happy to see you well.\nI heard you've been exploring the &lbrace;location.10&rbrace;. 
 It's dangerous there, eh? I was a little worried about you.]
 1751377615148325 -->|I didn't have any trouble.|1751378039158059[<b>Speaker 👉 Hephaestus:</b>
 \nI wish the renovations on my forge were finished. 
@@ -39,11 +39,11 @@ I'm thinking of preparing some everyday goods. What do you think I should sell?]
 1751443519333969 -->|Practical tools.|1751444020978263[<b>Speaker 👉 Hephaestus:</b>
 \nThat's a good choice. I'll seriously consider your suggestion.\nThe last issue is also my biggest dilemma:
 Should my sign bear Muramasa's name or my own? 
-Master Muramasa's name is well-known, nobody knows Hephaestus...]
+Master Muramasa's name is well-known, nobody knows &lbrace;npc.4106&rbrace;...]
 1751443519333969 -->|Exquisite crafts.|1751444020978263[<b>Speaker 👉 Hephaestus:</b>
 \nThat's a good choice. I'll seriously consider your suggestion.\nThe last issue is also my biggest dilemma:
 Should my sign bear Muramasa's name or my own? 
-Master Muramasa's name is well-known, nobody knows Hephaestus...]
+Master Muramasa's name is well-known, nobody knows &lbrace;npc.4106&rbrace;...]
 1751444020978263 -->|Or a Muramasa signboard is more appealing.|1751444372518497[<b>Speaker 👉 Hephaestus:</b>
 \nEven &lbrace;c.playername&rbrace; says so? 
 Ah... well, thanks for the advice.]

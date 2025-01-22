@@ -63,9 +63,9 @@ Start -->1772237993578613[<b>Speaker 👉 Hephaestus:</b>
 \nWhat!? The iron is gone! 
 I was saving that to make a Muramasa blade.
 Who could have stolen it?]
-1772237993578613 -->|Torleone wanted a Muramasa blade…|1772238056630401[<b>Speaker 👉 Hephaestus:</b>
+1772237993578613 -->|&lbrace;npc.4206&rbrace; wanted a Muramasa blade…|1772238056630401[<b>Speaker 👉 Hephaestus:</b>
 \nHe would never. We patched things up!]
-1772237993578613 -->|Musashi has always been a little shifty…|1772238069699714[<b>Speaker 👉 Hephaestus:</b>
+1772237993578613 -->|&lbrace;npc.4203&rbrace; has always been a little shifty…|1772238069699714[<b>Speaker 👉 Hephaestus:</b>
 \nA cat burglar, eh? But he has no use for iron like that.]
 1772237993578613 -->|I've seen Tanuki around…|1772238085957763[<b>Speaker 👉 Hephaestus:</b>
 \nYou think the Tanuki are making weapons? Maybe…]
@@ -75,25 +75,25 @@ Who could have stolen it?]
 \nIt was here this morning. There's no other possibility.]
 1772238056630401 -->1772238140445830[<b>Speaker 👉 Hephaestus:</b>
 \nAgh! So annoying. I don't like mysteries. 
-But I won't let it ruin my reopening!\nI'll talk to Nyotengu later. I want to focus on the forge for now. 
+But I won't let it ruin my reopening!\nI'll talk to &lbrace;npc.4104&rbrace; later. I want to focus on the forge for now. 
 Let's keep an eye out ok, &lbrace;c.playername&rbrace;?]
 1772238140445830 -->|I'm sure this mystery will unravel itself.|1772238230793356[End]
 1772238140445830 -->|The thieves will be brought to justice!|1772238230793356[End]
 1772238069699714 -->1772238140445830[<b>Speaker 👉 Hephaestus:</b>
 \nAgh! So annoying. I don't like mysteries. 
-But I won't let it ruin my reopening!\nI'll talk to Nyotengu later. I want to focus on the forge for now. 
+But I won't let it ruin my reopening!\nI'll talk to &lbrace;npc.4104&rbrace; later. I want to focus on the forge for now. 
 Let's keep an eye out ok, &lbrace;c.playername&rbrace;?]
 1772238085957763 -->1772238140445830[<b>Speaker 👉 Hephaestus:</b>
 \nAgh! So annoying. I don't like mysteries. 
-But I won't let it ruin my reopening!\nI'll talk to Nyotengu later. I want to focus on the forge for now. 
+But I won't let it ruin my reopening!\nI'll talk to &lbrace;npc.4104&rbrace; later. I want to focus on the forge for now. 
 Let's keep an eye out ok, &lbrace;c.playername&rbrace;?]
 1772238100929668 -->1772238140445830[<b>Speaker 👉 Hephaestus:</b>
 \nAgh! So annoying. I don't like mysteries. 
-But I won't let it ruin my reopening!\nI'll talk to Nyotengu later. I want to focus on the forge for now. 
+But I won't let it ruin my reopening!\nI'll talk to &lbrace;npc.4104&rbrace; later. I want to focus on the forge for now. 
 Let's keep an eye out ok, &lbrace;c.playername&rbrace;?]
 1772238118720645 -->1772238140445830[<b>Speaker 👉 Hephaestus:</b>
 \nAgh! So annoying. I don't like mysteries. 
-But I won't let it ruin my reopening!\nI'll talk to Nyotengu later. I want to focus on the forge for now. 
+But I won't let it ruin my reopening!\nI'll talk to &lbrace;npc.4104&rbrace; later. I want to focus on the forge for now. 
 Let's keep an eye out ok, &lbrace;c.playername&rbrace;?]
 
 ```

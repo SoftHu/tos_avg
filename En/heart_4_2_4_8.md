@@ -2,10 +2,10 @@
 graph
 Start -->1768791756312373[<b>Speaker 👉 Liliana:</b>
 \nI can't paint anymore.
-Priest Leon is right. I'm not good enough.]
+Priest &lbrace;npc.4220&rbrace; is right. I'm not good enough.]
 Start -->1768791756312373[<b>Speaker 👉 Liliana:</b>
 \nI can't paint anymore.
-Priest Leon is right. I'm not good enough.]
+Priest &lbrace;npc.4220&rbrace; is right. I'm not good enough.]
 1768791756312373 -->|That's not what he said.|1768791807972160[<b>Speaker 👉 Liliana:</b>
 \n…]
 1768791756312373 -->|What are you doing?|1768791807972160[<b>Speaker 👉 Liliana:</b>
@@ -21,7 +21,7 @@ What's the point?]
 1768791859148614 -->|You just need to relax.|1768791909076813[<b>Speaker 👉 Liliana:</b>
 \nBut, I don't know what to paint anymore…
 The quest for perfection drove me to paint hours on end.\nNow, I just feel… empty.]
-1768791859148614 -->|I like you just how you are, Liliana.|1768791909076813[<b>Speaker 👉 Liliana:</b>
+1768791859148614 -->|I like you just how you are, &lbrace;npc.4204&rbrace;.|1768791909076813[<b>Speaker 👉 Liliana:</b>
 \nBut, I don't know what to paint anymore…
 The quest for perfection drove me to paint hours on end.\nNow, I just feel… empty.]
 1768791909076813 -->|You could paint that flower there.|1768791947847506[End]

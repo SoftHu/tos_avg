@@ -5,13 +5,13 @@ Start -->1775422849480574[<b>Speaker 👉 Yoni:</b>
 Start -->1775422849480578[<b>Speaker 👉 Yoni:</b>
 \nYou should pop by to see me perform sometime!]
 Start -->1775422849480582[<b>Speaker 👉 Yoni:</b>
-\nThis gift has inspried a new melody to rise within me!]
+\nThis gift has inspired a new melody to rise within me!]
 Start -->1775422849480586[<b>Speaker 👉 Yoni:</b>
 \nThis is outstanding! Thank you!]
 Start -->1775422849480590[<b>Speaker 👉 Yoni:</b>
-\nWow! Thank you, I can only offer a measily flower in return.]
+\nWow! Thank you, I can only offer a measly flower in return.]
 Start -->1775422849480594[<b>Speaker 👉 Yoni:</b>
-\nWhere did you get this, the casino?]
+\nWhere did you get this, the &lbrace;location.19&rbrace;?]
 Start -->1775422849480598[<b>Speaker 👉 Yoni:</b>
 \nI had to leave practice for you to give me this! I don't have enough time to waste with useless trinkets!]
 Start -->1775422849480602[<b>Speaker 👉 Yoni:</b>
@@ -63,11 +63,11 @@ Start -->1775422849480690[<b>Speaker 👉 Yoni:</b>
 Start -->1775422849480694[<b>Speaker 👉 Yoni:</b>
 \nOh no! I'm going to lose my voice if I stay out in the cold too long.]
 Start -->1775422849480698[<b>Speaker 👉 Yoni:</b>
-\nFor me there is simply nothing better than a good song! Especially performed my favourate group, Animetal. Have you heard of them?]
+\nFor me there is simply nothing better than a good song! Especially performed by my favorite group, Animetal. Have you heard of them?]
 Start -->1775422849480702[<b>Speaker 👉 Yoni:</b>
-\nThank you! This would go well with some omorice, don't you think?]
+\nThank you! This would go well with some omurice.]
 Start -->1775422849479682[<b>Speaker 👉 Yoni:</b>
-\n&lt;i&gt; Merry Christmas to you! Merry Christmas Kon and &lbrace;c.playername&rbrace;! &lt;i&gt;]
+\n&lt;i&gt; Merry Christmas to you! Merry Christmas &lbrace;npc.4101&rbrace; and &lbrace;c.playername&rbrace;! &lt;i&gt;]
 Start -->1775422849479686[<b>Speaker 👉 Yoni:</b>
 \nI've got to go and wish everyone else a Merry Christmas so I'll see you later!]
 Start -->1775422849479690[<b>Speaker 👉 Yoni:</b>
@@ -75,15 +75,15 @@ Start -->1775422849479690[<b>Speaker 👉 Yoni:</b>
 Start -->1775422849479694[<b>Speaker 👉 Yoni:</b>
 \n-]
 Start -->1775422849479698[<b>Speaker 👉 Yoni:</b>
-\nI'm going to see Seabert to talk about the new Animetal track! Did you hear it? Wanna join us?]
+\nI'm going to see &lbrace;npc.4207&rbrace; to talk about the new Animetal track!]
 Start -->1775422849479702[<b>Speaker 👉 Yoni:</b>
 \nWhere do you think is the best place to go to get inspiration for song lyrics?]
 Start -->1775422849479706[<b>Speaker 👉 Yoni:</b>
-\nI'd love to stay and chat but Kababa has summoned me! Sorry!]
+\nI'd love to stay and chat but &lbrace;npc.4223&rbrace; has summoned me! Sorry!]
 Start -->1775422849479710[<b>Speaker 👉 Yoni:</b>
-\nSo, if I get an extra Animetal ticket, would you like to come?]
+\nI'm sure the Animetal concert will be sold out - I hope I can get a ticket!]
 Start -->1775422849479714[<b>Speaker 👉 Yoni:</b>
-\nKon told me you were watching Animetal on the TV! You like them, don't you?]
+\nThe TV is such an important invention for performers like myself!]
 Start -->1775422849479718[<b>Speaker 👉 Yoni:</b>
 \nYou're coming to watch me tonight! Thank you! I'll do something extra special for you!]
 Start -->1775422849479722[<b>Speaker 👉 Yoni:</b>
@@ -93,7 +93,7 @@ Start -->1775422849479726[<b>Speaker 👉 Yoni:</b>
 Start -->1775422849479730[<b>Speaker 👉 Yoni:</b>
 \n-]
 Start -->1775422849479734[<b>Speaker 👉 Yoni:</b>
-\nWant to go for a drink in the tavern later?]
+\nWant to go for a drink in the &lbrace;location.16&rbrace; later?]
 Start -->1775422849479738[<b>Speaker 👉 Yoni:</b>
 \nSo, if I get an extra Animetal ticket, would you like to come?]
 Start -->1775422849479742[<b>Speaker 👉 Yoni:</b>
@@ -101,11 +101,12 @@ Start -->1775422849479742[<b>Speaker 👉 Yoni:</b>
 Start -->1775422849479746[<b>Speaker 👉 Yoni:</b>
 \nI planted some new flowers today, I can't wait for them to grow next year.]
 Start -->1775422849479750[<b>Speaker 👉 Yoni:</b>
-\nMy plants are struggling with this cold, how are yours doing?]
+\nMy plants are struggling with this cold, I can't wait for spring.]
 Start -->1775422849479754[<b>Speaker 👉 Yoni:</b>
-\nHey, can I pop by the farm later? I want to sing my new song to you and Kon.]
+\nHey, can I pop by the farm later? I want to sing my new song to you and &lbrace;npc.4101&rbrace;.]
 Start -->1777907624110558[<b>Speaker 👉 Yoni:</b>
 \nI'm not a huge fan of how meat is sourced so I'm a vegetarian!]
+1777907624110558 -->1778204550281479{ }
 Start -->1777907760756194[<b>Speaker 👉 Yoni:</b>
 \nMy tummy's rumbling! I can't wait.]
 Start -->1777907821167078[<b>Speaker 👉 Yoni:</b>

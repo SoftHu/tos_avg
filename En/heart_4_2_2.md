@@ -41,13 +41,13 @@ I must delve deeper…\n…
 \nOh—Yes, of course. 
 A foxes insight could unlock these enigmas. 
 We should meet here again soon.\nBut now I must be going. 
-Liliana gets worried if I'm gone all day. 
+&lbrace;npc.4204&rbrace; gets worried if I'm gone all day. 
 Which happens more than I care to admit. Adieu!]
 1772865159103786 -->|I'll go with you.|1772865231638832[<b>Speaker 👉 Yohji:</b>
 \nOh—Yes, of course. 
 A foxes insight could unlock these enigmas. 
 We should meet here again soon.\nBut now I must be going. 
-Liliana gets worried if I'm gone all day. 
+&lbrace;npc.4204&rbrace; gets worried if I'm gone all day. 
 Which happens more than I care to admit. Adieu!]
 1772865231638832 -->1758884109455922[End]
 1772865138406697 -->1772865159103786[<b>Speaker 👉 Yohji:</b>
@@ -119,31 +119,31 @@ it has a unique floral and fruity flavor, every sip is full of surprises.]
 \nWhat is your favorite type of coffee?]
 Start -->1772873380276561[<b>Speaker 👉 Yohji:</b>
 \nHave you noticed that large building under construction in town?
-That will soon be a new casino.
-A woman named Kababa approached me about opening it.\nSome yokai oppose the idea,
-Saying Kababa is a dubious individual. 
+That will soon be a new &lbrace;location.19&rbrace;.
+A woman named &lbrace;npc.4223&rbrace; approached me about opening it.\nSome yokai oppose the idea,
+Saying &lbrace;npc.4223&rbrace; is a dubious individual. 
 But I invited her to Seikyu regardless.]
 1772873380276561 -->|I love gambling!|1772873446368600[<b>Speaker 👉 Yohji:</b>
 \nWell then you're in luck.]
 1772873380276561 -->|Gambling attracts shady people.|1772873436073303[<b>Speaker 👉 Yohji:</b>
 \nMaybe so…]
 1772873436073303 -->1772873466546521[<b>Speaker 👉 Yohji:</b>
-\nKababa also has interest in the fox ruins.
+\n&lbrace;npc.4223&rbrace; also has interest in the &lbrace;location.10&rbrace;.
 She has offered to host several festivals in Seikyu 
 to fund a survey of their depths.\nPowerful items are rumoured to be hidden within. 
 I can only guess at what she hopes to find…
-But for now, we have a common goal.\nI don't want Kababa or her people in the ruins though
+But for now, we have a common goal.\nI don't want &lbrace;npc.4223&rbrace; or her people in the ruins though
 Her money is vital to our endeavour,
 But the ruins are sacred and dangerous.\n&lbrace;c.playername&rbrace;,
 what we find there will undoubtably effect you the most. 
 As a fox, I hope you'll join our effort.]
 1772873466546521 -->|The ruins are for foxes, not shifty bookmakers.|1772873572184416[<b>Speaker 👉 Yohji:</b>
 \nWell… I'm afraid the decision is already made. 
-Kababa will open the casino 
+&lbrace;npc.4223&rbrace; will open the &lbrace;location.19&rbrace; 
 And I will take full responsibility of our exploration.\nBut to be joined by a fox… the last foxes…
 Would be an enormous benefit. 
 I hope we can change your mind, &lbrace;c.playername&rbrace;.]
-1772873466546521 -->|I'm with you, Yohji.|1772873555402079[<b>Speaker 👉 Yohji:</b>
+1772873466546521 -->|I'm with you, &lbrace;npc.4202&rbrace;.|1772873555402079[<b>Speaker 👉 Yohji:</b>
 \nIt's a relief to hear you say that, &lbrace;c.playername&rbrace;.
 The ruins are your ancestral grounds. 
 To have you with us is a great weight off my shoulders.]
@@ -173,11 +173,11 @@ It's sure to get lots of use.]
 The new coffee pot is a success.
 It's sure to get lots of use.]
 1772873446368600 -->1772873466546521[<b>Speaker 👉 Yohji:</b>
-\nKababa also has interest in the fox ruins.
+\n&lbrace;npc.4223&rbrace; also has interest in the &lbrace;location.10&rbrace;.
 She has offered to host several festivals in Seikyu 
 to fund a survey of their depths.\nPowerful items are rumoured to be hidden within. 
 I can only guess at what she hopes to find…
-But for now, we have a common goal.\nI don't want Kababa or her people in the ruins though
+But for now, we have a common goal.\nI don't want &lbrace;npc.4223&rbrace; or her people in the ruins though
 Her money is vital to our endeavour,
 But the ruins are sacred and dangerous.\n&lbrace;c.playername&rbrace;,
 what we find there will undoubtably effect you the most. 
@@ -186,7 +186,7 @@ As a fox, I hope you'll join our effort.]
 \nSorry, I've already decided. If something goes wrong, I will take full responsibility.]
 1758884987319882 -->|That would be interesting.|1758886394263127[<b>Speaker 👉 Yohji:</b>
 \nI'm happy to hear you say that, 
-not everyone likes the gambling grandma and casinos.]
+not everyone likes the gambling grandma and &lbrace;location.19&rbrace;s.]
 1758886394263127 -->1758886525130329[<b>Speaker 👉 Yohji:</b>
 \nActually, I have another favor to ask of you.]
 1758886525130329 -->|I will help.|1758886838010464[<b>Speaker 👉 Yohji:</b>
@@ -198,7 +198,7 @@ In exchange, she will cover the costs of every and all festival events.\nThe tra
 1758886838010464 -->|I can help.|1758887077784169[<b>Speaker 👉 Yohji:</b>
 \nIf you are willing to help, 
 I will get some benefits from the gambling grandma for you.\nIf it doesn't work out, please don't feel pressured. This is my request.\nIt's getting late, thank you for your time.]
-1758886838010464 -->|Kon also needs that scroll.|1758887038982760[<b>Speaker 👉 Yohji:</b>
+1758886838010464 -->|&lbrace;npc.4101&rbrace; also needs that scroll.|1758887038982760[<b>Speaker 👉 Yohji:</b>
 \nThat would be great, 
 it would be nice if Kitsuho could lend it to me after using it too.]
 1758887038982760 -->1758887077784169[<b>Speaker 👉 Yohji:</b>

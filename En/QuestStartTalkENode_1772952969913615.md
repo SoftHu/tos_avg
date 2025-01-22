@@ -3,19 +3,19 @@ graph
 Start -->1772953446251797[<b>Speaker 👉 Luna:</b>
 \nDo I know you?]
 1772953446251797 -->|I'm a customer. What else do you need to know?|1772953489917211[<b>Speaker 👉 Luna:</b>
-\nWho's Musashi?]
-1772953446251797 -->|I'm &lbrace;c.playername&rbrace;. Musashi sent me.|1772953489917211[<b>Speaker 👉 Luna:</b>
-\nWho's Musashi?]
+\nWho's &lbrace;npc.4203&rbrace;?]
+1772953446251797 -->|I'm &lbrace;c.playername&rbrace;. &lbrace;npc.4203&rbrace; sent me.|1772953489917211[<b>Speaker 👉 Luna:</b>
+\nWho's &lbrace;npc.4203&rbrace;?]
 1772953489917211 -->|He said you have powerful weapons.|1772953540518177[<b>Speaker 👉 Luna:</b>
-\nI don't know a Musashi…]
+\nI don't know a &lbrace;npc.4203&rbrace;…]
 1772953489917211 -->|He's the merchant in town.|1772953540518177[<b>Speaker 👉 Luna:</b>
-\nI don't know a Musashi…]
-1772953540518177 -->|Musashi said-|1772953566644517[<b>Speaker 👉 Luna:</b>
-\nMusashi who?]
+\nI don't know a &lbrace;npc.4203&rbrace;…]
+1772953540518177 -->|&lbrace;npc.4203&rbrace; said-|1772953566644517[<b>Speaker 👉 Luna:</b>
+\n&lbrace;npc.4203&rbrace; who?]
 1772953566644517 -->|Do you want my money or not…|1772953598216489[<b>Speaker 👉 Luna:</b>
 \n…
-Fine.\nMusic to my ears.\nWelcome to Nine Tails' nocturnal marketplace. 
-Home for all the things you can't buy anywhere else.\nI am Nine Tails. 
+Fine.\nMusic to my ears.\nWelcome to &lbrace;npc.4605&rbrace;s' nocturnal marketplace. 
+Home for all the things you can't buy anywhere else.\nI am &lbrace;npc.4605&rbrace;s. 
 Who are you?]
 1772953598216489 -->|Koko|1772953707638066[<b>Speaker 👉 Luna:</b>
 \n…Fair enough!]
@@ -31,8 +31,8 @@ You have to do something for me first.]
 1772953758659892 -->|I can prove myself.|1772953798511930[<b>Speaker 👉 Luna:</b>
 \nPerfect…]
 1772953798511930 -->1772953830609212[<b>Speaker 👉 Luna:</b>
-\nThe casino in Seikyu has something I want. 
-The casino vault holds a box with a leaf printed on the side. 
+\nThe &lbrace;location.19&rbrace; in Seikyu has something I want. 
+The &lbrace;location.19&rbrace; vault holds a box with a leaf printed on the side. 
 I want that box. Can you get it for me?]
 1772953830609212 -->|Whose box is it?|1772954165157142[ ]
 1772953830609212 -->|What's in the box?|1772954165157142[ ]
@@ -64,8 +64,8 @@ What do you say, Koko？]
 1772954289103128 -->443238485823556{ }
 1772954338592025 -->443238485823556{ }
 1772953801126203 -->1772953830609212[<b>Speaker 👉 Luna:</b>
-\nThe casino in Seikyu has something I want. 
-The casino vault holds a box with a leaf printed on the side. 
+\nThe &lbrace;location.19&rbrace; in Seikyu has something I want. 
+The &lbrace;location.19&rbrace; vault holds a box with a leaf printed on the side. 
 I want that box. Can you get it for me?]
 1772953709440307 -->1772953758659892[<b>Speaker 👉 Luna:</b>
 \nNow, the nocturnal market isn't open to just anyone… 

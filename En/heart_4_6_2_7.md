@@ -19,11 +19,11 @@ Start -->1766681208037674[<b>Speaker 👉 Nyotengu:</b>
 1766681208037674 -->|No, she's not-|1766681252663598[<b>Speaker 👉 Nyotengu:</b>
 \nDon't worry, I'll chase her off.]
 1766681252663598 -->1766681271604527[End]
-Start -->1766681352883506[<b>Speaker 👉 Fox:</b>
-\nI hope Anji's alright.]
-1766681352883506 -->|...Wait, how long have you been awake!?|1766681464737083[<b>Speaker 👉 Fox:</b>
+Start -->1766681352883506[<b>Speaker 👉 Kon:</b>
+\nI hope &lbrace;npc.4602&rbrace;'s alright.]
+1766681352883506 -->|...Wait, how long have you been awake!?|1766681464737083[<b>Speaker 👉 Kon:</b>
 \nLong enough hehe.]
-1766681352883506 -->|Me too. But she's tough.|1766681464737083[<b>Speaker 👉 Fox:</b>
+1766681352883506 -->|Me too. But she's tough.|1766681464737083[<b>Speaker 👉 Kon:</b>
 \nLong enough hehe.]
 1766681464737083 -->1766681281528113[End]
 Start -->1766666320771356[End]
